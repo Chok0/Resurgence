@@ -72,6 +72,7 @@ Détail : [`../univers/README.md`](../univers/README.md) § 4.
 - **Continuité** : reprend le *fil*, le froid, Vael en tête, Nieve, Ostrov et son plan. ✓
 - **Relecture indépendante** (ch.1-2) : verdict « cohérent avec réserves », rien de bloquant. Réserves mineures **traitées** : chronologie cultuelle neutralisée (sc.2, « privés de l'Architecte qui les eût tenus ») ; subjonctif harmonisé (« s'effaçât ») ; iconographie + métaphore « Pompéi » consignées au canon. ✓
 - **Sc.3-4 (auto-contrôle)** : vérifiées sur les mêmes axes. La **gêne** de Tanya s'amorce (« on n'avait pas de colonne pour cela » ; elle laisse partir le rapport malgré l'écart ressenti) — *dissonance naissante, pas réveil*, et **elle ne retourne rien contre Polaris** (elle pense aux morts, puis détourne le regard). Le rapport recode sans rien confirmer du surnaturel ; « expurgation d'usage » reste une routine, pas une intention. ✓
+- **Passe stylistique (ch.1-2)** : relecture sévère appliquée — incipit dé-cliché, comparaisons « comme » rationnées (~moitié), chutes sentencieuses variées, gloses et émotions nommées coupées, **dialogue/friction ajoutés** (sc.2.2 : « — C'est une panne de courant. »), rapport niveau 2 aplati, invraisemblances corrigées (souches, sable, gels). Garde-fous : [`regles-ecriture.md`](regles-ecriture.md). ✓
 
 ## Points de vigilance pour la suite
 - **Ch.2 : complet** (4 scènes). Contenu gardé **fragmentaire** — aucun corpus-pilier déployé avant le Mvt III. ✓

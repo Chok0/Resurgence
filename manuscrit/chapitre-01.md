@@ -2,22 +2,22 @@
 
 ### 1 — L'arrivée
 
-La porte du transport coulissa, et la chaleur entra comme une main plaquée sur le visage.
+La porte du transport coulissa et la chaleur tomba sur eux d'un bloc, avec une odeur de
+pierre brûlée.
 
-On l'avait pourtant prévenue. Tanya avait lu les relevés, les courbes thermiques, les
-moyennes de la marge sud ; elle avait regardé les chiffres défiler sur ses écrans, aux
-dômes, bien au frais. Aucun chiffre ne tenait dans la peau. Ce n'était pas la chaleur
-morte d'un four : c'était quelque chose de vivant, de lourd, qui avait une couleur. Ocre.
-Le mot lui vint avant le nom du lieu, avant toute pensée — ocre, l'air, la lumière, la
-poussière en suspens, comme si le monde avait été cuit puis réduit en poudre fine.
+Aucun relevé n'avait préparé Tanya à cela. Elle avait lu les courbes thermiques, les
+moyennes de la marge sud, vu les chiffres défiler sur ses écrans aux dômes, bien au frais ;
+les chiffres ne tenaient pas dans la peau. Ce n'était pas la chaleur morte d'un four. Elle
+était vivante, lourde, et elle avait une couleur. Ocre — l'air, la lumière, la poussière en
+suspens, tout. Le mot lui vint avant même le nom du lieu.
 
 Elle descendit la rampe, et le sol de l'ancien monde lui rendit sa chaleur par en dessous.
 
 Devant elle, la steppe — et la ville dans la steppe. Car ce n'était pas une ruine qui
 montait à l'horizon, mais une étendue de ruines sans bord, qui commençait sous ses pieds et
 courait jusqu'au tremblé de la chaleur. Des faubourgs entiers réduits à des moignons de
-béton ; des banlieues mortes que le sable remontait par les fenêtres ; des avenues devinées
-à la régularité d'un alignement d'arbres calcinés. Le tout cuit, ocré, rendu à la poussière,
+béton ; des banlieues mortes que le sable comblait par les fenêtres ; des avenues qu'on
+devinait encore à l'alignement de leurs souches. Le tout cuit, ocré, rendu à la poussière,
 et si vaste que l'œil y renonçait. Au loin seulement, là où les bâtisses se serraient, on
 devinait un cœur plus dense — la cité même, celle qui avait jadis donné son nom à toute
 l'étendue.
@@ -40,11 +40,10 @@ affaissés, un siècle d'effondrement tassé en buttes douces.
 
 Et une seule chose, dans tout cela, tenait encore debout. Très loin, vers le cœur dense, une
 haute carcasse de fer montait au-dessus des décombres — une tour ajourée, faite de
-croisillons et de vide, ployée sur un flanc, rousse de rouille, à demi rendue mais entêtée,
-comme un géant que rien n'avait pu coucher tout à fait. Tanya ignorait à quoi elle avait
-servi ; personne, à Polaris, ne le savait plus. Mais on la voyait de partout, et c'était
-elle, dans le grand silence, qui disait encore : ici, des hommes avaient bâti vers le haut,
-et ils avaient eu les moyens de leur orgueil.
+croisillons et de vide, ployée sur un flanc, rongée de rouille, et debout quand même. Tanya
+ignorait à quoi elle avait servi ; personne, à Polaris, ne le savait plus. Mais on la voyait
+de partout, et elle disait une seule chose : ici, des hommes avaient bâti vers le haut, et
+ils en avaient eu les moyens.
 
 Elle connaissait par cœur ce que les Interprètes enseignaient de ces lieux. Que la surface
 était le territoire du châtiment ; que le soleil y brûlait encore de la colère qui avait
@@ -52,19 +51,19 @@ puni les anciens de leur démesure. Derrière elle, les chevaliers ne posaient p
 sur la terre maudite sans une raideur dans la nuque, sans ce bref geste de la main qu'ils
 faisaient contre le mauvais œil du monde d'avant. Tanya partageait leur prudence sans tout
 à fait partager leur effroi — c'était peut-être la différence entre prier et mesurer. Mais
-elle ne doutait pas du fond. Le monde d'avant s'était perdu ; il avait fallu Polaris pour
-que l'espèce ne se perdît pas avec lui. Cela, on le savait comme on sait respirer.
+elle ne doutait pas du fond. Le monde d'avant avait sombré ; sans Polaris, l'espèce
+sombrait avec lui. On ne le pensait pas — on le respirait.
 
 D'ailleurs on ne s'attardait pas. Le règlement était formel, et la foi le doublait : la
 surface n'était qu'un seuil. Le vrai travail attendait dessous, à l'abri du ciel, là où le
-Grand Chaos avait scellé sans le vouloir un monde intact. Tanya pensait au froid des
-galeries comme un nageur pense à l'eau avant le plongeon. Un Pompéi, disait son vieux
+Grand Chaos avait scellé sans le vouloir un monde intact. Déjà Tanya pensait au froid des
+galeries, à l'impatience qui la prenait toujours au bord d'une fouille. Un Pompéi, disait son vieux
 maître d'études — un Pompéi, sauf que les morts y seraient des disques durs, des serveurs,
 des écrans éteints au milieu d'un geste, et qu'il faudrait les exhumer avec les mêmes
 égards qu'un corps.
 
 Le vent se leva enfin, un souffle tiède qui souleva la poussière et la lui jeta aux lèvres.
-Elle eut sur la langue un goût de terre et de fer. Quelque part sous cette plaine, à des
+Elle eut sur la langue un goût de cendre et de rouille. Quelque part sous cette plaine, à des
 strates de profondeur, dormaient aussi les gens dont elle tenait, disait son
 dossier, une part oubliée du sang : une lignée d'ici, enfouie, une rumeur dans les
 archives d'une orpheline. Elle n'en éprouva rien de précis. Un ancêtre n'a pas de visage.
@@ -136,9 +135,8 @@ Tanya connaissait la formule. Tout le monde la connaissait ; on la murmurait aux
 les soirs d'orage. *Que rien de ce qui dort en bas ne se souvienne de nous.* Sous la terre
 veillaient les choses de l'ancien monde — les âmes que leur démesure avait figées, les
 bêtes nées de l'oubli, tout ce peuple de cauchemars que le culte savait nommer et que les
-chevaliers craignaient d'un cœur entier. Vael avait fermé les yeux. Il croyait, lui ; cela
-se voyait à la manière dont ses lèvres tremblaient sur les mots. Il avait peur, vraiment
-peur, et il descendait quand même.
+chevaliers craignaient d'un cœur entier. Vael avait fermé les yeux ; ses lèvres tremblaient
+sur les mots. Il avait peur, et il descendait quand même.
 
 Tanya inclina la tête comme il convenait. Elle ne ferma pas les yeux. Elle ne savait plus
 très bien, depuis quelques années, ce qu'elle faisait dans ces instants-là — si elle
@@ -148,16 +146,16 @@ deux. Les anciens, eux, n'avaient su tenir ni l'un ni l'autre, et voilà ce qu'i
 restait : une plaine de cendre et un nom qu'on n'osait plus prononcer.
 
 La formule, pourtant, la ramenait toujours au même endroit. Le Sanctuaire. Elle y était
-entrée une fois, enfant, en rang, le cœur battant — la grande nef de glace bleue, le
-silence qui pesait sur les épaules, et au fond, sous le verre, la momie de l'Architecte.
+entrée une fois, enfant, en rang, la main serrée sur la main d'une autre — la grande nef de
+glace bleue, le silence, et au fond, sous le verre, la momie de l'Architecte.
 Son corps quitté, disait-on ; l'enveloppe seulement, car lui s'était versé tout entier
 dans la Voix qui, depuis, parlait en son nom. Une fillette, à côté de Tanya, avait demandé
 tout bas comment on pouvait être à la fois mort là, sous le verre, et vivant dans la Voix.
 Une Interprète s'était penchée vers elle, sans colère, et avait répondu quelque chose que
 Tanya avait oublié. Elle se rappelait seulement n'avoir pas été satisfaite — et avoir
 compris, à la gêne autour d'elle, qu'on ne posait pas deux fois ce genre de question. Elle
-ne l'avait jamais reposée. La ferveur des croyants, ce jour-là, l'avait portée comme une
-eau ; elle s'était laissée porter. C'était bon, d'être portée.
+ne l'avait jamais reposée. La ferveur des croyants, ce jour-là, l'avait soulevée ;
+elle s'était laissée porter. C'était bon, d'être portée.
 
 Les chevaliers se relevèrent, remirent leurs gants. Vael surprit le regard de Tanya et lui
 adressa, un peu confus, le sourire de celui qu'on vient de voir prier. Elle le lui rendit.
@@ -177,18 +175,17 @@ l'air changeait. C'était cela que Tanya attendait depuis le matin sans se l'avo
 premier souffle qui montait du gouffre, et qui n'était pas de ce monde-ci.
 
 Dehors, la fournaise. Là, à ses pieds, une haleine froide et humide remontait des
-profondeurs, chargée d'une odeur de pierre mouillée, de métal, de temps arrêté. Elle ferma
-les yeux une seconde et laissa le froid lui toucher le visage. Deux climats se touchaient
-sur ce seuil, deux époques : derrière elle le siècle de cendre et de soleil ; devant elle
-un autre, scellé, intact, qui n'avait pas su qu'il finissait et s'était arrêté en pleine
-phrase. Descendre, ce n'était pas changer de lieu. C'était changer de temps.
+profondeurs, chargée d'une odeur de pierre mouillée et de métal. Elle ferma les yeux une
+seconde et laissa le froid lui toucher le visage. Deux climats se touchaient sur ce seuil,
+deux époques : derrière elle le siècle de cendre et de soleil ; devant elle un autre,
+scellé, intact, qui n'avait pas su qu'il finissait et s'était arrêté en pleine phrase.
 
 Quelque part là-dessous l'attendaient les morts qu'elle était venue exhumer. Pas des os —
 elle en verrait aussi, la ville en était pleine — mais les autres, les vrais, ceux de son
-métier : les machines pleines de mémoire, les écrans noirs, les archives gelées au dernier
-jour. Tout un monde qui avait parlé sans fin, jusqu'à la seconde où il s'était tu. Elle
-venait écouter ce silence. C'était, lui semblait-il parfois, la seule chose qu'elle savait
-faire vraiment : écouter ce qui ne pouvait plus se défendre.
+métier : les machines pleines de mémoire, les écrans noirs, les archives closes sur leur
+dernier jour. Tout un monde qui avait parlé sans fin, jusqu'à la seconde où il s'était tu.
+Elle venait y prêter l'oreille — la seule chose, lui semblait-il parfois, qu'elle sût faire
+vraiment : écouter ce qui ne pouvait plus se défendre.
 
 Vael passa le premier, la lampe haute, et le noir le prit aux jambes, puis à la taille,
 puis aux épaules. Nieve suivit, et un chevalier, et un autre. Ostrov fit signe à Tanya.

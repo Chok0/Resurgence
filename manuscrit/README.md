@@ -9,6 +9,8 @@ et au worldbuilding. Premier jet : *la voix se cherche encore.*
   échafaudage : à retirer au montage final.
 - [`canon.md`](canon.md) — **registre de continuité** : tous les faits établis par le texte
   (noms, âges, lieux, liturgie). À consulter et mettre à jour à chaque scène.
+- [`regles-ecriture.md`](regles-ecriture.md) — **garde-fous de style** (leçons de la
+  relecture sévère) : à tenir pour chaque scène, avec une checklist de relecture.
 
 ## Voix retenue
 **Troisième personne, passé, style indirect libre.** On reste dans la perception de
