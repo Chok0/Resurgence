@@ -36,12 +36,12 @@
 - **À tenir.** Tanya décrit la **vérité dystopique** (déshumanisation) mais la garde *au passé, sur les anciens*. Le lecteur fait le lien avec ses propres bureaux — **le gouffre est pour lui**. Aucun monstre.
 - **Image de sortie.** L'appareil ouvert : quelqu'un a levé les yeux de son travail et ne les a jamais rebaissés.
 
-## Scène 3 — La récupération *(à écrire)*
+## Scène 3 — La récupération
 - **Fonction.** Montrer le **métier**, concret — crédibilise tout le reste.
 - **Beats.** Protocoles de conservation et d'extraction des disques · premiers fragments lisibles à l'écran · la patience, les gestes d'orfèvre, l'éthique de l'archéo-num · une première bribe de contenu (à choisir : un fragment anodin et déchirant).
 - **À tenir.** Le contenu reste **fragmentaire** ; pas encore de corpus-pilier déployé (ça, c'est Mvt III). On amorce.
 
-## Scène 4 — [DOCUMENT] Premier rapport d'archéo-num *(à écrire)*
+## Scène 4 — [DOCUMENT] Premier rapport d'archéo-num
 - **Fonction.** Introduire le **niveau 2**. L'équipe interprète, **se trompe**, et **confirme involontairement le culte**.
 - **Forme.** Texte de rapport — registre administratif, vocabulaire de Polaris. Le lecteur reconnaît la texture du document (le réel) sous l'interprétation faussée.
 - **À tenir.** Décalage dramatique : le lecteur voit l'erreur que l'équipe ne voit pas. *(Le registre « gravé · officiel » de l'écriture de Polaris peut porter ce niveau, voir [`../ecriture-polaris/`](../ecriture-polaris/).)*
@@ -50,5 +50,5 @@
 
 ## Notes de chapitre
 - **Frontière.** Le chapitre se referme sur le premier rapport intercalé. **Catacombes (les crânes)** et **première communication avec l'autre équipe** → chapitre 3.
-- **État.** Scènes 1-2 rédigées (1ᵉ jet). Scènes 3-4 à écrire.
+- **État.** Chapitre complet — 4 scènes rédigées (1ᵉ jet).
 - **Nouveau canon** introduit ici : *les Salles de l'Oubli* (terme du culte pour les lieux vides maudits) — voir [`../manuscrit/canon.md`](../manuscrit/canon.md).
