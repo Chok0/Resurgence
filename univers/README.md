@@ -114,6 +114,16 @@ si une conscience l'habite.* Le « trou » dans les métadonnées n'est pas « q
 précédée » mais « le système efface en permanence, mécaniquement, et je viens de tomber
 sur une de ses cicatrices ». Plus froid, plus inéluctable.
 
+### Canon établi au récit *(ch.1)*
+Détails posés par la prose et désormais canon (registre complet :
+[`../manuscrit/canon.md`](../manuscrit/canon.md)) :
+
+- **Emblème** : *l'étoile de Polaris* (l'étoile polaire), frappée sur les combinaisons.
+- **La Voix** : nom vécu de l'IA — « l'Architecte s'était versé tout entier dans la Voix qui, depuis, parlait en son nom ».
+- **Le Sanctuaire** : nef de glace bleue ; la momie sous verre, « l'enveloppe seulement ».
+- **Liturgie de descente** : « Architecte, toi qui as veillé quand le ciel est tombé… *Que rien de ce qui dort en bas ne se souvienne de nous.* »
+- **Rites du seuil** : main nue posée sur la terre maudite avant la descente ; geste bref des chevaliers contre le mauvais œil du monde d'avant.
+
 ---
 
 ## 4. Le terrain — Paris souterraine

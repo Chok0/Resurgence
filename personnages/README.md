@@ -106,6 +106,20 @@ scènes appelleront des visages) :
 Chacun a reçu un **briefing légèrement différent** selon son rang et son obédience. Un
 ordre de mission flottant que personne ne comprend complètement.
 
+### Fiches des personnages nommés
+À mesure que la prose les fait exister, les membres reçoivent une fiche dans
+[`equipe/`](equipe/) :
+
+| Personnage | Rôle | Apparition | Fiche |
+|---|---|---|---|
+| **Ostrov** | chef d'équipe (scientifique) | ch.1 sc.2 | [`equipe/ostrov.md`](equipe/ostrov.md) |
+| **Nieve** | scientifique, amie de Tanya (son ancre d'appartenance) | ch.1 sc.2 | [`equipe/nieve.md`](equipe/nieve.md) |
+| **Vael** | chevalier, le plus jeune (foi sincère) | ch.1 sc.3 | [`equipe/vael.md`](equipe/vael.md) |
+
+> Les faits **établis par le texte** (et donc à respecter) sont centralisés dans
+> [`../manuscrit/canon.md`](../manuscrit/canon.md). *Le fouineur* et *le camarade
+> paranoïaque* (rôles ci-dessus) ne sont pas encore incarnés dans la prose.
+
 ### Ambiance et dynamique
 `⚑` Références : **The Thing**, **Alien**. La menace est dans ce qu'ils trouvent et dans
 ce que ça révèle sur leurs obédiences. Les **chevaliers croient aux monstres du culte** —
