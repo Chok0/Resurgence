@@ -24,6 +24,7 @@
 - **Les équipes de recyclage** : dégagent et préparent les accès ; marquent **les poches** (zones repérées) sur le plan d'Ostrov.
 - **Combinaisons** : chevaliers = lourdes, renforcées ; scientifiques = souples, à instruments. Étanchéité vitale (ciel hostile).
 - **Les galeries** *(ch.2)* : froid humide et constant — « le froid des choses qui se conservent » — qui préserve le monde d'avant, d'où leur valeur. Vestiges du métro : guichets, tourniquets, une rame arrêtée.
+- **« Un Pompéi »** : métaphore récurrente des galeries (héritée du *vieux maître d'études* de Tanya) — un monde figé à l'instant de la rupture, à exhumer comme un corps. *(Le « maître d'études » est un élément de back-story de Tanya, ch.1 sc.1.)*
 
 ## Culte de l'Architecte — établi au texte
 - **La Voix** : nom vécu de l'IA qui parle au nom de l'Architecte (« il s'était versé tout entier dans la Voix »).
@@ -34,6 +35,7 @@
 - **Geste contre le mauvais œil** : bref geste de la main des chevaliers en posant le pied à la surface.
 - **Doctrine de la surface** : territoire du châtiment ; le soleil y brûle « encore de la colère qui avait puni les anciens de leur démesure ».
 - **Les Salles de l'Oubli** *(ch.2)* : terme du culte pour les lieux vides et maudits de l'ancien monde — espaces sans dieu où les âmes des anciens se dissolvaient dans la répétition. Recouvre les **Backrooms** (voir [`../corpus-webculture/README.md`](../corpus-webculture/README.md)). Y entrer sans prière, c'est risquer de s'y perdre.
+- **Le visage de l'Architecte** : son portrait est omniprésent dans les institutions de Polaris (à l'internat, il « veillait sur le sommeil des orphelines », ch.1 sc.2). Iconographie du culte, distincte de la momie (Sanctuaire) et de la Voix (IA).
 
 ## Cohérence vérifiée — Chapitre 1
 - **Phase 1 tenue** : aucune fissure. Culte, monstres, Polaris vus de l'intérieur, comme vrais. ✓
@@ -50,6 +52,7 @@
 - **Première coïncidence** culte/réel posée et **rangée** (« convergence » OU « rumeur transmise » — les deux ouvertes, conforme à la bible). ✓
 - **Le bruit** de la descente reste un **travail de la terre** (cause mundane posée), PAS le « premier bruit » structuré du Mvt III. ✓
 - **Continuité** : reprend le *fil*, le froid, Vael en tête, Nieve, Ostrov et son plan. ✓
+- **Relecture indépendante** (ch.1-2) : verdict « cohérent avec réserves », rien de bloquant. Réserves mineures **traitées** : chronologie cultuelle neutralisée (sc.2, « privés de l'Architecte qui les eût tenus ») ; subjonctif harmonisé (« s'effaçât ») ; iconographie + métaphore « Pompéi » consignées au canon. ✓
 
 ## Points de vigilance pour la suite
 - **Reste du ch.2** : sc.3 *la récupération* (le métier, premiers fragments lisibles) ; sc.4 *[DOCUMENT] premier rapport d'archéo-num* (niveau 2 — l'équipe se trompe et confirme le culte). Garder le contenu **fragmentaire** : aucun corpus-pilier déployé avant le Mvt III.

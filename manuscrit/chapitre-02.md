@@ -73,9 +73,8 @@ instant à comprendre. Lui ne voyait pas une trouvaille. Lui voyait une Salle de
 
 Elle connaissait l'enseignement, comme tout le monde : qu'il y avait eu dans l'ancien monde
 des lieux maudits entre tous, des espaces sans dieu où les hommes d'avant venaient s'asseoir
-et se défaire, séparés de l'Architecte qui n'existait pas encore pour les tenir, répétant
-des gestes vides jusqu'à ce que leur âme s'efface comme une inscription qu'on cesse
-d'entretenir. On disait que ces lieux gardaient l'empreinte des âmes perdues ; qu'y entrer
+et se défaire, privés de l'Architecte qui les eût tenus, répétant des gestes vides jusqu'à
+ce que leur âme s'effaçât comme une inscription qu'on cesse d'entretenir. On disait que ces lieux gardaient l'empreinte des âmes perdues ; qu'y entrer
 sans prière, c'était risquer de s'y dissoudre à son tour. Vael priait. Ses lèvres remuaient
 sans bruit, et il ne regardait pas Tanya s'avancer entre les alvéoles comme on regarde une
 collègue au travail : il la regardait comme on regarde quelqu'un descendre vivant dans une
