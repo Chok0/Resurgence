@@ -15,6 +15,15 @@
 
 ---
 
+## Découpage en chapitres
+
+Le découpage en chapitres se construit **par-dessus** les mouvements, à mesure qu'on écrit.
+Chaque chapitre a sa propre décomposition en scènes, prête à rédiger :
+
+- [`chapitre-01.md`](chapitre-01.md) — **« Le Seuil »** (Mvt I) · surface saharienne → seuil de la descente.
+
+---
+
 ## MOUVEMENT I — Surface / Seuil
 **Objectif :** installer le monde de Polaris comme réel et habité. Le lecteur doit y
 croire avant de le voir se fissurer. *Phase 1.* Registre immersif, dense, presque
