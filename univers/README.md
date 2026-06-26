@@ -127,22 +127,39 @@ Détails posés par la prose et désormais canon (registre complet :
 
 ---
 
-## 4. Le terrain — Paris souterraine
+## 4. Le terrain — la métropole ensevelie *(Paris, jamais nommé)*
 
-### La ville en 2148
-La **surface** est une ruine irradiée, territoire spirituellement dangereux selon le
-culte, interdite. Le climat n'est plus tempéré : Polaris reterraforme depuis le nord,
-mais l'Europe ressemble désormais au **Maghreb / Moyen-Orient** — chaleur écrasante,
-aridité, lumière dure et ocre.
+> `⚑` **RÈGLE NARRATIVE — ne jamais nommer la ville.** Pour Polaris, le nom ancien est
+> presque perdu : seuls les **lettrés** (dont Tanya) en gardent une vague notion — c'est
+> « Paris » comme « **Lutèce** » l'est pour nous. Pour les autres, ce n'est qu'« une grande
+> métropole de l'ancien monde ». Le lecteur doit **deviner** la ville par des indices,
+> jamais par une étiquette :
+> - la grande **tour de fer ajouré**, ployée mais debout (tour Eiffel) — *posée au ch.1 sc.1* ;
+> - les galeries d'**ossements** rangés (catacombes) — *prévu ch.3* ;
+> - le **métro**, le fleuve, plus tard tel ou tel monument de pierre.
+>
+> Désignations admises : « la métropole », « la cité de l'ancien monde », « la grande
+> morte », « la marge sud ». **Bannis de la prose** : *Paris*, *parisien*, *France*,
+> *français* (ce dernier rendu par « ce vieux pays », « d'ici »…).
 
-> **Un Paris saharien** : les ruines émergent d'une steppe sèche sous un soleil violent.
-> Visuellement neuf — on a vu mille Paris post-apo froids et brumeux, jamais un Paris de fournaise.
+### La ville en 2148 — une métropole entière, pas un monolithe
+Ce n'est pas *une* ruine mais **une étendue de ruines sans bord** : le cœur dense de la
+cité, et tout autour les **faubourgs et les banlieues mortes** — un océan de décombres ocre
+que la steppe reconquiert, jusqu'à l'horizon. La **surface** est une ruine irradiée,
+territoire spirituellement dangereux selon le culte, interdite. Le climat n'est plus
+tempéré : Polaris reterraforme depuis le nord, mais l'Europe ressemble désormais au
+**Maghreb / Moyen-Orient** — chaleur écrasante, aridité, lumière dure et ocre.
+
+> **Une métropole de fournaise** : les ruines émergent d'une steppe sèche sous un soleil
+> violent. Visuellement neuf — on a vu mille capitales post-apo froides et brumeuses, jamais
+> une de fournaise. Au-dessus du chaos, **une seule chose tient debout** : la grande tour de
+> fer (l'indice-maître du lecteur).
 
 `⚑` **Contraste sensoriel fondateur** : dehors la chaleur aride, dedans le froid et
 l'humidité préservés des galeries. La descente sous terre est une descente dans une
 autre température, **un autre temps**.
 
-`⚑` **Zone de marge** : Polaris ayant reconquis depuis le nord, Paris n'est ni tout à
+`⚑` **Zone de marge** : Polaris ayant reconquis depuis le nord, la cité n'est ni tout à
 fait reconquise ni tout à fait perdue. Plus on descend vers le sud, moins Polaris est
 présent — ce qui **renforce l'isolement** de l'équipe.
 

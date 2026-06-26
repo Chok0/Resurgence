@@ -13,7 +13,7 @@ gantée, et le froid montait, montait, jusqu'à ce que la fournaise du dessus ne
 qu'un souvenir incrédule.
 
 Tanya connaissait ce froid : le froid des choses qui se conservent. C'était lui qui faisait
-des galeries parisiennes le trésor qu'on venait jusqu'ici disputer à l'oubli — non la
+de ces galeries le trésor qu'on venait jusqu'ici disputer à l'oubli — non la
 chaleur sèche du sud, qui cuisait et stérilisait tout, mais cette humidité fraîche et
 constante qui gardait le monde d'avant comme une chambre froide garde un corps. En haut, le
 soleil avait tout effacé. En bas, rien n'avait bougé. Le paradoxe ne cessait pas de

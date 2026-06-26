@@ -2,7 +2,8 @@
 
 > Roman de science-fiction. Une mission d'**archéologie numérique** en 2148 : des
 > équipes issues d'une civilisation post-humaine reconstituée aux pôles (**Polaris**)
-> reviennent fouiller le Paris souterrain pour exhumer la culture de l'ère Internet,
+> reviennent fouiller les souterrains d'une grande métropole ensevelie de l'ancien monde —
+> que le lecteur devine — pour exhumer la culture de l'ère Internet,
 > engloutie lors de la Troisième Guerre mondiale de 2030.
 
 Le geste littéraire est **tolkienien** : bâtir, à partir de fragments réels de la
@@ -22,7 +23,7 @@ relisible et maintenable en clair.
 
 | Dossier | Contenu | Source principale |
 |---|---|---|
-| [`univers/`](univers/) | Le monde : concept, chronologie, régime Polaris, culte de l'Architecte, factions, terrain (Paris saharien & souterrain) | Worldbuilding v1.2 |
+| [`univers/`](univers/) | Le monde : concept, chronologie, régime Polaris, culte de l'Architecte, factions, terrain : la métropole ensevelie, surface & souterrain | Worldbuilding v1.2 |
 | [`personnages/`](personnages/) | Tanya (profil complet, faille, trahison fondatrice) et l'équipe | Worldbuilding v1.2 |
 | [`structure-recit/`](structure-recit/) | L'architecture narrative : régime du doute, structure en accordéon, 5 mouvements, dispositif à 3 niveaux, **vérités d'auteur** | Worldbuilding v1.2 |
 | [`plan-ecriture/`](plan-ecriture/) | La feuille de route opérationnelle : scènes par mouvement, grille de gestion de l'information, chantiers | Plan d'écriture |

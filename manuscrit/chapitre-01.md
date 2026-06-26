@@ -11,15 +11,24 @@ morte d'un four : c'était quelque chose de vivant, de lourd, qui avait une coul
 Le mot lui vint avant le nom du lieu, avant toute pensée — ocre, l'air, la lumière, la
 poussière en suspens, comme si le monde avait été cuit puis réduit en poudre fine.
 
-Elle descendit la rampe, et le sol de l'ancienne France lui rendit sa chaleur par en
-dessous.
+Elle descendit la rampe, et le sol de l'ancien monde lui rendit sa chaleur par en dessous.
 
-Devant elle, la steppe. Jaune, rase, hérissée d'herbes dures qui ne ployaient pas, car il
-n'y avait pas de souffle pour les coucher. Et à l'horizon, émergeant de la plaine comme
-les vertèbres d'une bête échouée, les ruines. Paris. Le nom seul tenait du prodige. On le
-prononçait peu, aux dômes, et jamais à la légère : une cité du monde d'avant, l'une des
-plus grandes, engloutie avec le reste durant le Grand Chaos, et que l'Architecte, dans sa
-sagesse, avait laissée dormir un siècle sous l'interdit.
+Devant elle, la steppe — et la ville dans la steppe. Car ce n'était pas une ruine qui
+montait à l'horizon, mais une étendue de ruines sans bord, qui commençait sous ses pieds et
+courait jusqu'au tremblé de la chaleur. Des faubourgs entiers réduits à des moignons de
+béton ; des banlieues mortes que le sable remontait par les fenêtres ; des avenues devinées
+à la régularité d'un alignement d'arbres calcinés. Le tout cuit, ocré, rendu à la poussière,
+et si vaste que l'œil y renonçait. Au loin seulement, là où les bâtisses se serraient, on
+devinait un cœur plus dense — la cité même, celle qui avait jadis donné son nom à toute
+l'étendue.
+
+Car elle avait porté un nom. Les lettrés le savaient encore — Tanya en était —, un de ces
+noms du monde d'avant, courts et durs, qu'on n'était jamais tout à fait sûr de bien
+prononcer et que le reste de Polaris avait laissé tomber dans l'oubli, avec tant d'autres
+choses. Pour les chevaliers, derrière elle, ce n'était rien de tel : seulement une grande
+morte de l'ancien monde, sans nom, l'une des plus vastes, engloutie avec le reste durant le
+Grand Chaos, et que l'Architecte, dans sa sagesse, avait laissée dormir un siècle sous
+l'interdit.
 
 Tanya plissa les yeux. Le métier reprenait déjà le dessus, plus fort que la sueur, plus
 fort que le petit malaise d'être là, debout, à découvert, sous le ciel du châtiment. Elle
@@ -27,9 +36,15 @@ lisait. C'était plus fort qu'elle — elle lisait le paysage comme une coupe st
 Sous les herbes, quelque part, le niveau de la catastrophe : cette couche de cendre et de
 verre fondu que tous les chantiers retrouvaient à la même profondeur, signature du jour où
 le ciel était tombé. Ces masses trop régulières pour être des collines : des immeubles
-affaissés, un siècle d'effondrement tassé en buttes douces. Et plus loin, cette échine
-pâle qui accrochait la lumière — de la pierre taillée, de la vraie. Quelque chose qui avait
-tenu.
+affaissés, un siècle d'effondrement tassé en buttes douces.
+
+Et une seule chose, dans tout cela, tenait encore debout. Très loin, vers le cœur dense, une
+haute carcasse de fer montait au-dessus des décombres — une tour ajourée, faite de
+croisillons et de vide, ployée sur un flanc, rousse de rouille, à demi rendue mais entêtée,
+comme un géant que rien n'avait pu coucher tout à fait. Tanya ignorait à quoi elle avait
+servi ; personne, à Polaris, ne le savait plus. Mais on la voyait de partout, et c'était
+elle, dans le grand silence, qui disait encore : ici, des hommes avaient bâti vers le haut,
+et ils avaient eu les moyens de leur orgueil.
 
 Elle connaissait par cœur ce que les Interprètes enseignaient de ces lieux. Que la surface
 était le territoire du châtiment ; que le soleil y brûlait encore de la colère qui avait
@@ -50,8 +65,8 @@ des écrans éteints au milieu d'un geste, et qu'il faudrait les exhumer avec le
 
 Le vent se leva enfin, un souffle tiède qui souleva la poussière et la lui jeta aux lèvres.
 Elle eut sur la langue un goût de terre et de fer. Quelque part sous cette plaine, à des
-strates de profondeur, dormait aussi la ville de gens dont elle portait, disait son
-dossier, une part oubliée du sang : une lignée française enfouie, une rumeur dans les
+strates de profondeur, dormaient aussi les gens dont elle tenait, disait son
+dossier, une part oubliée du sang : une lignée d'ici, enfouie, une rumeur dans les
 archives d'une orpheline. Elle n'en éprouva rien de précis. Un ancêtre n'a pas de visage.
 Seulement, l'espace d'un instant, l'étrange impression d'arriver quelque part — et non de
 débarquer sur un chantier de plus.

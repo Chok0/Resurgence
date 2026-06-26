@@ -7,10 +7,20 @@
 > ⚠️ Ne contient que ce que le **texte** a établi — pas les *vérités d'auteur* (cachées au
 > lecteur), qui vivent dans [`../structure-recit/`](../structure-recit/) § 4.
 
+## ⚑ Règle de nommage de la ville — ne jamais écrire « Paris »
+La métropole fouillée **n'est jamais nommée** dans la prose. Le nom ancien est un savoir de
+**lettrés** (Tanya en est) — l'effet « Lutèce » : pour le reste de Polaris, ce n'est qu'« une
+grande métropole de l'ancien monde ». Le lecteur **devine** par des indices : la **tour de
+fer** (Eiffel, ch.1 sc.1), les **catacombes** (ch.3), le métro, le fleuve. Désignations
+admises : *la métropole, la cité de l'ancien monde, la grande morte, la marge sud*. **Bannis
+de la prose** : *Paris, parisien, France, français* (→ « ce vieux pays », « d'ici »).
+*Révision appliquée : ch.1 sc.1 et ch.2 sc.1 expurgés du nom ; image de sprawl + tour de fer.*
+Détail : [`../univers/README.md`](../univers/README.md) § 4.
+
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
 |---|---|---|---|---|
-| **Tanya** | archéologue num., protagoniste | 32 ans ; orpheline des dômes ; racines françaises enfouies ; lit le paysage en strates | ch.1 sc.1 | [fiche](../personnages/README.md) |
+| **Tanya** | archéologue num., protagoniste | 32 ans ; orpheline des dômes ; lignée enfouie « d'ici » (le vieux pays — jamais nommé « France ») ; **lettrée**, sait encore le nom oublié de la cité ; lit le paysage en strates | ch.1 sc.1 | [fiche](../personnages/README.md) |
 | **Ostrov** | chef d'équipe (scientifique) | répond de tout sans décider ; recompte son monde | ch.1 sc.2 | [fiche](../personnages/equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya | « choisies » 3 missions plus tôt ; part-famille de Tanya | ch.1 sc.2 | [fiche](../personnages/equipe/nieve.md) |
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
@@ -18,7 +28,9 @@
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
-- **La marge sud** : Paris s'y trouve — plus on descend au sud, plus il fait chaud et moins Polaris est présent.
+- **La marge sud** : la métropole s'y trouve — plus on descend au sud, plus il fait chaud et moins Polaris est présent.
+- **La métropole** *(ch.1)* : pas un monolithe — une étendue de ruines sans bord (cœur dense + **faubourgs et banlieues mortes**) que la steppe reconquiert. **Jamais nommée** (cf. règle ci-dessus).
+- **La tour de fer** *(ch.1)* : seule structure encore debout au-dessus des décombres — haute carcasse de fer ajouré, ployée, rouillée (tour Eiffel). Indice-maître du lecteur ; les personnages ignorent ce qu'elle fut.
 - **La bouche nord** : point de descente du chantier (ancienne entrée de métro).
 - **Le fil** : ligne-guide lumineuse de la descente. Protocole : « personne ne s'écarte du fil ».
 - **Les équipes de recyclage** : dégagent et préparent les accès ; marquent **les poches** (zones repérées) sur le plan d'Ostrov.
