@@ -20,7 +20,7 @@ Mvt III, que **le lecteur la devance d'un demi-temps** (voir
 | Chapitre | Décomposition | Prose |
 |---|---|---|
 | **1 — Le Seuil** | [`../plan-ecriture/chapitre-01.md`](../plan-ecriture/chapitre-01.md) | **complet — 4 scènes** (1ᵉ jet) |
-| **2 — (la descente)** | à décomposer | — |
+| **2 — La Descente** | [`../plan-ecriture/chapitre-02.md`](../plan-ecriture/chapitre-02.md) | scènes 1-2 (1ᵉ jet) ; sc. 3-4 à écrire |
 
 > **Rappel Phase 1.** Tant qu'on est dans le Mvt I, *aucune fissure* : le culte, les
 > monstres et Polaris sont vus de l'intérieur, comme vrais. On construit la croyance

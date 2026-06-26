@@ -47,7 +47,7 @@ relisible et maintenable en clair.
 - **Worldbuilding** : bible v1.2, dense et stabilisée sur le fond.
 - **Plan d'écriture** : feuille de route par mouvements et scènes établie ; découpage en chapitres à venir.
 - **Écriture de Polaris** : « germe d'écriture », système assemblé — *à casser ou valider*.
-- **Prose du roman** : démarrée. **Chapitre 1 (« Le Seuil ») complet — 4 scènes en premier jet** dans [`manuscrit/`](manuscrit/). Voix retenue : 3ᵉ personne, passé, style indirect libre. Continuité suivie dans [`manuscrit/canon.md`](manuscrit/canon.md).
+- **Prose du roman** : en cours. **Ch.1 (« Le Seuil ») complet** ; **ch.2 (« La Descente ») scènes 1-2** (la descente + les Backrooms) en premier jet, dans [`manuscrit/`](manuscrit/). Voix : 3ᵉ personne, passé, style indirect libre. Continuité suivie dans [`manuscrit/canon.md`](manuscrit/canon.md).
 
 ## Questions ouvertes globales
 

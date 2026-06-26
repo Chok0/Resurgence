@@ -13,7 +13,7 @@
 | **Tanya** | archéologue num., protagoniste | 32 ans ; orpheline des dômes ; racines françaises enfouies ; lit le paysage en strates | ch.1 sc.1 | [fiche](../personnages/README.md) |
 | **Ostrov** | chef d'équipe (scientifique) | répond de tout sans décider ; recompte son monde | ch.1 sc.2 | [fiche](../personnages/equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya | « choisies » 3 missions plus tôt ; part-famille de Tanya | ch.1 sc.2 | [fiche](../personnages/equipe/nieve.md) |
-| **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
+| **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
@@ -21,8 +21,9 @@
 - **La marge sud** : Paris s'y trouve — plus on descend au sud, plus il fait chaud et moins Polaris est présent.
 - **La bouche nord** : point de descente du chantier (ancienne entrée de métro).
 - **Le fil** : ligne-guide lumineuse de la descente. Protocole : « personne ne s'écarte du fil ».
-- **Les équipes de recyclage** : dégagent et préparent les accès en amont.
+- **Les équipes de recyclage** : dégagent et préparent les accès ; marquent **les poches** (zones repérées) sur le plan d'Ostrov.
 - **Combinaisons** : chevaliers = lourdes, renforcées ; scientifiques = souples, à instruments. Étanchéité vitale (ciel hostile).
+- **Les galeries** *(ch.2)* : froid humide et constant — « le froid des choses qui se conservent » — qui préserve le monde d'avant, d'où leur valeur. Vestiges du métro : guichets, tourniquets, une rame arrêtée.
 
 ## Culte de l'Architecte — établi au texte
 - **La Voix** : nom vécu de l'IA qui parle au nom de l'Architecte (« il s'était versé tout entier dans la Voix »).
@@ -32,6 +33,7 @@
 - **Rite du seuil** : ôter un gant, poser la main nue sur la terre maudite avant de descendre.
 - **Geste contre le mauvais œil** : bref geste de la main des chevaliers en posant le pied à la surface.
 - **Doctrine de la surface** : territoire du châtiment ; le soleil y brûle « encore de la colère qui avait puni les anciens de leur démesure ».
+- **Les Salles de l'Oubli** *(ch.2)* : terme du culte pour les lieux vides et maudits de l'ancien monde — espaces sans dieu où les âmes des anciens se dissolvaient dans la répétition. Recouvre les **Backrooms** (voir [`../corpus-webculture/README.md`](../corpus-webculture/README.md)). Y entrer sans prière, c'est risquer de s'y perdre.
 
 ## Cohérence vérifiée — Chapitre 1
 - **Phase 1 tenue** : aucune fissure. Culte, monstres, Polaris vus de l'intérieur, comme vrais. ✓
@@ -39,10 +41,18 @@
 - **Tensions scientifiques / chevaliers** = clivage de **classe/caste ordinaire**, jamais la menace militaire. ✓
 - **Flashbacks en inserts courts** : internat (sc.2), Sanctuaire (sc.3) — teintent sans expliquer. ✓
 - **Non-fiabilité de Tanya** seulement *semée* (conditionnement, « prier ou mesurer », besoin d'être portée), pas encore active. ✓
-- **Frontière de chapitre** : referme au seuil, sur la descente. La première galerie = ch.2 (Mvt II). ✓
-- **Conformité bible** : Paris saharien ✓ · marge sud ✓ · surface interdite/châtiment ✓ · Polaris = l'humanité ✓ · Architecte transcendé dans la Voix ✓ · momie-enveloppe ✓ · Interprètes ✓ · Tanya orpheline/racines françaises/fibre solidaire ✓.
+- **Frontière** : referme au seuil, sur la descente. ✓
+
+## Cohérence vérifiée — Chapitre 2
+- **Bascule amorcée, pas consommée** : on glisse du fantasy vers le réel, **rationnellement**. Aucun monstre, aucune fissure surnaturelle. ✓
+- **Triple registre incarné** (Backrooms) : le lecteur reconnaît un bureau banal ; Tanya y lit un artefact à dater ; les chevaliers, une Salle de l'Oubli. L'ironie reste au lecteur, jamais énoncée. ✓
+- **Tanya ne bascule pas encore** : elle décrit la déshumanisation **au passé, sur les anciens** — jamais (pas encore) comme un miroir de Polaris. Le lecteur fait le lien, elle non. ✓
+- **Première coïncidence** culte/réel posée et **rangée** (« convergence » OU « rumeur transmise » — les deux ouvertes, conforme à la bible). ✓
+- **Le bruit** de la descente reste un **travail de la terre** (cause mundane posée), PAS le « premier bruit » structuré du Mvt III. ✓
+- **Continuité** : reprend le *fil*, le froid, Vael en tête, Nieve, Ostrov et son plan. ✓
 
 ## Points de vigilance pour la suite
-- **Mvt II (ch.2)** : première descente, texture des galeries, **les Backrooms** (artefact-pilier). Garder la double lecture : fascination de Tanya/Nieve vs terreur de Vael. Toujours **pas de fissure pour le lecteur** (la rationalisation ne commence qu'à s'amorcer ; le lecteur voit l'écart avant Tanya, sans certitude).
-- Ne pas oublier le **document intercalé** (niveau 2) prévu au Mvt II : premier rapport d'archéo-num qui se trompe et confirme le culte.
-- Tenir l'isolement (marge sud) et le contact incertain avec **les autres équipes** (à introduire au Mvt II).
+- **Reste du ch.2** : sc.3 *la récupération* (le métier, premiers fragments lisibles) ; sc.4 *[DOCUMENT] premier rapport d'archéo-num* (niveau 2 — l'équipe se trompe et confirme le culte). Garder le contenu **fragmentaire** : aucun corpus-pilier déployé avant le Mvt III.
+- **Ch.3 (fin Mvt II)** : les **catacombes / les crânes** ; **première communication avec l'autre équipe** (présence à poser pour pouvoir la faire vaciller plus tard).
+- **Ne pas dépasser la dose de Phase 2** : le lecteur voit l'écart, sans certitude dystopique encore (ça, c'est le Mvt III).
+- **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.

@@ -123,6 +123,7 @@ Détails posés par la prose et désormais canon (registre complet :
 - **Le Sanctuaire** : nef de glace bleue ; la momie sous verre, « l'enveloppe seulement ».
 - **Liturgie de descente** : « Architecte, toi qui as veillé quand le ciel est tombé… *Que rien de ce qui dort en bas ne se souvienne de nous.* »
 - **Rites du seuil** : main nue posée sur la terre maudite avant la descente ; geste bref des chevaliers contre le mauvais œil du monde d'avant.
+- **Les Salles de l'Oubli** *(ch.2)* : lieux vides et maudits de l'ancien monde où les âmes se dissolvaient dans la répétition — lecture cultuelle des *Backrooms* (voir [`../corpus-webculture/README.md`](../corpus-webculture/README.md)).
 
 ---
 

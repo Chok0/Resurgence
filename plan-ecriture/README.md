@@ -21,6 +21,7 @@ Le découpage en chapitres se construit **par-dessus** les mouvements, à mesure
 Chaque chapitre a sa propre décomposition en scènes, prête à rédiger :
 
 - [`chapitre-01.md`](chapitre-01.md) — **« Le Seuil »** (Mvt I) · surface saharienne → seuil de la descente.
+- [`chapitre-02.md`](chapitre-02.md) — **« La Descente »** (Mvt II, début) · galeries → les Salles de l'Oubli (Backrooms).
 
 ---
 
