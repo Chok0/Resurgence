@@ -28,6 +28,7 @@ relisible et maintenable en clair.
 | [`plan-ecriture/`](plan-ecriture/) | La feuille de route opérationnelle : scènes par mouvement, grille de gestion de l'information, chantiers | Plan d'écriture |
 | [`corpus-webculture/`](corpus-webculture/) | L'inventaire des artefacts internet exhumés (Backrooms, SCP, vaporwave, threads…) et leur arc | Worldbuilding v1.2 |
 | [`ecriture-polaris/`](ecriture-polaris/) | Le système d'écriture construit de Polaris (conscript featural) | Polaris — Écriture unifiée |
+| [`manuscrit/`](manuscrit/) | Le texte du roman — la prose, chapitre par chapitre | — |
 | [`sources/`](sources/) | Les trois documents de travail originaux (référence faisant foi) | — |
 
 ## Ordre de lecture conseillé
@@ -46,7 +47,7 @@ relisible et maintenable en clair.
 - **Worldbuilding** : bible v1.2, dense et stabilisée sur le fond.
 - **Plan d'écriture** : feuille de route par mouvements et scènes établie ; découpage en chapitres à venir.
 - **Écriture de Polaris** : « germe d'écriture », système assemblé — *à casser ou valider*.
-- **Prose du roman** : pas encore commencée. Le conseil de méthode est d'attaquer par une scène qui appelle (la première descente, ou les Backrooms) ; la voix se trouve à l'écriture, pas au plan.
+- **Prose du roman** : démarrée. Chapitre 1 (« Le Seuil ») décomposé en scènes ; scène 1 (l'arrivée) en premier jet dans [`manuscrit/`](manuscrit/). Voix retenue : 3ᵉ personne, passé, style indirect libre.
 
 ## Questions ouvertes globales
 
