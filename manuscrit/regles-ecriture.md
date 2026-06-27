@@ -13,10 +13,38 @@ Alterner le lyrique et le sec, le long et le bref, l'intériorité et le parlé.
 de registre endort, même quand chaque phrase est belle.** Sur deux chapitres, c'était le
 défaut n°1 : huit scènes sur le même ton feutré, méditatif, sans une rupture.
 
+## La signature — « l'effet d'exhumation »
+La marque distinctive du roman, ce qui doit le rendre reconnaissable entre tous : **notre
+monde n'est jamais montré en clair — il est exhumé**, regardé par les yeux graves et
+étrangers de Polaris, qui le prennent pour une relique sacrée ou maudite. Du *même* écart de
+lecture naissent le sublime, l'effroi **et** un humour pince-sans-rire. **Le narrateur ne
+cligne jamais de l'œil.** Quatre leviers :
+
+1. **Toute figure vient du monde de Polaris.** Comparaisons et métaphores se puisent dans
+   *leur* univers — l'arctique, les dômes, la glace, le culte, le corps de l'Architecte sous
+   verre —, **jamais dans le nôtre**. (Le froid des galeries garde le passé « comme le verre
+   du Sanctuaire gardait l'Architecte », non « comme une chambre froide ».) Chaque image
+   devient ainsi un acte de worldbuilding — et le problème des « comme » se règle de
+   lui-même : peu, mais chacune sourcée.
+2. **La nomenclature décalée.** Nos objets sont nommés par *leur* lexique — une idole, un
+   calice, une relique, une Salle de l'Oubli —, l'écart laissé au lecteur. Tantôt poignant,
+   tantôt drôle : un chat porte-bonheur devient « un petit dieu » ; un open space, un lieu de
+   damnation.
+3. **L'éclat verbatim.** Une à deux fois par chapitre, un fragment du web mort surgit **non
+   traduit** — une légende (« les filles du bureau, dernier vendredi avant »), une note de
+   service, un message d'erreur, un mème : un îlot de notre langue échoué dans la leur.
+4. **Le pince-sans-rire grave.** L'humour et l'effroi sortent du *même* écart ; jamais de
+   slapstick, jamais de clin d'œil. C'est aussi le meilleur outil de **variation du registre**
+   (cf. principe-maître) : le décalé casse la monotonie autant que la phrase sèche.
+
+> **Dosage : un assaisonnement, pas un plat.** L'effet vit de sa rareté et de son sérieux.
+> Trop appuyé, il tourne au numéro comique ; bien dosé, c'est la voix du livre.
+
 ## Garde-fous
-1. **Comparaisons « comme » : rationner.** ~1–2 par scène, et seulement motivées (Tanya lit
-   le paysage « comme une coupe stratigraphique » : oui). Sinon → métaphore directe ou
-   notation sèche. Jamais de « X, comme Y » en chapelet.
+1. **Comparaisons « comme » : rationner ET les sourcer dans le monde de Polaris**
+   (cf. Signature §1). ~1–2 par scène, motivées (Tanya lit le paysage « comme une coupe
+   stratigraphique » : oui). Sinon → métaphore directe ou notation sèche. Jamais de « X,
+   comme Y » en chapelet.
 2. **Pas de chute sentencieuse à chaque paragraphe.** L'aphorisme triste est puissant *donc
    rare*. Un paragraphe sur deux doit retomber sur une image ou un acte, sans morale.
 3. **Montrer, pas expliquer.** Se méfier du réflexe « c'était X » ; ne pas **nommer

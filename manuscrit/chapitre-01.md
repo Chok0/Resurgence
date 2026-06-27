@@ -7,9 +7,9 @@ pierre brûlée.
 
 Aucun relevé n'avait préparé Tanya à cela. Elle avait lu les courbes thermiques, les
 moyennes de la marge sud, vu les chiffres défiler sur ses écrans aux dômes, bien au frais ;
-les chiffres ne tenaient pas dans la peau. Ce n'était pas la chaleur morte d'un four. Elle
-était vivante, lourde, et elle avait une couleur. Ocre — l'air, la lumière, la poussière en
-suspens, tout. Le mot lui vint avant même le nom du lieu.
+les chiffres ne tenaient pas dans la peau. Là-haut, la chaleur n'était qu'un nombre qu'on
+corrigeait ; ici, elle avait un corps — vivante, lourde, et d'une couleur. Ocre — l'air, la
+lumière, la poussière en suspens, tout. Le mot lui vint avant même le nom du lieu.
 
 Elle descendit la rampe, et le sol de l'ancien monde lui rendit sa chaleur par en dessous.
 

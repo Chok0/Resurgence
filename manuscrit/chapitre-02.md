@@ -15,7 +15,7 @@ qu'un souvenir incrédule.
 Tanya connaissait ce froid : le froid des choses qui se conservent. C'était lui qui faisait
 de ces galeries le trésor qu'on venait jusqu'ici disputer à l'oubli — non la
 chaleur sèche du sud, qui cuisait et stérilisait tout, mais cette humidité fraîche et
-constante qui gardait le monde d'avant comme une chambre froide garde un corps. En haut, le
+constante qui gardait le monde d'avant comme le verre du Sanctuaire gardait l'Architecte. En haut, le
 soleil avait tout effacé ; en bas, rien n'avait bougé. Il fallait passer sous la terre
 brûlée pour retrouver le passé intact.
 
@@ -65,6 +65,14 @@ fonctions. Elle ignorait encore ce qu'on y faisait de ses journées et de sa vie
 saurait. Les machines, sous les tablettes, en avaient peut-être gardé la mémoire ; c'était pour cela
 qu'elle était descendue.
 
+Sur une tablette, près de l'entrée, un petit dieu attendait.
+
+C'est ainsi qu'un des chevaliers le nomma, tout bas, sans franchir le seuil : un dieu. Une
+figurine haute comme la main, un animal assis et doré, la patte levée dans un salut que cent
+ans n'avaient pas fait retomber. « Les choses qui saluent toutes seules, dit-il, attendent
+qu'on les salue en retour. » Tanya la photographia sous trois angles, releva sa position, la
+classa dans sa tête à la rubrique idoles domestiques. Ce n'était pas tout à fait faux.
+
 Derrière elle, aucun des chevaliers n'avait franchi le seuil.
 
 Ils s'étaient massés à la porte, et Vael fixait la salle avec une horreur que Tanya mit un
@@ -106,7 +114,7 @@ l'appareil ouvert : la place des choses disait parfois davantage que les choses.
 prélevait les machines, les vraies cibles, ces boîtes plates glissées sous les tablettes,
 lourdes de la mémoire qu'on espérait y trouver encore. Nieve s'occupait de l'alimentation :
 un siècle sans courant avait tué les batteries, mais les disques, eux, pouvaient avoir gardé
-leurs traces, comme un disque de cire garde une voix. On les lisait sans les faire tourner,
+leurs traces, comme la glace garde une empreinte. On les lisait sans les faire tourner,
 à froid, par des procédés que Tanya aurait été incapable d'expliquer à un chevalier et qui
 tenaient, pour eux, de la nécromancie.
 

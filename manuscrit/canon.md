@@ -51,7 +51,8 @@ Détail : [`../univers/README.md`](../univers/README.md) § 4.
 
 ## Artefacts & documents
 - **Codes de site** : la fouille référence les lieux par code — ex. **PS-9 « bouche nord »** (ch.2 sc.4).
-- **Le fragment-photo** *(ch.2 sc.3)* : une photographie d'anniversaire reconstituée d'un disque ; légende survivante « *les filles du bureau, dernier vendredi avant* ». Premier visage humain rendu à la lumière — anodin, déchirant.
+- **Le fragment-photo** *(ch.2 sc.3)* : une photographie d'anniversaire reconstituée d'un disque ; légende survivante « *les filles du bureau, dernier vendredi avant* ». Premier visage humain rendu à la lumière — anodin, déchirant. *(Exemple d'**éclat verbatim**, cf. signature.)*
+- **Le petit dieu** *(ch.2 sc.2)* : figurine dorée à la patte levée — un **chat porte-bonheur** — que les chevaliers prennent pour une idole vivante et que Tanya classe en « idoles domestiques » (« pas tout à fait faux »). Premier exemple de la **nomenclature décalée** (cf. [`regles-ecriture.md`](regles-ecriture.md) § signature).
 - **Le rapport d'étape (niveau 2)** *(ch.2 sc.4)* : document officiel transmis à Polaris. L'équipe décrit **juste** et **interprète faux** — l'open space (exploitation économique) recodé en damnation spirituelle (« nul verrou, nulle chaîne… ils se damnaient sans qu'on les y forçât »). Confirme le culte involontairement. *Rédigé par Ostrov ; relevés signés par Tanya, qui laisse partir le rapport.*
 - **« Expurgation d'usage »** : les données sont censurées en routine avant transmission à Polaris — présenté comme procédure normale. **Graine** du futur « trou dans les métadonnées » (Mvt IV).
 
@@ -73,6 +74,7 @@ Détail : [`../univers/README.md`](../univers/README.md) § 4.
 - **Relecture indépendante** (ch.1-2) : verdict « cohérent avec réserves », rien de bloquant. Réserves mineures **traitées** : chronologie cultuelle neutralisée (sc.2, « privés de l'Architecte qui les eût tenus ») ; subjonctif harmonisé (« s'effaçât ») ; iconographie + métaphore « Pompéi » consignées au canon. ✓
 - **Sc.3-4 (auto-contrôle)** : vérifiées sur les mêmes axes. La **gêne** de Tanya s'amorce (« on n'avait pas de colonne pour cela » ; elle laisse partir le rapport malgré l'écart ressenti) — *dissonance naissante, pas réveil*, et **elle ne retourne rien contre Polaris** (elle pense aux morts, puis détourne le regard). Le rapport recode sans rien confirmer du surnaturel ; « expurgation d'usage » reste une routine, pas une intention. ✓
 - **Passe stylistique (ch.1-2)** : relecture sévère appliquée — incipit dé-cliché, comparaisons « comme » rationnées (~moitié), chutes sentencieuses variées, gloses et émotions nommées coupées, **dialogue/friction ajoutés** (sc.2.2 : « — C'est une panne de courant. »), rapport niveau 2 aplati, invraisemblances corrigées (souches, sable, gels). Garde-fous : [`regles-ecriture.md`](regles-ecriture.md). ✓
+- **Signature « effet d'exhumation » intégrée** (ch.1-2) : figures sourcées dans le monde de Polaris (la chaleur vs les dômes ; les galeries « comme le verre du Sanctuaire gardait l'Architecte » ; « comme la glace garde une empreinte »), **nomenclature décalée** (le petit dieu), éclat verbatim, pince-sans-rire grave. Aucune entorse au régime du doute (le chat n'est pas animé : les chevaliers projettent ; Tanya catalogue). ✓
 
 ## Points de vigilance pour la suite
 - **Ch.2 : complet** (4 scènes). Contenu gardé **fragmentaire** — aucun corpus-pilier déployé avant le Mvt III. ✓

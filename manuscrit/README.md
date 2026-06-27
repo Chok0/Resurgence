@@ -18,6 +18,11 @@ Tanya, mais la narration garde une fine distance — c'est elle qui permettra, �
 Mvt III, que **le lecteur la devance d'un demi-temps** (voir
 [`../structure-recit/`](../structure-recit/) § non-fiabilité).
 
+**Signature : « l'effet d'exhumation ».** Notre monde n'est jamais montré en clair mais
+*exhumé* par le regard grave et étranger de Polaris — figures puisées dans leur univers,
+nomenclature décalée de nos objets, éclats verbatim du web mort, pince-sans-rire grave sans
+clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § signature.
+
 ## Statut
 | Chapitre | Décomposition | Prose |
 |---|---|---|
