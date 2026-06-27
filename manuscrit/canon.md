@@ -17,6 +17,15 @@ de la prose** : *Paris, parisien, France, français* (→ « ce vieux pays », �
 *Révision appliquée : ch.1 sc.1 et ch.2 sc.1 expurgés du nom ; image de sprawl + tour de fer.*
 Détail : [`../univers/README.md`](../univers/README.md) § 4.
 
+## ⚑ Équilibre technoféodal — tech présente, Histoire absente
+Polaris est **high-tech** (écrans, relevés, sondes, données, reterraformation) **et** croyant
+(culte de l'Architecte). Ce qui manque, ce n'est pas la science — c'est l'**Histoire**,
+*réécrite de fond en comble* depuis les dômes. Conséquence pour la prose : **garder la
+technologie visible** (ne jamais primitiviser, même à l'ouverture) ; **étranger le passé**
+parce qu'ils n'en ont plus l'Histoire, pas parce qu'ils manquent d'outils. Ni
+medieval-fantasy sans tech, ni SF sans sacré. Détail :
+[`../univers/README.md`](../univers/README.md) § réécriture de l'Histoire.
+
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
 |---|---|---|---|---|
@@ -75,7 +84,7 @@ Détail : [`../univers/README.md`](../univers/README.md) § 4.
 - **Sc.3-4 (auto-contrôle)** : vérifiées sur les mêmes axes. La **gêne** de Tanya s'amorce (« on n'avait pas de colonne pour cela » ; elle laisse partir le rapport malgré l'écart ressenti) — *dissonance naissante, pas réveil*, et **elle ne retourne rien contre Polaris** (elle pense aux morts, puis détourne le regard). Le rapport recode sans rien confirmer du surnaturel ; « expurgation d'usage » reste une routine, pas une intention. ✓
 - **Passe stylistique (ch.1-2)** : relecture sévère appliquée — incipit dé-cliché, comparaisons « comme » rationnées (~moitié), chutes sentencieuses variées, gloses et émotions nommées coupées, **dialogue/friction ajoutés** (sc.2.2 : « — C'est une panne de courant. »), rapport niveau 2 aplati, invraisemblances corrigées (souches, sable, gels). Garde-fous : [`regles-ecriture.md`](regles-ecriture.md). ✓
 - **Signature « effet d'exhumation » intégrée** (ch.1-2) : figures sourcées dans le monde de Polaris (la chaleur vs les dômes ; les galeries « comme le verre du Sanctuaire gardait l'Architecte » ; « comme la glace garde une empreinte »), **nomenclature décalée** (le petit dieu), éclat verbatim, pince-sans-rire grave. Aucune entorse au régime du doute (le chat n'est pas animé : les chevaliers projettent ; Tanya catalogue). ✓
-- **Courbe de genre (recalibrage ch.1 sc.1)** : ouverture remise en **registre fantasy** — science tue (plus de « relevés / écrans / stratigraphie »), référents réels étrangés (« ruches de pierre grise », non « banlieues / béton »), tour Eiffel réduite à une silhouette. But : le lecteur croit d'abord à un **monde imaginaire** (Tolkien) avant de glisser vers la SF (Orwell) puis l'horreur (Alien). La science reparaît à la descente (Backrooms). Détail : [`regles-ecriture.md`](regles-ecriture.md) § courbe de genre. ✓
+- **Courbe de genre + équilibre technoféodal (ch.1 sc.1)** : ouverture en **monde imaginaire technoféodal** — la **tech reste visible** (relevés, écrans, chantiers de fouille), mais le **passé est étranger** car l'Histoire est effacée : référents réels folklorisés (« ruches de pierre grise », non « banlieues / béton »), ville jamais nommée, tour Eiffel réduite à une silhouette. Le lecteur croit d'abord à un **monde imaginaire** (Tolkien) avant la SF (Orwell) puis l'horreur (Alien). Détails : [`regles-ecriture.md`](regles-ecriture.md) §§ courbe de genre + équilibre ci-dessus. ✓
 
 ## Points de vigilance pour la suite
 - **Ch.2 : complet** (4 scènes). Contenu gardé **fragmentaire** — aucun corpus-pilier déployé avant le Mvt III. ✓

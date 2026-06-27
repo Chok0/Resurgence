@@ -52,6 +52,26 @@ Polaris s'effondre, l'espèce s'effondre.
 méthodiquement, rendue impensable. Ce n'est pas un mot interdit — c'est un mot qui
 **n'existe pas**.
 
+### La réécriture de l'Histoire *(canon-clé)*
+Depuis la reconstitution de la vie aux dômes, Polaris a **réécrit l'Histoire de fond en
+comble.** Au-delà de la perte de l'Internet dans le Grand Chaos (discontinuité subie),
+Polaris a **activement effacé et refait** le récit du passé, autour de l'Architecte.
+
+- **Forte science, forte technologie.** Polaris est techniquement avancé : dômes, écrans,
+  sondes, archéologie numérique, reterraformation. Les savoirs *techniques* sont vivants.
+- **Quasi aucune connaissance historique vraie.** Le passé n'existe que sous forme cultuelle
+  et mythique. On ignore ce que furent les villes, leurs noms, les événements réels.
+
+`⚑` **Le vrai technoféodalisme** : croyance magique (culte de l'Architecte) **et** haute
+technologie, ensemble. Des chevaliers en combinaison ; des scientifiques qui datent des
+disques durs et prient une momie. **Équilibre difficile, à tenir partout** — ni
+medieval-fantasy sans tech, ni SF rationaliste sans sacré.
+
+`💥` **Moteur de Tanya** : elle a les outils (récupération de données) pour atteindre le
+passé réel — mais Polaris ne lui a transmis que l'Histoire réécrite. Les archives brutes sont
+son **premier contact avec l'Histoire vraie**, et contredisent tout ce qu'on lui a appris.
+La réécriture est le mensonge que la fouille fait craquer.
+
 ### La religion d'État — le culte de l'Architecte
 
 `⚑` **Correction majeure de la v1.2 :** la religion de Polaris n'a **AUCUN rapport avec

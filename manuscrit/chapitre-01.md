@@ -5,11 +5,11 @@
 La porte du transport coulissa et la chaleur tomba sur eux d'un bloc, avec une odeur de
 pierre brûlée.
 
-On l'avait pourtant prévenue, là-haut, dans le froid des dômes : il ferait chaud sur la
-marge sud, plus chaud qu'un vivant n'en a l'idée. Mais une leçon ne tient pas dans la peau.
-Là-haut, la chaleur n'était qu'un mot qu'on apprenait ; ici, elle avait un corps — lourde,
-vivante, et d'une couleur. Ocre. L'air, la lumière, la poussière en suspens : tout. Le mot
-lui vint avant même le nom du lieu.
+On l'avait pourtant prévenue. Tanya avait lu les relevés, regardé les courbes de chaleur
+grimper sur ses écrans, là-haut, dans le froid des dômes — mais un chiffre ne tient pas dans
+la peau. Sur l'écran, la chaleur n'était qu'une donnée qu'on corrigeait ; ici, elle avait un
+corps — lourde, vivante, et d'une couleur. Ocre. L'air, la lumière, la poussière en suspens :
+tout. Le mot lui vint avant même le nom du lieu.
 
 Elle descendit la rampe, et le sol de l'ancien monde lui rendit sa chaleur par en dessous.
 
@@ -34,8 +34,8 @@ Tanya plissa les yeux. Le métier reprenait déjà le dessus, plus fort que la s
 fort que le petit malaise d'être là, à découvert, sous le ciel du châtiment. Elle lisait.
 C'était plus fort qu'elle — elle lisait le sol par couches, comme une chose qu'on déterre.
 Sous les herbes, quelque part, le lit de la catastrophe : cette nappe de cendre et de verre
-fondu qu'on retrouvait partout à la même profondeur, la trace du jour où le ciel était
-tombé. Ces masses trop régulières pour être des collines : des bâtisses effondrées, un
+fondu que tous les chantiers retrouvaient à la même profondeur, la trace du jour où le ciel
+était tombé. Ces masses trop régulières pour être des collines : des bâtisses effondrées, un
 siècle d'effondrement tassé en buttes douces.
 
 Et une seule chose, dans tout cela, tenait encore debout. Très loin, vers le cœur dense, une

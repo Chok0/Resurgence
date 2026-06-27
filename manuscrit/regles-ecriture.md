@@ -48,11 +48,13 @@ prose épouse la courbe.** *(La courbe au niveau de la certitude du lecteur est 
 dans [`../structure-recit/`](../structure-recit/) — les 4 phases ; ici, son exécution
 stylistique.)*
 
-1. **L'ouverture doit se lire comme un monde imaginaire.** Mettre au premier plan le
-   mythique, le sacré, le féodal (chevaliers, rituels, l'interdit, l'Architecte) ; **taire la
-   science** au seuil — pas de « relevés / courbes thermiques / écrans / stratigraphie », qui
-   trahissent la SF trop tôt. Le lecteur doit *flotter dans la fantasy* avant de comprendre
-   où et quand il est.
+1. **L'ouverture doit se lire comme un monde imaginaire — mais technoféodal.** Polaris n'est
+   pas primitif : la **technologie est partout** (écrans, relevés, sondes, combinaisons,
+   récupération de données). Ce qu'on **tait au seuil, ce n'est pas la science — c'est
+   l'Histoire** (réécrite ; cf. [`canon.md`](canon.md) § équilibre technoféodal). Le sentiment
+   de fantasy ne vient pas d'une absence de tech, mais du **cadre féodal-cultuel** (chevaliers,
+   rituels, l'interdit, l'Architecte) posé sur un **passé effacé** : on a les outils pour
+   fouiller le passé, pas les mots pour le comprendre. *(Réf. : le Soleil de Wolfe, Dune.)*
 2. **Étranger nos référents.** Nos villes, nos objets, nos lieux ne se nomment pas en clair :
    pas « banlieues / béton / immeubles » mais « des ruches de pierre grise », « le peuple
    d'avant entassé ». On garde l'image (l'étendue, la densité), on retire l'étiquette
@@ -63,8 +65,9 @@ stylistique.)*
    grande forme de fer *enfin* reconnue (la tour), le fleuve. Jamais un panneau, toujours une
    déduction. *(La silhouette de la tour est posée au ch.1, non identifiable ; sa
    reconnaissance est différée.)*
-4. **Le registre migre avec l'histoire.** Mythique/sacré à la surface (Tolkien) → clinique,
-   politique dès que les archives parlent (Orwell, à partir des Backrooms) → charnel, paniqué
+4. **Le registre migre avec l'histoire.** Le mythique/sacré **domine** à la surface (la tech
+   est là, mais enveloppée de mythe — Tolkien) → le clinique et le politique **prennent le
+   dessus** dès que les archives parlent (Orwell, à partir des Backrooms) → charnel, paniqué
    dans le bunker et face aux morts (Alien). La prose elle-même change de peau.
 
 ## Garde-fous
