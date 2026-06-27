@@ -22,9 +22,19 @@ comprend qu'il lit une **dystopie politique post-climatique réaliste**.
 
 > Les monstres sont des mèmes. Les dieux sont des algorithmes. Le péché originel est un crime économique.
 
-`⚑` **Esthétique du monde** : post-apo solarpunk dystopique. Combinaisons à logos
-Polaris, soldats appelés *chevaliers*, rituels avant la descente. Un univers à la
-cohérence visuelle et sociale propre — **avant** d'être fissuré.
+`⚑` **Deux esthétiques, deux zones :**
+> - **Polaris (le Nord, les dômes)** — un **solarpunk en apparence idyllique** (verdure
+>   reconstituée, harmonie, abondance) qui **cache** une théocratie autoritaire réécrivant
+>   l'Histoire pour se servir. *La belle façade est le mensonge.*
+> - **Les marges sud (le chantier)** — un **champ de ruines atompunk, façon *Mad Max***
+>   (soleil dur, carcasses, charognards), mais **plus dense** en bâtiments écroulés et en
+>   traces du passé : tout l'enjeu y est archéologique.
+
+`⚑` **Calibrage magie / technologie** — réf. **Dune** et surtout **Mad Max** : une mythologie
+plaquée sur une technologie pleinement fonctionnelle (moteurs, modifications corporelles
+là-bas ; combinaisons, écrans, sondes ici). Polaris **n'est jamais primitif** — *ni
+medieval-fantasy sans tech, ni SF sans sacré* (voir
+[`../manuscrit/regles-ecriture.md`](../manuscrit/regles-ecriture.md)).
 
 ---
 
@@ -51,6 +61,33 @@ Polaris s'effondre, l'espèce s'effondre.
 **Technoféodalisme médiéval.** La démocratie n'existe plus comme concept : supprimée
 méthodiquement, rendue impensable. Ce n'est pas un mot interdit — c'est un mot qui
 **n'existe pas**.
+
+### La réécriture de l'Histoire *(canon-clé)*
+Depuis la reconstitution de la vie aux dômes, Polaris a **réécrit l'Histoire de fond en
+comble.** Au-delà de la perte de l'Internet dans le Grand Chaos (discontinuité subie),
+Polaris a **activement effacé et refait** le récit du passé, autour de l'Architecte.
+
+- **Forte science, forte technologie.** Polaris est techniquement avancé : dômes, écrans,
+  sondes, archéologie numérique, reterraformation. Les savoirs *techniques* sont vivants.
+- **Quasi aucune connaissance historique vraie.** Le passé n'existe que sous forme cultuelle
+  et mythique. On ignore ce que furent les villes, leurs noms, les événements réels.
+- **Le passé est peint comme MAUVAIS.** Le régime enseigne que les hommes d'avant étaient
+  corrompus, damnés, justement châtiés. Aussi les gens de Polaris — qui ont pourtant **leurs
+  propres bâtiments, sous les dômes** — n'imaginent pas l'ancien monde comme le leur, mais
+  comme une chose dégradée et grouillante : ils se figurent les anciens entassés dans des
+  « ruches de pierre », **non par ignorance des bâtiments**, mais parce qu'on leur a appris à
+  voir le passé comme un cloaque. *(Et l'image vise souvent juste — l'aliénation urbaine* ***était***
+  *une ruche : double lecture.)*
+
+`⚑` **Le vrai technoféodalisme** : croyance magique (culte de l'Architecte) **et** haute
+technologie, ensemble. Des chevaliers en combinaison ; des scientifiques qui datent des
+disques durs et prient une momie. **Équilibre difficile, à tenir partout** — ni
+medieval-fantasy sans tech, ni SF rationaliste sans sacré.
+
+`💥` **Moteur de Tanya** : elle a les outils (récupération de données) pour atteindre le
+passé réel — mais Polaris ne lui a transmis que l'Histoire réécrite. Les archives brutes sont
+son **premier contact avec l'Histoire vraie**, et contredisent tout ce qu'on lui a appris.
+La réécriture est le mensonge que la fouille fait craquer.
 
 ### La religion d'État — le culte de l'Architecte
 
@@ -127,22 +164,45 @@ Détails posés par la prose et désormais canon (registre complet :
 
 ---
 
-## 4. Le terrain — Paris souterraine
+## 4. Le terrain — la métropole ensevelie *(Paris, jamais nommé)*
 
-### La ville en 2148
-La **surface** est une ruine irradiée, territoire spirituellement dangereux selon le
-culte, interdite. Le climat n'est plus tempéré : Polaris reterraforme depuis le nord,
-mais l'Europe ressemble désormais au **Maghreb / Moyen-Orient** — chaleur écrasante,
-aridité, lumière dure et ocre.
+> `⚑` **RÈGLE NARRATIVE — ne jamais nommer la ville.** Pour Polaris, le nom ancien est
+> presque perdu : seuls les **lettrés** (dont Tanya) en gardent une vague notion — c'est
+> « Paris » comme « **Lutèce** » l'est pour nous. Pour les autres, ce n'est qu'« une grande
+> métropole de l'ancien monde ». Le lecteur doit **deviner** la ville par des indices,
+> jamais par une étiquette :
+> - la grande **tour de fer ajouré**, ployée mais debout (tour Eiffel) — *posée au ch.1 sc.1* ;
+> - les galeries d'**ossements** rangés (catacombes) — *prévu ch.3* ;
+> - le **métro**, le fleuve, plus tard tel ou tel monument de pierre.
+>
+> Désignations admises : « la métropole », « la cité de l'ancien monde », « la grande
+> morte », « la marge sud ». **Bannis de la prose** : *Paris*, *parisien*, *France*,
+> *français* (ce dernier rendu par « ce vieux pays », « d'ici »…).
 
-> **Un Paris saharien** : les ruines émergent d'une steppe sèche sous un soleil violent.
-> Visuellement neuf — on a vu mille Paris post-apo froids et brumeux, jamais un Paris de fournaise.
+### La ville en 2148 — une métropole entière, pas un monolithe
+Ce n'est pas *une* ruine mais **une étendue de ruines sans bord** : le cœur dense de la
+cité, et tout autour les **faubourgs et les banlieues mortes** — un océan de décombres ocre
+que la steppe reconquiert, jusqu'à l'horizon. La **surface** est une ruine irradiée,
+territoire spirituellement dangereux selon le culte, interdite. Le climat n'est plus
+tempéré : Polaris reterraforme depuis le nord, mais l'Europe ressemble désormais au
+**Maghreb / Moyen-Orient** — chaleur écrasante, aridité, lumière dure et ocre.
+
+> **Une métropole de fournaise** : les ruines émergent d'une steppe sèche sous un soleil
+> violent. Visuellement neuf — on a vu mille capitales post-apo froides et brumeuses, jamais
+> une de fournaise. Au-dessus du chaos, **une seule chose tient debout** : la grande tour de
+> fer (l'indice-maître du lecteur).
+
+`⚑` **Imagerie : atompunk / *Mad Max*.** Le champ de ruines au soleil — carcasses, rouille,
+poussière, bandes de charognards (les **équipes de recyclage** raclent la zone pour ses
+matériaux) — évoque *Mad Max* ; mais **plus archéologique** : on ne traverse pas un désert,
+on **fouille** une métropole entière, dense de bâtiments écroulés et de traces du monde
+d'avant.
 
 `⚑` **Contraste sensoriel fondateur** : dehors la chaleur aride, dedans le froid et
 l'humidité préservés des galeries. La descente sous terre est une descente dans une
 autre température, **un autre temps**.
 
-`⚑` **Zone de marge** : Polaris ayant reconquis depuis le nord, Paris n'est ni tout à
+`⚑` **Zone de marge** : Polaris ayant reconquis depuis le nord, la cité n'est ni tout à
 fait reconquise ni tout à fait perdue. Plus on descend vers le sud, moins Polaris est
 présent — ce qui **renforce l'isolement** de l'équipe.
 

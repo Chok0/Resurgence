@@ -13,14 +13,14 @@ gantée, et le froid montait, montait, jusqu'à ce que la fournaise du dessus ne
 qu'un souvenir incrédule.
 
 Tanya connaissait ce froid : le froid des choses qui se conservent. C'était lui qui faisait
-des galeries parisiennes le trésor qu'on venait jusqu'ici disputer à l'oubli — non la
+de ces galeries le trésor qu'on venait jusqu'ici disputer à l'oubli — non la
 chaleur sèche du sud, qui cuisait et stérilisait tout, mais cette humidité fraîche et
-constante qui gardait le monde d'avant comme une chambre froide garde un corps. En haut, le
-soleil avait tout effacé. En bas, rien n'avait bougé. Le paradoxe ne cessait pas de
-l'émouvoir : il fallait descendre sous la terre brûlée pour retrouver le passé intact.
+constante qui gardait le monde d'avant comme le verre du Sanctuaire gardait l'Architecte. En haut, le
+soleil avait tout effacé ; en bas, rien n'avait bougé. Il fallait passer sous la terre
+brûlée pour retrouver le passé intact.
 
 Le boyau s'élargit. Le faisceau accrocha des formes : un guichet effondré, un tourniquet
-rouge de rouille, un mur couvert de signes qu'elle releva machinalement — des lettres de
+mangé de rouille, un mur couvert de signes qu'elle releva machinalement — des lettres de
 l'ancien alphabet, un nom de station peut-être, illisible sous les coulures. Plus loin, une
 rame arrêtée pour toujours dans son tunnel, les portes ouvertes sur rien. Personne ne
 parlait. Même les chevaliers s'étaient tus, et leur silence à eux n'était pas celui des
@@ -30,8 +30,8 @@ en chantier.
 Vael allait devant, la lampe trop haute, et Tanya voyait sa nuque se raidir à chaque ombre.
 Une fois il s'arrêta net — un bruit, quelque part, une goutte, un tassement — et sa main
 fila vers l'étoile sur sa poitrine avant qu'il ne se reprît. Ce n'était rien. La terre
-travaillait, voilà tout : un siècle de gels et de dégels, d'eaux lentes, de poids qui
-cherchent leur repos. Tanya le nota comme elle notait le reste, et l'on repartit.
+travaillait, voilà tout : un siècle d'eaux lentes, de gouttes, de poids qui cherchent leur
+repos. Tanya le nota comme elle notait le reste, et l'on repartit.
 
 Ils suivirent le fil jusqu'à une porte. Pas une porte de métro — une porte de bureau,
 banale, métallique, à demi arrachée de ses gonds ; et derrière elle, une obscurité qui ne
@@ -55,16 +55,22 @@ qu'on y avait bu. Des plantes réduites à des squelettes gris dans leur pot. Un
 oublié sur un dossier. Partout, la même régularité, la répétition du même poste mille fois
 recopié, comme si l'on avait voulu loger là une foule en la séparant d'elle-même.
 
-Tanya sentit son cœur battre plus vite, de ce battement particulier qu'elle ne connaissait
-qu'ici, sous terre : la joie froide de la trouvaille. Un lieu de travail collectif, et
-d'une conservation miraculeuse. Elle se mit à le lire comme on lit une page. Tant de postes
+Tanya fit un pas de plus dans la salle, plus vif qu'il n'aurait fallu. Un lieu de travail
+collectif, et d'une conservation miraculeuse. Elle se mit à le lire. Tant de postes
 identiques : une activité répétitive, exécutée en masse. L'absence de fenêtres : un labeur
 qui n'avait pas besoin du dehors, ou à qui on le refusait. La taille des alvéoles, calculée
 au plus juste — un corps assis, et rien de plus : on n'avait pas logé là des gens, mais des
 fonctions. Elle ignorait encore ce qu'on y faisait de ses journées et de sa vie. Elle le
-saurait. Les machines, sous les tablettes, en avaient peut-être gardé la mémoire ; et
-c'était cela, arracher cette mémoire au silence, qui la tenait debout au plus profond de la
-nuit du monde.
+saurait. Les machines, sous les tablettes, en avaient peut-être gardé la mémoire ; c'était pour cela
+qu'elle était descendue.
+
+Sur une tablette, près de l'entrée, un petit dieu attendait.
+
+C'est ainsi qu'un des chevaliers le nomma, tout bas, sans franchir le seuil : un dieu. Une
+figurine haute comme la main, un animal assis et doré, la patte levée dans un salut que cent
+ans n'avaient pas fait retomber. « Les choses qui saluent toutes seules, dit-il, attendent
+qu'on les salue en retour. » Tanya la photographia sous trois angles, releva sa position, la
+classa dans sa tête à la rubrique idoles domestiques. Ce n'était pas tout à fait faux.
 
 Derrière elle, aucun des chevaliers n'avait franchi le seuil.
 
@@ -74,11 +80,15 @@ instant à comprendre. Lui ne voyait pas une trouvaille. Lui voyait une Salle de
 Elle connaissait l'enseignement, comme tout le monde : qu'il y avait eu dans l'ancien monde
 des lieux maudits entre tous, des espaces sans dieu où les hommes d'avant venaient s'asseoir
 et se défaire, privés de l'Architecte qui les eût tenus, répétant des gestes vides jusqu'à
-ce que leur âme s'effaçât comme une inscription qu'on cesse d'entretenir. On disait que ces lieux gardaient l'empreinte des âmes perdues ; qu'y entrer
-sans prière, c'était risquer de s'y dissoudre à son tour. Vael priait. Ses lèvres remuaient
-sans bruit, et il ne regardait pas Tanya s'avancer entre les alvéoles comme on regarde une
-collègue au travail : il la regardait comme on regarde quelqu'un descendre vivant dans une
-tombe.
+ce que leur âme s'effaçât comme une inscription qu'on cesse d'entretenir. On disait que ces
+lieux gardaient l'empreinte des âmes perdues ; qu'y entrer sans prière, c'était risquer de
+s'y dissoudre à son tour. Vael priait. Ses lèvres remuaient sans bruit. Il regardait Tanya
+s'avancer entre les alvéoles comme on regarde quelqu'un descendre vivant dans une tombe.
+
+« Reviens, dit-il enfin, tout bas. C'est leur silence, ici. On ne le réveille pas.
+— Ce n'est pas un silence, dit Tanya sans s'arrêter. C'est une panne de courant. »
+
+Elle l'entendit, derrière, qui reprenait sa prière.
 
 Et le plus troublant — la pensée lui vint en passant la main gantée sur une cloison, et lui
 parut presque inconvenante — le plus troublant était que l'enseignement n'avait pas tort.
@@ -103,7 +113,7 @@ l'appareil ouvert : la place des choses disait parfois davantage que les choses.
 prélevait les machines, les vraies cibles, ces boîtes plates glissées sous les tablettes,
 lourdes de la mémoire qu'on espérait y trouver encore. Nieve s'occupait de l'alimentation :
 un siècle sans courant avait tué les batteries, mais les disques, eux, pouvaient avoir gardé
-leurs traces, comme un disque de cire garde une voix. On les lisait sans les faire tourner,
+leurs traces, comme la glace garde une empreinte. On les lisait sans les faire tourner,
 à froid, par des procédés que Tanya aurait été incapable d'expliquer à un chevalier et qui
 tenaient, pour eux, de la nécromancie.
 
@@ -124,9 +134,9 @@ que personne n'avait écrite pour elles et qu'elles lisaient un siècle trop tar
 filles du bureau, dernier vendredi avant.* Avant quoi, le fichier ne le disait pas. Il
 s'arrêtait là.
 
-Tanya resta un moment devant ces visages. C'était son métier, exactement : rendre un instant
-à la lumière. Elle aurait dû éprouver la joie froide de toujours. Au lieu de quoi quelque
-chose, une gêne minuscule, lui passa dessus et s'en alla — la sensation que ces gens-là,
+Tanya resta un moment devant ces visages. Elle aurait dû éprouver la même petite jubilation
+qu'à chaque trouvaille. Au lieu de quoi une gêne minuscule lui passa dessus et s'en alla —
+la sensation que ces gens-là,
 avec leur gâteau et leur dernier vendredi, n'avaient rien de damnés, rien de monstrueux ;
 qu'ils avaient seulement travaillé dans une pièce sans fenêtre et fêté ce qu'ils pouvaient.
 Elle data le fichier, le classa, l'indexa. La gêne, elle ne la nota pas. On n'avait pas de
@@ -153,9 +163,9 @@ colonne pour cela.
 > **Interprétation.** L'ensemble confirme ce que le culte enseigne de ces lieux. Les anciens,
 > privés de l'Architecte, s'y soumettaient d'eux-mêmes à une répétition sans fin et sans
 > objet, dans l'isolement et l'absence de jour — la discipline de l'âme vide que la doctrine
-> nomme l'Oubli. On ne relève aucune trace de contrainte : nul verrou, nulle chaîne. Les
-> occupants venaient là de leur plein gré. La corruption était donc intérieure, comme il est
-> enseigné : ils se damnaient sans qu'on les y forçât.
+> nomme l'Oubli. On ne relève aucune trace de contrainte : nul verrou, nulle chaîne. La
+> présence des occupants paraît avoir été volontaire — ce que l'enseignement sur l'Oubli
+> donne à comprendre.
 >
 > **Recommandation.** Le site présente une haute valeur catéchétique ; il est proposé d'en
 > réserver l'imagerie aux Interprètes. La récupération des supports de mémoire se poursuit ;

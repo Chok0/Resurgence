@@ -25,15 +25,15 @@
 
 ---
 
-## Scène 1 — L'arrivée · le Paris de fournaise
+## Scène 1 — L'arrivée · la métropole de fournaise
 - **Fonction.** Donner une image d'ouverture neuve et **poser la focale de Tanya.**
-- **Lieu / moment.** Surface, plein jour. Ruines de Paris émergeant d'une steppe sèche, chaleur écrasante, lumière ocre.
+- **Lieu / moment.** Surface, plein jour. Une **métropole entière** en ruines (cœur dense + banlieues mortes) émergeant d'une steppe sèche, chaleur écrasante, lumière ocre.
 - **Beats.**
   · Le débarquement sur site. La chaleur, la lumière dure, le silence inhabité. Le corps avant l'esprit.
   · Le **regard d'archéologue** : Tanya lit le paysage en strates, en hypothèses, en data. Rigueur, vocabulaire de métier — *sa* manière de voir le monde.
-  · Premier contact avec ce qu'il reste de Paris : méconnaissable, **mythologisé** par Polaris. Un nom ancien sur une ruine ; un terme du culte glissé sans glose.
-- **À installer.** Le Paris saharien (visuellement neuf), la focale Tanya, le « maintenant » du monde, le métier comme regard.
-- **À tenir (doute).** La mythologisation de Paris est donnée comme **cadre vécu**, pas comme mensonge. On y croit.
+  · Premier contact avec ce qu'il reste de la cité : méconnaissable. `⚑` **Ne jamais nommer la ville** — savoir de lettrés (Tanya), effet « Lutèce » ; indice de déduction posé : la **tour de fer** (Eiffel). Cf. [`../manuscrit/canon.md`](../manuscrit/canon.md).
+- **À installer.** La métropole de fournaise — **sprawl, pas un monolithe** ; visuellement neuf —, la focale Tanya, le « maintenant » du monde, le métier comme regard.
+- **À tenir (doute).** La mythologisation de la cité est donnée comme **cadre vécu**, pas comme mensonge. On y croit.
 - **Texture.** Chaleur aride, ocre, poussière, fournaise. Phrases qui prennent le temps. Registre ethnographique.
 - **Entrée / sortie.** *In medias res* sur la chaleur et le site → bascule vers l'équipe et l'équipement.
 - **Longueur.** Ample. C'est l'image-seuil du roman.

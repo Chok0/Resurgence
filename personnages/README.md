@@ -99,7 +99,7 @@ scènes appelleront des visages) :
 
 - **le chef d'équipe** — complice, manipulé, ou aveugle ? *On ne tranche pas.*
 - **1-2 militaires-chevaliers**, dont **le fouineur** (insiste pour obtenir les données récupérées).
-- **le camarade paranoïaque** — porteur du doute (voir ci-dessous).
+- **le camarade paranoïaque** — porteur du doute (voir ci-dessous). *(Semé au ch.3 sc.2, non nommé : « celui qui voyait des mains partout » ; demande de vérifier l'existence de l'autre équipe, Ostrov refuse.)*
 - **1-2 autres scientifiques**.
 - **Tanya**.
 

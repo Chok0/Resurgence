@@ -2,7 +2,8 @@
 
 > Roman de science-fiction. Une mission d'**archéologie numérique** en 2148 : des
 > équipes issues d'une civilisation post-humaine reconstituée aux pôles (**Polaris**)
-> reviennent fouiller le Paris souterrain pour exhumer la culture de l'ère Internet,
+> reviennent fouiller les souterrains d'une grande métropole ensevelie de l'ancien monde —
+> que le lecteur devine — pour exhumer la culture de l'ère Internet,
 > engloutie lors de la Troisième Guerre mondiale de 2030.
 
 Le geste littéraire est **tolkienien** : bâtir, à partir de fragments réels de la
@@ -22,7 +23,7 @@ relisible et maintenable en clair.
 
 | Dossier | Contenu | Source principale |
 |---|---|---|
-| [`univers/`](univers/) | Le monde : concept, chronologie, régime Polaris, culte de l'Architecte, factions, terrain (Paris saharien & souterrain) | Worldbuilding v1.2 |
+| [`univers/`](univers/) | Le monde : concept, chronologie, régime Polaris, culte de l'Architecte, factions, terrain : la métropole ensevelie, surface & souterrain | Worldbuilding v1.2 |
 | [`personnages/`](personnages/) | Tanya (profil complet, faille, trahison fondatrice) et l'équipe | Worldbuilding v1.2 |
 | [`structure-recit/`](structure-recit/) | L'architecture narrative : régime du doute, structure en accordéon, 5 mouvements, dispositif à 3 niveaux, **vérités d'auteur** | Worldbuilding v1.2 |
 | [`plan-ecriture/`](plan-ecriture/) | La feuille de route opérationnelle : scènes par mouvement, grille de gestion de l'information, chantiers | Plan d'écriture |
@@ -47,7 +48,7 @@ relisible et maintenable en clair.
 - **Worldbuilding** : bible v1.2, dense et stabilisée sur le fond.
 - **Plan d'écriture** : feuille de route par mouvements et scènes établie ; découpage en chapitres à venir.
 - **Écriture de Polaris** : « germe d'écriture », système assemblé — *à casser ou valider*.
-- **Prose du roman** : en cours. **Ch.1 (« Le Seuil ») et ch.2 (« La Descente ») complets** (4 scènes chacun, 1ᵉ jet) ; ch.3 décomposé. Niveau 2 (document intercalé) inauguré au ch.2 sc.4. Voix : 3ᵉ personne, passé, style indirect libre. Cohérence ch.1-2 relue (indépendante). Continuité suivie dans [`manuscrit/canon.md`](manuscrit/canon.md).
+- **Prose du roman** : en cours. **Ch.1-3 complets** (« Le Seuil », « La Descente », « Les crânes » ; 1ᵉ jet). Niveau 2 (document intercalé) inauguré au ch.2 sc.4. Voix : 3ᵉ personne, passé, style indirect libre. Ch.1-2 **audités contre la documentation** (conformes ; entorses de style corrigées) ; **signature** « l'effet d'exhumation » + équilibre technoféodal. Continuité dans [`manuscrit/canon.md`](manuscrit/canon.md) ; garde-fous de style dans [`manuscrit/regles-ecriture.md`](manuscrit/regles-ecriture.md).
 
 ## Questions ouvertes globales
 

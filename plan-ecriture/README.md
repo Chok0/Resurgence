@@ -22,6 +22,7 @@ Chaque chapitre a sa propre décomposition en scènes, prête à rédiger :
 
 - [`chapitre-01.md`](chapitre-01.md) — **« Le Seuil »** (Mvt I) · surface saharienne → seuil de la descente.
 - [`chapitre-02.md`](chapitre-02.md) — **« La Descente »** (Mvt II, début) · galeries → les Salles de l'Oubli (Backrooms).
+- [`chapitre-03.md`](chapitre-03.md) — **« Les crânes »** (fin Mvt II) · l'ossuaire (indice catacombes) → la voix d'ailleurs → le camp.
 
 ---
 
@@ -30,11 +31,11 @@ Chaque chapitre a sa propre décomposition en scènes, prête à rédiger :
 croire avant de le voir se fissurer. *Phase 1.* Registre immersif, dense, presque
 ethnographique — le tell tolkienien y est le plus toléré.
 
-- `◆` **Ouverture — la surface parisienne saharienne**
+- `◆` **Ouverture — la surface de fournaise** *(la métropole ; ne jamais la nommer)*
   · Arrivée sur site. Chaleur écrasante, lumière ocre, ruines émergeant d'une steppe sèche.
-  · Premier contact avec le décor : ce qu'il reste de Paris, méconnaissable, mythologisé.
+  · Premier contact avec le décor : ce qu'il reste de la cité, méconnaissable, mythologisé.
   · Établir le point de vue de Tanya — sa voix, son regard d'archéologue, sa rigueur.
-  → Donner une image d'ouverture neuve (Paris de fournaise) et poser la focale.
+  → Donner une image d'ouverture neuve (métropole de fournaise) et poser la focale.
 - `◆` **La préparation à l'entrée — l'équipe au seuil**
   · Combinaisons, logos Polaris, équipement. Hiérarchies implicites scientifiques / chevaliers.
   · Vocabulaire propre au monde, glissé sans explication (le lecteur reconstitue).
