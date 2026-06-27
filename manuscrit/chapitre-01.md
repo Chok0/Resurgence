@@ -5,22 +5,22 @@
 La porte du transport coulissa et la chaleur tomba sur eux d'un bloc, avec une odeur de
 pierre brûlée.
 
-Aucun relevé n'avait préparé Tanya à cela. Elle avait lu les courbes thermiques, les
-moyennes de la marge sud, vu les chiffres défiler sur ses écrans aux dômes, bien au frais ;
-les chiffres ne tenaient pas dans la peau. Là-haut, la chaleur n'était qu'un nombre qu'on
-corrigeait ; ici, elle avait un corps — vivante, lourde, et d'une couleur. Ocre — l'air, la
-lumière, la poussière en suspens, tout. Le mot lui vint avant même le nom du lieu.
+On l'avait pourtant prévenue, là-haut, dans le froid des dômes : il ferait chaud sur la
+marge sud, plus chaud qu'un vivant n'en a l'idée. Mais une leçon ne tient pas dans la peau.
+Là-haut, la chaleur n'était qu'un mot qu'on apprenait ; ici, elle avait un corps — lourde,
+vivante, et d'une couleur. Ocre. L'air, la lumière, la poussière en suspens : tout. Le mot
+lui vint avant même le nom du lieu.
 
 Elle descendit la rampe, et le sol de l'ancien monde lui rendit sa chaleur par en dessous.
 
 Devant elle, la steppe — et la ville dans la steppe. Car ce n'était pas une ruine qui
 montait à l'horizon, mais une étendue de ruines sans bord, qui commençait sous ses pieds et
-courait jusqu'au tremblé de la chaleur. Des faubourgs entiers réduits à des moignons de
-béton ; des banlieues mortes que le sable comblait par les fenêtres ; des avenues qu'on
-devinait encore à l'alignement de leurs souches. Le tout cuit, ocré, rendu à la poussière,
-et si vaste que l'œil y renonçait. Au loin seulement, là où les bâtisses se serraient, on
-devinait un cœur plus dense — la cité même, celle qui avait jadis donné son nom à toute
-l'étendue.
+courait jusqu'au tremblé de la chaleur. Le peuple d'avant avait vécu là par multitudes,
+entassé dans des ruches de pierre grise dont il ne restait que des moignons ; le sable
+montait à l'assaut des plus basses, par les trous qui avaient été des fenêtres. Le tout
+cuit, ocré, rendu à la poussière, et si vaste que l'œil y renonçait. Au loin seulement, là
+où les carcasses se serraient et grandissaient, on devinait un cœur plus dense — la cité
+même, celle qui avait jadis donné son nom à toute l'étendue.
 
 Car elle avait porté un nom. Les lettrés le savaient encore — Tanya en était —, un de ces
 noms du monde d'avant, courts et durs, qu'on n'était jamais tout à fait sûr de bien
@@ -31,19 +31,19 @@ Grand Chaos, et que l'Architecte, dans sa sagesse, avait laissée dormir un siè
 l'interdit.
 
 Tanya plissa les yeux. Le métier reprenait déjà le dessus, plus fort que la sueur, plus
-fort que le petit malaise d'être là, debout, à découvert, sous le ciel du châtiment. Elle
-lisait. C'était plus fort qu'elle — elle lisait le paysage comme une coupe stratigraphique.
-Sous les herbes, quelque part, le niveau de la catastrophe : cette couche de cendre et de
-verre fondu que tous les chantiers retrouvaient à la même profondeur, signature du jour où
-le ciel était tombé. Ces masses trop régulières pour être des collines : des immeubles
-affaissés, un siècle d'effondrement tassé en buttes douces.
+fort que le petit malaise d'être là, à découvert, sous le ciel du châtiment. Elle lisait.
+C'était plus fort qu'elle — elle lisait le sol par couches, comme une chose qu'on déterre.
+Sous les herbes, quelque part, le lit de la catastrophe : cette nappe de cendre et de verre
+fondu qu'on retrouvait partout à la même profondeur, la trace du jour où le ciel était
+tombé. Ces masses trop régulières pour être des collines : des bâtisses effondrées, un
+siècle d'effondrement tassé en buttes douces.
 
 Et une seule chose, dans tout cela, tenait encore debout. Très loin, vers le cœur dense, une
-haute carcasse de fer montait au-dessus des décombres — une tour ajourée, faite de
-croisillons et de vide, ployée sur un flanc, rongée de rouille, et debout quand même. Tanya
-ignorait à quoi elle avait servi ; personne, à Polaris, ne le savait plus. Mais on la voyait
-de partout, et elle disait une seule chose : ici, des hommes avaient bâti vers le haut, et
-ils en avaient eu les moyens.
+forme se dressait au-dessus des décombres — haute, étroite, montée vers le ciel comme une
+lance plantée, ployée sur un flanc et debout quand même après tout ce temps. De si loin, on
+n'en voyait que la silhouette noire. Tanya ignorait à quoi elle avait servi ; personne, à
+Polaris, ne le savait plus. Mais on la voyait de partout, et elle disait une seule chose :
+ici, des hommes avaient bâti vers le haut, et ils en avaient eu les moyens.
 
 Elle connaissait par cœur ce que les Interprètes enseignaient de ces lieux. Que la surface
 était le territoire du châtiment ; que le soleil y brûlait encore de la colère qui avait

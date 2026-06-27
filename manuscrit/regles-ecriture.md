@@ -40,6 +40,33 @@ cligne jamais de l'œil.** Quatre leviers :
 > **Dosage : un assaisonnement, pas un plat.** L'effet vit de sa rareté et de son sérieux.
 > Trop appuyé, il tourne au numéro comique ; bien dosé, c'est la voix du livre.
 
+## La courbe de genre — Tolkien → Orwell → Alien
+Le roman **glisse de genre sous le lecteur** : on croit ouvrir un *fantasy néo-rétro
+technoféodal* (chevaliers, culte, cité maudite), on se retrouve dans une *SF politique* puis
+*horrifique* (dystopie réelle, enfin huis clos mortel). Règle d'or : **le registre de la
+prose épouse la courbe.** *(La courbe au niveau de la certitude du lecteur est détaillée
+dans [`../structure-recit/`](../structure-recit/) — les 4 phases ; ici, son exécution
+stylistique.)*
+
+1. **L'ouverture doit se lire comme un monde imaginaire.** Mettre au premier plan le
+   mythique, le sacré, le féodal (chevaliers, rituels, l'interdit, l'Architecte) ; **taire la
+   science** au seuil — pas de « relevés / courbes thermiques / écrans / stratigraphie », qui
+   trahissent la SF trop tôt. Le lecteur doit *flotter dans la fantasy* avant de comprendre
+   où et quand il est.
+2. **Étranger nos référents.** Nos villes, nos objets, nos lieux ne se nomment pas en clair :
+   pas « banlieues / béton / immeubles » mais « des ruches de pierre grise », « le peuple
+   d'avant entassé ». On garde l'image (l'étendue, la densité), on retire l'étiquette
+   moderne. *(Prolonge la signature — l'effet d'exhumation.)*
+3. **Le lieu est une révélation lente et folklorique.** On ne nomme jamais la ville (cf.
+   [`canon.md`](canon.md)). Le lecteur **finit par comprendre** que c'est Paris par
+   accumulation d'indices rapportés en mythe — les galeries d'ossements (catacombes), la
+   grande forme de fer *enfin* reconnue (la tour), le fleuve. Jamais un panneau, toujours une
+   déduction. *(La silhouette de la tour est posée au ch.1, non identifiable ; sa
+   reconnaissance est différée.)*
+4. **Le registre migre avec l'histoire.** Mythique/sacré à la surface (Tolkien) → clinique,
+   politique dès que les archives parlent (Orwell, à partir des Backrooms) → charnel, paniqué
+   dans le bunker et face aux morts (Alien). La prose elle-même change de peau.
+
 ## Garde-fous
 1. **Comparaisons « comme » : rationner ET les sourcer dans le monde de Polaris**
    (cf. Signature §1). ~1–2 par scène, motivées (Tanya lit le paysage « comme une coupe
