@@ -60,7 +60,9 @@ stylistique.)*
    l'Histoire** (réécrite ; cf. [`canon.md`](canon.md) § équilibre technoféodal). Le sentiment
    de fantasy ne vient pas d'une absence de tech, mais du **cadre féodal-cultuel** (chevaliers,
    rituels, l'interdit, l'Architecte) posé sur un **passé effacé** : on a les outils pour
-   fouiller le passé, pas les mots pour le comprendre. *(Réf. : le Soleil de Wolfe, Dune.)*
+   fouiller le passé, pas les mots pour le comprendre. *(Réf. : **Dune** et surtout **Mad
+   Max** — mythologie plaquée sur une tech fonctionnelle ; le Soleil de Wolfe — tech vécue
+   comme magie faute d'Histoire.)*
 2. **Étranger nos référents.** Nos villes, nos objets, nos lieux ne se nomment pas en clair :
    pas « banlieues / béton / immeubles » mais « des ruches de pierre grise », « le peuple
    d'avant entassé ». On garde l'image (l'étendue, la densité), on retire l'étiquette

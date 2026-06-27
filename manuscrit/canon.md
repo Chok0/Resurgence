@@ -25,6 +25,9 @@ technologie visible** (ne jamais primitiviser, même à l'ouverture) ; **étrang
 parce qu'ils n'en ont plus l'Histoire, pas parce qu'ils manquent d'outils. Ni
 medieval-fantasy sans tech, ni SF sans sacré. Détail :
 [`../univers/README.md`](../univers/README.md) § réécriture de l'Histoire.
+**Réf. esthétiques** : *Dune*, *Mad Max* (mythe sur tech fonctionnelle). **Deux zones** :
+Polaris = solarpunk-façade sur théocratie ; marges sud = champ de ruines *Mad Max* /
+atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../univers/README.md) § 1.
 
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |

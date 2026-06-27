@@ -22,9 +22,19 @@ comprend qu'il lit une **dystopie politique post-climatique réaliste**.
 
 > Les monstres sont des mèmes. Les dieux sont des algorithmes. Le péché originel est un crime économique.
 
-`⚑` **Esthétique du monde** : post-apo solarpunk dystopique. Combinaisons à logos
-Polaris, soldats appelés *chevaliers*, rituels avant la descente. Un univers à la
-cohérence visuelle et sociale propre — **avant** d'être fissuré.
+`⚑` **Deux esthétiques, deux zones :**
+> - **Polaris (le Nord, les dômes)** — un **solarpunk en apparence idyllique** (verdure
+>   reconstituée, harmonie, abondance) qui **cache** une théocratie autoritaire réécrivant
+>   l'Histoire pour se servir. *La belle façade est le mensonge.*
+> - **Les marges sud (le chantier)** — un **champ de ruines atompunk, façon *Mad Max***
+>   (soleil dur, carcasses, charognards), mais **plus dense** en bâtiments écroulés et en
+>   traces du passé : tout l'enjeu y est archéologique.
+
+`⚑` **Calibrage magie / technologie** — réf. **Dune** et surtout **Mad Max** : une mythologie
+plaquée sur une technologie pleinement fonctionnelle (moteurs, modifications corporelles
+là-bas ; combinaisons, écrans, sondes ici). Polaris **n'est jamais primitif** — *ni
+medieval-fantasy sans tech, ni SF sans sacré* (voir
+[`../manuscrit/regles-ecriture.md`](../manuscrit/regles-ecriture.md)).
 
 ---
 
@@ -181,6 +191,12 @@ tempéré : Polaris reterraforme depuis le nord, mais l'Europe ressemble désorm
 > violent. Visuellement neuf — on a vu mille capitales post-apo froides et brumeuses, jamais
 > une de fournaise. Au-dessus du chaos, **une seule chose tient debout** : la grande tour de
 > fer (l'indice-maître du lecteur).
+
+`⚑` **Imagerie : atompunk / *Mad Max*.** Le champ de ruines au soleil — carcasses, rouille,
+poussière, bandes de charognards (les **équipes de recyclage** raclent la zone pour ses
+matériaux) — évoque *Mad Max* ; mais **plus archéologique** : on ne traverse pas un désert,
+on **fouille** une métropole entière, dense de bâtiments écroulés et de traces du monde
+d'avant.
 
 `⚑` **Contraste sensoriel fondateur** : dehors la chaleur aride, dedans le froid et
 l'humidité préservés des galeries. La descente sous terre est une descente dans une
