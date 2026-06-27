@@ -61,6 +61,13 @@ Polaris a **activement effacé et refait** le récit du passé, autour de l'Arch
   sondes, archéologie numérique, reterraformation. Les savoirs *techniques* sont vivants.
 - **Quasi aucune connaissance historique vraie.** Le passé n'existe que sous forme cultuelle
   et mythique. On ignore ce que furent les villes, leurs noms, les événements réels.
+- **Le passé est peint comme MAUVAIS.** Le régime enseigne que les hommes d'avant étaient
+  corrompus, damnés, justement châtiés. Aussi les gens de Polaris — qui ont pourtant **leurs
+  propres bâtiments, sous les dômes** — n'imaginent pas l'ancien monde comme le leur, mais
+  comme une chose dégradée et grouillante : ils se figurent les anciens entassés dans des
+  « ruches de pierre », **non par ignorance des bâtiments**, mais parce qu'on leur a appris à
+  voir le passé comme un cloaque. *(Et l'image vise souvent juste — l'aliénation urbaine* ***était***
+  *une ruche : double lecture.)*
 
 `⚑` **Le vrai technoféodalisme** : croyance magique (culte de l'Architecte) **et** haute
 technologie, ensemble. Des chevaliers en combinaison ; des scientifiques qui datent des

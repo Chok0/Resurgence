@@ -30,6 +30,12 @@ cligne jamais de l'œil.** Quatre leviers :
    calice, une relique, une Salle de l'Oubli —, l'écart laissé au lecteur. Tantôt poignant,
    tantôt drôle : un chat porte-bonheur devient « un petit dieu » ; un open space, un lieu de
    damnation.
+   **D'où vient l'écart** : pas de la naïveté (ils ont la tech, et leurs propres bâtiments
+   sous les dômes) mais de la **propagande** — on leur a appris que les anciens étaient
+   mauvais, alors ils se figurent leur monde dégradé, bestial, maudit. La formule folklorique
+   est donc *moralement chargée* (« ruches » dit l'insecte, le grouillement) — et **souvent
+   accidentellement vraie** (double lecture). *Piste à exploiter : opposer leur propre demeure
+   (sous les dômes) à la « ruche » qu'ils prêtent aux anciens.*
 3. **L'éclat verbatim.** Une à deux fois par chapitre, un fragment du web mort surgit **non
    traduit** — une légende (« les filles du bureau, dernier vendredi avant »), une note de
    service, un message d'erreur, un mème : un îlot de notre langue échoué dans la leur.
@@ -58,7 +64,10 @@ stylistique.)*
 2. **Étranger nos référents.** Nos villes, nos objets, nos lieux ne se nomment pas en clair :
    pas « banlieues / béton / immeubles » mais « des ruches de pierre grise », « le peuple
    d'avant entassé ». On garde l'image (l'étendue, la densité), on retire l'étiquette
-   moderne. *(Prolonge la signature — l'effet d'exhumation.)*
+   moderne. *(Prolonge la signature — l'effet d'exhumation.)* **Le partage de registre** :
+   *clinique* sur leur propre monde, qu'ils maîtrisent (écrans, sondes, données) ;
+   *folklorique et moral* sur le passé, qu'ils mythologisent. Ce contraste, dans une même
+   tête, **est** le technoféodal.
 3. **Le lieu est une révélation lente et folklorique.** On ne nomme jamais la ville (cf.
    [`canon.md`](canon.md)). Le lecteur **finit par comprendre** que c'est Paris par
    accumulation d'indices rapportés en mythe — les galeries d'ossements (catacombes), la
