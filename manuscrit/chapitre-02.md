@@ -20,7 +20,7 @@ soleil avait tout effacé ; en bas, rien n'avait bougé. Il fallait passer sous 
 brûlée pour retrouver le passé intact.
 
 Le boyau s'élargit. Le faisceau accrocha des formes : un guichet effondré, un tourniquet
-rouge de rouille, un mur couvert de signes qu'elle releva machinalement — des lettres de
+mangé de rouille, un mur couvert de signes qu'elle releva machinalement — des lettres de
 l'ancien alphabet, un nom de station peut-être, illisible sous les coulures. Plus loin, une
 rame arrêtée pour toujours dans son tunnel, les portes ouvertes sur rien. Personne ne
 parlait. Même les chevaliers s'étaient tus, et leur silence à eux n'était pas celui des
@@ -55,9 +55,8 @@ qu'on y avait bu. Des plantes réduites à des squelettes gris dans leur pot. Un
 oublié sur un dossier. Partout, la même régularité, la répétition du même poste mille fois
 recopié, comme si l'on avait voulu loger là une foule en la séparant d'elle-même.
 
-Tanya sentit son cœur battre plus vite, de ce battement particulier qu'elle ne connaissait
-qu'ici, sous terre : la joie froide de la trouvaille. Un lieu de travail collectif, et
-d'une conservation miraculeuse. Elle se mit à le lire. Tant de postes
+Tanya fit un pas de plus dans la salle, plus vif qu'il n'aurait fallu. Un lieu de travail
+collectif, et d'une conservation miraculeuse. Elle se mit à le lire. Tant de postes
 identiques : une activité répétitive, exécutée en masse. L'absence de fenêtres : un labeur
 qui n'avait pas besoin du dehors, ou à qui on le refusait. La taille des alvéoles, calculée
 au plus juste — un corps assis, et rien de plus : on n'avait pas logé là des gens, mais des

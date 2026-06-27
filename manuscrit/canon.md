@@ -36,6 +36,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Ostrov** | chef d'équipe (scientifique) | répond de tout sans décider ; recompte son monde | ch.1 sc.2 | [fiche](../personnages/equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya | « choisies » 3 missions plus tôt ; part-famille de Tanya | ch.1 sc.2 | [fiche](../personnages/equipe/nieve.md) |
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
+| **(le paranoïaque)** | membre de l'équipe — *non nommé* | « celui qui voyait des mains partout » ; demande de vérifier l'existence de l'autre équipe ; Ostrov refuse | ch.3 sc.2 | rôle : [README](../personnages/README.md) |
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
@@ -43,6 +44,8 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **La marge sud** : la métropole s'y trouve — plus on descend au sud, plus il fait chaud et moins Polaris est présent.
 - **La métropole** *(ch.1)* : pas un monolithe — une étendue de ruines sans bord (cœur dense + multitudes d'habitations en périphérie) que la steppe reconquiert. **Jamais nommée**, et **rendue en termes folkloriques** dans la prose (« ruches de pierre grise », « le peuple d'avant entassé ») — surtout pas « banlieues / béton / immeubles », qui trahiraient la Terre et la SF trop tôt.
 - **La tour de fer** *(ch.1)* : la seule chose encore debout. Au ch.1, **seulement une silhouette lointaine non identifiable** (« une forme haute, étroite, comme une lance plantée », « la silhouette noire »). La reconnaissance (Eiffel → Paris) est **différée** à un indice folklorique ultérieur : le lecteur ne doit pas deviner la ville dès l'ouverture. Indice-maître, mais à retardement.
+- **Le camp de base** *(ch.3)* : station de surface étayée, à la lisière du soleil ; pivot de la **spirale** (descendre / rapporter / remonter / redescendre).
+- **La liaison** *(ch.3)* : comms intermittentes avec d'autres équipes, via les relais de Polaris (montée aux dômes, redescente) — lointaines, déformées, **invérifiables** (« on ne voit jamais au bout »).
 - **La bouche nord** : point de descente du chantier (ancienne entrée de métro).
 - **Le fil** : ligne-guide lumineuse de la descente. Protocole : « personne ne s'écarte du fil ».
 - **Les équipes de recyclage** : dégagent et préparent les accès ; marquent **les poches** (zones repérées) sur le plan d'Ostrov.
@@ -65,6 +68,9 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Codes de site** : la fouille référence les lieux par code — ex. **PS-9 « bouche nord »** (ch.2 sc.4).
 - **Le fragment-photo** *(ch.2 sc.3)* : une photographie d'anniversaire reconstituée d'un disque ; légende survivante « *les filles du bureau, dernier vendredi avant* ». Premier visage humain rendu à la lumière — anodin, déchirant. *(Exemple d'**éclat verbatim**, cf. signature.)*
 - **Le petit dieu** *(ch.2 sc.2)* : figurine dorée à la patte levée — un **chat porte-bonheur** — que les chevaliers prennent pour une idole vivante et que Tanya classe en « idoles domestiques » (« pas tout à fait faux »). Premier exemple de la **nomenclature décalée** (cf. [`regles-ecriture.md`](regles-ecriture.md) § signature).
+- **Les galeries d'os** *(ch.3 sc.1)* : un ossuaire ancien (murs de crânes et de fémurs rangés, *bien antérieurs* à la guerre) — **indice de déduction « catacombes »** ; jamais nommé. Lecture cultuelle : preuve de la corruption des anciens (« un peuple qui s'était fait des murs de ses pères »). Tanya y voit aussi l'économie/la piété, mais se tait. Sous l'ossuaire, **mort superposée** : un campement de réfugiés de 2030 (châlits, poêle, cuisine commune).
+- **« On tient le coup »** *(ch.3 sc.1)* : éclat verbatim — trois mots gravés par un réfugié de 2030, à côté de bâtons comptés par cinq qui s'arrêtent net. Tanya les lit « parce que c'était presque encore sa langue ».
+- **Les recueils des dômes** *(ch.3 sc.3)* : à l'école, le passé enseigné via des extraits « choisis, classés, commentés » — l'Histoire réécrite. Les disques bruts (non « relus ») sont le contraire : **le moteur de la dissonance de Tanya**.
 - **Le rapport d'étape (niveau 2)** *(ch.2 sc.4)* : document officiel transmis à Polaris. L'équipe décrit **juste** et **interprète faux** — l'open space (exploitation économique) recodé en damnation spirituelle (« nul verrou, nulle chaîne… ils se damnaient sans qu'on les y forçât »). Confirme le culte involontairement. *Rédigé par Ostrov ; relevés signés par Tanya, qui laisse partir le rapport.*
 - **« Expurgation d'usage »** : les données sont censurées en routine avant transmission à Polaris — présenté comme procédure normale. **Graine** du futur « trou dans les métadonnées » (Mvt IV).
 
@@ -89,8 +95,12 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Signature « effet d'exhumation » intégrée** (ch.1-2) : figures sourcées dans le monde de Polaris (la chaleur vs les dômes ; les galeries « comme le verre du Sanctuaire gardait l'Architecte » ; « comme la glace garde une empreinte »), **nomenclature décalée** (le petit dieu), éclat verbatim, pince-sans-rire grave. Aucune entorse au régime du doute (le chat n'est pas animé : les chevaliers projettent ; Tanya catalogue). ✓
 - **Courbe de genre + équilibre technoféodal (ch.1 sc.1)** : ouverture en **monde imaginaire technoféodal** — la **tech reste visible** (relevés, écrans, chantiers de fouille), mais le **passé est étranger** car l'Histoire est effacée : référents réels folklorisés (« ruches de pierre grise », non « banlieues / béton »), ville jamais nommée, tour Eiffel réduite à une silhouette. Le lecteur croit d'abord à un **monde imaginaire** (Tolkien) avant la SF (Orwell) puis l'horreur (Alien). Détails : [`regles-ecriture.md`](regles-ecriture.md) §§ courbe de genre + équilibre ci-dessus. ✓
 
+## Cohérence vérifiée — Chapitre 3
+- **Audit indépendant ch.1-2 vs documentation** : fond **parfaitement conforme** (nommage, équilibre technoféodal, courbe de genre, signature, folklore = propagande, régime du doute, canon ↔ prose). 4 entorses de style **corrigées** : « joie froide » (montrée par l'acte), « rouge de rouille » → « mangé de rouille », « goût de cendre et de rouille » → « pierre chaude », motif « figé en plein geste » allégé au ch.1 (réservé à l'appareil ouvert du ch.2). ✓
+- **Ch.3 (auto-contrôle)** : Phase 2 qui s'installe ; **virage gothique** (l'ossuaire) — un pas vers *Alien*. Les galeries d'os = **indice de déduction « Paris »**, jamais nommé. Folklore = propagande (les anciens « damnés » ; « la leçon ne ment pas sur les faits »). Doute : l'autre équipe **invérifiable** (symétrie avec la Voix) ; le paranoïaque semé **sans être lucide** ; la dissonance de Tanya monte (les *recueils* réécrits vs les disques bruts) **sans réveil** (« ce n'était pas son travail de juger »). Aucun monstre, IA intouchée, aucun ordre. Tech présente (lampes, liaison, station de lecture). ✓
+
 ## Points de vigilance pour la suite
-- **Ch.2 : complet** (4 scènes). Contenu gardé **fragmentaire** — aucun corpus-pilier déployé avant le Mvt III. ✓
-- **Ch.3 (fin Mvt II)** : les **catacombes / les crânes** ; **première communication avec l'autre équipe** (présence à poser pour pouvoir la faire vaciller plus tard).
-- **Ne pas dépasser la dose de Phase 2** : le lecteur voit l'écart, sans certitude dystopique encore (ça, c'est le Mvt III).
+- **Ch.1-3 : complets et vérifiés.** Contenu gardé **fragmentaire** — aucun corpus-pilier déployé avant le Mvt III. ✓
+- **Ch.4 (Mvt III)** : la **spirale** se resserre ; déployer 2-3 **corpus-piliers** en lecture lente (threads politiques, SCP, vaporwave) ; **le premier ordre** de Polaris qui recentre les priorités ; **le premier silence** de l'autre équipe ; **le premier bruit** (silhouette, cause mundane posée). Développer le **paranoïaque** (dérangeant sans fiable).
+- **Ne pas dépasser la dose de Phase 2** : le lecteur voit l'écart, sans certitude dystopique encore.
 - **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.

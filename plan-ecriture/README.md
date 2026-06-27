@@ -22,6 +22,7 @@ Chaque chapitre a sa propre décomposition en scènes, prête à rédiger :
 
 - [`chapitre-01.md`](chapitre-01.md) — **« Le Seuil »** (Mvt I) · surface saharienne → seuil de la descente.
 - [`chapitre-02.md`](chapitre-02.md) — **« La Descente »** (Mvt II, début) · galeries → les Salles de l'Oubli (Backrooms).
+- [`chapitre-03.md`](chapitre-03.md) — **« Les crânes »** (fin Mvt II) · l'ossuaire (indice catacombes) → la voix d'ailleurs → le camp.
 
 ---
 

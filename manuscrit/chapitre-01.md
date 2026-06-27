@@ -59,11 +59,10 @@ surface n'était qu'un seuil. Le vrai travail attendait dessous, à l'abri du ci
 Grand Chaos avait scellé sans le vouloir un monde intact. Déjà Tanya pensait au froid des
 galeries, à l'impatience qui la prenait toujours au bord d'une fouille. Un Pompéi, disait son vieux
 maître d'études — un Pompéi, sauf que les morts y seraient des disques durs, des serveurs,
-des écrans éteints au milieu d'un geste, et qu'il faudrait les exhumer avec les mêmes
-égards qu'un corps.
+des écrans éteints, et qu'il faudrait les exhumer avec les mêmes égards qu'un corps.
 
-Le vent se leva enfin, un souffle tiède qui souleva la poussière et la lui jeta aux lèvres.
-Elle eut sur la langue un goût de cendre et de rouille. Quelque part sous cette plaine, à des
+Le vent se leva enfin, un souffle tiède qui souleva la poussière et la lui jeta aux lèvres,
+sèche, au goût de pierre chaude. Quelque part sous cette plaine, à des
 strates de profondeur, dormaient aussi les gens dont elle tenait, disait son
 dossier, une part oubliée du sang : une lignée d'ici, enfouie, une rumeur dans les
 archives d'une orpheline. Elle n'en éprouva rien de précis. Un ancêtre n'a pas de visage.

@@ -48,7 +48,7 @@ relisible et maintenable en clair.
 - **Worldbuilding** : bible v1.2, dense et stabilisée sur le fond.
 - **Plan d'écriture** : feuille de route par mouvements et scènes établie ; découpage en chapitres à venir.
 - **Écriture de Polaris** : « germe d'écriture », système assemblé — *à casser ou valider*.
-- **Prose du roman** : en cours. **Ch.1 (« Le Seuil ») et ch.2 (« La Descente ») complets** (4 scènes chacun, 1ᵉ jet) ; ch.3 décomposé. Niveau 2 (document intercalé) inauguré au ch.2 sc.4. Voix : 3ᵉ personne, passé, style indirect libre. Ch.1-2 relus (cohérence + **passe stylistique sévère**) et dotés d'une **signature** distinctive (« l'effet d'exhumation »). Continuité dans [`manuscrit/canon.md`](manuscrit/canon.md) ; garde-fous de style dans [`manuscrit/regles-ecriture.md`](manuscrit/regles-ecriture.md).
+- **Prose du roman** : en cours. **Ch.1-3 complets** (« Le Seuil », « La Descente », « Les crânes » ; 1ᵉ jet). Niveau 2 (document intercalé) inauguré au ch.2 sc.4. Voix : 3ᵉ personne, passé, style indirect libre. Ch.1-2 **audités contre la documentation** (conformes ; entorses de style corrigées) ; **signature** « l'effet d'exhumation » + équilibre technoféodal. Continuité dans [`manuscrit/canon.md`](manuscrit/canon.md) ; garde-fous de style dans [`manuscrit/regles-ecriture.md`](manuscrit/regles-ecriture.md).
 
 ## Questions ouvertes globales
 
