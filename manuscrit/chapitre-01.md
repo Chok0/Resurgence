@@ -19,9 +19,12 @@ Ils n'étaient pas venus pour la ville. Ils étaient venus pour ce qui dormait d
 À des jours de descente, là-dessous, une autre équipe avait trouvé le Gisement : une salle
 de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Toute
 une voix d'avant, gardée au froid — quand Polaris n'avait plus, de son propre passé, que ce
-que le culte en récitait. On ne remonterait pas ces disques pour les lire : on les remonterait
-pour que le Sanctuaire les pèse, que les Interprètes y trouvent de quoi nourrir la leçon, que
-les hommes des dômes y reprennent ce qu'on ne savait plus faire. Le passé était la seule mine
+que le culte en récitait. On ne remontait pas tout, d'une fouille :
+on triait. Ce qui pouvait servir montait aux dômes — un savoir, une arme, et surtout ce qui
+ressemblait aux récits de l'Architecte, ces vieilles peurs des anciens où les chevaliers
+reconnaissaient leurs propres démons. Le reste, la part corruptrice, on le rendait au noir ; on
+ne laisse pas remonter au grand jour la parole des damnés. Trier la lumière d'avec le noir,
+selon la règle apprise, c'était le métier autant que de prélever. Le passé était la seule mine
 qui restât, et celle-ci était la plus riche qu'on eût ouverte. Les premiers l'avaient signalée.
 Puis ils s'étaient tus. Onze jours, maintenant.
 

@@ -136,6 +136,17 @@ propagande*.
   rationnelle** — tout « monstre » a peut-être quatre pattes et faim. *Toujours laisser cette
   porte ouverte.*
 
+`💥` **Le moteur de la peur — les creepypastas comme confirmation.** La terreur des équipes ne
+tient pas qu'aux légendes apprises : elle se **nourrit de ce qu'elles trouvent**. Sous terre,
+elles tombent sur les **creepypastas** de l'ancien monde (SCP, Slender, Backrooms) — et y
+**reconnaissent leurs propres démons**, en plus vieux, en plus déformé. Pour un chevalier, ce
+n'est pas une fiction : c'est la **preuve** que les monstres sont **attestés depuis toujours**.
+Le régime le sait et **remonte ces récits exprès** : ils renforcent la propagande. La vérité
+d'auteur — *deux mythologies inventées séparément (les anciens pour jouer, l'Architecte pour
+régner) qui se ressemblent par convergence* — n'est jamais dite ; le doute reste entier (cf.
+§ religion : convergence **ou** l'Architecte connaissait les sources). C'est l'engin qui rend
+les Salles de l'Oubli (ch.2) **effrayantes** et non muséales.
+
 `⚑` **Dosage** : suggérer, jamais exhiber. Une légende dite par un chevalier, une peur dans un
 corps, un bruit qu'on explique à moitié. Le **doute** reste roi (cf.
 [`../structure-recit/`](../structure-recit/) § régime du doute).
@@ -163,35 +174,53 @@ Chaque découverte fonctionne sur **deux niveaux simultanés** :
 
 > Tanya est la seule à regarder assez longtemps pour voir les deux à la fois.
 
-### Objectifs de la mission
-- **Officiel** : préparer la recolonisation, évaluer les infrastructures.
-- **Caché (bloc militaire)** : récupérer des technologies de surveillance et de contrôle.
-- **Non anticipé** : que les archives soient *lisibles, cohérentes, et politiquement destructrices* pour le culte.
+### Objectifs de la mission — `⚑` **une opération de contrôle de la mémoire, pas une archéologie**
+> **But stratégique** : **recoloniser les marges sud.** Les expéditions ouvrent la voie — en
+> nettoyant le terrain (recyclage) **et** en nettoyant la mémoire (suppression). On n'exhume
+> pas pour savoir : on exhume pour **maîtriser ce qui se sait**.
 
-`⚑` **Pourquoi exhumer — et pourquoi ça vaut des morts.** *(Réponse, à rendre lisible dans la
-prose, au « à quoi sert la récupération de données ? ».)* Polaris a **effacé sa propre
-Histoire** et **est la dernière humanité** : il n'a plus d'autre accès au passé réel que ces
-ruines. Le sous-sol de la métropole est le plus grand **gisement de savoir d'avant** jamais
-ouvert — et Polaris en a besoin à trois titres, qui se superposent :
-> - **Le culte** : chaque artefact, pesé par les **Interprètes**, devient *preuve de la
->   damnation des anciens* — la matière première de la propagande qui légitime le régime. *Le
->   passé est une ressource qu'on raffine.*
-> - **Le militaire / les technocrates** : technologies récupérables (surveillance, armement) et,
->   graal discret, **les origines du modèle de transcendance** — la généalogie technique de leur
->   dieu (cf. [`../corpus-webculture/`](../corpus-webculture/) § strates de l'unité).
-> - **L'existentiel** : Polaris dépend, pour survivre (reterraformation, médecine, ingénierie),
->   de savoirs qu'il **ne sait plus produire** depuis qu'il a damné le monde qui les fit. *Il a
->   maudit la chose dont il a besoin.*
+Quand Polaris envoie une équipe d'exploration, **deux objectifs**, dans cet ordre :
+
+1. **`⚑` Faire DISPARAÎTRE les données compromettantes** *(objectif premier — la vraie mission)*.
+   Tout ce qui ruine le récit du régime : la preuve que **la démocratie a existé** ; qu'une
+   **vraie science / un vrai savoir** ont existé hors du culte ; et que **les monstres n'existent
+   pas** (qu'ils sont une invention). On ne remonte pas ça : on l'**efface**. *Tanya n'est pas une
+   curatrice — c'est une **censeur avec une pelle**.*
+2. **Récolter, au passage, ce qui sert le régime.** **Science** et **armement** utilisables ;
+   et surtout les **creepypastas** (SCP, Slender, Backrooms…) — qui apparaissent comme une
+   **version ancestrale et déformée du mythe de Polaris** : on les remonte parce qu'elles
+   **renforcent la propagande** (les démons seraient attestés depuis l'ancien monde). `💥` **C'est
+   aussi pourquoi les équipes ont peur** : elles tombent sur ces récits et les lisent comme la
+   **confirmation** de ce qu'on leur a enseigné — sans savoir que les deux mythes ont été
+   *inventés séparément* et ne se « confirment » que par hasard.
+
+**Objectif annexe** : les **équipes de recyclage** raclent la zone pour ses **matériaux et
+matériel** (cf. § terrain — imagerie *Mad Max*).
+
+`⚑` **Conséquences narratives décisives** :
+- **Le moine copiste = l'acte transgressif central.** Si la mission est d'**effacer**, alors
+  **copier au lieu d'effacer** est la vraie trahison de Tanya. Le geste final (ch.7 : elle
+  nettoie le rapport **et** garde une copie) reproduit en miniature l'opération du régime, à
+  l'envers. *Préserver ce qu'on doit annihiler.*
+- **Phase 1 = la suppression vécue comme PIÉTÉ.** L'équipe ne se dit pas « on censure » : elle se
+  dit « on ne laisse pas remonter la parole corruptrice des damnés ». Le lecteur n'y voit, au
+  début, qu'une logique cultuelle ; il ne comprend qu'en **Phase 2-3** que « purger la
+  corruption » = **effacer démocratie, science, vérité**. *(Réalisé : « expurgation d'usage »
+  ch.2 ; le trou dans les métadonnées ch.6.)*
+- **Les monstres sont DEUX FOIS inventés** (par les anciens en fiction ludique ; par l'Architecte
+  en propagande) et leur **rime** est prise pour preuve. Le lecteur voit deux fictions ; les
+  croyants, une confirmation. La **non-existence des monstres** est elle-même une **donnée à
+  effacer** — cohérent avec « jamais montrer, jamais confirmer, jamais infirmer ».
 
 `⚑` **Polaris ne fait pas de sauvetage.** *(Réponse au « pourquoi s'arrêter pour des disques
 quand des collègues manquent ? ».)* Un homme est remplaçable ; un Gisement pareil, non. Quand
-l'équipe de tête se tait, l'ordre n'est **pas** « allez les chercher » mais « **sécurisez les
-données, et accessoirement, établissez leur sort** ». La mention *« défaillance d'antenne »* est
-le **permis bureaucratique de ne pas s'alarmer** : tant que c'est une panne, on fouille en
-descendant, personne n'a à courir. Le scandale — une civilisation qui tient à ses **reliques de
-données** plus qu'à ses vivants — est **ressenti par Iov et Tanya, jamais énoncé comme thèse**.
-La réponse, dans le texte, à « pourquoi ramasser des disques quand des camarades manquent » est
-donc : *parce que tels sont les ordres, et que c'est monstrueux.*
+l'équipe de tête se tait, l'ordre n'est **pas** « allez les chercher » mais « **sécurisez le
+site, et accessoirement établissez leur sort** ». La mention *« défaillance d'antenne »* est le
+**permis bureaucratique de ne pas s'alarmer** : tant que c'est une panne, on travaille en
+descendant, personne n'a à courir. Le scandale — une civilisation qui tient à **maîtriser sa
+mémoire** plus qu'à ses vivants — est **ressenti par Iov et Tanya, jamais énoncé comme thèse**.
+La réponse, dans le texte, à « pourquoi le site avant les camarades » : *parce que tels sont les
+ordres, et que c'est monstrueux.*
 
 `⚑` Le commanditaire **n'est PAS personnifié** : pas d'antagoniste à visage, pas de plan
 machiavélique à démasquer. Ce qui pilote la mission, c'est **le système lui-même** — une
