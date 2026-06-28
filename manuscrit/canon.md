@@ -91,6 +91,25 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 > jamais réussi à se le dire tout à fait »). **Tanya, le double** : elle **garde** au lieu de
 > donner (le geste du moine copiste mûrit) ; clôt sur le **vertige moral** à venir — « elle ne
 > savait pas encore lequel des deux mondes elle allait trahir ».
+>
+> **Ch.7 — la fin sèche** *(Mvt V ; le roman-vertige se referme sans résoudre)*. **Clore le
+> site** : on redescend une dernière fois, on **soude la grande porte** sur les colonnes et les
+> quatre gardiens ; Vael dit pour les morts **la formule de la descente** (« que rien de ce qui
+> dort en bas ne se souvienne de nous » — ward qui sera *démentie* par le dernier bruit). **Le
+> vertige moral final** (jamais commenté) : Tanya **nettoie elle-même son rapport** (retranche
+> cadence, accès post-silence, campement, photo, copie — tout ce qui la compromet) → *« il
+> ressemblait à s'y méprendre à celui qu'elle avait reçu des dômes »* (elle reproduit la
+> suppression du système, en miniature) ; **en parallèle** elle **garde dans l'unité** mot pour
+> mot ce qu'elle vient d'ôter — *non-renoncement sans plan* (« elle n'avait pas de projet »,
+> « elle avait cessé de se demander pourquoi » : opaque à elle-même, vérité d'auteur E). Dernier
+> signal **militaire** non confirmé : le caisson mis à part monte *« sans compte ni signature »*.
+> **LE DERNIER BRUIT** : près de la bouche nord, une **cadence** monte du noir qu'on vient de
+> clore — *régulière, patiente, « trop égale pour être de l'eau »* — donnée en **trois lectures
+> refusées** (« une machine, ou les morts, ou elle » : matériel / surnaturel / sa propre
+> non-fiabilité). Tanya **ne vérifie pas** (« elle ne voulait pas apprendre qu'ils ne
+> l'entendaient pas »). **Clôture sèche, sans épilogue** : « Du noir qu'on venait de clore, lent
+> et égal, quelque chose montait. » **RÈGLE ABSOLUE tenue** : jamais montré, jamais confirmé,
+> jamais infirmé. *Premier jet du roman achevé (ch.1-7).*
 
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
@@ -165,14 +184,15 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Audit indépendant ch.1-2 vs documentation** : fond **parfaitement conforme** (nommage, équilibre technoféodal, courbe de genre, signature, folklore = propagande, régime du doute, canon ↔ prose). 4 entorses de style **corrigées** : « joie froide » (montrée par l'acte), « rouge de rouille » → « mangé de rouille », « goût de cendre et de rouille » → « pierre chaude », motif « figé en plein geste » allégé au ch.1 (réservé à l'appareil ouvert du ch.2). ✓
 - **Ch.3 (auto-contrôle)** : Phase 2 qui s'installe ; **virage gothique** (l'ossuaire) — un pas vers *Alien*. Les galeries d'os = **indice de déduction « Paris »**, jamais nommé. Folklore = propagande (les anciens « damnés » ; « la leçon ne ment pas sur les faits »). Doute : l'autre équipe **invérifiable** (symétrie avec la Voix) ; le paranoïaque semé **sans être lucide** ; la dissonance de Tanya monte (les *recueils* réécrits vs les disques bruts) **sans réveil** (« ce n'était pas son travail de juger »). Aucun monstre, IA intouchée, aucun ordre. Tech présente (lampes, liaison, station de lecture). ✓
 
-## Cohérence vérifiée — Chapitres 4-6
+## Cohérence vérifiée — Chapitres 4-7
 - **Ch.4 (le Gisement)** : climax de la descente ; **tech bien visible** (colonnes de mémoire, station de lecture, froid de machine) — pas de primitivisation. Le **pilier politique** est lu *sans glose dystopique* : Tanya constate (« lucides, pas damnés »), le lecteur fait le procès de Polaris. **Régime du doute tenu** : cause de mort des quatre **indéterminée**, jamais de bête montrée ; *on n'est pas seuls* reste un mot sur la roche, pas une apparition. **Cran 4 en acte** (elle copie), continuité de la photo + relevé amputé. ✓
 - **Ch.5 (la remontée)** : **première vraie refissuration**, et elle reste **invérifiable** — la cadence est *enregistrée, jamais entendue en direct* (le boîtier d'un paranoïaque, à charge), Ostrov la rationalise, Iov la creuse : le lecteur a le vertige, le texte ne tranche pas. **Disparition d'Iov** = doute pur (créature / Drev / égarement tous ouverts ; *fil intact* exclut l'accident simple sans prouver le surnaturel). **« Je ne sais pas » de Tanya** = bascule intérieure dite tout haut, sans réveil militant. Équipe qui se défait montrée **par les actes** (Nieve qui se tait, Drev qui « cherche pour ne pas trouver»), non par l'analyse. Aucun ordre, IA intouchée, isolement tenu. ✓
 - **Ch.6 (la surface)** : **bascule de registre vers Orwell** (politique/clinique dominant) — la courbe de genre exécutée. **Beat-pilier réalisé** : le rapport recodé en propagande (« damnés lucides ») + **trou dans les métadonnées** rendu *mécanique* (« personne ne l'avait faite ; elle s'était faite ») = la lecture dystopique semble triompher (**c'est le piège** de Phase 2). **Refissuration tenue à un seul résidu** (l'accès daté *après* le silence) — distinct, non politique, rationalisable, jamais prouvé : la Phase 3 monte *sans accélérer*. **Menace militaire** = signaux faibles uniquement (liaison de Drev, caisson à part, ordre déformé) ; **jamais confirmée**, « elle n'en conclut rien » (vérité d'auteur tenue : aucun militaire n'énonce d'ordre). **Dénonciation fondatrice** posée en flashback avec **ambiguïté d'intention intacte** (vérité d'auteur E). Document niveau 2 **plat** (garde-fou 10). Nommage tenu (« la Lance », pas Eiffel/Paris). ✓
-- **Dose de Phase tenue** : Phase 2 (le piège dystopique) *consolidée* au ch.6 pendant que la Phase 3 (refissuration) **monte d'un seul cran à la fois**, toujours invérifiable. Ne pas accélérer : la fin sèche doit rester **sans monstre**, le doute non tranché. ✓
+- **Ch.7 (la fin sèche)** : **régime du doute scellé** — le dernier bruit donné en **trois lectures** (machine / morts / sa propre non-fiabilité), aucune confirmée ; la narratrice **refuse de vérifier** ; clôture sans épilogue (RÈGLE ABSOLUE tenue). **Vertige moral montré, non commenté** : le rapport nettoyé *ressemble* à la propagande des dômes (le lecteur fait le lien) ; l'archivage privé reste **sans plan** (pas un acte de résistance — pas d'héroïsation). **Tanya opaque à elle-même** jusqu'au dernier mot (vérité d'auteur E). Dernier signal militaire **non confirmé** (caisson « sans compte ni signature »). Continuité tenue (la formule du seuil retournée pour les morts ; la cadence du ch.5 rappelée sans être nommée certitude). ✓
+- **Dose de Phase tenue (ch.4-7)** : Phase 2 (le piège dystopique) consolidée au ch.6 ; Phase 3-4 (refissuration → non-repos) menée **à deux résidus seulement** (la cadence, l'accès post-silence), jamais un monstre, jamais une preuve. La dernière image **est** le doute. ✓
 
-## Points de vigilance pour la suite
-- **Ch.1-6 : écrits.** Fil dramatique (le Gisement, les premiers, le silence) ; équipe incarnée puis **défaite** ; dé-glosé ; **dissonance en actes** (crans 2-4), **avouée** (« je ne sais pas »), puis **gardée** (le double, ch.6) ; **refissuration** à deux résidus (la cadence, l'accès post-silence) ; **rapport recodé en propagande** + **trou dans les métadonnées** réalisés ; **menace militaire** semée (jamais confirmée) ; **dénonciation fondatrice** posée (ambiguë). ✓
-- **Ch.7 / fin sèche (Mvt V — à écrire)** : la **redescente pour « clore » le site** ; **le nettoyage du rapport** consommé (Tanya signe l'officiel — déjà recodé au ch.6 — *et* se protège) **en parallèle** de l'archivage privé (le **vertige moral** : elle supprime ET garde, le système en miniature) ; **le dernier bruit** qui monte (clore *sans* épilogue, *sans* montrer la cause). **Les deux premiers manquants** restent non élucidés (ne pas les retrouver) ; **le sort d'Iov** jamais tranché.
-- **Ne pas dépasser la dose** : à la toute fin, le lecteur peut *croire* au surnaturel **ou** au régime — jamais les deux tranchés. Le doute est la dernière image.
+## Points de vigilance — premier jet achevé (ch.1-7)
+- **Premier jet complet.** Arc dramatique bouclé (le Gisement → les premiers → le silence → la refissuration → le recodage → la fin sèche) ; **courbe de genre** parcourue (Tolkien ch.1 → Orwell ch.6 → Alien/doute ch.7) ; **dissonance de Tanya** en actes (crans 2-4), avouée, gardée, puis **dédoublée** (supprime ET archive) ; **régime du doute** scellé sans résolution. Documentation (canon, garde-fous, READMEs) à jour et vérifiée contre la prose. ✓
+- **Chantiers possibles (2ᵉ passe)** : (a) **relecture sévère** d'ensemble (style/momentum/dose) comme demandé pour ch.1-2 ; (b) **étoffer le milieu** — la structure en **spirale** (retours au camp) est compressée : Mvt III (« le lecteur se sent malin », les autres équipes, le fil militaire) tiendrait 1-2 chapitres de plus entre le Gisement et la surface ; (c) **niveau 3** (notes/annexes méta — « notes supprimées puis retrouvées ») jamais encore employé ; (d) seconds rôles (Nieve, Vael) à creuser.
+- **Invariants à ne jamais casser en 2ᵉ passe** : ville **jamais nommée** ; **aucun monstre montré** ; vérités d'auteur **tues** ; Tanya **non fiable** (sa perception contamine tout) ; tech présente / Histoire absente ; folklore = propagande.
 - **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.
