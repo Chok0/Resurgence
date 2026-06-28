@@ -29,6 +29,12 @@ medieval-fantasy sans tech, ni SF sans sacré. Détail :
 Polaris = solarpunk-façade sur théocratie ; marges sud = champ de ruines *Mad Max* /
 atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../univers/README.md) § 1.
 
+## ⚑ Tension de base — le Gisement et les premiers *(fil dramatique)*
+- **Le Gisement** : une chambre de données quasi intacte — des **téraoctets** — le grand prix de la mission. Localisé par **l'équipe de tête (« les premiers »)**, qui l'a signalé puis **s'est tue**.
+- **Le rappel de mission** : l'équipe de Tanya doit **rejoindre le Gisement**, remonter les données, et **apprendre ce qu'il est advenu des premiers**. Destination + dread (à la *Alien*) ; le silence reste **inexpliqué** (le doute tient, pas de monstre).
+- **Iov** écoute ce silence (son métier) → porte-voix du doute. **La dissonance de Tanya** progresse en 3 crans et finit par **agir** (une omission dans son relevé).
+> Détail : [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md). *Réorganisation des ch.1-3 en cours pour tisser ce fil + appliquer la relecture sévère (dé-glose, anti-chiasme, momentum, incarnation).*
+
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
 |---|---|---|---|---|
@@ -36,7 +42,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Ostrov** | chef d'équipe (scientifique) | répond de tout sans décider ; recompte son monde | ch.1 sc.2 | [fiche](../personnages/equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya | « choisies » 3 missions plus tôt ; part-famille de Tanya | ch.1 sc.2 | [fiche](../personnages/equipe/nieve.md) |
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
-| **(le paranoïaque)** | membre de l'équipe — *non nommé* | « celui qui voyait des mains partout » ; demande de vérifier l'existence de l'autre équipe ; Ostrov refuse | ch.3 sc.2 | rôle : [README](../personnages/README.md) |
+| **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; « celui qui voyait des mains partout » ; **dérangeant sans être fiable** ; Ostrov le fait taire | ch.3 sc.2 *(à avancer au ch.1)* | [fiche](../personnages/equipe/iov.md) |
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.

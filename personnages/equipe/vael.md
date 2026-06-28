@@ -1,26 +1,33 @@
 # Vael — chevalier
 
-> *Personnage de travail. Introduit ch.1 sc.3.*
+> *Le visage de la foi vécue — mais à plus d'une note. Sert à **diverger les chevaliers**.*
 
 | | |
 |---|---|
-| **Rôle** | Chevalier (soldat de la caste militaire) ; le plus jeune de l'escorte. |
+| **Rôle** | Chevalier (caste militaire), le plus jeune de l'escorte. |
 | **Caste** | Militaire / croyant. |
-| **Établi au texte** | Mène la prière au seuil ; **croyant sincère** (ses lèvres tremblent sur les mots) ; a vraiment peur des choses d'en bas et descend quand même ; descend le premier, lampe haute. Échange un sourire pudique avec Tanya, « celui qu'on vient de voir prier ». |
 
-## Fonction narrative
-Le **visage de la foi vécue** : il rend le culte sincère et incarné, pas décoratif. Sa
-terreur authentique face aux artefacts (à venir, Mvt II — les Backrooms) rejouera en
-miniature le conflit de lecture central (croire vs cataloguer).
+## Densité
+- **Croyant sincère et effrayé — et courageux.** Il a vraiment peur des choses d'en bas, et descend quand même.
+- **Une seconde note** (contre le « thermomètre d'effroi ») : sa foi est **intime, personnelle**,
+  pas grégaire — il prie pour des choses précises, il porte un doute d'enfant qu'il n'avoue pas,
+  une douceur que les autres chevaliers n'ont pas. **Vael ≠ les autres chevaliers** : certains
+  sont durs, zélés, sécuritaires.
+- **Le corps / la voix** : jeune, la nuque qui se raidit aux ombres, la main qui file vers
+  l'étoile ; mais aussi un sourire pudique, une parole basse et juste.
 
-`⚑` **Courage et peur ensemble** : il n'est pas un fanatique caricatural. Sa peur est
-réelle, sa foi aussi, son courage aussi. C'est ce qui le rend touchant et crédible.
+## Dans la tension de base
+Pour les chevaliers, le Gisement est un **lieu maudit** — le cœur où dort la mémoire des
+damnés ; descendre vers lui, vers le silence des premiers, ravive la terreur du culte. Vael
+**descend par foi**, pas par zèle — à distinguer du **chevalier-fouineur** (à venir, Mvt IV)
+qui, lui, aura un autre ordre.
 
-## Pistes
-- Candidat possible au rôle du **chevalier qui s'effondre** ou, à l'inverse, du témoin
-  dont la foi tient quand tout vacille. À décider selon les besoins du Mvt IV.
-- Lien humain avec Tanya déjà amorcé (le sourire) — réserve d'enjeu émotionnel.
+## Relations
+- **Tanya** : un **lien humain cross-caste** (le sourire « de celui qu'on vient de voir
+  prier »). Une tendresse, réserve d'enjeu.
+- **Les autres chevaliers** : il n'est pas tout à fait des leurs — plus tendre, moins dur.
+  **Tension de caste interne.**
 
-## Questions ouvertes
-- `?` Âge précis, origine, rang dans la hiérarchie des chevaliers.
-- `?` Est-il l'un des militaires porteurs de la **mission bonus** (permis de tuer), ou un simple soldat de foi ? *(À garder ambigu si on veut s'en servir pour le doute.)*
+## Fonction & pièges
+`⚑` Ne pas le réduire à une note : sa peur **et** sa foi **et** son courage **et** sa douceur, ensemble.
+`?` Âge, origine ; simple soldat de foi (probable) ou porteur de la mission bonus (à garder ambigu) ?

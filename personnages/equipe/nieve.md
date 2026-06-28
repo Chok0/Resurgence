@@ -1,30 +1,30 @@
 # Nieve — scientifique
 
-> *Personnage de travail. Introduit ch.1 sc.2.*
+> *La part de l'équipe qui ressemble à une famille, pour Tanya. À faire **exister** — une vraie scène à elle.*
 
 | | |
 |---|---|
-| **Rôle** | Archéologue / scientifique de l'équipe. |
+| **Rôle** | Archéologue / technicienne de récupération (alimentation, extraction des disques). |
 | **Caste** | Scientifique. |
-| **Établi au texte** | Proche de Tanya : elles « s'étaient choisies trois missions plus tôt ». Gestes de soin spontanés (corrige le joint de Tanya). **Elle est, pour Tanya, la part de l'équipe qui ressemble à une famille.** |
 
-## Fonction narrative
-**L'ancre d'appartenance de Tanya.** La faille de Tanya est l'excès de fibre solidaire :
-il lui faut un lien concret à perdre. Nieve matérialise ce que la dissonance future mettra
-en péril — chaque pas de Tanya vers la vérité sera un pas hors de cette amitié.
+## Densité
+- **Chaleureuse, drôle, terre-à-terre.** Elle désamorce la peur par la blague — *le rire dans le noir*. C'est elle qui apporte le **contraste de registre** qui manque au livre.
+- **Le corps & les habitudes** : mains sûres, jure doucement quand un disque résiste, partage sa ration, fredonne sous terre. Une présence, pas une fonction.
+- **L'envers** : sous la gaîté, une chose qu'elle tait *(deuil, dette au régime, peur — à fixer)*. **Sa gaîté est un travail.**
+- **Sa foi** : tiède, pratique — elle suit les rites sans ferveur, comme Tanya, mais sans s'en troubler. *Le contraste exact avec Vael.*
 
-`⚑` **Enjeu à charger lentement** : plus l'amitié est tendre et crédible en Phase 1, plus
-elle pèse quand Tanya devra choisir entre le groupe et ce qu'elle voit. Ne pas en faire
-une simple comparse.
+## Dans la tension de base
+Elle veut le Gisement (l'orgueil du métier) — mais c'est aussi elle qui dira « **on ne
+descend pas là où les autres se sont tus** ». Un **désaccord qui engage** avec Tanya ou
+Ostrov (la prudence contre la mission) : de la friction vivante, pas de la fonction.
 
-## Pistes (à décider)
-- Quelle **obédience** ? Croit-elle au culte avec ferveur, ou est-elle une autre froide
-  comme Tanya ? Son positionnement déterminera si elle pousse Tanya vers la conformité ou
-  vers le doute.
-- Risque/option : Nieve pourrait être un **angle de pression** sur Tanya (si le système se
-  sert d'elle), ou une perte sèche. À ne pas trancher trop tôt.
+## Relations
+- **Tanya** : amies « choisies » trois missions plus tôt. **À MONTRER, pas à dire** — une
+  scène à elles deux (une blague d'initiées, un souvenir, une dispute). C'est l'**ancre
+  d'appartenance** de Tanya, donc ce que sa dissonance future met en péril.
+- **L'équipe** : le ciment, celle qui tient le moral.
 
-## Questions ouvertes
-- `?` Nom complet, âge, parcours.
-- `?` Sa position face au culte et au doute (cf. ci-dessus).
-- `?` Survit-elle au roman ? Quel rôle dans les séquences-pivots du Mvt IV ?
+## Fonction & pièges
+`⚑` **Charger lentement l'amitié** : plus elle est tendre et vraie, plus elle pèse au moment
+du choix (le groupe ou la vérité). Ne plus la réduire à « un outil pour montrer des disques ».
+`?` Son envers précis ; son obédience ; survit-elle au roman ?

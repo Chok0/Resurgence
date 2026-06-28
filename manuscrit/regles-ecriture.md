@@ -81,6 +81,29 @@ stylistique.)*
    dessus** dès que les archives parlent (Orwell, à partir des Backrooms) → charnel, paniqué
    dans le bunker et face aux morts (Alien). La prose elle-même change de peau.
 
+## Momentum & vitalité — leçons de la relecture sévère
+La cohérence au plan ne suffit pas : **conformité ≠ vitalité.** Un motif peut être « conforme
+à l'intention » *et* devenir un tic à la lecture. Relire pour la **fraîcheur et le mouvement**,
+pas seulement pour la règle. Cinq exigences :
+
+1. **Du momentum, dès le ch.1.** Chaque chapitre fait **avancer** un fil qui *coûte* (voir
+   [`tension-de-base.md`](tension-de-base.md)). Tanya doit **agir**, pas seulement
+   percevoir / dater / classer. Une scène sans enjeu en doute est un tableau, pas une scène.
+2. **Casser le patron de scène.** Pas toujours : seuil → description estrangée → double
+   registre → chute songeuse. Varier : ouvrir au milieu d'une action ou d'un dialogue ; finir
+   **sec**, sur un fait ou une réplique ; alterner les unités (une scène portée par la
+   friction, sans grand morceau descriptif).
+3. **Le double registre : moins, mais plus fort.** Pas un artefact-vedette par chapitre comme
+   une horloge. L'enfouir parfois dans un détail ; **le faire mentir une fois** (Tanya se
+   trompe, un chevalier voit juste) ; supprimer le commentaire de validation (« pas tout à
+   fait faux »), qui le désamorce en le nommant.
+4. **La dissonance progresse par crans, et s'AGIT.** Trois paliers distincts (tension-de-base
+   § crans). Bannir la formule-type « X, elle ne le nota pas / n'eut pas envie de dater ».
+5. **Incarner l'équipe + contraster le registre.** Au moins un second rôle existe pour
+   lui-même ; diviser les chevaliers ; **du corps** (faim, sueur, fatigue), **une fois de
+   l'humour** (le rire dans la peur angoisse davantage). Casser l'*adagio* permanent : des
+   phrases courtes, sèches, rapides.
+
 ## Garde-fous
 1. **Comparaisons « comme » : rationner ET les sourcer dans le monde de Polaris**
    (cf. Signature §1). ~1–2 par scène, motivées (Tanya lit le paysage « comme une coupe
@@ -115,6 +138,22 @@ stylistique.)*
 10. **Documents (niveau 2) : registre administratif plat.** Ne pas surligner l'ironie — un
     vrai rapport est sec et ne commente pas sa propre pointe. Laisser l'écart au lecteur
     (cf. le rapport du ch.2 sc.4, aplati).
+11. **Le chiasme antithétique : rationner** *(tic n°1 de la relecture)*. La phrase-réflexe
+    pose X puis son contraire et tient les deux (« on ne le pensait pas — on le respirait » ;
+    « la différence entre prier et mesurer » ; « la leçon les avait faits monstres ; les
+    disques les rendaient ordinaires »). En série, c'est une mécanique qui **mâche le thème**.
+    En garder 2-3 aux moments-clés ; ailleurs casser le parallélisme (un terme implicite, ou
+    couper la seconde branche).
+12. **Ne pas nommer l'émotion (de-glose).** Écrire la scène, puis NE PAS la gloser : « la
+    gêne », « il avait peur », « une horreur ». L'image fait le travail mieux que l'étiquette.
+    Confiance : retrancher ~15 % de texte, **toujours la glose, jamais la scène**.
+13. **Incises au tiret & gloses au deux-points : quota.** Une incise au tiret par paragraphe
+    max ; une glose « X : explication » par scène max (les quatre d'affilée des Backrooms →
+    une). Varier l'attaque ET la sortie de phrase ; éviter l'ouverture-sentence systématique
+    (« Ils descendirent longtemps. », « C'étaient des os. »).
+14. **Aucun nom de NOTRE Histoire dans la bouche des personnages.** Ni « Pompéi », ni
+    « nécromancie » : ils ont oublié jusqu'au nom de leur ville. Tout passe par *leur* lexique
+    (cf. nommage + technoféodal).
 
 ## Checklist de relecture *(avant de committer une scène)*
 - [ ] Les « comme » comptés ? (≤ 2, motivés)
@@ -124,3 +163,6 @@ stylistique.)*
 - [ ] Au moins **une rupture de tempo** (dialogue, phrase sèche, trivialité) ?
 - [ ] Aucun nom interdit (Paris / France) ? *(cf. [`canon.md`](canon.md) § règle de nommage)*
 - [ ] Décor vraisemblable (climat, temps) ?
+- [ ] **La scène avance-t-elle** un fil qui coûte — Tanya **agit**, pas seulement perçoit ?
+- [ ] **Chiasme** antithétique compté ? Émotion **nommée** au lieu d'être montrée ?
+- [ ] Le **patron** (seuil → description → double registre → chute songeuse) cassé au moins une fois sur deux ?
