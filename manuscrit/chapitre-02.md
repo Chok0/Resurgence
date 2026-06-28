@@ -110,7 +110,7 @@ pourquoi elle le gardait. Nieve l'appelait déjà pour le disque suivant.
 > sans ouverture sur le jour ; nulle trace de contrainte, nul verrou : les occupants y
 > venaient de leur gré. Prélèvement des supports de mémoire en cours.
 >
-> Passage de l'équipe de tête confirmé sur site. **Équipe de tête : silence maintenu (12e
+> Passage de l'équipe de tête confirmé sur site. **Équipe de tête : silence maintenu (quinzième
 > jour).** Cause présumée : défaillance d'antenne en profondeur. Progression vers le Gisement
 > conforme aux ordres.
 

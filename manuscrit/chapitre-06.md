@@ -9,8 +9,8 @@ l'envers. On ne savait plus très bien, à présent, de quel côté se tenait la
 
 Le camp tenait à la lisière de l'ombre, sous ses bâches étayées, dans l'air qu'on pouvait
 encore boire une heure sans masque. Au-delà s'ouvrait l'étendue sans bord : les ruches de
-pierre du peuple d'avant, effondrées jusqu'au tremblé de l'horizon, que la steppe brûlée
-reprenait plaque par plaque. Plantée au milieu, loin, la grande forme de fer que les équipes
+pierre du peuple d'avant, debout et vidées jusqu'au tremblé de l'horizon — et seulement par
+plaques, là où le sol avait cédé, la steppe brûlée qui mordait. Plantée au milieu, loin, la grande forme de fer que les équipes
 de recyclage appelaient la Lance, restée droite dans la chaleur quand tout le reste s'était
 affaissé autour d'elle. Plus loin encore, sous une autre lumière qu'on ne reverrait pas avant
 des semaines, il y avait les dômes. On les portait en tête comme une adresse.
@@ -117,15 +117,13 @@ voir, ou ce qu'on lui avait fait dire, elle ne savait plus, et le ne-plus-savoir
 la forme même du souvenir. Quelqu'un était tombé pour ce nom. Elle s'était répété, des années,
 qu'elle n'avait pas su ce qu'elle faisait. Elle n'avait jamais réussi à se le dire tout à fait.
 
-Maintenant, elle ne donnait pas. Elle gardait. Sous la bâche, dans la chaleur qui montait avec
-le jour, elle ouvrit son unité non déclarée. La photo des filles du bureau y dormait, et le
-campement qu'elle avait retranché, et depuis le Gisement tout le reste : la dispute des morts,
-le fil où l'on s'obstinait qu'il était encore temps, l'accès daté de trois jours après le
-silence. Tout ce que le rapport propre laissait en bas. Elle ne savait pas ce qu'elle en
-ferait. Elle savait seulement qu'elle ne le rendrait pas.
+Maintenant, elle ne donnait plus tout à fait comme avant. Mais ce qu'elle retenait, elle ne
+savait pas encore qu'en faire, ni si elle oserait le garder jusqu'au bout. Sous la bâche, dans
+la chaleur qui montait avec le jour, l'unité non déclarée pesait contre elle — la photo, le
+campement, et depuis le Gisement tout ce que le rapport propre laisserait en bas. La question
+n'était pas encore posée. Demain, elle le serait.
 
 Demain, le transport viendrait. Il faudrait remettre le rapport — signé, propre — et
-redescendre une dernière fois clore le site ; *clore,* disait l'ordre, à présent. Elle referma
-l'unité et la garda contre elle, sous la combinaison, à l'endroit où l'étoile de Polaris était
-frappée sur le cœur. Au nord, sous l'autre lumière, on attendait sa parole. Elle l'avait déjà,
-sa parole. Elle ne savait pas encore lequel des deux mondes elle allait trahir.
+redescendre une dernière fois clore le site ; *clore,* disait l'ordre, à présent. Au nord, sous
+l'autre lumière, on attendait sa parole. Elle l'avait déjà, sa parole. Elle ne savait pas encore
+lequel des deux mondes elle allait trahir.

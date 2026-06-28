@@ -21,11 +21,11 @@ le demander — combien d'entre eux remonteraient.
 ### 2 — Ce qu'Iov entendit
 
 Iov s'arrêta le premier. Il avait gardé son écouteur, par manie, branché sur rien : le bas
-s'était tu depuis douze jours, et le relais de Polaris ne portait pas si profond. Sur rien.
+s'était tu depuis vingt jours, et le relais de Polaris ne portait pas si profond. Sur rien.
 Et sur ce rien, son boîtier avait pris quelque chose.
 
-Il le repassa. Une fois pour lui, une fois pour Ostrov, une fois pour Tanya, qu'il avait
-choisie sans savoir pourquoi.
+Il le repassa. Une fois pour lui, une fois pour Ostrov, une fois pour Tanya, qui se
+trouvait là.
 
 Ce n'était pas une voix. Ce n'était pas non plus le travail de la terre — le tassement, la
 goutte, l'eau lente ; ces bruits-là, tout le monde les connaissait. C'était une cadence.

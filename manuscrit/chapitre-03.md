@@ -60,14 +60,18 @@ d'avant. La flèche des premiers et leur *vite*, Ostrov les avait déjà signal�
 Le campement, elle ne le mit pas.
 
 Les châlits, le poêle, les jours comptés, *on tient le coup* — elle les laissa hors du
-relevé. Elle savait ce qu'on en ferait là-haut : une preuve de plus de la déchéance des
-anciens, des bêtes terrées dans les os. Elle ne voulait pas qu'on le fasse à ces gens-là.
-C'était la première fois qu'elle retranchait quelque chose à Polaris, et elle le sut en le
-faisant. Ce n'était plus sa main qui agissait sans elle, comme pour la photo. C'était elle.
+relevé. À quoi bon les faire monter : là-haut, on en tirerait une preuve de plus de la
+déchéance des anciens, des bêtes terrées dans les os — ou la machine les rangerait, les
+effacerait, sans qu'une main eût à décider. Ces gens-là avaient tenu le coup ; elle ne voyait
+pas l'intérêt de le leur reprendre.
+
+Elle ne se dit pas qu'elle mentait à Polaris ; le mot ne lui vint pas. Elle se dit seulement que
+ça ne valait pas la peine de l'envoyer. Et ce qu'elle n'envoya pas, sa main — comme pour la
+photo — le glissa sur l'unité qu'on ne déclarait pas, sans qu'elle se demandât pour qui.
 
 Elle envoya le relevé, amputé, et resta devant l'écran éteint.
 
 Dehors, la nuit du sud était dure d'étoiles. Demain on descendrait vers le Gisement, vers le
 silence des premiers et le mot qu'ils avaient laissé. Tanya pensa à la photo cachée sur son
 unité, et au campement qu'elle venait d'effacer du relevé. Deux fois, maintenant, elle avait
-gardé pour elle ce que Polaris voulait. Elle éteignit la station, et ne dormit pas.
+gardé pour elle ce qu'elle aurait dû faire monter. Elle éteignit la station, et ne dormit pas.

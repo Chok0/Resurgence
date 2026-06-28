@@ -197,11 +197,39 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Ch.7 (la fin sèche)** : **régime du doute scellé** — le dernier bruit donné en **trois lectures** (machine / morts / sa propre non-fiabilité), aucune confirmée ; la narratrice **refuse de vérifier** ; clôture sans épilogue (RÈGLE ABSOLUE tenue). **Vertige moral montré, non commenté** : le rapport nettoyé *ressemble* à la propagande des dômes (le lecteur fait le lien) ; l'archivage privé reste **sans plan** (pas un acte de résistance — pas d'héroïsation). **Tanya opaque à elle-même** jusqu'au dernier mot (vérité d'auteur E). Dernier signal militaire **non confirmé** (caisson « sans compte ni signature »). Continuité tenue (la formule du seuil retournée pour les morts ; la cadence du ch.5 rappelée sans être nommée certitude). ✓
 - **Dose de Phase tenue (ch.4-7)** : Phase 2 (le piège dystopique) consolidée au ch.6 ; Phase 3-4 (refissuration → non-repos) menée **à deux résidus seulement** (la cadence, l'accès post-silence), jamais un monstre, jamais une preuve. La dernière image **est** le doute. ✓
 
-## Points de vigilance — premier jet achevé (ch.1-7)
-- **Premier jet complet.** Arc dramatique bouclé (le Gisement → les premiers → le silence → la refissuration → le recodage → la fin sèche) ; **courbe de genre** parcourue (Tolkien ch.1 → Orwell ch.6 → Alien/doute ch.7) ; **dissonance de Tanya** en actes (crans 2-4), avouée, gardée, puis **dédoublée** (supprime ET archive) ; **régime du doute** scellé sans résolution. Documentation (canon, garde-fous, READMEs) à jour et vérifiée contre la prose. ✓
-- **Densification (2ᵉ passe — en cours : ch.1-2 faits)** : appliquer à ch.3-7 les **garde-fous 15-16** — **incarnation concrète** (corps, choses, visages : on doit *voir* une scène) et **peur en Phase 1** (bestiaire + moteur creepypasta). **Reconcilier avec la vraie mission (contrôle de la mémoire)** : ch.2 « expurgation d'usage » et ch.6 trou des métadonnées = **traces de la suppression** (la mission, non un incident) ; ch.4-7, **le moine copiste = résister à l'effacement**. Garde-fous : [`regles-ecriture.md`](regles-ecriture.md).
-  - **Ch.2 densifié ✓** : Salles de l'Oubli **incarnées** (alvéoles identiques, moquette, tubes morts, désorientation) et rendues **effrayantes** — chevaliers qui refusent le seuil (Vael recule et prie, **même Drev** reste dehors) ; **éclat creepypasta** sur la cloison (« ne réponds pas à celui qui connaît ton nom » / « il n'y a pas de portes ») où ils reconnaissent leurs démons ; doute tenu. **Copie motivée** (sa main « savait des choses qu'elle ne se disait pas »). **Déformation constatée** (sc.4 : le lot « expurgé » qui revient autre). Reste ch.3-7.
-- **Reframes à passer dans la prose (2ᵉ passe)** : (1) **Tanya petite main** — sa **motivation de copier** doit naître de **constater la déformation** (rapports qui reviennent modifiés, data supprimée) ; **semer** cette conscience tôt (vétérane qui a cessé de reconnaître ses propres rapports) et la faire **culminer en ch.6** (le rapport recodé). **Reframer le cran 3 (ch.3, omission du campement)** : non « mensonge défiant à Polaris » mais **désabusement** (inutile de faire remonter) **+ préservation** (elle copie, en saisissant la portée) — *sans* trahison consciente (orpheline). (2) **Paysage** : appliquer la correction « abandon, pas steppe » partout où le 1er jet dit « steppe » de façon absolue (p.ex. ch.6 « steppe brûlée qui reprenait » → nuancer : le bâti tient, la steppe mord aux marges).
-- **Chantiers possibles (2ᵉ passe)** : (a) **relecture sévère** d'ensemble (style/momentum/dose) comme demandé pour ch.1-2 ; (b) **étoffer le milieu** — la structure en **spirale** (retours au camp) est compressée : Mvt III (« le lecteur se sent malin », les autres équipes, le fil militaire) tiendrait 1-2 chapitres de plus entre le Gisement et la surface ; (c) **niveau 3** (notes/annexes méta — « notes supprimées puis retrouvées ») jamais encore employé ; (d) seconds rôles (Nieve, Vael) à creuser.
-- **Invariants à ne jamais casser en 2ᵉ passe** : ville **jamais nommée** ; **aucun monstre montré** ; vérités d'auteur **tues** ; Tanya **non fiable** (sa perception contamine tout) ; tech présente / Histoire absente ; folklore = propagande.
-- **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.
+## Après la relecture sévère intégrale (ch.1-7) — cap : roman de 100-300 pages
+> **Plan-maître : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md)**
+> (6 mouvements / ~30 chapitres ; les 7 chapitres actuels = **jalons** ; fin **verrouillée**).
+> Diagnostic unanime des 4 relecteurs : le **cœur est sain** (voix, régime du doute, signature,
+> nommage, fin) ; le mal est l'**amplitude** — une novella-squelette là où le design décrit un
+> roman ; le « tout tell » est le **symptôme du sous-déploiement** (6 dispositifs jamais utilisés :
+> corpus, niveau 3, spirale, surface, arc intime, autres équipes).
+
+- **⚑ Continuité — l'horloge du silence (décision).** Le 1ᵉ jet **gèle** le compteur à « douze jours »
+  (ch.4-5) alors que des jours passent → contradiction. **Calendrier retenu** : silence = **onze jours**
+  à la surface (ch.1) ; **~quinze-seize jours** au rapport (ch.2 sc.4) ; **~vingt jours** au Gisement
+  (ch.4) et à la remontée (ch.5). Le compteur **doit monter à chaque jalon**. *(Fix appliqué : ch.2/4/5.)*
+- **Bugs de dette corrigés (descente des corrections de canon dans la prose)** : (1) **ch.1 sc.1** — le
+  paragraphe « tout tell » du métier coupé (montré au ch.2). (2) **horloge** ré-étalonnée. (3) **ch.3** —
+  l'omission du campement **reframée** : désabusement + préservation, *non* « C'était elle » (Tanya petite
+  main, pas censeure de terrain). (4) **ch.6 sc.1** — « steppe qui reprend » → bâti debout, steppe aux
+  marges (cohérent avec ch.1). (5) **ch.4** — « manifeste » → « le compte » (lexique de Polaris). (6)
+  **ch.5** — Iov ne « choisit » plus Tanya (sur-désignation). (7) **ch.6 sc.3** — l'archivage explicite
+  retiré (réservé au ch.7, pour ne pas désamorcer la fin).
+- **Style — chantiers de dégraissage (garde-fous 17-26)** : tells-doublons ; **chiasme « pas X, c'était Y »**
+  (matrice par défaut → 3-4 dans tout le roman) ; **refrains-talismans** (« la dispute des morts » ×6,
+  « l'unité contre le cœur » ×6, « il est encore temps » ×6 → ≤2) ; **chutes songeuses** (6/7 fins de
+  chapitre → en convertir) ; **italique-emphase** ; **faire AGIR Tanya à découvert** ; **varier l'amplitude**
+  (3 ruptures) ; **réinjecter la soupape « bête »** ; **le double registre doit mentir une fois**.
+- **Expansion — ordre de travail** (détail : architecture-roman.md § 7) : corriger la dette → **ouvrir la
+  surface + la spirale** → **déployer l'arc des corpus** par lieux → **dramatiser le militaire + incarner le
+  fouineur** (bunker ≠ Gisement) → **tresser l'arc intime + le niveau 3**. Personnages à incarner : le
+  **chevalier-fouineur** (7ᵉ, distinct de Drev), **Iov** (fil continu + tête-à-tête), **Nieve** (2-3 scènes
+  pleines), une voix d'**autre équipe**.
+- **Réussites à PRÉSERVER** (ne pas casser en densifiant) : le « petit dieu » + pince-sans-rire ; l'éclat
+  verbatim pur (à raréfier) ; l'incarnation des chevaliers (ch.1 sc.2) ; la **fin sèche-sur-acte du ch.4** ;
+  la friction Ostrov/Drev (ch.6) ; la **clôture-doute du ch.7** (terminus, intacte). Détail :
+  architecture-roman.md § 6.
+- **Invariants à ne JAMAIS casser** : ville **jamais nommée** ; **aucun monstre montré** ; vérités d'auteur
+  **tues** ; Tanya **non fiable** ; tech présente / Histoire absente ; folklore = propagande ; **la fin
+  (ch.7) verrouillée**.

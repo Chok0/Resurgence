@@ -20,19 +20,12 @@ servi.
 Ils n'étaient pas venus pour la ville. Ils étaient venus pour ce qui dormait dessous.
 
 À des jours de descente, là-dessous, une autre équipe avait trouvé le Gisement : une salle
-de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Toute
-une voix d'avant, gardée au froid — quand Polaris n'avait plus, de son propre passé, que ce
-que le culte en récitait. Le travail de Tanya était simple, et toujours le même : descendre,
-prélever cette mémoire, la lire, en dire ce qu'elle en pensait, et la faire monter aux dômes.
-Ce qu'on en gardait là-haut, ce qu'on en retenait ou en laissait, se décidait sans elle et ne
-la regardait pas — c'était la règle, et elle l'avait apprise avant même de savoir lire. Le
-passé était la seule mine qui restât, et celle-ci était la plus riche qu'on eût ouverte. Les premiers l'avaient signalée.
-Puis ils s'étaient tus. Onze jours, maintenant.
+de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Les
+premiers l'avaient signalée. Puis ils s'étaient tus. Onze jours, maintenant.
 
 Personne ne disait le mot de secours ; il n'était pas dans les ordres. On ne redescendait pas
-une mission pour six hommes — on la redescendait pour le Gisement, et les six hommes faisaient
-une ligne au bas du même ordre : *établir leur sort.* Tant qu'en haut on parlait de panne
-d'antenne, nul n'avait à courir. La panne arrangeait tout le monde.
+une mission pour six hommes — on la redescendait pour le Gisement. Tant qu'en haut on parlait
+de panne d'antenne, nul n'avait à courir.
 
 Ostrov les compta du regard, comme il comptait tout. « On ne s'attarde pas au soleil », dit-il.
 C'était sa façon de ne pas parler des onze jours.
