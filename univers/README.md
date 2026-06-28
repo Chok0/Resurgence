@@ -113,6 +113,33 @@ une **convergence structurelle** (les mêmes angoisses humaines produisent les m
 formes), soit la preuve que l'Architecte **connaissait les sources** et s'en est inspiré.
 *Les deux hypothèses restent ouvertes.*
 
+### Le bestiaire du culte — ce qu'on craint en bas *(à incarner en Phase 1)*
+`⚑` **Les monstres ne sont jamais montrés et n'existent pas** (vérité d'auteur). Mais en
+**Phase 1, le lecteur doit y croire et les craindre** — sinon la refissuration n'a rien à
+fissurer plus tard, et *« je n'ai pas eu peur »*. Leur peur passe par la **croyance des
+chevaliers** et par un **corps** (un homme qui pèse deux fois Tanya et refuse une galerie),
+jamais par le narrateur qui les affirmerait. Source : webculture **folklorisée** (SCP, Slender,
+Backrooms) **+** le bestiaire fabriqué par l'Architecte — toujours en formule *folklorique /
+propagande*.
+- **Ceux qui se souviennent** *(les Veilleurs de l'Oubli)* — les damnés qui **n'ont pas su
+  mourir** : perdus dans le vide de leurs jours sans l'Architecte, ils ont « perdu le chemin du
+  jour » (Salles de l'Oubli / Backrooms) et **errent** là où la lampe ne porte pas. Le danger
+  n'est pas leurs mains : c'est qu'ils **apprennent votre nom**. Si le bas « se souvient » de
+  vous, il **monte vous le rendre**. → C'est ce que conjure la **formule du seuil** (« que rien
+  de ce qui dort en bas ne se souvienne de nous »). *Créature-pilier du roman : elle est déjà
+  dans la liturgie.*
+- **Le Long / l'Effacé** *(Slender)* — une **forme haute et sans visage** au bord de la lampe ;
+  chercher à lui voir une face, c'est être pris. Compté par l'Architecte parmi les démons d'en
+  bas.
+- **Les bêtes** — les charognards qui **sont vraiment revenus** dans les ruines (rats, chiens,
+  oiseaux des cavernes). Le culte les **confond** avec les démons : c'est la **soupape
+  rationnelle** — tout « monstre » a peut-être quatre pattes et faim. *Toujours laisser cette
+  porte ouverte.*
+
+`⚑` **Dosage** : suggérer, jamais exhiber. Une légende dite par un chevalier, une peur dans un
+corps, un bruit qu'on explique à moitié. Le **doute** reste roi (cf.
+[`../structure-recit/`](../structure-recit/) § régime du doute).
+
 ### L'Architecte
 Fondateur officiellement immortel par transcendance numérique. La momie du Sanctuaire
 Central est une **enveloppe quittée**, pas une dépouille. L'IA qui parle en son nom est
@@ -140,6 +167,31 @@ Chaque découverte fonctionne sur **deux niveaux simultanés** :
 - **Officiel** : préparer la recolonisation, évaluer les infrastructures.
 - **Caché (bloc militaire)** : récupérer des technologies de surveillance et de contrôle.
 - **Non anticipé** : que les archives soient *lisibles, cohérentes, et politiquement destructrices* pour le culte.
+
+`⚑` **Pourquoi exhumer — et pourquoi ça vaut des morts.** *(Réponse, à rendre lisible dans la
+prose, au « à quoi sert la récupération de données ? ».)* Polaris a **effacé sa propre
+Histoire** et **est la dernière humanité** : il n'a plus d'autre accès au passé réel que ces
+ruines. Le sous-sol de la métropole est le plus grand **gisement de savoir d'avant** jamais
+ouvert — et Polaris en a besoin à trois titres, qui se superposent :
+> - **Le culte** : chaque artefact, pesé par les **Interprètes**, devient *preuve de la
+>   damnation des anciens* — la matière première de la propagande qui légitime le régime. *Le
+>   passé est une ressource qu'on raffine.*
+> - **Le militaire / les technocrates** : technologies récupérables (surveillance, armement) et,
+>   graal discret, **les origines du modèle de transcendance** — la généalogie technique de leur
+>   dieu (cf. [`../corpus-webculture/`](../corpus-webculture/) § strates de l'unité).
+> - **L'existentiel** : Polaris dépend, pour survivre (reterraformation, médecine, ingénierie),
+>   de savoirs qu'il **ne sait plus produire** depuis qu'il a damné le monde qui les fit. *Il a
+>   maudit la chose dont il a besoin.*
+
+`⚑` **Polaris ne fait pas de sauvetage.** *(Réponse au « pourquoi s'arrêter pour des disques
+quand des collègues manquent ? ».)* Un homme est remplaçable ; un Gisement pareil, non. Quand
+l'équipe de tête se tait, l'ordre n'est **pas** « allez les chercher » mais « **sécurisez les
+données, et accessoirement, établissez leur sort** ». La mention *« défaillance d'antenne »* est
+le **permis bureaucratique de ne pas s'alarmer** : tant que c'est une panne, on fouille en
+descendant, personne n'a à courir. Le scandale — une civilisation qui tient à ses **reliques de
+données** plus qu'à ses vivants — est **ressenti par Iov et Tanya, jamais énoncé comme thèse**.
+La réponse, dans le texte, à « pourquoi ramasser des disques quand des camarades manquent » est
+donc : *parce que tels sont les ordres, et que c'est monstrueux.*
 
 `⚑` Le commanditaire **n'est PAS personnifié** : pas d'antagoniste à visage, pas de plan
 machiavélique à démasquer. Ce qui pilote la mission, c'est **le système lui-même** — une

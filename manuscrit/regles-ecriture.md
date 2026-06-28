@@ -154,6 +154,23 @@ pas seulement pour la règle. Cinq exigences :
 14. **Aucun nom de NOTRE Histoire dans la bouche des personnages.** Ni « Pompéi », ni
     « nécromancie » : ils ont oublié jusqu'au nom de leur ville. Tout passe par *leur* lexique
     (cf. nommage + technoféodal).
+15. **Incarnation concrète — donner un corps et des choses, pas que de l'intériorité**
+    *(leçon de relecture : « je ne sais pas à quoi ressemble un chevalier »)*. Le premier jet
+    pèche par **abstraction** : beaucoup de perception et d'atmosphère, peu de **matière
+    visible**. Antidote : ancrer chaque scène dans du **physique** qu'on peut voir et toucher —
+    la **silhouette** d'un chevalier (la masse, les plaques, la visière, l'arme, l'étoile usée),
+    un visage, un geste, le poids du barda, la sueur sous la combinaison. *Montrer un personnage
+    par ce qu'il porte et comment il bouge avant ce qu'il pense.* Une description concrète n'est
+    pas du lyrisme (que les garde-fous rationnent) : c'est de la **précision sensorielle**, et
+    elle est la bienvenue.
+16. **La peur en Phase 1 — les monstres doivent faire peur AVANT d'être minés.** Si le lecteur
+    ne croit ni ne craint les créatures au début, la refissuration ne fissure rien. Déployer le
+    **bestiaire du culte** (voir [`../univers/README.md`](../univers/README.md) § bestiaire) par
+    la **croyance des chevaliers** et par un **corps** (un homme qui pèse deux fois Tanya et
+    recule), **jamais** par le narrateur qui affirmerait le surnaturel. Une **légende dite**, une
+    peur **dans le ventre**, un bruit qu'on explique à moitié — et **toujours la soupape
+    rationnelle** (les bêtes revenues). Le doute reste roi, mais le doute *sur quelque chose
+    d'effrayant*.
 
 ## Checklist de relecture *(avant de committer une scène)*
 - [ ] Les « comme » comptés ? (≤ 2, motivés)
@@ -166,3 +183,5 @@ pas seulement pour la règle. Cinq exigences :
 - [ ] **La scène avance-t-elle** un fil qui coûte — Tanya **agit**, pas seulement perçoit ?
 - [ ] **Chiasme** antithétique compté ? Émotion **nommée** au lieu d'être montrée ?
 - [ ] Le **patron** (seuil → description → double registre → chute songeuse) cassé au moins une fois sur deux ?
+- [ ] **Incarnation** : un lecteur saurait-il *voir* la scène — un corps, une chose, un visage concret — ou n'y a-t-il que de l'intériorité ?
+- [ ] **Phase 1** : si une créature est en jeu, le passage **fait-il peur** (croyance + corps), avec une soupape rationnelle ?

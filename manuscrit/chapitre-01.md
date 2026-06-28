@@ -17,12 +17,21 @@ quoi elle avait servi.
 Ils n'étaient pas venus pour la ville. Ils étaient venus pour ce qui dormait dessous.
 
 À des jours de descente, là-dessous, une autre équipe avait trouvé le Gisement : une salle
-de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Ils
-l'avaient signalé. Puis ils s'étaient tus. Onze jours, maintenant. L'équipe de Tanya
-descendait pour le reprendre — et pour savoir.
+de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Toute
+une voix d'avant, gardée au froid — quand Polaris n'avait plus, de son propre passé, que ce
+que le culte en récitait. On ne remonterait pas ces disques pour les lire : on les remonterait
+pour que le Sanctuaire les pèse, que les Interprètes y trouvent de quoi nourrir la leçon, que
+les hommes des dômes y reprennent ce qu'on ne savait plus faire. Le passé était la seule mine
+qui restât, et celle-ci était la plus riche qu'on eût ouverte. Les premiers l'avaient signalée.
+Puis ils s'étaient tus. Onze jours, maintenant.
 
-Ostrov les compta du regard, comme il comptait tout. « On ne s'attarde pas au soleil », dit
-il. C'était sa façon de ne pas parler des onze jours.
+Personne ne disait le mot de secours ; il n'était pas dans les ordres. On ne redescendait pas
+une mission pour six hommes — on la redescendait pour le Gisement, et les six hommes faisaient
+une ligne au bas du même ordre : *établir leur sort.* Tant qu'en haut on parlait de panne
+d'antenne, nul n'avait à courir. La panne arrangeait tout le monde.
+
+Ostrov les compta du regard, comme il comptait tout. « On ne s'attarde pas au soleil », dit-il.
+C'était sa façon de ne pas parler des onze jours.
 
 À l'écart, Iov n'avait pas levé les yeux de son boîtier. Depuis l'approche il lançait l'appel
 vers le bas, le même mot, et le bas ne répondait pas.
@@ -61,11 +70,31 @@ se fermaient mutuellement leurs combinaisons, et c'était devenu une langue à e
 — Tu serres jamais assez. » Nieve tira d'un coup sec. « Le jour où tu prends une fissure de
 pression, tu seras bien contente que quelqu'un d'autre ait serré. »
 
-De l'autre côté du transport, les chevaliers s'armaient — un autre monde, à trois pas. Ils
-vérifiaient leurs armes avec le soin que Tanya mettait à ses sondes, et ne riaient pas des
-mêmes choses. On les disait là pour la sécurité : les éboulements, les bêtes, ce que la
-terre pouvait cracher. Tanya n'en avait jamais vu un servir à grand-chose sous terre, sinon
-à porter et à craindre. Cette fois, peut-être, on saurait à quoi ils servaient.
+De l'autre côté du transport, les chevaliers s'armaient — un autre monde, à trois pas. Leurs
+combinaisons n'étaient pas comme les leurs : plus hautes d'une tête, doublées de plaques
+sombres aux épaules et aux avant-bras, le heaume soudé d'une visière étroite qui ne laissait
+voir, une fois baissée, qu'une fente sans regard. Sur chaque poitrine, l'étoile de Polaris,
+gravée, usée au pouce à force d'être touchée avant les seuils. Ils portaient l'arme en travers
+du dos — un long fût noir à crosse, qu'on ne montrait pas de trop près aux scientifiques — et
+la vérifiaient avec le soin que Tanya mettait à ses sondes. Drev rabattit sa visière, et
+l'homme s'effaça : il ne resta qu'une carapace lente, frappée d'une étoile, qui tournait la
+tête vers le bruit. Vael garda la sienne levée le plus longtemps qu'il put.
+
+On les disait là pour la sécurité — les éboulements, les bêtes, *ce qui se souvient en bas.*
+Vael surprit le regard de Tanya sur le long fût noir. « Ce n'est pas pour les bêtes », dit-il,
+à mi-voix, comme on confie. Il n'en dit pas plus ; tous les enfants des dômes connaissaient la
+leçon. En bas vivaient ceux qui n'avaient pas su mourir — les anciens perdus dans le vide de
+leurs jours sans l'Architecte, qui erraient encore là où la lampe ne portait pas. On ne les
+craignait pas pour leurs mains. On les craignait parce qu'ils écoutaient un nom : si le bas
+retenait le vôtre, il montait vous le rendre. C'était cela qu'on conjurait au seuil, la main
+nue sur la terre — *que rien de ce qui dort en bas ne se souvienne de nous.*
+
+Tanya avait rangé cette peur depuis longtemps, dans la colonne des choses qu'on raconte aux
+enfants pour qu'ils ne lâchent pas le fil. Elle n'y croyait pas. Mais elle avait vu des
+chevaliers — des hommes qui pesaient deux fois son poids et portaient le fût noir — refuser
+une galerie parce que la lampe y avait fait une ombre de trop ; et que ces hommes-là, eux,
+eussent peur, ça lui faisait dans le ventre quelque chose qu'elle ne datait pas. Cette fois,
+peut-être, on saurait à quoi ils servaient.
 
 Iov n'avait pas pris de combinaison. Il restait courbé sur son boîtier, l'écouteur vissé, à
 relancer l'appel. Ostrov passa derrière lui.
@@ -119,9 +148,11 @@ courbe d'une rampe, la promesse d'un escalier. L'équipe de recyclage l'avait d�
 le fil : une ligne lumineuse qui plongeait dans le noir et s'y perdait.
 
 Au bord, l'air changeait. De la fournaise on passait, en un pas, à une haleine froide et
-humide qui remontait du gouffre — la pierre mouillée, le métal, le dessous. Tanya ferma les
-yeux une seconde et la laissa lui toucher le visage. En bas, très loin, le Gisement
-l'attendait. Et entre elle et lui, onze jours de silence.
+humide qui remontait du gouffre — la pierre mouillée, le métal, le dessous. Les chevaliers la
+sentirent aussi, cette haleine. Vael refit contre sa poitrine le geste du mauvais œil ; Drev,
+derrière sa visière, ne fit rien — ce qui, chez Drev, revenait au même. Tanya ferma les yeux
+une seconde et la laissa lui toucher le visage. En bas, très loin, le Gisement l'attendait. Et
+entre elle et lui, onze jours de silence.
 
 Vael passa le premier, la lampe haute. Nieve suivit, puis les chevaliers, puis Iov, son
 boîtier muet pendu au cou. Ostrov fit signe à Tanya. Elle posa la main sur le fil — froid,
