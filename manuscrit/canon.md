@@ -44,6 +44,17 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 > pourquoi ; *cran 3* — elle **retranche le campement de réfugiés de son relevé**, son
 > **premier mensonge conscient** à Polaris. *(Les blocs « Cohérence vérifiée ch.2/ch.3 »
 > ci-dessous datent d'avant la réécriture — valeur d'historique.)*
+>
+> **Ch.4 — le Gisement** *(climax de l'arc descente)*. L'équipe atteint la chambre de données
+> (colonnes de mémoire ; un **« froid de machine »** qui n'aurait pas dû tenir un siècle —
+> graine de **refissuration**). Lecture lente du **pilier politique** : les morts étaient
+> **lucides, pas damnés** (« il est encore temps si on s'y met ensemble »). On retrouve
+> **quatre des six premiers** ; **cause indéterminée** (nulle blessure lisible ; loin les uns
+> des autres « comme s'ils s'étaient fuis » ; sur la roche : *vite*, puis *on n'est pas
+> seuls*). Vérité d'auteur, jamais montrée : ils se sont **entretués dans la paranoïa** — le
+> doute tient (radiation / créature / eux-mêmes). **Ostrov désobéit** (repli ; il laisse le
+> Gisement). **Tanya, cran 4** : pendant le repli, elle **copie le Gisement** sur son unité —
+> le geste du **moine copiste** s'amorce.
 
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
@@ -117,7 +128,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Ch.3 (auto-contrôle)** : Phase 2 qui s'installe ; **virage gothique** (l'ossuaire) — un pas vers *Alien*. Les galeries d'os = **indice de déduction « Paris »**, jamais nommé. Folklore = propagande (les anciens « damnés » ; « la leçon ne ment pas sur les faits »). Doute : l'autre équipe **invérifiable** (symétrie avec la Voix) ; le paranoïaque semé **sans être lucide** ; la dissonance de Tanya monte (les *recueils* réécrits vs les disques bruts) **sans réveil** (« ce n'était pas son travail de juger »). Aucun monstre, IA intouchée, aucun ordre. Tech présente (lampes, liaison, station de lecture). ✓
 
 ## Points de vigilance pour la suite
-- **Ch.1-3 : réécrits (réorganisation).** Fil dramatique tissé (le Gisement, les premiers, le silence), équipe incarnée (Nieve, Ostrov, Iov, Vael ≠ Drev), dé-glosé, **dissonance en actes** (crans 2-3). Contenu gardé fragmentaire (corpus-piliers au Mvt III). ✓
-- **Ch.4 (Mvt III/IV)** : on descend vers **le Gisement** (climax de l'arc descente) ; déployer 2-3 **corpus-piliers** en lecture lente ; **l'ordre** de Polaris qui recentre ; **le premier bruit** ; et la question qui tire tout : **qu'est-il arrivé aux premiers ?** Développer Iov ; le **chevalier-fouineur** à incarner.
+- **Ch.1-4 : écrits.** Fil dramatique (le Gisement, les premiers, le silence) ; équipe incarnée ; dé-glosé ; **dissonance en actes** (crans 2-4). ✓
+- **Ch.5+ (suite)** : le **repli** avec le Gisement laissé derrière (et la copie de Tanya) ; **les deux premiers manquants** ; la **refissuration** qui monte (« on n'est pas seuls », le froid de machine) — 2-3 détails qui résistent à la raison, *sans monstre* ; **le rapport transformé** en propagande ; **Iov** qui dérange de plus en plus ; vers la fin sèche (le moine copiste, le dernier bruit).
 - **Ne pas dépasser la dose de Phase 2** : le lecteur voit l'écart, sans certitude dystopique encore.
 - **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.
