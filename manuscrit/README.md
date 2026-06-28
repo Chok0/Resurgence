@@ -31,6 +31,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **3 — Les crânes** | [`../plan-ecriture/chapitre-03.md`](../plan-ecriture/chapitre-03.md) | **complet — 3 scènes** (1ᵉ jet) |
 | **4 — Le Gisement** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
 | **5 — La remontée** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
+| **6 — La surface** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt IV | **complet — 3 scènes** (1ᵉ jet) |
 
 > **Où on en est (Phase 2 → 3).** Le Mvt I (aucune fissure) est **derrière nous** : depuis
 > le Gisement, la **refissuration** est amorcée (« on n'est pas seuls », la cadence
