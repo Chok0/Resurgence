@@ -55,6 +55,23 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 > doute tient (radiation / créature / eux-mêmes). **Ostrov désobéit** (repli ; il laisse le
 > Gisement). **Tanya, cran 4** : pendant le repli, elle **copie le Gisement** sur son unité —
 > le geste du **moine copiste** s'amorce.
+>
+> **Ch.5 — la remontée** *(le repli, l'équipe se défait)*. On remonte le fil à l'envers, les
+> flèches des premiers « pointées vers ce qu'on fuyait ». **Refissuration (cran décisif)** :
+> le boîtier d'**Iov** a **enregistré une cadence** montant du bas — régulière, « à intervalles
+> trop égaux pour être de l'eau » — que **personne n'a entendue sur le moment**. Ostrov
+> rationalise (« une pompe qui tient encore, le froid ») ; Iov sape (« À cette distance ? On
+> est à un jour au-dessus. Et ça monte »). **Tanya : « Je ne sais pas »** — *la première fois
+> qu'elle le dit tout haut* (le doute enfin avoué). Puis **Iov disparaît** entre deux
+> campements, sur un chemin déjà fait, **fil intact**, sans trace ; on cherche une heure ou
+> deux, rien. **Drev ne cherche pas vraiment** (« il y a une façon de chercher qui espère ne
+> pas trouver » ; il a toujours dit qu'Iov portait la poisse). **Doute tenu** : créature ?
+> élimination par Drev ? égarement ? — jamais tranché. **Compte des manquants : trois**
+> (les deux du Gisement + Iov), « et nul ne pouvait dire si ce qui les prenait, un par un,
+> venait du bas ou d'eux-mêmes ». L'équipe se défait : Nieve **ne plaisante plus** (« c'était
+> à son silence qu'on mesurait la peur »), Vael prie sans arrêt, Ostrov sait qu'il paiera son
+> repli là-haut. Fin du mouvement descente : on remonte vers la surface, **les mains vides**,
+> Tanya « avec la dispute des morts contre sa poitrine ».
 
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
@@ -63,7 +80,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Ostrov** | chef d'équipe (scientifique) | répond de tout sans décider ; recompte son monde | ch.1 sc.2 | [fiche](../personnages/equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya | « choisies » 3 missions plus tôt ; part-famille de Tanya | ch.1 sc.2 | [fiche](../personnages/equipe/nieve.md) |
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
-| **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; dérangeant sans être fiable ; Ostrov le fait taire | **ch.1** | [fiche](../personnages/equipe/iov.md) |
+| **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; dérangeant sans être fiable ; Ostrov le fait taire ; **enregistre la cadence** (ch.5) puis **disparaît** entre deux camps, fil intact — sort indéterminé | **ch.1** → disparu **ch.5** | [fiche](../personnages/equipe/iov.md) |
 | **Drev** | chevalier, plus vieux et **dur** (foil de Vael) | prie « comme on charge une arme » ; « on descend peut-être les ramasser » | ch.1 | — |
 
 ## Monde — termes & faits posés
@@ -127,8 +144,13 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Audit indépendant ch.1-2 vs documentation** : fond **parfaitement conforme** (nommage, équilibre technoféodal, courbe de genre, signature, folklore = propagande, régime du doute, canon ↔ prose). 4 entorses de style **corrigées** : « joie froide » (montrée par l'acte), « rouge de rouille » → « mangé de rouille », « goût de cendre et de rouille » → « pierre chaude », motif « figé en plein geste » allégé au ch.1 (réservé à l'appareil ouvert du ch.2). ✓
 - **Ch.3 (auto-contrôle)** : Phase 2 qui s'installe ; **virage gothique** (l'ossuaire) — un pas vers *Alien*. Les galeries d'os = **indice de déduction « Paris »**, jamais nommé. Folklore = propagande (les anciens « damnés » ; « la leçon ne ment pas sur les faits »). Doute : l'autre équipe **invérifiable** (symétrie avec la Voix) ; le paranoïaque semé **sans être lucide** ; la dissonance de Tanya monte (les *recueils* réécrits vs les disques bruts) **sans réveil** (« ce n'était pas son travail de juger »). Aucun monstre, IA intouchée, aucun ordre. Tech présente (lampes, liaison, station de lecture). ✓
 
+## Cohérence vérifiée — Chapitres 4-5
+- **Ch.4 (le Gisement)** : climax de la descente ; **tech bien visible** (colonnes de mémoire, station de lecture, froid de machine) — pas de primitivisation. Le **pilier politique** est lu *sans glose dystopique* : Tanya constate (« lucides, pas damnés »), le lecteur fait le procès de Polaris. **Régime du doute tenu** : cause de mort des quatre **indéterminée**, jamais de bête montrée ; *on n'est pas seuls* reste un mot sur la roche, pas une apparition. **Cran 4 en acte** (elle copie), continuité de la photo + relevé amputé. ✓
+- **Ch.5 (la remontée)** : **première vraie refissuration**, et elle reste **invérifiable** — la cadence est *enregistrée, jamais entendue en direct* (le boîtier d'un paranoïaque, à charge), Ostrov la rationalise, Iov la creuse : le lecteur a le vertige, le texte ne tranche pas. **Disparition d'Iov** = doute pur (créature / Drev / égarement tous ouverts ; *fil intact* exclut l'accident simple sans prouver le surnaturel). **« Je ne sais pas » de Tanya** = bascule intérieure dite tout haut, sans réveil militant. Équipe qui se défait montrée **par les actes** (Nieve qui se tait, Drev qui « cherche pour ne pas trouver»), non par l'analyse. Aucun ordre, IA intouchée, isolement tenu. ✓
+- **Dose de Phase tenue** : on passe de Phase 2 (l'écart) à l'orée de Phase 3 (le dread *Alien*) **par un seul cran surnaturel-possible** (la cadence), pas par une preuve. Ne pas accélérer : la fin sèche doit rester **sans monstre**. ✓
+
 ## Points de vigilance pour la suite
-- **Ch.1-4 : écrits.** Fil dramatique (le Gisement, les premiers, le silence) ; équipe incarnée ; dé-glosé ; **dissonance en actes** (crans 2-4). ✓
-- **Ch.5+ (suite)** : le **repli** avec le Gisement laissé derrière (et la copie de Tanya) ; **les deux premiers manquants** ; la **refissuration** qui monte (« on n'est pas seuls », le froid de machine) — 2-3 détails qui résistent à la raison, *sans monstre* ; **le rapport transformé** en propagande ; **Iov** qui dérange de plus en plus ; vers la fin sèche (le moine copiste, le dernier bruit).
-- **Ne pas dépasser la dose de Phase 2** : le lecteur voit l'écart, sans certitude dystopique encore.
+- **Ch.1-5 : écrits.** Fil dramatique (le Gisement, les premiers, le silence) ; équipe incarnée puis **défaite** ; dé-glosé ; **dissonance en actes** (crans 2-4) puis **avouée** (« je ne sais pas ») ; **refissuration** posée (la cadence, la disparition d'Iov). ✓
+- **Ch.6 / fin sèche (à écrire)** : la **remontée à la surface** et **le nettoyage du rapport** (Tanya rédige/signe l'officiel — la vérité du Gisement recodée en propagande, comme le rapport niveau 2) ; le **geste du moine copiste** consommé (elle garde les strates : la dispute des morts, la photo, peut-être un aïeul) ; **le dernier bruit** qui monte (clore *sans* épilogue, *sans* montrer la cause). **Les deux premiers manquants** restent non élucidés (ne pas les retrouver).
+- **Ne pas dépasser la dose** : à la toute fin, le lecteur peut *croire* au surnaturel **ou** au régime — jamais les deux tranchés. Le doute est la dernière image.
 - **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.

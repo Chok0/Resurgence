@@ -48,7 +48,7 @@ relisible et maintenable en clair.
 - **Worldbuilding** : bible v1.2, dense et stabilisée sur le fond.
 - **Plan d'écriture** : feuille de route par mouvements et scènes établie ; découpage en chapitres à venir.
 - **Écriture de Polaris** : « germe d'écriture », système assemblé — *à casser ou valider*.
-- **Prose du roman** : en cours. **Ch.1-4 complets** (1ᵉ jet), réorganisés autour d'un **fil dramatique** : le **Gisement** de données, trouvé par l'équipe des **premiers** qui s'est tue. Tanya passe de pion du régime à **moine copiste** (sa dissonance progresse en *actes*, pas en humeurs). Voix : 3ᵉ personne, passé, indirect libre ; **signature** « l'effet d'exhumation » ; équilibre technoféodal. Relecture sévère appliquée. Continuité dans [`manuscrit/canon.md`](manuscrit/canon.md) ; garde-fous de style dans [`manuscrit/regles-ecriture.md`](manuscrit/regles-ecriture.md).
+- **Prose du roman** : en cours. **Ch.1-5 complets** (1ᵉ jet), articulés sur un **fil dramatique** : le **Gisement** de données, trouvé par l'équipe des **premiers** qui s'est tue. La descente atteint la chambre de mémoire (ch.4), puis l'équipe **se défait à la remontée** (ch.5 : la *refissuration* commence — une cadence enregistrée, la disparition d'Iov ; le doute tient, aucun monstre montré). Tanya passe de pion du régime à **moine copiste** (sa dissonance progresse en *actes*, puis s'avoue). Voix : 3ᵉ personne, passé, indirect libre ; **signature** « l'effet d'exhumation » ; équilibre technoféodal. Relecture sévère appliquée. Continuité dans [`manuscrit/canon.md`](manuscrit/canon.md) ; garde-fous de style dans [`manuscrit/regles-ecriture.md`](manuscrit/regles-ecriture.md).
 
 ## Questions ouvertes globales
 
