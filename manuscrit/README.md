@@ -32,9 +32,12 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **4 — Le Gisement** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
 | **5 — La remontée** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
 | **6 — La surface** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt IV | **complet — 3 scènes** (1ᵉ jet) |
+| **7 — Clore** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt V (fin sèche) | **complet — 3 scènes** (1ᵉ jet) |
 
-> **Où on en est (Phase 2 → 3).** Le Mvt I (aucune fissure) est **derrière nous** : depuis
-> le Gisement, la **refissuration** est amorcée (« on n'est pas seuls », la cadence
-> enregistrée d'Iov, sa disparition). Règle de dosage maintenant : *un seul cran
-> surnaturel-possible à la fois*, toujours **invérifiable** — le lecteur doute, le texte ne
-> tranche jamais. Pas de monstre montré. Voir [`canon.md`](canon.md) § Cohérence ch.4-5.
+> **Premier jet bouclé (ch.1-7).** L'arc complet est posé : Tolkien (ch.1) → Orwell (ch.6) →
+> Alien/doute (ch.7), refermé sur la **fin sèche** sans résolution (le dernier bruit, donné en
+> trois lectures, jamais tranché). Reste à faire (2ᵉ passe) : relecture sévère d'ensemble ;
+> *éventuellement* étoffer le milieu (la **spirale** est compressée — Mvt III tiendrait 1-2
+> chapitres de plus). **Invariants** à ne jamais casser : ville jamais nommée ; aucun monstre
+> montré ; vérités d'auteur tues ; Tanya non fiable. Voir [`canon.md`](canon.md) § Points de
+> vigilance — premier jet achevé.

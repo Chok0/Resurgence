@@ -113,6 +113,44 @@ une **convergence structurelle** (les mêmes angoisses humaines produisent les m
 formes), soit la preuve que l'Architecte **connaissait les sources** et s'en est inspiré.
 *Les deux hypothèses restent ouvertes.*
 
+### Le bestiaire du culte — ce qu'on craint en bas *(à incarner en Phase 1)*
+`⚑` **Les monstres ne sont jamais montrés et n'existent pas** (vérité d'auteur). Mais en
+**Phase 1, le lecteur doit y croire et les craindre** — sinon la refissuration n'a rien à
+fissurer plus tard, et *« je n'ai pas eu peur »*. Leur peur passe par la **croyance des
+chevaliers** et par un **corps** (un homme qui pèse deux fois Tanya et refuse une galerie),
+jamais par le narrateur qui les affirmerait. Source : webculture **folklorisée** (SCP, Slender,
+Backrooms) **+** le bestiaire fabriqué par l'Architecte — toujours en formule *folklorique /
+propagande*.
+- **Ceux qui se souviennent** *(les Veilleurs de l'Oubli)* — les damnés qui **n'ont pas su
+  mourir** : perdus dans le vide de leurs jours sans l'Architecte, ils ont « perdu le chemin du
+  jour » (Salles de l'Oubli / Backrooms) et **errent** là où la lampe ne porte pas. Le danger
+  n'est pas leurs mains : c'est qu'ils **apprennent votre nom**. Si le bas « se souvient » de
+  vous, il **monte vous le rendre**. → C'est ce que conjure la **formule du seuil** (« que rien
+  de ce qui dort en bas ne se souvienne de nous »). *Créature-pilier du roman : elle est déjà
+  dans la liturgie.*
+- **Le Long / l'Effacé** *(Slender)* — une **forme haute et sans visage** au bord de la lampe ;
+  chercher à lui voir une face, c'est être pris. Compté par l'Architecte parmi les démons d'en
+  bas.
+- **Les bêtes** — les charognards qui **sont vraiment revenus** dans les ruines (rats, chiens,
+  oiseaux des cavernes). Le culte les **confond** avec les démons : c'est la **soupape
+  rationnelle** — tout « monstre » a peut-être quatre pattes et faim. *Toujours laisser cette
+  porte ouverte.*
+
+`💥` **Le moteur de la peur — les creepypastas comme confirmation.** La terreur des équipes ne
+tient pas qu'aux légendes apprises : elle se **nourrit de ce qu'elles trouvent**. Sous terre,
+elles tombent sur les **creepypastas** de l'ancien monde (SCP, Slender, Backrooms) — et y
+**reconnaissent leurs propres démons**, en plus vieux, en plus déformé. Pour un chevalier, ce
+n'est pas une fiction : c'est la **preuve** que les monstres sont **attestés depuis toujours**.
+Le régime le sait et **remonte ces récits exprès** : ils renforcent la propagande. La vérité
+d'auteur — *deux mythologies inventées séparément (les anciens pour jouer, l'Architecte pour
+régner) qui se ressemblent par convergence* — n'est jamais dite ; le doute reste entier (cf.
+§ religion : convergence **ou** l'Architecte connaissait les sources). C'est l'engin qui rend
+les Salles de l'Oubli (ch.2) **effrayantes** et non muséales.
+
+`⚑` **Dosage** : suggérer, jamais exhiber. Une légende dite par un chevalier, une peur dans un
+corps, un bruit qu'on explique à moitié. Le **doute** reste roi (cf.
+[`../structure-recit/`](../structure-recit/) § régime du doute).
+
 ### L'Architecte
 Fondateur officiellement immortel par transcendance numérique. La momie du Sanctuaire
 Central est une **enveloppe quittée**, pas une dépouille. L'IA qui parle en son nom est
@@ -136,10 +174,64 @@ Chaque découverte fonctionne sur **deux niveaux simultanés** :
 
 > Tanya est la seule à regarder assez longtemps pour voir les deux à la fois.
 
-### Objectifs de la mission
-- **Officiel** : préparer la recolonisation, évaluer les infrastructures.
-- **Caché (bloc militaire)** : récupérer des technologies de surveillance et de contrôle.
-- **Non anticipé** : que les archives soient *lisibles, cohérentes, et politiquement destructrices* pour le culte.
+### Objectifs de la mission — `⚑` **une opération de contrôle de la mémoire, pas une archéologie**
+> **But stratégique** : **recoloniser les marges sud.** Les expéditions ouvrent la voie — en
+> nettoyant le terrain (recyclage) **et** en nettoyant la mémoire (suppression). On n'exhume
+> pas pour savoir : on exhume pour **maîtriser ce qui se sait**.
+
+Quand Polaris envoie une équipe d'exploration, **deux objectifs**, dans cet ordre :
+
+1. **`⚑` Faire DISPARAÎTRE les données compromettantes** *(objectif premier du régime — la vraie
+   raison des missions)*. Tout ce qui ruine le récit : la preuve que **la démocratie a existé** ;
+   qu'une **vraie science / un vrai savoir** ont existé hors du culte ; et que **les monstres
+   n'existent pas** (qu'ils sont une invention). **Mais la suppression ne se fait PAS sur le
+   terrain.** Les équipes **extraient et transmettent** tout (avec leurs conclusions) ; c'est **la
+   machine de Polaris, en haut, qui ne garde que ce qui arrange et déforme ou efface le reste** —
+   mécaniquement, sans visage (Kafka). *Le terrain ne tranche pas ; il alimente.*
+2. **Récolter, au passage, ce qui sert le régime.** **Science** et **armement** utilisables ;
+   et surtout les **creepypastas** (SCP, Slender, Backrooms…) — qui apparaissent comme une
+   **version ancestrale et déformée du mythe de Polaris** : on les remonte parce qu'elles
+   **renforcent la propagande** (les démons seraient attestés depuis l'ancien monde). `💥` **C'est
+   aussi pourquoi les équipes ont peur** : elles tombent sur ces récits et les lisent comme la
+   **confirmation** de ce qu'on leur a enseigné — sans savoir que les deux mythes ont été
+   *inventés séparément* et ne se « confirment » que par hasard.
+
+**Objectif annexe** : les **équipes de recyclage** raclent la zone pour ses **matériaux et
+matériel** (cf. § terrain — imagerie *Mad Max*).
+
+`⚑` **Conséquences narratives décisives** :
+- **`⚑` Tanya = petite main, pas censeur.** Son travail : descendre, **extraire** la mémoire, la
+  **lire**, en **donner ses conclusions**, la **faire monter**. Elle ne tranche rien. **Son
+  réflexe de copier** naît quand elle **constate la déformation en bout de chaîne** : ses
+  rapports lui reviennent **modifiés**, des données qu'elle voulait réétudier ont été
+  **supprimées**. Elle en tire deux choses à la fois — *il est inutile de faire remonter l'info*
+  (la machine la mangera) **et** *cette info compte* — alors elle **en garde une copie pour
+  elle**. **Sans plan** : orpheline des dômes, **elle ne peut pas concevoir de trahir Polaris**.
+  Le moine copiste n'est donc pas un résistant : c'est quelqu'un qui **ne supporte pas
+  l'effacement**, sans savoir qu'en faire. *(Cœur de la fin : ch.7, elle nettoie ET garde.)*
+- **Le moine copiste = la seule transgression possible.** Le métier veut qu'elle **transmette** ;
+  le système, lui, **efface**. **Copier — soustraire au système ce qu'il détruira — est sa seule
+  transgression, et elle est passive, sans projet.** *Préserver ce qu'on annihilerait.*
+- **Phase 1 = le contrôle de la mémoire passe pour de la PIÉTÉ.** Personne sur le terrain ne se
+  dit « on censure » : on extrait, on transmet, et l'on **tient pour normal** que la parole
+  corruptrice des damnés ne revienne pas au jour et que tout soit « traité » correctement en
+  haut. Le lecteur n'y voit, au début, qu'une logique cultuelle ; il ne comprend qu'en **Phase
+  2-3** que la machine d'en haut est une **broyeuse**. *(Traces : « expurgation d'usage » ch.2 ;
+  rapports déformés + trou dans les métadonnées ch.6.)*
+- **Les monstres sont DEUX FOIS inventés** (par les anciens en fiction ludique ; par l'Architecte
+  en propagande) et leur **rime** est prise pour preuve. Le lecteur voit deux fictions ; les
+  croyants, une confirmation. La **non-existence des monstres** est elle-même une **donnée à
+  effacer** — cohérent avec « jamais montrer, jamais confirmer, jamais infirmer ».
+
+`⚑` **Polaris ne fait pas de sauvetage.** *(Réponse au « pourquoi s'arrêter pour des disques
+quand des collègues manquent ? ».)* Un homme est remplaçable ; un Gisement pareil, non. Quand
+l'équipe de tête se tait, l'ordre n'est **pas** « allez les chercher » mais « **sécurisez le
+site, et accessoirement établissez leur sort** ». La mention *« défaillance d'antenne »* est le
+**permis bureaucratique de ne pas s'alarmer** : tant que c'est une panne, on travaille en
+descendant, personne n'a à courir. Le scandale — une civilisation qui tient à **maîtriser sa
+mémoire** plus qu'à ses vivants — est **ressenti par Iov et Tanya, jamais énoncé comme thèse**.
+La réponse, dans le texte, à « pourquoi le site avant les camarades » : *parce que tels sont les
+ordres, et que c'est monstrueux.*
 
 `⚑` Le commanditaire **n'est PAS personnifié** : pas d'antagoniste à visage, pas de plan
 machiavélique à démasquer. Ce qui pilote la mission, c'est **le système lui-même** — une
@@ -179,24 +271,30 @@ Détails posés par la prose et désormais canon (registre complet :
 > morte », « la marge sud ». **Bannis de la prose** : *Paris*, *parisien*, *France*,
 > *français* (ce dernier rendu par « ce vieux pays », « d'ici »…).
 
-### La ville en 2148 — une métropole entière, pas un monolithe
-Ce n'est pas *une* ruine mais **une étendue de ruines sans bord** : le cœur dense de la
-cité, et tout autour les **faubourgs et les banlieues mortes** — un océan de décombres ocre
-que la steppe reconquiert, jusqu'à l'horizon. La **surface** est une ruine irradiée,
-territoire spirituellement dangereux selon le culte, interdite. Le climat n'est plus
-tempéré : Polaris reterraforme depuis le nord, mais l'Europe ressemble désormais au
-**Maghreb / Moyen-Orient** — chaleur écrasante, aridité, lumière dure et ocre.
+### La ville en 2148 — abandonnée, ni monolithe ni steppe rase
+`⚑` **Correction de cadrage** : ce n'est **pas une steppe** qui aurait tout ravalé, ni un
+champ de gravats uniforme. C'est une **ville laissée à l'abandon**, sans bord. La guerre
+nucléaire a **soufflé les grands édifices** — il n'en reste, par endroits, que des champs de
+décombres ocre ; mais **partout ailleurs, dans les marges sud, beaucoup tient encore debout**,
+surtout le **petit bâti** : maisons basses, pans d'immeubles, **rues entières vidées mais
+dressées**, ouvertes au sable et au vent chaud. Le peuple est parti **sans rien ranger** ; les
+portes battent sur le vide. Par-dessus, un **climat devenu extrême** (Polaris reterraforme
+depuis le nord, mais l'Europe ressemble au **Maghreb / Moyen-Orient** — chaleur écrasante,
+aridité, lumière dure et ocre, épisodes violents). La **steppe sèche** ne mord **qu'aux
+marges** : elle n'a pas effacé le bâti. La **surface** reste une ruine irradiée, interdite par
+le culte.
 
-> **Une métropole de fournaise** : les ruines émergent d'une steppe sèche sous un soleil
-> violent. Visuellement neuf — on a vu mille capitales post-apo froides et brumeuses, jamais
-> une de fournaise. Au-dessus du chaos, **une seule chose tient debout** : la grande tour de
-> fer (l'indice-maître du lecteur).
+> **Une ville-fournaise abandonnée** : des rues mortes **encore debout** sous un soleil
+> violent, le sable dans les maisons vides — plus *Tchernobyl au Sahara* qu'un champ de
+> gravats. Visuellement neuf (mille capitales post-apo froides et brumeuses ; jamais une de
+> fournaise). Au-dessus de tout, **une seule grande chose tient** : la tour de fer (la *Lance*
+> — l'indice-maître du lecteur).
 
-`⚑` **Imagerie : atompunk / *Mad Max*.** Le champ de ruines au soleil — carcasses, rouille,
-poussière, bandes de charognards (les **équipes de recyclage** raclent la zone pour ses
-matériaux) — évoque *Mad Max* ; mais **plus archéologique** : on ne traverse pas un désert,
-on **fouille** une métropole entière, dense de bâtiments écroulés et de traces du monde
-d'avant.
+`⚑` **Imagerie : atompunk / *Mad Max*.** Le soleil dur, carcasses, rouille, poussière, bandes
+de charognards (les **équipes de recyclage** raclent la zone pour ses matériaux) — évoque
+*Mad Max* ; mais **plus archéologique et plus debout** : on ne traverse pas un désert, on
+**fouille une métropole encore largement bâtie** (le petit bâti dressé, le grand écroulé),
+dense de traces du monde d'avant.
 
 `⚑` **Contraste sensoriel fondateur** : dehors la chaleur aride, dedans le froid et
 l'humidité préservés des galeries. La descente sous terre est une descente dans une
