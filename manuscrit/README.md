@@ -29,7 +29,12 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **1 — Le Seuil** | [`../plan-ecriture/chapitre-01.md`](../plan-ecriture/chapitre-01.md) | **complet — 4 scènes** (1ᵉ jet) |
 | **2 — La Descente** | [`../plan-ecriture/chapitre-02.md`](../plan-ecriture/chapitre-02.md) | **complet — 4 scènes** (1ᵉ jet) |
 | **3 — Les crânes** | [`../plan-ecriture/chapitre-03.md`](../plan-ecriture/chapitre-03.md) | **complet — 3 scènes** (1ᵉ jet) |
+| **4 — Le Gisement** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
+| **5 — La remontée** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
+| **6 — La surface** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt IV | **complet — 3 scènes** (1ᵉ jet) |
 
-> **Rappel Phase 1.** Tant qu'on est dans le Mvt I, *aucune fissure* : le culte, les
-> monstres et Polaris sont vus de l'intérieur, comme vrais. On construit la croyance
-> qu'on minera plus tard.
+> **Où on en est (Phase 2 → 3).** Le Mvt I (aucune fissure) est **derrière nous** : depuis
+> le Gisement, la **refissuration** est amorcée (« on n'est pas seuls », la cadence
+> enregistrée d'Iov, sa disparition). Règle de dosage maintenant : *un seul cran
+> surnaturel-possible à la fois*, toujours **invérifiable** — le lecteur doute, le texte ne
+> tranche jamais. Pas de monstre montré. Voir [`canon.md`](canon.md) § Cohérence ch.4-5.

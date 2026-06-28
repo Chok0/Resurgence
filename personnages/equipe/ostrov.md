@@ -1,27 +1,34 @@
 # Ostrov — chef d'équipe
 
-> *Personnage de travail. Introduit ch.1 sc.2.*
+> *Pas un distributeur d'ordres : un homme qui porte le poids de la mission.*
 
 | | |
 |---|---|
-| **Rôle** | Chef de la mission ; autorité administrative et scientifique de l'équipe. |
-| **Caste** | Scientifique / encadrement (pas chevalier). |
-| **Établi au texte** | Chef d'une équipe qu'il « n'avait pas formée » ; répond de tout sans rien décider ; recompte sans cesse son monde, « comme s'il faisait d'avance le compte de ce qui pouvait mal tourner ». |
+| **Rôle** | Chef de la mission ; répond de tout devant Polaris — y compris du **Gisement** et du silence des premiers. |
+| **Caste** | Scientifique / encadrement. |
 
-## Fonction narrative
-Incarne la **chaîne de commandement** sans visage. C'est par lui qu'arriveront les ordres
-de Polaris (le recentrage des priorités au Mvt III, les ordres déformés au Mvt IV).
+## Densité
+- **Il gère la peur par la procédure.** Il recompte son monde, vérifie les sceaux, les
+  manifestes, les noms — un homme qui tient parce qu'il tient des listes. Quand les listes ne
+  suffiront plus, on le verra fléchir.
+- **Le corps** : fatigué, économe de gestes, dort mal ; une manie *(à fixer — relit les
+  ordres, rationne quelque chose)*.
+- **La faille** : il **n'a pas choisi son équipe** et répond pourtant de chaque vie ; il a reçu
+  l'ordre de **descendre là où les premiers se sont tus**, et il descend. Complice, manipulé,
+  ou seulement obéissant ? *On ne tranche pas.*
+- **La voix** : brève, ferme en surface ; une fois, le poids passe dessous.
 
-`⚑` **Statut volontairement indéterminé** (vérité d'auteur à tenir) : **complice,
-manipulé, ou aveugle ?** Ne jamais trancher dans le texte. En ch.1, il n'est qu'un
-responsable fatigué qui porte le poids de la mission — aucune des trois lectures n'est
-encore activée.
+## Dans la tension de base
+C'est par lui qu'arrive le **rappel de mission** (le Gisement, les premiers muets, l'ordre de
+continuer). Il **porte** la pression : il sait que ça pue, et il avance quand même. Le
+« système » prend chair en lui **sans qu'il en soit le visage**.
 
-## À ne pas faire
-- Ne pas le rendre sinistre ni clairement coupable en Phase 1 : il doit rester un cadre ordinaire.
-- Ne jamais lui faire énoncer un ordre de liquidation (interdit d'auteur, voir [`../../structure-recit/`](../../structure-recit/) § 5-D).
+## Relations
+- **Tanya** : il s'appuie sur sa compétence et la **surveille** — une estime tendue.
+- **Iov** : il le **fait taire** (autorité vs doute) — la friction la plus nette.
+- **L'équipe** : il répond d'eux ; un chef seul.
 
-## Questions ouvertes
-- `?` Prénom, âge, parcours.
-- `?` Sa faction d'obédience réelle (technocrate ? théocratique ?) et son briefing propre.
-- `?` Sait-il quelque chose de la mission bonus militaire ?
+## Fonction & pièges
+`⚑` **Statut indéterminé à tenir** : complice / manipulé / aveugle, jamais tranché. Ne jamais
+lui faire énoncer un ordre de liquidation.
+`?` Prénom ; faction d'obédience ; ce qu'il sait du vrai but militaire de la mission.

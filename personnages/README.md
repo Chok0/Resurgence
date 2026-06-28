@@ -99,7 +99,7 @@ scènes appelleront des visages) :
 
 - **le chef d'équipe** — complice, manipulé, ou aveugle ? *On ne tranche pas.*
 - **1-2 militaires-chevaliers**, dont **le fouineur** (insiste pour obtenir les données récupérées).
-- **le camarade paranoïaque** — porteur du doute (voir ci-dessous). *(Semé au ch.3 sc.2, non nommé : « celui qui voyait des mains partout » ; demande de vérifier l'existence de l'autre équipe, Ostrov refuse.)*
+- **le camarade paranoïaque** — porteur du doute (voir ci-dessous). *Désormais **Iov**, technicien du signal (fiche [`equipe/iov.md`](equipe/iov.md)) — celui qui écoute le silence des premiers.*
 - **1-2 autres scientifiques**.
 - **Tanya**.
 
@@ -114,11 +114,22 @@ ordre de mission flottant que personne ne comprend complètement.
 |---|---|---|---|
 | **Ostrov** | chef d'équipe (scientifique) | ch.1 sc.2 | [`equipe/ostrov.md`](equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya (son ancre d'appartenance) | ch.1 sc.2 | [`equipe/nieve.md`](equipe/nieve.md) |
-| **Vael** | chevalier, le plus jeune (foi sincère) | ch.1 sc.3 | [`equipe/vael.md`](equipe/vael.md) |
+| **Vael** | chevalier, le plus jeune (foi sincère, à plus d'une note) | ch.1 sc.3 | [`equipe/vael.md`](equipe/vael.md) |
+| **Iov** | technicien du signal — *le paranoïaque* | ch.3 sc.2 (à avancer au ch.1) | [`equipe/iov.md`](equipe/iov.md) |
 
-> Les faits **établis par le texte** (et donc à respecter) sont centralisés dans
-> [`../manuscrit/canon.md`](../manuscrit/canon.md). *Le fouineur* et *le camarade
-> paranoïaque* (rôles ci-dessus) ne sont pas encore incarnés dans la prose.
+> Les faits **établis par le texte** sont centralisés dans
+> [`../manuscrit/canon.md`](../manuscrit/canon.md). Reste à incarner : *le chevalier-fouineur*
+> (militaire à l'ordre caché, Mvt IV).
+
+### Relations — la carte de l'équipe
+> À **montrer** dans la prose, pas seulement à poser ici.
+- **Tanya ↔ Nieve** : amies « choisies » — la quasi-sœur, l'**ancre d'appartenance** de Tanya. *(À incarner : une scène à elles deux.)*
+- **Tanya ↔ Ostrov** : compétence contre surveillance — une estime tendue.
+- **Tanya ↔ Vael** : tendresse **cross-caste** (le sourire).
+- **Tanya ↔ Iov** : répulsion **et** reconnaissance secrète — il dit tout haut sa dissonance ; elle a honte d'être d'accord. **Miroir gênant.**
+- **Ostrov ↔ Iov** : l'autorité qui fait taire le doute — la **friction** la plus nette.
+- **Vael ≠ les autres chevaliers** : sa foi est intime, pas grégaire ; tension de caste *interne*.
+- **Scientifiques ↔ chevaliers** : le clivage de caste fondateur (la double lecture en miniature).
 
 ### Ambiance et dynamique
 `⚑` Références : **The Thing**, **Alien**. La menace est dans ce qu'ils trouvent et dans

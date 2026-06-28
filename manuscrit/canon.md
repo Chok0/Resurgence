@@ -29,6 +29,69 @@ medieval-fantasy sans tech, ni SF sans sacré. Détail :
 Polaris = solarpunk-façade sur théocratie ; marges sud = champ de ruines *Mad Max* /
 atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../univers/README.md) § 1.
 
+## ⚑ Tension de base — le Gisement et les premiers *(fil dramatique)*
+- **Le Gisement** : une chambre de données quasi intacte — des **téraoctets** — le grand prix de la mission. Localisé par **l'équipe de tête (« les premiers »)**, qui l'a signalé puis **s'est tue**. *Nom technique de l'équipe : « le Gisement » ; nom cultuel de Polaris : **« la Source »** (le cœur maudit où dort la mémoire des damnés) — le même lieu sous deux langues (ch.6).*
+- **Le rappel de mission** : l'équipe de Tanya doit **rejoindre le Gisement**, remonter les données, et **apprendre ce qu'il est advenu des premiers**. Destination + dread (à la *Alien*) ; le silence reste **inexpliqué** (le doute tient, pas de monstre).
+- **Iov** écoute ce silence (son métier) → porte-voix du doute. **La dissonance de Tanya** progresse en 3 crans et finit par **agir** (une omission dans son relevé).
+> Détail : [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md).
+>
+> **Réalisé — ch.1-3 réécrits.** La **trace des premiers** : croix de craie aux
+> embranchements ; un **caisson de prélèvement daté de la veille du silence** dans les Salles
+> de l'Oubli ; leur **dernière marque** dans l'ossuaire — une flèche vers le Gisement + le mot
+> **« vite »** (craie brisée). Ligne officielle sur le silence : **« défaillance d'antenne »**
+> (qu'Iov et le caisson démentent). **Dissonance de Tanya en ACTES** : *cran 2* — elle **copie
+> en secret** la photo (« les filles du bureau ») sur son unité non déclarée, sans savoir
+> pourquoi ; *cran 3* — elle **retranche le campement de réfugiés de son relevé**, son
+> **premier mensonge conscient** à Polaris. *(Les blocs « Cohérence vérifiée ch.2/ch.3 »
+> ci-dessous datent d'avant la réécriture — valeur d'historique.)*
+>
+> **Ch.4 — le Gisement** *(climax de l'arc descente)*. L'équipe atteint la chambre de données
+> (colonnes de mémoire ; un **« froid de machine »** qui n'aurait pas dû tenir un siècle —
+> graine de **refissuration**). Lecture lente du **pilier politique** : les morts étaient
+> **lucides, pas damnés** (« il est encore temps si on s'y met ensemble »). On retrouve
+> **quatre des six premiers** ; **cause indéterminée** (nulle blessure lisible ; loin les uns
+> des autres « comme s'ils s'étaient fuis » ; sur la roche : *vite*, puis *on n'est pas
+> seuls*). Vérité d'auteur, jamais montrée : ils se sont **entretués dans la paranoïa** — le
+> doute tient (radiation / créature / eux-mêmes). **Ostrov désobéit** (repli ; il laisse le
+> Gisement). **Tanya, cran 4** : pendant le repli, elle **copie le Gisement** sur son unité —
+> le geste du **moine copiste** s'amorce.
+>
+> **Ch.5 — la remontée** *(le repli, l'équipe se défait)*. On remonte le fil à l'envers, les
+> flèches des premiers « pointées vers ce qu'on fuyait ». **Refissuration (cran décisif)** :
+> le boîtier d'**Iov** a **enregistré une cadence** montant du bas — régulière, « à intervalles
+> trop égaux pour être de l'eau » — que **personne n'a entendue sur le moment**. Ostrov
+> rationalise (« une pompe qui tient encore, le froid ») ; Iov sape (« À cette distance ? On
+> est à un jour au-dessus. Et ça monte »). **Tanya : « Je ne sais pas »** — *la première fois
+> qu'elle le dit tout haut* (le doute enfin avoué). Puis **Iov disparaît** entre deux
+> campements, sur un chemin déjà fait, **fil intact**, sans trace ; on cherche une heure ou
+> deux, rien. **Drev ne cherche pas vraiment** (« il y a une façon de chercher qui espère ne
+> pas trouver » ; il a toujours dit qu'Iov portait la poisse). **Doute tenu** : créature ?
+> élimination par Drev ? égarement ? — jamais tranché. **Compte des manquants : trois**
+> (les deux du Gisement + Iov), « et nul ne pouvait dire si ce qui les prenait, un par un,
+> venait du bas ou d'eux-mêmes ». L'équipe se défait : Nieve **ne plaisante plus** (« c'était
+> à son silence qu'on mesurait la peur »), Vael prie sans arrêt, Ostrov sait qu'il paiera son
+> repli là-haut. Fin du mouvement descente : on remonte vers la surface, **les mains vides**,
+> Tanya « avec la dispute des morts contre sa poitrine ».
+>
+> **Ch.6 — la surface** *(le retour ; bascule Orwell ; le rapport recodé)*. Retour au camp de
+> base (miroir inversé du Seuil : la surface comme vraie « terre maudite »). **Beat-pilier du
+> Mvt IV : le rapport transformé en propagande.** Ostrov écrit droit ; la **réponse de Polaris**
+> (document niveau 2) recode tout : le Gisement = **« la Source »** (nom cultuel), les morts
+> lucides reclassés **« damnés lucides — ceux qui ont vu et n'ont pas cru »** ; *ce qui les
+> rendait justes les rend coupables*. **Trou dans les métadonnées** (vérité d'auteur) : le bloc
+> où les morts nommaient les responsables **disparaît de l'index** — suppression *mécanique*,
+> « personne ne l'avait faite ; elle s'était faite » (nul auteur). **Refissuration (résidu
+> calibré, distinct de la cadence)** : la dernière lecture des premiers porte une **marque
+> d'accès datée de trois jours APRÈS leur silence** — dix explications rationnelles, aucune qui
+> apaise (écho d'« ils écoutaient »). **Menace militaire semée** (vérité d'auteur, jamais
+> confirmée) : Drev a sa **liaison propre** (hors Ostrov), les chevaliers ont **mis à part un
+> caisson** des premiers, l'ordre redescendu a **un mot changé** (*ramener* → *clore*) — Tanya
+> soupçonne, *n'en conclut rien*. **Ancre temporelle inverse** : flashback de la **dénonciation
+> fondatrice** (elle a « donné un nom » jeune ; ambiguïté d'intention intacte — « elle n'avait
+> jamais réussi à se le dire tout à fait »). **Tanya, le double** : elle **garde** au lieu de
+> donner (le geste du moine copiste mûrit) ; clôt sur le **vertige moral** à venir — « elle ne
+> savait pas encore lequel des deux mondes elle allait trahir ».
+
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
 |---|---|---|---|---|
@@ -36,14 +99,15 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Ostrov** | chef d'équipe (scientifique) | répond de tout sans décider ; recompte son monde | ch.1 sc.2 | [fiche](../personnages/equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya | « choisies » 3 missions plus tôt ; part-famille de Tanya | ch.1 sc.2 | [fiche](../personnages/equipe/nieve.md) |
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
-| **(le paranoïaque)** | membre de l'équipe — *non nommé* | « celui qui voyait des mains partout » ; demande de vérifier l'existence de l'autre équipe ; Ostrov refuse | ch.3 sc.2 | rôle : [README](../personnages/README.md) |
+| **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; dérangeant sans être fiable ; Ostrov le fait taire ; **enregistre la cadence** (ch.5) puis **disparaît** entre deux camps, fil intact — sort indéterminé | **ch.1** → disparu **ch.5** | [fiche](../personnages/equipe/iov.md) |
+| **Drev** | chevalier, plus vieux et **dur** (foil de Vael) | prie « comme on charge une arme » ; « on descend peut-être les ramasser » | ch.1 | — |
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
 - **La marge sud** : la métropole s'y trouve — plus on descend au sud, plus il fait chaud et moins Polaris est présent.
 - **La métropole** *(ch.1)* : pas un monolithe — une étendue de ruines sans bord (cœur dense + multitudes d'habitations en périphérie) que la steppe reconquiert. **Jamais nommée**, et **rendue en termes folkloriques** dans la prose (« ruches de pierre grise », « le peuple d'avant entassé ») — surtout pas « banlieues / béton / immeubles », qui trahiraient la Terre et la SF trop tôt.
-- **La tour de fer** *(ch.1)* : la seule chose encore debout. Au ch.1, **seulement une silhouette lointaine non identifiable** (« une forme haute, étroite, comme une lance plantée », « la silhouette noire »). La reconnaissance (Eiffel → Paris) est **différée** à un indice folklorique ultérieur : le lecteur ne doit pas deviner la ville dès l'ouverture. Indice-maître, mais à retardement.
+- **La tour de fer** *(ch.1)* : la seule chose encore debout. Au ch.1, **seulement une silhouette lointaine non identifiable** (« une forme haute, étroite, comme une lance plantée », « la silhouette noire »). La reconnaissance (Eiffel → Paris) est **différée** à un indice folklorique ultérieur : le lecteur ne doit pas deviner la ville dès l'ouverture. Indice-maître, mais à retardement. **Au ch.6**, vue du camp de surface, elle reçoit un **nom folklorique** : les équipes de recyclage l'appellent **« la Lance »** (forme de fer restée droite quand tout s'est affaissé) — pas un nom, un sobriquet d'ouvriers ; avance la reconnaissance (treillis de fer + catacombes) **sans** nommer la ville.
 - **Le camp de base** *(ch.3)* : station de surface étayée, à la lisière du soleil ; pivot de la **spirale** (descendre / rapporter / remonter / redescendre).
 - **La liaison** *(ch.3)* : comms intermittentes avec d'autres équipes, via les relais de Polaris (montée aux dômes, redescente) — lointaines, déformées, **invérifiables** (« on ne voit jamais au bout »).
 - **La bouche nord** : point de descente du chantier (ancienne entrée de métro).
@@ -72,7 +136,9 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **« On tient le coup »** *(ch.3 sc.1)* : éclat verbatim — trois mots gravés par un réfugié de 2030, à côté de bâtons comptés par cinq qui s'arrêtent net. Tanya les lit « parce que c'était presque encore sa langue ».
 - **Les recueils des dômes** *(ch.3 sc.3)* : à l'école, le passé enseigné via des extraits « choisis, classés, commentés » — l'Histoire réécrite. Les disques bruts (non « relus ») sont le contraire : **le moteur de la dissonance de Tanya**.
 - **Le rapport d'étape (niveau 2)** *(ch.2 sc.4)* : document officiel transmis à Polaris. L'équipe décrit **juste** et **interprète faux** — l'open space (exploitation économique) recodé en damnation spirituelle (« nul verrou, nulle chaîne… ils se damnaient sans qu'on les y forçât »). Confirme le culte involontairement. *Rédigé par Ostrov ; relevés signés par Tanya, qui laisse partir le rapport.*
-- **« Expurgation d'usage »** : les données sont censurées en routine avant transmission à Polaris — présenté comme procédure normale. **Graine** du futur « trou dans les métadonnées » (Mvt IV).
+- **« Expurgation d'usage »** : les données sont censurées en routine avant transmission à Polaris — présenté comme procédure normale. **Graine** du futur « trou dans les métadonnées » (Mvt IV). *Réalisé ch.6 (voir ci-dessous).*
+- **La réponse de Polaris au relevé du Gisement** *(ch.6 sc.2, document niveau 2)* : la transmission officielle qui **recode** la découverte. Registre cultuel-administratif, plat. Confirme « la Source » conforme aux écrits ; reclasse les morts lucides en **« damnés lucides — ceux qui ont vu et n'ont pas cru »** ; rappelle que nulle voix recueillie ne doit être tenue pour vraie (« le bruit dont l'Architecte a sauvé l'espèce »). *Le rapport transformé en propagande* (beat-pilier Mvt IV).
+- **Le trou dans les métadonnées** *(ch.6 sc.2)* : à la classification, le **bloc nommant les responsables** (chiffres et noms, lu au Gisement) **disparaît de l'index** — pas raturé, *retiré*, « l'index refermé par-dessus comme une eau », nul auteur au bas (« personne ne l'avait faite ; elle s'était faite »). Suppression **mécanique** du système (vérité d'auteur ; cf. [`../structure-recit/`](../structure-recit/) § 4). À distinguer du **résidu de refissuration** (la marque d'accès datée *après* le silence des premiers), qui, lui, n'a pas d'explication politique.
 
 ## Cohérence vérifiée — Chapitre 1
 - **Phase 1 tenue** : aucune fissure. Culte, monstres, Polaris vus de l'intérieur, comme vrais. ✓
@@ -99,8 +165,14 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Audit indépendant ch.1-2 vs documentation** : fond **parfaitement conforme** (nommage, équilibre technoféodal, courbe de genre, signature, folklore = propagande, régime du doute, canon ↔ prose). 4 entorses de style **corrigées** : « joie froide » (montrée par l'acte), « rouge de rouille » → « mangé de rouille », « goût de cendre et de rouille » → « pierre chaude », motif « figé en plein geste » allégé au ch.1 (réservé à l'appareil ouvert du ch.2). ✓
 - **Ch.3 (auto-contrôle)** : Phase 2 qui s'installe ; **virage gothique** (l'ossuaire) — un pas vers *Alien*. Les galeries d'os = **indice de déduction « Paris »**, jamais nommé. Folklore = propagande (les anciens « damnés » ; « la leçon ne ment pas sur les faits »). Doute : l'autre équipe **invérifiable** (symétrie avec la Voix) ; le paranoïaque semé **sans être lucide** ; la dissonance de Tanya monte (les *recueils* réécrits vs les disques bruts) **sans réveil** (« ce n'était pas son travail de juger »). Aucun monstre, IA intouchée, aucun ordre. Tech présente (lampes, liaison, station de lecture). ✓
 
+## Cohérence vérifiée — Chapitres 4-6
+- **Ch.4 (le Gisement)** : climax de la descente ; **tech bien visible** (colonnes de mémoire, station de lecture, froid de machine) — pas de primitivisation. Le **pilier politique** est lu *sans glose dystopique* : Tanya constate (« lucides, pas damnés »), le lecteur fait le procès de Polaris. **Régime du doute tenu** : cause de mort des quatre **indéterminée**, jamais de bête montrée ; *on n'est pas seuls* reste un mot sur la roche, pas une apparition. **Cran 4 en acte** (elle copie), continuité de la photo + relevé amputé. ✓
+- **Ch.5 (la remontée)** : **première vraie refissuration**, et elle reste **invérifiable** — la cadence est *enregistrée, jamais entendue en direct* (le boîtier d'un paranoïaque, à charge), Ostrov la rationalise, Iov la creuse : le lecteur a le vertige, le texte ne tranche pas. **Disparition d'Iov** = doute pur (créature / Drev / égarement tous ouverts ; *fil intact* exclut l'accident simple sans prouver le surnaturel). **« Je ne sais pas » de Tanya** = bascule intérieure dite tout haut, sans réveil militant. Équipe qui se défait montrée **par les actes** (Nieve qui se tait, Drev qui « cherche pour ne pas trouver»), non par l'analyse. Aucun ordre, IA intouchée, isolement tenu. ✓
+- **Ch.6 (la surface)** : **bascule de registre vers Orwell** (politique/clinique dominant) — la courbe de genre exécutée. **Beat-pilier réalisé** : le rapport recodé en propagande (« damnés lucides ») + **trou dans les métadonnées** rendu *mécanique* (« personne ne l'avait faite ; elle s'était faite ») = la lecture dystopique semble triompher (**c'est le piège** de Phase 2). **Refissuration tenue à un seul résidu** (l'accès daté *après* le silence) — distinct, non politique, rationalisable, jamais prouvé : la Phase 3 monte *sans accélérer*. **Menace militaire** = signaux faibles uniquement (liaison de Drev, caisson à part, ordre déformé) ; **jamais confirmée**, « elle n'en conclut rien » (vérité d'auteur tenue : aucun militaire n'énonce d'ordre). **Dénonciation fondatrice** posée en flashback avec **ambiguïté d'intention intacte** (vérité d'auteur E). Document niveau 2 **plat** (garde-fou 10). Nommage tenu (« la Lance », pas Eiffel/Paris). ✓
+- **Dose de Phase tenue** : Phase 2 (le piège dystopique) *consolidée* au ch.6 pendant que la Phase 3 (refissuration) **monte d'un seul cran à la fois**, toujours invérifiable. Ne pas accélérer : la fin sèche doit rester **sans monstre**, le doute non tranché. ✓
+
 ## Points de vigilance pour la suite
-- **Ch.1-3 : complets et vérifiés.** Contenu gardé **fragmentaire** — aucun corpus-pilier déployé avant le Mvt III. ✓
-- **Ch.4 (Mvt III)** : la **spirale** se resserre ; déployer 2-3 **corpus-piliers** en lecture lente (threads politiques, SCP, vaporwave) ; **le premier ordre** de Polaris qui recentre les priorités ; **le premier silence** de l'autre équipe ; **le premier bruit** (silhouette, cause mundane posée). Développer le **paranoïaque** (dérangeant sans fiable).
-- **Ne pas dépasser la dose de Phase 2** : le lecteur voit l'écart, sans certitude dystopique encore.
+- **Ch.1-6 : écrits.** Fil dramatique (le Gisement, les premiers, le silence) ; équipe incarnée puis **défaite** ; dé-glosé ; **dissonance en actes** (crans 2-4), **avouée** (« je ne sais pas »), puis **gardée** (le double, ch.6) ; **refissuration** à deux résidus (la cadence, l'accès post-silence) ; **rapport recodé en propagande** + **trou dans les métadonnées** réalisés ; **menace militaire** semée (jamais confirmée) ; **dénonciation fondatrice** posée (ambiguë). ✓
+- **Ch.7 / fin sèche (Mvt V — à écrire)** : la **redescente pour « clore » le site** ; **le nettoyage du rapport** consommé (Tanya signe l'officiel — déjà recodé au ch.6 — *et* se protège) **en parallèle** de l'archivage privé (le **vertige moral** : elle supprime ET garde, le système en miniature) ; **le dernier bruit** qui monte (clore *sans* épilogue, *sans* montrer la cause). **Les deux premiers manquants** restent non élucidés (ne pas les retrouver) ; **le sort d'Iov** jamais tranché.
+- **Ne pas dépasser la dose** : à la toute fin, le lecteur peut *croire* au surnaturel **ou** au régime — jamais les deux tranchés. Le doute est la dernière image.
 - **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.
