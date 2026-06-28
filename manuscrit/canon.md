@@ -42,7 +42,8 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Ostrov** | chef d'équipe (scientifique) | répond de tout sans décider ; recompte son monde | ch.1 sc.2 | [fiche](../personnages/equipe/ostrov.md) |
 | **Nieve** | scientifique, amie de Tanya | « choisies » 3 missions plus tôt ; part-famille de Tanya | ch.1 sc.2 | [fiche](../personnages/equipe/nieve.md) |
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
-| **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; « celui qui voyait des mains partout » ; **dérangeant sans être fiable** ; Ostrov le fait taire | ch.3 sc.2 *(à avancer au ch.1)* | [fiche](../personnages/equipe/iov.md) |
+| **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; dérangeant sans être fiable ; Ostrov le fait taire | **ch.1** | [fiche](../personnages/equipe/iov.md) |
+| **Drev** | chevalier, plus vieux et **dur** (foil de Vael) | prie « comme on charge une arme » ; « on descend peut-être les ramasser » | ch.1 | — |
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.

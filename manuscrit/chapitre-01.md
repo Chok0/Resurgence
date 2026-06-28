@@ -3,194 +3,128 @@
 ### 1 — L'arrivée
 
 La porte du transport coulissa et la chaleur tomba sur eux d'un bloc, avec une odeur de
-pierre brûlée.
+pierre brûlée. Sur l'écran, là-haut dans le froid des dômes, ça n'avait été qu'une courbe ;
+ici, ça avait un corps. Ocre — l'air, la lumière, la poussière en suspens. Le mot vint à
+Tanya avant le nom du lieu.
 
-On l'avait pourtant prévenue. Tanya avait lu les relevés, regardé les courbes de chaleur
-grimper sur ses écrans, là-haut, dans le froid des dômes — mais un chiffre ne tient pas dans
-la peau. Sur l'écran, la chaleur n'était qu'une donnée qu'on corrigeait ; ici, elle avait un
-corps — lourde, vivante, et d'une couleur. Ocre. L'air, la lumière, la poussière en suspens :
-tout. Le mot lui vint avant même le nom du lieu.
+Devant eux, la ville dans la steppe : pas une ruine mais une étendue sans bord, qui partait
+sous leurs pieds et courait jusqu'au tremblé de la chaleur. Le peuple d'avant avait grouillé
+là par multitudes, dans des ruches de pierre grise dont il ne restait que des moignons. Au
+loin, vers le cœur dense, une seule forme tenait debout — haute, étroite, dressée comme une
+lance plantée, dont on ne voyait que la silhouette. Personne, à Polaris, ne savait plus à
+quoi elle avait servi.
 
-Elle descendit la rampe, et le sol de l'ancien monde lui rendit sa chaleur par en dessous.
+Ils n'étaient pas venus pour la ville. Ils étaient venus pour ce qui dormait dessous.
 
-Devant elle, la steppe — et la ville dans la steppe. Car ce n'était pas une ruine qui
-montait à l'horizon, mais une étendue de ruines sans bord, qui commençait sous ses pieds et
-courait jusqu'au tremblé de la chaleur. Le peuple d'avant avait vécu là par multitudes,
-entassé dans des ruches de pierre grise dont il ne restait que des moignons ; le sable
-montait à l'assaut des plus basses, par les trous qui avaient été des fenêtres. Le tout
-cuit, ocré, rendu à la poussière, et si vaste que l'œil y renonçait. Au loin seulement, là
-où les carcasses se serraient et grandissaient, on devinait un cœur plus dense — la cité
-même, celle qui avait jadis donné son nom à toute l'étendue.
+À des jours de descente, là-dessous, une autre équipe avait trouvé le Gisement : une salle
+de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Ils
+l'avaient signalé. Puis ils s'étaient tus. Onze jours, maintenant. L'équipe de Tanya
+descendait pour le reprendre — et pour savoir.
 
-Car elle avait porté un nom. Les lettrés le savaient encore — Tanya en était —, un de ces
-noms du monde d'avant, courts et durs, qu'on n'était jamais tout à fait sûr de bien
-prononcer et que le reste de Polaris avait laissé tomber dans l'oubli, avec tant d'autres
-choses. Pour les chevaliers, derrière elle, ce n'était rien de tel : seulement une grande
-morte de l'ancien monde, sans nom, l'une des plus vastes, engloutie avec le reste durant le
-Grand Chaos, et que l'Architecte, dans sa sagesse, avait laissée dormir un siècle sous
-l'interdit.
+Ostrov les compta du regard, comme il comptait tout. « On ne s'attarde pas au soleil », dit
+il. C'était sa façon de ne pas parler des onze jours.
 
-Tanya plissa les yeux. Le métier reprenait déjà le dessus, plus fort que la sueur, plus
-fort que le petit malaise d'être là, à découvert, sous le ciel du châtiment. Elle lisait.
-C'était plus fort qu'elle — elle lisait le sol par couches, comme une chose qu'on déterre.
-Sous les herbes, quelque part, le lit de la catastrophe : cette nappe de cendre et de verre
-fondu que tous les chantiers retrouvaient à la même profondeur, la trace du jour où le ciel
-était tombé. Ces masses trop régulières pour être des collines : des bâtisses effondrées, un
-siècle d'effondrement tassé en buttes douces.
+À l'écart, Iov n'avait pas levé les yeux de son boîtier. Depuis l'approche il lançait l'appel
+vers le bas, le même mot, et le bas ne répondait pas.
 
-Et une seule chose, dans tout cela, tenait encore debout. Très loin, vers le cœur dense, une
-forme se dressait au-dessus des décombres — haute, étroite, montée vers le ciel comme une
-lance plantée, ployée sur un flanc et debout quand même après tout ce temps. De si loin, on
-n'en voyait que la silhouette noire. Tanya ignorait à quoi elle avait servi ; personne, à
-Polaris, ne le savait plus. Mais on la voyait de partout, et elle disait une seule chose :
-ici, des hommes avaient bâti vers le haut, et ils en avaient eu les moyens.
+« Toujours rien ? » demanda Nieve.
 
-Elle connaissait par cœur ce que les Interprètes enseignaient de ces lieux. Que la surface
-était le territoire du châtiment ; que le soleil y brûlait encore de la colère qui avait
-puni les anciens de leur démesure. Derrière elle, les chevaliers ne posaient pas le pied
-sur la terre maudite sans une raideur dans la nuque, sans ce bref geste de la main qu'ils
-faisaient contre le mauvais œil du monde d'avant. Tanya partageait leur prudence sans tout
-à fait partager leur effroi — c'était peut-être la différence entre prier et mesurer. Mais
-elle ne doutait pas du fond. Le monde d'avant avait sombré ; sans Polaris, l'espèce
-sombrait avec lui. On ne le pensait pas — on le respirait.
+« Toujours rien. » Et il avait l'air content, presque, d'avoir raison.
 
-D'ailleurs on ne s'attardait pas. Le règlement était formel, et la foi le doublait : la
-surface n'était qu'un seuil. Le vrai travail attendait dessous, à l'abri du ciel, là où le
-Grand Chaos avait scellé sans le vouloir un monde intact. Déjà Tanya pensait au froid des
-galeries, à l'impatience qui la prenait toujours au bord d'une fouille. Un Pompéi, disait son vieux
-maître d'études — un Pompéi, sauf que les morts y seraient des disques durs, des serveurs,
-des écrans éteints, et qu'il faudrait les exhumer avec les mêmes égards qu'un corps.
+Nieve cracha le sable de ses lèvres. « Onze jours, c'est pas mort. C'est en panne. Les
+antennes là-dessous, c'est de la chance et de la prière. » Elle le disait pour Tanya autant
+que pour elle ; tenir le moral, c'était son métier à elle, autant que les disques.
 
-Le vent se leva enfin, un souffle tiède qui souleva la poussière et la lui jeta aux lèvres,
-sèche, au goût de pierre chaude. Quelque part sous cette plaine, à des
-strates de profondeur, dormaient aussi les gens dont elle tenait, disait son
-dossier, une part oubliée du sang : une lignée d'ici, enfouie, une rumeur dans les
-archives d'une orpheline. Elle n'en éprouva rien de précis. Un ancêtre n'a pas de visage.
-Seulement, l'espace d'un instant, l'étrange impression d'arriver quelque part — et non de
-débarquer sur un chantier de plus.
+Tanya ne répondit pas. Elle regardait la silhouette de fer au loin, et plus loin encore,
+sous ses pieds, le Gisement qu'elle ne voyait pas. Toute une mémoire, gardée au froid. Elle
+avait passé sa vie à recoller des éclats ; on lui offrait, en bas, un monde entier qui avait
+peut-être encore sa voix. Elle serait descendue seule s'il l'avait fallu.
 
-Puis la voix du chef d'équipe claqua derrière elle, et l'impression se referma.
+Un des chevaliers — pas Vael ; un plus vieux, plus dur, qu'on appelait Drev — regarda la
+bouche noire et dit ce que personne ne voulait dire. « Onze jours. On descend peut-être les
+ramasser. »
 
-« On ne traîne pas au soleil. Tenue complète avant le seuil. »
-
-Tanya releva son col contre la lumière et se retourna vers les autres.
+Personne ne répondit. On alla s'équiper.
 
 ### 2 — La tenue
 
-On s'équipa dans l'ombre maigre du transport, la seule que la plaine voulût bien offrir.
+Les combinaisons sortaient des caissons par rang — d'abord les chevaliers, lourdes, frappées
+de l'étoile de Polaris ; puis les scientifiques, souples, hérissées de poches. Personne
+n'avait décidé cet ordre. Il était dans les choses.
 
-Les combinaisons sortaient des caissons par rang : d'abord celles des chevaliers, lourdes,
-renforcées aux épaules et aux avant-bras, frappées sur le cœur de l'étoile de Polaris ;
-puis celles des scientifiques, plus souples, hérissées de poches et de logements pour les
-instruments. Personne n'avait décidé cet ordre. Il était dans les choses, comme tout le
-reste. Tanya prit la sienne, en vérifia les joints d'un geste machinal — l'étanchéité
-d'abord, on le leur répétait depuis l'enfance, le ciel d'ici n'était pas un ami — et
-commença de s'y couler.
+Nieve vint fermer le joint d'épaule de Tanya sans le lui demander. Elles s'étaient choisies
+trois missions plus tôt, dans une galerie où tout avait failli mal tourner ; depuis, elles
+se fermaient mutuellement leurs combinaisons, et c'était devenu une langue à elles deux.
 
-Le claquement sec des fermetures, la rangée de corps occupés au même geste au même
-instant : l'espace d'une seconde elle eut dix ans. L'internat. Le dortoir des aspirantes
-aux premières lueurs, les lits tirés au cordeau, l'inspection, et au mur, partout, le
-visage de l'Architecte qui veillait sur le sommeil des orphelines. On apprenait là à
-fermer sa combinaison de vie comme on apprenait à fermer sa pensée : proprement, sans un
-pli. La seconde passa. Elle avait trente-deux ans et le soleil de l'ancien monde lui
-cognait sur la nuque.
+« Tu serres trop, dit Tanya.
 
-« Tu as pris du retard sur ton joint d'épaule. » Nieve était déjà près d'elle, casque sous
-le bras, et corrigeait la prise sans attendre de réponse, de ces gestes qu'on ne fait que
-pour les gens qu'on a choisis. Elles s'étaient choisies trois missions plus tôt. Dans une
-équipe où chacun servait, priait ou obéissait à sa manière, Nieve était la part de Tanya
-qui ressemblait à une famille — et Tanya, qui n'en avait jamais eu d'autre que
-l'institution, tenait à cette part bien plus qu'elle ne l'aurait avoué.
+— Tu serres jamais assez. » Nieve tira d'un coup sec. « Le jour où tu prends une fissure de
+pression, tu seras bien contente que quelqu'un d'autre ait serré. »
 
-De l'autre côté du transport, les chevaliers s'armaient. C'était un autre monde, à trois
-pas. Ils ne parlaient pas le même métier, ne riaient pas des mêmes choses ; ils
-vérifiaient leurs armes avec la piété même que Tanya mettait à ses sondes. On les disait
-là pour la sécurité de la mission — les éboulements, les bêtes, ce que la terre pouvait
-cracher. Tanya n'en avait jamais vu un seul servir à grand-chose sous terre, sinon à
-porter et à craindre. Mais elle gardait cela pour elle. On ne disait pas ce genre de
-choses à voix haute ; et puis ce n'était qu'une pensée de scientifique, une petite vanité
-de caste, pas plus tendre que la leur.
+De l'autre côté du transport, les chevaliers s'armaient — un autre monde, à trois pas. Ils
+vérifiaient leurs armes avec le soin que Tanya mettait à ses sondes, et ne riaient pas des
+mêmes choses. On les disait là pour la sécurité : les éboulements, les bêtes, ce que la
+terre pouvait cracher. Tanya n'en avait jamais vu un servir à grand-chose sous terre, sinon
+à porter et à craindre. Cette fois, peut-être, on saurait à quoi ils servaient.
 
-Ostrov passait entre les deux camps, recomptant son monde. Chef d'une équipe qu'il n'avait
-pas formée, il avait l'œil de l'homme qui répond de tout sans rien décider — il vérifiait
-les sceaux, les manifestes, les noms, et son regard glissait sur chacun comme s'il faisait
-déjà, d'avance, le compte de ce qui pouvait mal tourner.
+Iov n'avait pas pris de combinaison. Il restait courbé sur son boîtier, l'écouteur vissé, à
+relancer l'appel. Ostrov passa derrière lui.
 
-« Casques, dit-il. On descend par la bouche nord. »
+« Range ça. On descend.
+
+— Ils émettaient toutes les six heures, dit Iov sans se retourner. Régime, profondeur,
+tonnage. Trois semaines, à l'heure juste. Et un matin, plus rien — pas un mot de moins, pas
+un de trop. Les gens ne s'arrêtent pas à l'heure juste, Ostrov. Les machines, oui.
+
+— Range ça. »
+
+Iov rangea. Mais la question restait posée dans l'air, et elle y resta.
+
+« Casques », dit Ostrov.
 
 ### 3 — Le rituel
 
-Avant la bouche nord, les chevaliers s'agenouillèrent.
+Avant la bouche, les chevaliers s'agenouillèrent. Cela ne se commandait pas ; cela se
+faisait. Ils ôtèrent chacun un gant, la main nue contre la terre maudite, et le plus jeune,
+Vael, dit à voix basse les mots que les autres reprirent.
 
-Cela ne se commandait pas, ne figurait sur aucun manifeste ; cela se faisait, voilà tout,
-comme on se signe au bord d'un gouffre. Ils ôtèrent chacun un gant — la main nue contre la
-terre maudite, l'humilité avant la descente — et le plus jeune, Vael, dit à voix basse les
-paroles que les autres reprirent.
+« Architecte, toi qui as veillé quand le ciel est tombé, tiens nos noms dans ta mémoire. Que
+rien de ce qui dort en bas ne se souvienne de nous. »
 
-« Architecte, toi qui as veillé quand le ciel est tombé, tiens nos noms dans ta mémoire.
-Que rien de ce qui dort en bas ne se souvienne de nous. »
+Tanya inclina la tête, comme il convenait. Elle ne ferma pas les yeux. Depuis quelques
+années elle ne savait plus très bien ce qu'elle faisait dans ces instants ; elle suivait les
+gestes, et les gestes suffisaient. Cela ne la troublait pas.
 
-Tanya connaissait la formule. Tout le monde la connaissait ; on la murmurait aux enfants
-les soirs d'orage. *Que rien de ce qui dort en bas ne se souvienne de nous.* Sous la terre
-veillaient les choses de l'ancien monde — les âmes que leur démesure avait figées, les
-bêtes nées de l'oubli, tout ce peuple de cauchemars que le culte savait nommer et que les
-chevaliers craignaient d'un cœur entier. Vael avait fermé les yeux ; ses lèvres tremblaient
-sur les mots. Il avait peur, et il descendait quand même.
+Vael, lui, croyait — pas comme les autres. Drev et les vieux priaient comme on charge une
+arme, le visage fermé, pressés d'en finir. Vael priait les yeux clos, les lèvres tremblantes,
+pour des choses à lui : une fois, Tanya l'avait entendu ajouter tout bas un nom à la formule,
+quelqu'un qu'il voulait que l'Architecte garde. Il avait peur, et il descendait quand même, et
+sa peur n'avait rien de la dureté des autres.
 
-Tanya inclina la tête comme il convenait. Elle ne ferma pas les yeux. Elle ne savait plus
-très bien, depuis quelques années, ce qu'elle faisait dans ces instants-là — si elle
-priait ou si elle observait prier, si la formule l'habitait encore ou si elle l'écoutait
-du dehors, comme un objet de plus à dater. Cela ne la troublait pas. On pouvait tenir les
-deux. Les anciens, eux, n'avaient su tenir ni l'un ni l'autre, et voilà ce qu'il en
-restait : une plaine de cendre et un nom qu'on n'osait plus prononcer.
+La formule, toujours, la ramenait au Sanctuaire — la nef de glace bleue, la momie sous le
+verre, la Voix qui parlait en son nom depuis les profondeurs des dômes. Enfant, en rang, elle
+avait demandé tout bas comment on pouvait être à la fois mort là, sous le verre, et vivant
+dans la Voix. On lui avait répondu quelque chose ; elle avait surtout compris qu'on ne posait
+pas deux fois cette question. Elle ne l'avait jamais reposée.
 
-La formule, pourtant, la ramenait toujours au même endroit. Le Sanctuaire. Elle y était
-entrée une fois, enfant, en rang, la main serrée sur la main d'une autre — la grande nef de
-glace bleue, le silence, et au fond, sous le verre, la momie de l'Architecte.
-Son corps quitté, disait-on ; l'enveloppe seulement, car lui s'était versé tout entier
-dans la Voix qui, depuis, parlait en son nom. Une fillette, à côté de Tanya, avait demandé
-tout bas comment on pouvait être à la fois mort là, sous le verre, et vivant dans la Voix.
-Une Interprète s'était penchée vers elle, sans colère, et avait répondu quelque chose que
-Tanya avait oublié. Elle se rappelait seulement n'avoir pas été satisfaite — et avoir
-compris, à la gêne autour d'elle, qu'on ne posait pas deux fois ce genre de question. Elle
-ne l'avait jamais reposée. La ferveur des croyants, ce jour-là, l'avait soulevée ;
-elle s'était laissée porter. C'était bon, d'être portée.
+Les chevaliers se relevèrent. Vael surprit le regard de Tanya et lui rendit, un peu confus,
+le sourire de celui qu'on vient de voir prier. Ostrov était déjà au bord du trou.
 
-Les chevaliers se relevèrent, remirent leurs gants. Vael surprit le regard de Tanya et lui
-adressa, un peu confus, le sourire de celui qu'on vient de voir prier. Elle le lui rendit.
-Il n'y avait là rien que de très ancien et de très humain — la peur, et le geste qu'on
-fait contre la peur.
-
-« En bas, dit Ostrov, on suit le fil. Personne ne s'écarte du fil. »
+« En bas, on suit le fil. Personne ne s'écarte du fil. » Il regardait Iov en le disant.
 
 ### 4 — La bouche
 
-La bouche nord était une ancienne entrée de métro.
+La bouche était une ancienne entrée — on reconnaissait, sous la rouille et le sable durci, la
+courbe d'une rampe, la promesse d'un escalier. L'équipe de recyclage l'avait dégagée et tendu
+le fil : une ligne lumineuse qui plongeait dans le noir et s'y perdait.
 
-On reconnaissait encore, sous la rouille et le sable durci, la courbe d'une rampe, la
-promesse d'un escalier qui s'enfonçait. L'équipe de recyclage l'avait dégagée la veille et
-tendu le fil — une ligne lumineuse qui plongeait dans le noir et s'y perdait. Au bord,
-l'air changeait. C'était cela que Tanya attendait depuis le matin sans se l'avouer : ce
-premier souffle qui montait du gouffre, et qui n'était pas de ce monde-ci.
+Au bord, l'air changeait. De la fournaise on passait, en un pas, à une haleine froide et
+humide qui remontait du gouffre — la pierre mouillée, le métal, le dessous. Tanya ferma les
+yeux une seconde et la laissa lui toucher le visage. En bas, très loin, le Gisement
+l'attendait. Et entre elle et lui, onze jours de silence.
 
-Dehors, la fournaise. Là, à ses pieds, une haleine froide et humide remontait des
-profondeurs, chargée d'une odeur de pierre mouillée et de métal. Elle ferma les yeux une
-seconde et laissa le froid lui toucher le visage. Deux climats se touchaient sur ce seuil,
-deux époques : derrière elle le siècle de cendre et de soleil ; devant elle un autre,
-scellé, intact, qui n'avait pas su qu'il finissait et s'était arrêté en pleine phrase.
+Vael passa le premier, la lampe haute. Nieve suivit, puis les chevaliers, puis Iov, son
+boîtier muet pendu au cou. Ostrov fit signe à Tanya. Elle posa la main sur le fil — froid,
+déjà, sous le gant — et descendit, la fournaise se refermant au-dessus d'elle.
 
-Quelque part là-dessous l'attendaient les morts qu'elle était venue exhumer. Pas des os —
-elle en verrait aussi, la ville en était pleine — mais les autres, les vrais, ceux de son
-métier : les machines pleines de mémoire, les écrans noirs, les archives closes sur leur
-dernier jour. Tout un monde qui avait parlé sans fin, jusqu'à la seconde où il s'était tu.
-Elle venait y prêter l'oreille — la seule chose, lui semblait-il parfois, qu'elle sût faire
-vraiment : écouter ce qui ne pouvait plus se défendre.
-
-Vael passa le premier, la lampe haute, et le noir le prit aux jambes, puis à la taille,
-puis aux épaules. Nieve suivit, et un chevalier, et un autre. Ostrov fit signe à Tanya.
-Elle posa la main sur le fil — froid, déjà, sous le gant — et descendit à son tour, la
-fournaise se refermant au-dessus d'elle comme un couvercle de lumière. En bas, très loin
-sous la plaine, quelque chose attendait d'être lu.
-
-La chaleur disparut. Il n'y eut plus que le fil, le faisceau des lampes, et le long souffle
-patient de la terre.
+En bas, quelque part, une équipe entière s'était tue. Ils descendaient l'entendre.
