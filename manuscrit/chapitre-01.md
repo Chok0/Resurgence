@@ -7,25 +7,26 @@ pierre brûlée. Sur l'écran, là-haut dans le froid des dômes, ça n'avait é
 ici, ça avait un corps. Ocre — l'air, la lumière, la poussière en suspens. Le mot vint à
 Tanya avant le nom du lieu.
 
-Devant eux, la ville dans la steppe : pas une ruine mais une étendue sans bord, qui partait
-sous leurs pieds et courait jusqu'au tremblé de la chaleur. Le peuple d'avant avait grouillé
-là par multitudes, dans des ruches de pierre grise dont il ne restait que des moignons. Au
-loin, vers le cœur dense, une seule forme tenait debout — haute, étroite, dressée comme une
-lance plantée, dont on ne voyait que la silhouette. Personne, à Polaris, ne savait plus à
-quoi elle avait servi.
+Devant eux, la ville sans bord : pas une ruine unique mais une étendue de rues mortes qui
+partait sous leurs pieds et courait jusqu'au tremblé de la chaleur. Beaucoup tenait encore
+debout — des maisons basses, des pans d'immeubles, des ruches de pierre grise vidées, ouvertes
+au sable et au vent chaud ; ailleurs seulement, là où les grands édifices s'étaient effondrés,
+des champs de décombres ocre. Le peuple d'avant avait grouillé là par multitudes, et la
+multitude était partie sans rien ranger : les portes battaient sur le vide. Au loin, vers le
+cœur, une seule grande forme tenait debout — haute, étroite, dressée comme une lance plantée,
+dont on ne voyait que la silhouette. Personne, à Polaris, ne savait plus à quoi elle avait
+servi.
 
 Ils n'étaient pas venus pour la ville. Ils étaient venus pour ce qui dormait dessous.
 
 À des jours de descente, là-dessous, une autre équipe avait trouvé le Gisement : une salle
 de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Toute
 une voix d'avant, gardée au froid — quand Polaris n'avait plus, de son propre passé, que ce
-que le culte en récitait. On ne remontait pas tout, d'une fouille :
-on triait. Ce qui pouvait servir montait aux dômes — un savoir, une arme, et surtout ce qui
-ressemblait aux récits de l'Architecte, ces vieilles peurs des anciens où les chevaliers
-reconnaissaient leurs propres démons. Le reste, la part corruptrice, on le rendait au noir ; on
-ne laisse pas remonter au grand jour la parole des damnés. Trier la lumière d'avec le noir,
-selon la règle apprise, c'était le métier autant que de prélever. Le passé était la seule mine
-qui restât, et celle-ci était la plus riche qu'on eût ouverte. Les premiers l'avaient signalée.
+que le culte en récitait. Le travail de Tanya était simple, et toujours le même : descendre,
+prélever cette mémoire, la lire, en dire ce qu'elle en pensait, et la faire monter aux dômes.
+Ce qu'on en gardait là-haut, ce qu'on en retenait ou en laissait, se décidait sans elle et ne
+la regardait pas — c'était la règle, et elle l'avait apprise avant même de savoir lire. Le
+passé était la seule mine qui restât, et celle-ci était la plus riche qu'on eût ouverte. Les premiers l'avaient signalée.
 Puis ils s'étaient tus. Onze jours, maintenant.
 
 Personne ne disait le mot de secours ; il n'était pas dans les ordres. On ne redescendait pas

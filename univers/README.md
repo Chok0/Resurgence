@@ -181,11 +181,13 @@ Chaque découverte fonctionne sur **deux niveaux simultanés** :
 
 Quand Polaris envoie une équipe d'exploration, **deux objectifs**, dans cet ordre :
 
-1. **`⚑` Faire DISPARAÎTRE les données compromettantes** *(objectif premier — la vraie mission)*.
-   Tout ce qui ruine le récit du régime : la preuve que **la démocratie a existé** ; qu'une
-   **vraie science / un vrai savoir** ont existé hors du culte ; et que **les monstres n'existent
-   pas** (qu'ils sont une invention). On ne remonte pas ça : on l'**efface**. *Tanya n'est pas une
-   curatrice — c'est une **censeur avec une pelle**.*
+1. **`⚑` Faire DISPARAÎTRE les données compromettantes** *(objectif premier du régime — la vraie
+   raison des missions)*. Tout ce qui ruine le récit : la preuve que **la démocratie a existé** ;
+   qu'une **vraie science / un vrai savoir** ont existé hors du culte ; et que **les monstres
+   n'existent pas** (qu'ils sont une invention). **Mais la suppression ne se fait PAS sur le
+   terrain.** Les équipes **extraient et transmettent** tout (avec leurs conclusions) ; c'est **la
+   machine de Polaris, en haut, qui ne garde que ce qui arrange et déforme ou efface le reste** —
+   mécaniquement, sans visage (Kafka). *Le terrain ne tranche pas ; il alimente.*
 2. **Récolter, au passage, ce qui sert le régime.** **Science** et **armement** utilisables ;
    et surtout les **creepypastas** (SCP, Slender, Backrooms…) — qui apparaissent comme une
    **version ancestrale et déformée du mythe de Polaris** : on les remonte parce qu'elles
@@ -198,15 +200,24 @@ Quand Polaris envoie une équipe d'exploration, **deux objectifs**, dans cet ord
 matériel** (cf. § terrain — imagerie *Mad Max*).
 
 `⚑` **Conséquences narratives décisives** :
-- **Le moine copiste = l'acte transgressif central.** Si la mission est d'**effacer**, alors
-  **copier au lieu d'effacer** est la vraie trahison de Tanya. Le geste final (ch.7 : elle
-  nettoie le rapport **et** garde une copie) reproduit en miniature l'opération du régime, à
-  l'envers. *Préserver ce qu'on doit annihiler.*
-- **Phase 1 = la suppression vécue comme PIÉTÉ.** L'équipe ne se dit pas « on censure » : elle se
-  dit « on ne laisse pas remonter la parole corruptrice des damnés ». Le lecteur n'y voit, au
-  début, qu'une logique cultuelle ; il ne comprend qu'en **Phase 2-3** que « purger la
-  corruption » = **effacer démocratie, science, vérité**. *(Réalisé : « expurgation d'usage »
-  ch.2 ; le trou dans les métadonnées ch.6.)*
+- **`⚑` Tanya = petite main, pas censeur.** Son travail : descendre, **extraire** la mémoire, la
+  **lire**, en **donner ses conclusions**, la **faire monter**. Elle ne tranche rien. **Son
+  réflexe de copier** naît quand elle **constate la déformation en bout de chaîne** : ses
+  rapports lui reviennent **modifiés**, des données qu'elle voulait réétudier ont été
+  **supprimées**. Elle en tire deux choses à la fois — *il est inutile de faire remonter l'info*
+  (la machine la mangera) **et** *cette info compte* — alors elle **en garde une copie pour
+  elle**. **Sans plan** : orpheline des dômes, **elle ne peut pas concevoir de trahir Polaris**.
+  Le moine copiste n'est donc pas un résistant : c'est quelqu'un qui **ne supporte pas
+  l'effacement**, sans savoir qu'en faire. *(Cœur de la fin : ch.7, elle nettoie ET garde.)*
+- **Le moine copiste = la seule transgression possible.** Le métier veut qu'elle **transmette** ;
+  le système, lui, **efface**. **Copier — soustraire au système ce qu'il détruira — est sa seule
+  transgression, et elle est passive, sans projet.** *Préserver ce qu'on annihilerait.*
+- **Phase 1 = le contrôle de la mémoire passe pour de la PIÉTÉ.** Personne sur le terrain ne se
+  dit « on censure » : on extrait, on transmet, et l'on **tient pour normal** que la parole
+  corruptrice des damnés ne revienne pas au jour et que tout soit « traité » correctement en
+  haut. Le lecteur n'y voit, au début, qu'une logique cultuelle ; il ne comprend qu'en **Phase
+  2-3** que la machine d'en haut est une **broyeuse**. *(Traces : « expurgation d'usage » ch.2 ;
+  rapports déformés + trou dans les métadonnées ch.6.)*
 - **Les monstres sont DEUX FOIS inventés** (par les anciens en fiction ludique ; par l'Architecte
   en propagande) et leur **rime** est prise pour preuve. Le lecteur voit deux fictions ; les
   croyants, une confirmation. La **non-existence des monstres** est elle-même une **donnée à
@@ -260,24 +271,30 @@ Détails posés par la prose et désormais canon (registre complet :
 > morte », « la marge sud ». **Bannis de la prose** : *Paris*, *parisien*, *France*,
 > *français* (ce dernier rendu par « ce vieux pays », « d'ici »…).
 
-### La ville en 2148 — une métropole entière, pas un monolithe
-Ce n'est pas *une* ruine mais **une étendue de ruines sans bord** : le cœur dense de la
-cité, et tout autour les **faubourgs et les banlieues mortes** — un océan de décombres ocre
-que la steppe reconquiert, jusqu'à l'horizon. La **surface** est une ruine irradiée,
-territoire spirituellement dangereux selon le culte, interdite. Le climat n'est plus
-tempéré : Polaris reterraforme depuis le nord, mais l'Europe ressemble désormais au
-**Maghreb / Moyen-Orient** — chaleur écrasante, aridité, lumière dure et ocre.
+### La ville en 2148 — abandonnée, ni monolithe ni steppe rase
+`⚑` **Correction de cadrage** : ce n'est **pas une steppe** qui aurait tout ravalé, ni un
+champ de gravats uniforme. C'est une **ville laissée à l'abandon**, sans bord. La guerre
+nucléaire a **soufflé les grands édifices** — il n'en reste, par endroits, que des champs de
+décombres ocre ; mais **partout ailleurs, dans les marges sud, beaucoup tient encore debout**,
+surtout le **petit bâti** : maisons basses, pans d'immeubles, **rues entières vidées mais
+dressées**, ouvertes au sable et au vent chaud. Le peuple est parti **sans rien ranger** ; les
+portes battent sur le vide. Par-dessus, un **climat devenu extrême** (Polaris reterraforme
+depuis le nord, mais l'Europe ressemble au **Maghreb / Moyen-Orient** — chaleur écrasante,
+aridité, lumière dure et ocre, épisodes violents). La **steppe sèche** ne mord **qu'aux
+marges** : elle n'a pas effacé le bâti. La **surface** reste une ruine irradiée, interdite par
+le culte.
 
-> **Une métropole de fournaise** : les ruines émergent d'une steppe sèche sous un soleil
-> violent. Visuellement neuf — on a vu mille capitales post-apo froides et brumeuses, jamais
-> une de fournaise. Au-dessus du chaos, **une seule chose tient debout** : la grande tour de
-> fer (l'indice-maître du lecteur).
+> **Une ville-fournaise abandonnée** : des rues mortes **encore debout** sous un soleil
+> violent, le sable dans les maisons vides — plus *Tchernobyl au Sahara* qu'un champ de
+> gravats. Visuellement neuf (mille capitales post-apo froides et brumeuses ; jamais une de
+> fournaise). Au-dessus de tout, **une seule grande chose tient** : la tour de fer (la *Lance*
+> — l'indice-maître du lecteur).
 
-`⚑` **Imagerie : atompunk / *Mad Max*.** Le champ de ruines au soleil — carcasses, rouille,
-poussière, bandes de charognards (les **équipes de recyclage** raclent la zone pour ses
-matériaux) — évoque *Mad Max* ; mais **plus archéologique** : on ne traverse pas un désert,
-on **fouille** une métropole entière, dense de bâtiments écroulés et de traces du monde
-d'avant.
+`⚑` **Imagerie : atompunk / *Mad Max*.** Le soleil dur, carcasses, rouille, poussière, bandes
+de charognards (les **équipes de recyclage** raclent la zone pour ses matériaux) — évoque
+*Mad Max* ; mais **plus archéologique et plus debout** : on ne traverse pas un désert, on
+**fouille une métropole encore largement bâtie** (le petit bâti dressé, le grand écroulé),
+dense de traces du monde d'avant.
 
 `⚑` **Contraste sensoriel fondateur** : dehors la chaleur aride, dedans le froid et
 l'humidité préservés des galeries. La descente sous terre est une descente dans une
