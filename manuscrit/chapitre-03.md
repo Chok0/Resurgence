@@ -2,117 +2,72 @@
 
 ### 1 — Les os
 
-Le fil les mena, ce jour-là, plus bas et plus au sud que les galeries de bureaux — vers une
-part de la ville que le recyclage n'avait pas voulu cartographier seul.
+Le fil et les croix les menèrent plus bas, plus au sud, vers une part de la ville que le
+recyclage n'avait pas voulu cartographier seul. La pierre devint nue, taillée à la main,
+suintante ; les croix de craie s'espacèrent. Puis le boyau s'ouvrit, et les murs cessèrent
+d'être des murs.
 
-On quitta le carrelage et les cloisons pour la pierre nue, taillée à la main, suintante. Les
-lampes ne portaient plus très loin ; l'air sentait le calcaire et autre chose, sèche,
-ancienne, que Tanya reconnut avant d'oser se le dire. Puis le boyau s'ouvrit, et les murs
-cessèrent d'être des murs.
-
-C'étaient des os. Du sol au plafond, sur toute la longueur de la galerie et plus loin que la
-lampe, des os rangés avec un soin terrible — les longs alignés comme des fagots, et de loin
-en loin, à hauteur d'homme, des crânes. Des milliers de crânes, posés en frises régulières
-dans le mur de fémurs, tournés vers le couloir, vides, patients. Quelqu'un, très
+C'étaient des os — du sol au plafond, sur toute la longueur et plus loin que la lampe, rangés
+avec un soin terrible : les longs en fagots, et de loin en loin, à hauteur d'homme, des
+crânes. Des milliers, en frises régulières, tournés vers le couloir. Quelqu'un, très
 anciennement, avait bâti avec ses morts.
 
-Tanya leva sa lampe et le faisceau courut sur la frise sans fin. Ce n'était pas la
-catastrophe, ici — pas la cendre, pas le verre fondu. C'était plus vieux, infiniment : ces
-os-là étaient secs depuis des siècles avant la guerre, rangés par des mains dont l'ancien
-monde lui-même avait dû perdre le nom. Une ville sous la ville ; et sous cette ville encore,
-ses morts, empilés et tenus. Elle nota, machinale, la régularité des assises, le patient
-travail d'ordre — et s'avisa que sa main, sur la lampe, ne tremblait pas tout à fait comme
-d'habitude.
+Ce n'était pas la catastrophe : ces os-là étaient secs depuis des siècles avant la guerre,
+rangés par des mains que l'ancien monde lui-même avait oubliées. Une ville sous la ville, et
+sous elle ses morts.
 
-Derrière elle, les chevaliers s'étaient arrêtés net. Pas de prière, cette fois ; la prière
-suppose qu'on trouve ses mots. Vael fixait les crânes, et sur son visage il n'y avait plus
-de la peur, mais quelque chose de plus ancien qu'elle.
+Les chevaliers s'arrêtèrent net. Pas de prière, cette fois : la prière suppose qu'on trouve
+ses mots. « Voilà ce qu'ils étaient, dit Vael, tout bas. On nous l'avait dit. » On le leur
+avait dit, oui — que les anciens, au bout de leur corruption, s'étaient servis de leurs morts
+comme de pierres. Tanya l'avait récité enfant, sans y croire ; la leçon, maintenant, la
+regardait par mille orbites.
 
-« Voilà ce qu'ils étaient », dit-il enfin, tout bas. « On nous l'avait dit. »
+C'est Iov qui vit la marque. Sur la frise, parmi les crânes, les premiers avaient laissé
+autre chose qu'une croix : une flèche tracée vite, pointée vers le bas — vers le Gisement —
+et, sous la flèche, un seul mot, pressé si fort que la craie s'était brisée. *Vite.*
 
-On le leur avait dit, oui. Que les anciens, au bout de leur corruption, avaient cessé
-d'ensevelir leurs morts comme on couche des vivants, et s'en étaient servis en guise de pierres.
-Tanya l'avait appris enfant, parmi les preuves de l'hubris d'avant : un peuple qui s'était
-fait des murs de ses pères. Elle l'avait récité sans y croire tout à fait — c'était une
-image, une leçon. La leçon, à présent, était là, et la regardait par mille orbites.
+Plus loin, le couloir d'os s'ouvrait sur une salle, et là, deux morts se touchaient. Contre
+la frise ancienne, on avait dressé bien plus tard un campement : des châlits de planches, un
+poêle, la vaisselle d'une cuisine commune. Des gens étaient venus mourir là une seconde fois,
+par-dessus les premiers, à l'abri du ciel qui tombait. Sur une planche, une main avait compté
+les jours par bâtons de cinq — beaucoup, puis plus rien ; à côté, trois mots : *on tient le
+coup.*
 
-Elle savait bien qu'il y avait d'autres lectures. Que des hommes à court de terre rangent
-leurs morts pour faire place aux suivants, ce n'est pas de la corruption — c'est de
-l'économie, et une sorte de piété. Mais elle n'en dit rien. Devant ce mur, devant Vael qui
-tremblait, la lecture froide aurait été une insolence. Et puis — la pensée passa,
-déplaisante — la leçon ne mentait pas sur les faits. Ils avaient bien bâti avec leurs morts.
-Tout le reste était une affaire d'yeux.
+### 2 — Le silence
 
-Plus loin, le couloir d'os s'élargissait en une salle, et c'est là que les deux morts se
-touchèrent. Contre la frise ancienne, on avait dressé bien plus tard un campement : des
-châlits de planches, un poêle bricolé, des bâches affaissées, la vaisselle terne d'une
-cuisine commune. Des gens étaient venus mourir là une seconde fois, par-dessus les premiers,
-au plus profond, à l'abri du ciel qui tombait. Sur une planche, une main avait gravé des
-bâtons par groupes de cinq — beaucoup de groupes de cinq —, puis plus rien. À côté, trois
-mots d'une écriture pressée, que Tanya sut lire parce que c'était presque encore sa langue :
-*on tient le coup.*
+Au camp, ce soir-là, Iov ne mangea pas. Il alignait le signal vers le bas et lançait l'appel,
+le même mot, à l'heure où les premiers, jadis, répondaient. Le bas ne répondait pas.
 
-On tenait le coup. Elle regarda les bâtons comptés, et les crânes au-dessus qui avaient
-compté autrement, et pour la première fois depuis la surface elle n'eut pas envie de dater
-quoi que ce fût. Elle eut envie de s'asseoir.
+« Arrête, dit Drev. Tu nous portes la poisse.
 
-### 2 — Ailleurs
+— Ils ont écrit *vite*, dit Iov. On a trouvé leur dernière marque, elle dit *vite*, et toi tu
+veux que j'arrête d'appeler. »
 
-Le soir — c'était un soir quelque part, là-haut —, Ostrov établit la liaison. Cela ne se
-faisait pas chaque jour : si loin au sud, sous tant de pierre, le signal montait mal, haché
-de blancs, et il fallait l'aligner longtemps avant qu'une voix ne perce.
+Ostrov trancha. « On continue vers le Gisement. Les ordres sont les ordres. » Il le dit sans
+lever la voix, et ce fut pire que s'il avait crié.
 
-Elle vint enfin, lointaine, déformée. Une autre équipe, quelque part sur les marges — on ne
-savait jamais bien où ; on n'avait pas à le savoir. Ils échangèrent ce qu'on échangeait :
-profondeurs atteintes, état du matériel, prudences. La voix d'en face était calme,
-professionnelle, contente. Tout allait bien, là-bas. Tout allait toujours bien, là-bas. Eux
-aussi avaient trouvé des salles, des disques, des reliques ; ils citèrent un tonnage de
-matériel qui fit hocher la tête à Ostrov.
+Nieve, près de Tanya, regardait le noir de la galerie. « On ne descend pas là où les autres
+se sont tus, murmura-t-elle. Mon père disait ça. » Elle ne le disait pas en l'air : elle le
+disait à Tanya, pour voir ce qu'elle en ferait. Tanya n'en fit rien. Elle était de l'avis
+d'Ostrov — on descendait. Le Gisement valait ça.
 
-Tanya écoutait sans écouter, et une idée bête lui vint, qu'elle chassa et qui revint. On
-parlait à cette voix comme on priait la Voix, au Sanctuaire : sans jamais voir au bout. Le
-signal passait par les relais de Polaris, montait vers les dômes, redescendait — qui pouvait
-dire ce qui, là-haut, le renvoyait ? Une autre équipe sous une autre ville morte. Ou une
-bande enregistrée. Ou rien : un calme fabriqué pour des gens seuls sous la terre, afin qu'ils
-continuent de creuser. Elle eut honte de la pensée. C'était une pensée de l'autre — du
-camarade qu'on n'aimait pas, celui qui voyait des mains partout.
+### 3 — Le relevé
 
-Lui, justement, leva les yeux de son coin, comme s'il l'avait entendue.
+Plus tard, seule à la station de lecture, Tanya monta le relevé du jour pour Polaris. Les os,
+elle les consigna : un ossuaire des anciens, conforme à ce que le culte enseignait des morts
+d'avant. La flèche des premiers et leur *vite*, Ostrov les avait déjà signalés.
 
-« Demande-leur le nom de quelqu'un, dit-il à Ostrov. N'importe qui. Quelqu'un qu'on aurait
-pu connaître.
-— On ne coupe pas une liaison propre pour tes lubies », dit Ostrov.
+Le campement, elle ne le mit pas.
 
-Il ne le demanda pas. La voix des marges leur souhaita bonne fouille, et s'éteignit dans le
-blanc.
+Les châlits, le poêle, les jours comptés, *on tient le coup* — elle les laissa hors du
+relevé. Elle savait ce qu'on en ferait là-haut : une preuve de plus de la déchéance des
+anciens, des bêtes terrées dans les os. Elle ne voulait pas qu'on le fasse à ces gens-là.
+C'était la première fois qu'elle retranchait quelque chose à Polaris, et elle le sut en le
+faisant. Ce n'était plus sa main qui agissait sans elle, comme pour la photo. C'était elle.
 
-### 3 — Le camp
+Elle envoya le relevé, amputé, et resta devant l'écran éteint.
 
-On remonta. C'était la règle de la fouille : descendre, rapporter, remonter au camp, et le
-lendemain ou le surlendemain redescendre, un peu plus loin, un peu plus bas. Le camp tenait
-dans une station de surface étayée, à la lisière du soleil — assez près de la lumière pour
-qu'on s'y sente vivant, assez loin du fil pour qu'on dorme.
-
-Tanya ne dormait pas. Sur la petite station de lecture, elle reprenait les disques du jour,
-par habitude, par vice. Elle avait passé sa vie à apprendre l'ancien monde ; elle
-découvrait, disque après disque, qu'elle ne l'avait jamais lu. À l'école des dômes, on
-étudiait le passé dans des recueils — des extraits choisis, classés, commentés, qui
-prouvaient tous la même chose. Ici, rien n'était classé. Ici, les morts parlaient sans qu'on
-les eût relus avant.
-
-Et ce qu'ils disaient ne collait pas tout à fait. Rien d'énorme — pas encore. Un écart,
-seulement, partout, entre les gens des disques et les damnés qu'on lui avait appris. Les
-filles du bureau et leur gâteau ; les comptés qui tenaient le coup sous les os ; et ce soir,
-sur un fragment, une dispute entre inconnus sur la juste façon de partager quelque chose —
-une querelle pleine de soin, de colère, de gens qui essayaient. Ce n'étaient pas des images
-d'hubris. C'étaient des gens. La leçon les avait faits monstres ; les disques les rendaient
-ordinaires — et l'ordinaire, soudain, était ce qu'il y avait de plus dérangeant.
-
-Elle ferma la station. Ce n'était pas son travail de juger les recueils des dômes ; son
-travail était de remonter la matière, proprement, et de la rendre. Demain on redescendrait.
-Elle se le dit deux fois, et la seconde sonna comme sonne la première quand on commence à ne
-plus y croire.
-
-Dehors, la nuit du sud était pleine d'étoiles dures, et loin au nord, sous les dômes, une
-voix qu'elle avait toujours crue veillait sur elle. Elle resta longtemps à ne pas
-redescendre.
+Dehors, la nuit du sud était dure d'étoiles. Demain on descendrait vers le Gisement, vers le
+silence des premiers et le mot qu'ils avaient laissé. Tanya pensa à la photo cachée sur son
+unité, et au campement qu'elle venait d'effacer du relevé. Deux fois, maintenant, elle avait
+gardé pour elle ce que Polaris voulait. Elle éteignit la station, et ne dormit pas.

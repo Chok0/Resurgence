@@ -33,7 +33,17 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Le Gisement** : une chambre de données quasi intacte — des **téraoctets** — le grand prix de la mission. Localisé par **l'équipe de tête (« les premiers »)**, qui l'a signalé puis **s'est tue**.
 - **Le rappel de mission** : l'équipe de Tanya doit **rejoindre le Gisement**, remonter les données, et **apprendre ce qu'il est advenu des premiers**. Destination + dread (à la *Alien*) ; le silence reste **inexpliqué** (le doute tient, pas de monstre).
 - **Iov** écoute ce silence (son métier) → porte-voix du doute. **La dissonance de Tanya** progresse en 3 crans et finit par **agir** (une omission dans son relevé).
-> Détail : [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md). *Réorganisation des ch.1-3 en cours pour tisser ce fil + appliquer la relecture sévère (dé-glose, anti-chiasme, momentum, incarnation).*
+> Détail : [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md).
+>
+> **Réalisé — ch.1-3 réécrits.** La **trace des premiers** : croix de craie aux
+> embranchements ; un **caisson de prélèvement daté de la veille du silence** dans les Salles
+> de l'Oubli ; leur **dernière marque** dans l'ossuaire — une flèche vers le Gisement + le mot
+> **« vite »** (craie brisée). Ligne officielle sur le silence : **« défaillance d'antenne »**
+> (qu'Iov et le caisson démentent). **Dissonance de Tanya en ACTES** : *cran 2* — elle **copie
+> en secret** la photo (« les filles du bureau ») sur son unité non déclarée, sans savoir
+> pourquoi ; *cran 3* — elle **retranche le campement de réfugiés de son relevé**, son
+> **premier mensonge conscient** à Polaris. *(Les blocs « Cohérence vérifiée ch.2/ch.3 »
+> ci-dessous datent d'avant la réécriture — valeur d'historique.)*
 
 ## Personnages apparus
 | Nom | Rôle | Établi au texte | 1ʳᵉ apparition | Fiche |
@@ -107,7 +117,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Ch.3 (auto-contrôle)** : Phase 2 qui s'installe ; **virage gothique** (l'ossuaire) — un pas vers *Alien*. Les galeries d'os = **indice de déduction « Paris »**, jamais nommé. Folklore = propagande (les anciens « damnés » ; « la leçon ne ment pas sur les faits »). Doute : l'autre équipe **invérifiable** (symétrie avec la Voix) ; le paranoïaque semé **sans être lucide** ; la dissonance de Tanya monte (les *recueils* réécrits vs les disques bruts) **sans réveil** (« ce n'était pas son travail de juger »). Aucun monstre, IA intouchée, aucun ordre. Tech présente (lampes, liaison, station de lecture). ✓
 
 ## Points de vigilance pour la suite
-- **Ch.1-3 : complets et vérifiés.** Contenu gardé **fragmentaire** — aucun corpus-pilier déployé avant le Mvt III. ✓
-- **Ch.4 (Mvt III)** : la **spirale** se resserre ; déployer 2-3 **corpus-piliers** en lecture lente (threads politiques, SCP, vaporwave) ; **le premier ordre** de Polaris qui recentre les priorités ; **le premier silence** de l'autre équipe ; **le premier bruit** (silhouette, cause mundane posée). Développer le **paranoïaque** (dérangeant sans fiable).
+- **Ch.1-3 : réécrits (réorganisation).** Fil dramatique tissé (le Gisement, les premiers, le silence), équipe incarnée (Nieve, Ostrov, Iov, Vael ≠ Drev), dé-glosé, **dissonance en actes** (crans 2-3). Contenu gardé fragmentaire (corpus-piliers au Mvt III). ✓
+- **Ch.4 (Mvt III/IV)** : on descend vers **le Gisement** (climax de l'arc descente) ; déployer 2-3 **corpus-piliers** en lecture lente ; **l'ordre** de Polaris qui recentre ; **le premier bruit** ; et la question qui tire tout : **qu'est-il arrivé aux premiers ?** Développer Iov ; le **chevalier-fouineur** à incarner.
 - **Ne pas dépasser la dose de Phase 2** : le lecteur voit l'écart, sans certitude dystopique encore.
 - **Tenir l'isolement** (marge sud) et l'incertitude sur l'existence des autres équipes.
