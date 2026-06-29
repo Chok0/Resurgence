@@ -237,10 +237,11 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   - **Écrit ✓ — « La traversée »** (`chapitre-01b-la-traversee.md`, jalon Mvt I / blueprint ch.4) : 1ʳᵉ
     mission de surface. Ouvre le **théâtre de surface** (recyclage incarné, la Lance approchée, le
     dosimètre/contrainte de temps), amorce le **vaporwave** (la halle de verre), pose la **soupape « bête »**
-    (les chiens), fait **agir Tanya à découvert** (elle quitte le rang pour la halle). **Couture à
-    réconcilier au renumérotage** : cette mission mène à la bouche nord → elle **supersède ch.1 sc.4 (« La
-    bouche »)** ; le rite (ch.1 sc.3) et la légende (ch.1 sc.2) se tiennent au camp d'arrivée *avant* la
-    traversée.
+    (les chiens), fait **agir Tanya à découvert** (elle quitte le rang pour la halle). **Couture réconciliée ✓** : **ch.1 ramené à 3 scènes**
+    (arrivée / tenue / rituel) — sc.4 (« La bouche ») **supprimée** (la descente se fait désormais à la fin
+    de « La traversée », puis ch.2) ; la réminiscence du Sanctuaire (ancien ch.1 sc.3) **déplacée** dans
+    « Sous le verre » ; le rite devient le **rite de départ**, Ostrov enchaînant sur « On marche au soleil ».
+    **Ordre de lecture : ch.1 → La traversée → Sous le verre → ch.2.**
   - **Écrit ✓ — « Sous le verre »** (`chapitre-01c-sous-le-verre.md`, jalon Mvt I / blueprint ch.5) :
     **flashback aux dômes** (ancre temporelle inverse, déclenché par le froid de la descente). Déploie le
     **culte vécu** (Sanctuaire, momie, **la Voix au travail**, l'Interprète, le doute IA ambiant) et
