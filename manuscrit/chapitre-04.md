@@ -56,16 +56,16 @@ morts.
 
 Ce fut Drev qui les trouva, tout au fond, là où les colonnes s'arrêtaient contre la roche.
 
-Ils étaient quatre. Le manifeste de l'équipe de tête en comptait six.
+Ils étaient quatre. Le compte de l'équipe de tête en disait six.
 
 Ce qui les avait tués, on ne pouvait pas le dire. Pas de blessure qu'on sût lire, pas de bête,
 pas de sang versé par une autre main — ou le froid avait tout pris. Ils étaient par terre, aux
 quatre coins de la dernière salle, loin les uns des autres, comme s'ils s'étaient fuis. Leur
-station n'avait plus rien dit depuis douze jours. Et sur la roche, au-dessus du dernier, une
+station n'avait plus rien dit depuis vingt jours. Et sur la roche, au-dessus du dernier, une
 main avait recommencé à tracer le mot de l'ossuaire — *vite* — puis, en dessous, plus bas,
 plus tremblé, trois autres : *on n'est pas seuls.*
 
-Personne ne parla. Iov, qui avait appelé le bas douze jours durant, ôta enfin son écouteur.
+Personne ne parla. Iov, qui avait appelé le bas depuis la bouche nord, ôta enfin son écouteur.
 
 « Ils répondaient pas, dit-il, parce qu'ils écoutaient. »
 

@@ -172,6 +172,58 @@ pas seulement pour la règle. Cinq exigences :
     rationnelle** (les bêtes revenues). Le doute reste roi, mais le doute *sur quelque chose
     d'effrayant*.
 
+## Leçons de la relecture intégrale (ch.1-7) — la bataille de la vitalité
+> La discipline a gagné la bataille de la *phrase* (les « comme », les émotions nommées, les
+> clichés : sous contrôle) ; elle a perdu, au 1ᵉ jet, celle de la **vitalité**. *Conformité ≠
+> vitalité.* Le danger n'est plus la phrase laide — c'est la **belle phrase identique à la
+> précédente**. Dix garde-fous de plus, nés des 4 relectures :
+
+17. **Montrer la découverte, pas exposer le worldbuilding.** *Un mythe se découvre par ses
+    symptômes, jamais par sa notice.* Bannir le bloc d'exposition (le métier de Tanya, le
+    fonctionnement de la mission, la doctrine du bestiaire) récité par le narrateur. Le
+    worldbuilding s'**assemble** par la scène, le détail, le geste, le dialogue, le document
+    intercalé — comme Tanya assemble le passé. L'enjeu de découverte est un plaisir du lecteur :
+    ne pas le lui voler.
+18. **Supprimer les résumés-doublons.** Le pire « tell » du manuscrit = écrire **la scène ET son
+    résumé**. Quand une idée est *montrée* quelque part (le lot expurgé du ch.2 montre « la
+    mémoire se décide en haut »), **couper le paragraphe qui l'explique**. Faire confiance à ses
+    scènes. (On sur-écrit par anxiété de n'être pas compris.)
+19. **Ne jamais écrire une vérité d'auteur en clair.** Le narrateur ne fait pas la déduction à la
+    place du lecteur : ni « personne ne l'avait faite, elle s'était faite » asséné, ni l'indice
+    résolu à la phrase suivante (la croix de craie, les flèches des premiers). Donner l'image,
+    **couper la glose**. Le lecteur qui déduit a peur ; celui qu'on informe, non.
+20. **Le chiasme antithétique « pas X, c'était Y » est la MATRICE PAR DÉFAUT — la casser.** Plus
+    de 2-3 par chapitre au 1ᵉ jet. En garder **3-4 dans tout le roman**, aux vrais pivots
+    (« pas un trésor — une dispute » ; « elle ne donnait pas, elle gardait »). Partout ailleurs :
+    **affirmer Y directement**, sans la béquille négative. (Approfondit le garde-fou 11.)
+21. **Tuer les refrains-talismans.** Réutiliser une formule distinctive comme une étiquette mâche
+    le thème : « la dispute des morts » (×6), « l'unité contre le cœur / là où l'étoile est
+    frappée » (×6, mot pour mot ch.6↔7), « il est encore temps si on s'y met ensemble » (×6).
+    **≤ 2 occurrences chacune.** Un seul refrain littéral autorisé dans tout le livre : la
+    **cadence** (« trop égale pour être de l'eau »), parce que sa répétition *est* la peur.
+22. **Varier l'amplitude — l'adagio permanent endort.** Sept chapitres au même tempo lent et grave
+    est le défaut n°1. Injecter des **ruptures** : (a) une scène de **friction parlée pure** (le
+    clivage chevaliers/scientifiques) ; (b) un passage **charnel-paniqué** (la perte d'un homme,
+    les morts — corps, souffle, désordre) ; (c) une narration **plate et clinique** pour le
+    registre Orwell. *La prose doit changer de peau avec la courbe, pas seulement le décor.*
+23. **Faire AGIR Tanya — et au moins une fois à découvert.** Ses verbes dominants (*regarde, lit,
+    date, classe, range, ne dit rien*) en font une conscience qui enregistre. Ses seuls actes
+    (omettre, copier en secret) sont tous passifs-discrets. Lui donner **un acte coûteux et
+    exposé** (mentir en face, frôler le démasquage), et **diversifier ses verbes**. Une scène sans
+    enjeu en doute *pour elle* est un tableau, pas une scène.
+24. **L'italique est réservé à l'éclat verbatim du monde mort.** Légendes, inscriptions, messages
+    du web disparu — les îlots de notre langue. **Pas** d'emphase d'auteur sur des mots français
+    (*clore*, *abandonnés*, *vite*, *expurgé*…) : quand tout est en italique, la relique ne
+    ressort plus. *Un assaisonnement, pas un plat.*
+25. **Le double registre doit MENTIR une fois.** Aujourd'hui Tanya a toujours raison (lecture
+    clinique juste), les chevaliers toujours dans la projection : l'horloge ne se retourne jamais.
+    **Une fois** où Tanya catalogue à tort et où la lecture cultuelle tombe juste vaut dix
+    réussites conformes — et rouvre le doute que la régularité referme.
+26. **Tenir la soupape rationnelle « bête » sur toute la durée.** Les charognards revenus
+    (rats, chiens, oiseaux des cavernes) **disparaissent après ch.1**, ce qui réduit le doute à un
+    binaire machine/surnaturel. Réinjecter la lecture « animal » à chaque montée de surnaturel
+    (le premier bruit, la cadence, la disparition d'Iov) : le doute doit rester **triple**.
+
 ## Checklist de relecture *(avant de committer une scène)*
 - [ ] Les « comme » comptés ? (≤ 2, motivés)
 - [ ] La scène finit-elle *encore* sur un aphorisme ? En neutraliser au moins un.
@@ -185,3 +237,9 @@ pas seulement pour la règle. Cinq exigences :
 - [ ] Le **patron** (seuil → description → double registre → chute songeuse) cassé au moins une fois sur deux ?
 - [ ] **Incarnation** : un lecteur saurait-il *voir* la scène — un corps, une chose, un visage concret — ou n'y a-t-il que de l'intériorité ?
 - [ ] **Phase 1** : si une créature est en jeu, le passage **fait-il peur** (croyance + corps), avec une soupape rationnelle ?
+- [ ] **Tell/doublon** : ai-je écrit un *résumé* de ce que la scène montre déjà ailleurs ? (→ couper le résumé). Une vérité d'auteur énoncée en clair ? Un indice résolu par le narrateur ?
+- [ ] **Chiasme « pas X, c'était Y »** compté sur le chapitre (≤ 1-2) ? **Refrain** distinctif réutilisé (≤ 2 dans le roman) ?
+- [ ] **Amplitude** : ce chapitre offre-t-il une **rupture** (friction parlée / charnel / clinique), ou est-ce encore l'adagio ?
+- [ ] **Tanya agit-elle** (et au moins une fois **à découvert**), ou ne fait-elle que percevoir/dater/classer/copier en secret ?
+- [ ] **Italique** : réservé aux seuls **verbatim du monde mort** (pas d'emphase d'auteur) ?
+- [ ] La **chute** finit-elle *encore* en songerie sur Tanya ? (→ en convertir en fin sèche, modèle : fin du ch.4.)
