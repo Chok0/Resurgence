@@ -27,6 +27,8 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | Chapitre | Décomposition | Prose |
 |---|---|---|
 | **1 — Le Seuil** | [`../plan-ecriture/chapitre-01.md`](../plan-ecriture/chapitre-01.md) | **complet — 4 scènes** (1ᵉ jet) |
+| **1b — La traversée** *(expansion)* | [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) (Mvt I) | **complet — 3 scènes** (1ᵉ jet) · 1ʳᵉ **mission de surface** |
+| **1c — Sous le verre** *(expansion)* | [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) (Mvt I) | **complet — 3 scènes** (1ᵉ jet) · **flashback dômes** (Sanctuaire/Voix/internat) |
 | **2 — La Descente** | [`../plan-ecriture/chapitre-02.md`](../plan-ecriture/chapitre-02.md) | **complet — 4 scènes** (1ᵉ jet) |
 | **3 — Les crânes** | [`../plan-ecriture/chapitre-03.md`](../plan-ecriture/chapitre-03.md) | **complet — 3 scènes** (1ᵉ jet) |
 | **4 — Le Gisement** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
@@ -34,10 +36,12 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **6 — La surface** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt IV | **complet — 3 scènes** (1ᵉ jet) |
 | **7 — Clore** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt V (fin sèche) | **complet — 3 scènes** (1ᵉ jet) |
 
-> **Premier jet bouclé (ch.1-7).** L'arc complet est posé : Tolkien (ch.1) → Orwell (ch.6) →
-> Alien/doute (ch.7), refermé sur la **fin sèche** sans résolution (le dernier bruit, donné en
-> trois lectures, jamais tranché). Reste à faire (2ᵉ passe) : relecture sévère d'ensemble ;
-> *éventuellement* étoffer le milieu (la **spirale** est compressée — Mvt III tiendrait 1-2
-> chapitres de plus). **Invariants** à ne jamais casser : ville jamais nommée ; aucun monstre
-> montré ; vérités d'auteur tues ; Tanya non fiable. Voir [`canon.md`](canon.md) § Points de
-> vigilance — premier jet achevé.
+> **Premier jet (ch.1-7) bouclé, puis relecture sévère intégrale → cap roman 100-300 pages.**
+> L'arc complet est posé (Tolkien → Orwell → Alien/doute, fin sèche verrouillée). La relecture
+> (4 relecteurs) a tranché : le cœur est sain, mais c'est une **novella-squelette** à **étendre**
+> en roman. **Plan-maître** : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md)
+> (6 mouvements / ~30 chapitres ; les 7 actuels = **jalons** ; **fin verrouillée**). Expansion en
+> cours — 1ʳᵉ mission de surface écrite (« La traversée »). Dette de continuité corrigée ;
+> leçons de style intégrées (garde-fous 17-26). **Invariants** à ne jamais casser : ville jamais
+> nommée ; aucun monstre montré ; vérités d'auteur tues ; Tanya non fiable. Détail :
+> [`canon.md`](canon.md) § Après la relecture sévère intégrale.
