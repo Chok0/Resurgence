@@ -41,6 +41,11 @@ colonnes — la voix cherchait son compte et n'en trouvait pas — plus de monde
 jamais remonté. Pas des os : de la mémoire. Un siècle gardé au froid, intact, qui n'attendait que des
 mains pour reparler.
 
+Le chef des premiers, ce soir-là, oublia un moment ses nombres. Il riait presque dans le micro ; il dit
+à Iov de tenir une oreille de leur côté, qu'ils remonteraient de quoi faire pâlir les recueils des
+dômes ; et il signa comme toujours — « tiens le fil » —, mais gai, cette fois, comme on le lance à un
+homme qu'on est sûr de revoir.
+
 Tanya, près du poste, avait cessé de respirer. Toute sa vie elle avait recollé des éclats — une image
 par-ci, trois mots par-là, le reste perdu au noir. Et il y avait là, à un jour de marche et des jours
 sous la pierre, un monde entier qui avait encore sa voix. Elle s'entendit envier des inconnus :
@@ -71,13 +76,10 @@ se reprend, il est en retard d'un battement sur lui-même. Eux, plus. Depuis tro
 juste à la seconde, et la seconde d'après pareille, et celle d'après. » Il chercha ses mots. « Comme si
 ce n'était plus une main qui appuyait. »
 
-« Ou comme s'ils avaient laissé la machine émettre seule, dit Tanya, pour avoir la paix et garder leur
-prix. » C'était une explication ; elle tenait ; Iov la prit sans la croire. On pouvait tout expliquer,
-ce soir-là : la voix morte par une vieille borne, le canal fermé par la prudence, la régularité par la
-fatigue d'hommes qui dormaient enfin. Chaque chose tenait, séparément. C'était de les tenir toutes
-ensemble qui devenait difficile.
+« Ou ils ont laissé l'appareil relever seul, dit Tanya, pour dormir enfin et garder le reste pour eux. »
+Iov ne dit ni oui ni non. Mais il avait remarqué autre chose, qu'il ne dit pas tout de suite : depuis
+deux jours, le chef ne signait plus. Les nombres tombaient, justes, à la seconde ; et après les nombres,
+là où il y avait toujours eu « tiens le fil », il n'y avait plus que le grésil.
 
-Au-dessus du camp, le mât dressait ses antennes contre les étoiles. Par le fil, à la seconde juste,
-montait d'un jour sous la terre la preuve que les premiers vivaient encore : deux nombres, et rien
-d'autre. Iov les nota, à la seconde. Puis il resta devant le poste, l'écouteur sur l'oreille, à guetter
-dans le signal le souffle d'homme qui n'y était plus.
+Au-dessus du camp, le mât dressait ses antennes contre les étoiles. Un homme fatigué oublie un salut,
+se dit Tanya ; un homme. Iov, lui, nota l'heure, et l'absence avec.
