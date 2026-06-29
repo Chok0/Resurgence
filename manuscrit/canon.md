@@ -7,6 +7,15 @@
 > ⚠️ Ne contient que ce que le **texte** a établi — pas les *vérités d'auteur* (cachées au
 > lecteur), qui vivent dans [`../structure-recit/`](../structure-recit/) § 4.
 
+> **⚑ Numérotation (depuis la réorg. de l'ouverture — [archi §8](../plan-ecriture/architecture-roman.md)).**
+> Ordre des fichiers : **01 Les marges · 02 La liaison · 03 Le silence · 04 La traversée · 05 Sous le
+> verre · 06 La descente · 07 Les crânes · 08 Le Gisement · 09 La remontée · 10 La surface · 11 Clore**.
+> Ci-dessous, les références **« ch.N » renvoient aux JALONS du 1ᵉ jet** (numérotation d'origine) :
+> **ch.1** → refondu en *Les marges* (01) + rite en tête de *La traversée* (04) · **ch.2** → *La descente*
+> (06) · **ch.3** → *Les crânes* (07) · **ch.4** → *Le Gisement* (08) · **ch.5** → *La remontée* (09) ·
+> **ch.6** → *La surface* (10) · **ch.7** → *Clore* (11). Les chapitres d'ouverture neufs (01-03) sont
+> cités par titre.
+
 ## ⚑ Règle de nommage de la ville — ne jamais écrire « Paris »
 La métropole fouillée **n'est jamais nommée** dans la prose. Le nom ancien est un savoir de
 **lettrés** (Tanya en est) — l'effet « Lutèce » : pour le reste de Polaris, ce n'est qu'« une
@@ -154,6 +163,18 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   **marques** *vite* et *on n'est pas seuls* + les **4 corps sur 6**, dispersés, cause indéterminée
   (Gisement). **2 jamais retrouvés.** Le doute reste **total** : on ne les a **jamais vus vivants en
   scène**.
+- **Réalisé — ch.01-03 écrits (1ᵉ jet).** Établi au texte : les **autres équipes**, connues à la voix
+  (ceux de l'est, une halle de machines ; une petite équipe au sud, deux voix, oui/non ; des racleurs,
+  « une bête une bête ») ; la **voix morte sur le fil** — quelques mots dans la langue d'avant que nulle
+  équipe ne réclame, *« cette station est fermée définitivement »*, rationalisée en vieille borne qui
+  rejoue (soupape + doute IA/Voix ambiant) ; le **Gisement annoncé à la liaison** (la porte soudée, la
+  salle haute, les colonnes), puis le canal fermé sur ordre des dômes (« attendez l'équipe lourde ») ;
+  les **deux nombres toutes les 6 h, à la seconde juste** (signal trop régulier — « plus une main qui
+  appuie ») ; la **dernière émission** (« état des hommes : conforme », « pas un de moins, pas un de
+  trop ») puis le silence ; **Iov garde tout** (enregistrements) ; **affectation au dixième jour**
+  (gagner la bouche nord, rétablir la liaison, sécuriser, *établir le sort de l'équipe de tête*) ;
+  Drev : « Dix jours. On descend peut-être les ramasser. » **Appétit honteux de Tanya** (le Gisement la
+  tire plus fort que la peur — son moteur ; à ne pas dire).
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
@@ -207,7 +228,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **La réponse de Polaris au relevé du Gisement** *(ch.6 sc.2, document niveau 2)* : la transmission officielle qui **recode** la découverte. Registre cultuel-administratif, plat. Confirme « la Source » conforme aux écrits ; reclasse les morts lucides en **« damnés lucides — ceux qui ont vu et n'ont pas cru »** ; rappelle que nulle voix recueillie ne doit être tenue pour vraie (« le bruit dont l'Architecte a sauvé l'espèce »). *Le rapport transformé en propagande* (beat-pilier Mvt IV).
 - **Le trou dans les métadonnées** *(ch.6 sc.2)* : à la classification, le **bloc nommant les responsables** (chiffres et noms, lu au Gisement) **disparaît de l'index** — pas raturé, *retiré*, « l'index refermé par-dessus comme une eau », nul auteur au bas (« personne ne l'avait faite ; elle s'était faite »). Suppression **mécanique** du système (vérité d'auteur ; cf. [`../structure-recit/`](../structure-recit/) § 4). À distinguer du **résidu de refissuration** (la marque d'accès datée *après* le silence des premiers), qui, lui, n'a pas d'explication politique.
 
-## Cohérence vérifiée — Chapitre 1
+## Cohérence vérifiée — jalon ch.1 *(→ Les marges 01 + rite 04)*
 - **Phase 1 tenue** : aucune fissure. Culte, monstres, Polaris vus de l'intérieur, comme vrais. ✓
 - **Doute IA** ambiant et **non progressant** : posé en passant (la question d'enfant au Sanctuaire), aussitôt refermé. ✓
 - **Tensions scientifiques / chevaliers** = clivage de **classe/caste ordinaire**, jamais la menace militaire. ✓
@@ -215,7 +236,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Non-fiabilité de Tanya** seulement *semée* (conditionnement, « prier ou mesurer », besoin d'être portée), pas encore active. ✓
 - **Frontière** : referme au seuil, sur la descente. ✓
 
-## Cohérence vérifiée — Chapitre 2
+## Cohérence vérifiée — jalon ch.2 *(→ La descente 06)*
 - **Bascule amorcée, pas consommée** : on glisse du fantasy vers le réel, **rationnellement**. Aucun monstre, aucune fissure surnaturelle. ✓
 - **Triple registre incarné** (Backrooms) : le lecteur reconnaît un bureau banal ; Tanya y lit un artefact à dater ; les chevaliers, une Salle de l'Oubli. L'ironie reste au lecteur, jamais énoncée. ✓
 - **Tanya ne bascule pas encore** : elle décrit la déshumanisation **au passé, sur les anciens** — jamais (pas encore) comme un miroir de Polaris. Le lecteur fait le lien, elle non. ✓
@@ -228,11 +249,11 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Signature « effet d'exhumation » intégrée** (ch.1-2) : figures sourcées dans le monde de Polaris (la chaleur vs les dômes ; les galeries « comme le verre du Sanctuaire gardait l'Architecte » ; « comme la glace garde une empreinte »), **nomenclature décalée** (le petit dieu), éclat verbatim, pince-sans-rire grave. Aucune entorse au régime du doute (le chat n'est pas animé : les chevaliers projettent ; Tanya catalogue). ✓
 - **Courbe de genre + équilibre technoféodal (ch.1 sc.1)** : ouverture en **monde imaginaire technoféodal** — la **tech reste visible** (relevés, écrans, chantiers de fouille), mais le **passé est étranger** car l'Histoire est effacée : référents réels folklorisés (« ruches de pierre grise », non « banlieues / béton »), ville jamais nommée, tour Eiffel réduite à une silhouette. Le lecteur croit d'abord à un **monde imaginaire** (Tolkien) avant la SF (Orwell) puis l'horreur (Alien). Détails : [`regles-ecriture.md`](regles-ecriture.md) §§ courbe de genre + équilibre ci-dessus. ✓
 
-## Cohérence vérifiée — Chapitre 3
+## Cohérence vérifiée — jalon ch.3 *(→ Les crânes 07)*
 - **Audit indépendant ch.1-2 vs documentation** : fond **parfaitement conforme** (nommage, équilibre technoféodal, courbe de genre, signature, folklore = propagande, régime du doute, canon ↔ prose). 4 entorses de style **corrigées** : « joie froide » (montrée par l'acte), « rouge de rouille » → « mangé de rouille », « goût de cendre et de rouille » → « pierre chaude », motif « figé en plein geste » allégé au ch.1 (réservé à l'appareil ouvert du ch.2). ✓
 - **Ch.3 (auto-contrôle)** : Phase 2 qui s'installe ; **virage gothique** (l'ossuaire) — un pas vers *Alien*. Les galeries d'os = **indice de déduction « Paris »**, jamais nommé. Folklore = propagande (les anciens « damnés » ; « la leçon ne ment pas sur les faits »). Doute : l'autre équipe **invérifiable** (symétrie avec la Voix) ; le paranoïaque semé **sans être lucide** ; la dissonance de Tanya monte (les *recueils* réécrits vs les disques bruts) **sans réveil** (« ce n'était pas son travail de juger »). Aucun monstre, IA intouchée, aucun ordre. Tech présente (lampes, liaison, station de lecture). ✓
 
-## Cohérence vérifiée — Chapitres 4-7
+## Cohérence vérifiée — jalons ch.4-7 *(→ Le Gisement 08 · La remontée 09 · La surface 10 · Clore 11)*
 - **Ch.4 (le Gisement)** : climax de la descente ; **tech bien visible** (colonnes de mémoire, station de lecture, froid de machine) — pas de primitivisation. Le **pilier politique** est lu *sans glose dystopique* : Tanya constate (« lucides, pas damnés »), le lecteur fait le procès de Polaris. **Régime du doute tenu** : cause de mort des quatre **indéterminée**, jamais de bête montrée ; *on n'est pas seuls* reste un mot sur la roche, pas une apparition. **Cran 4 en acte** (elle copie), continuité de la photo + relevé amputé. ✓
 - **Ch.5 (la remontée)** : **première vraie refissuration**, et elle reste **invérifiable** — la cadence est *enregistrée, jamais entendue en direct* (le boîtier d'un paranoïaque, à charge), Ostrov la rationalise, Iov la creuse : le lecteur a le vertige, le texte ne tranche pas. **Disparition d'Iov** = doute pur (créature / Drev / égarement tous ouverts ; *fil intact* exclut l'accident simple sans prouver le surnaturel). **« Je ne sais pas » de Tanya** = bascule intérieure dite tout haut, sans réveil militant. Équipe qui se défait montrée **par les actes** (Nieve qui se tait, Drev qui « cherche pour ne pas trouver»), non par l'analyse. Aucun ordre, IA intouchée, isolement tenu. ✓
 - **Ch.6 (la surface)** : **bascule de registre vers Orwell** (politique/clinique dominant) — la courbe de genre exécutée. **Beat-pilier réalisé** : le rapport recodé en propagande (« damnés lucides ») + **trou dans les métadonnées** rendu *mécanique* (« personne ne l'avait faite ; elle s'était faite ») = la lecture dystopique semble triompher (**c'est le piège** de Phase 2). **Refissuration tenue à un seul résidu** (l'accès daté *après* le silence) — distinct, non politique, rationalisable, jamais prouvé : la Phase 3 monte *sans accélérer*. **Menace militaire** = signaux faibles uniquement (liaison de Drev, caisson à part, ordre déformé) ; **jamais confirmée**, « elle n'en conclut rien » (vérité d'auteur tenue : aucun militaire n'énonce d'ordre). **Dénonciation fondatrice** posée en flashback avec **ambiguïté d'intention intacte** (vérité d'auteur E). Document niveau 2 **plat** (garde-fou 10). Nommage tenu (« la Lance », pas Eiffel/Paris). ✓
@@ -273,7 +294,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   fouineur** (bunker ≠ Gisement) → **tresser l'arc intime + le niveau 3**. Personnages à incarner : le
   **chevalier-fouineur** (7ᵉ, distinct de Drev), **Iov** (fil continu + tête-à-tête), **Nieve** (2-3 scènes
   pleines), une voix d'**autre équipe**.
-  - **Écrit ✓ — « La traversée »** (`chapitre-01b-la-traversee.md`, jalon Mvt I / blueprint ch.4) : 1ʳᵉ
+  - **Écrit ✓ — « La traversée »** (`chapitre-04-la-traversee.md`, ch.4 ; rite de départ intégré en tête) : 1ʳᵉ
     mission de surface. Ouvre le **théâtre de surface** (recyclage incarné, la Lance approchée, le
     dosimètre/contrainte de temps), amorce le **vaporwave** (la halle de verre), pose la **soupape « bête »**
     (les chiens), fait **agir Tanya à découvert** (elle quitte le rang pour la halle). **Couture réconciliée ✓** : **ch.1 ramené à 3 scènes**
@@ -285,7 +306,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     entendus jamais vus : **« Les marges » → « La liaison » → « Le silence »** (3 ch. à écrire) → La
     traversée (rite en tête) → Sous le verre → La descente (ancien ch.2) → … Ancien ch.1 **rétabli à la
     base** en attendant sa réécriture en « Les marges ».)*
-  - **Écrit ✓ — « Sous le verre »** (`chapitre-01c-sous-le-verre.md`, jalon Mvt I / blueprint ch.5) :
+  - **Écrit ✓ — « Sous le verre »** (`chapitre-05-sous-le-verre.md`, ch.5) :
     **flashback aux dômes** (ancre temporelle inverse, déclenché par le froid de la descente). Déploie le
     **culte vécu** (Sanctuaire, momie, **la Voix au travail**, l'Interprète, le doute IA ambiant) et
     l'**internat** (solarpunk-façade / dortoirs froids), pose la **graine de l'arc intime** (orpheline ; la

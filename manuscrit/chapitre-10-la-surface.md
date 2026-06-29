@@ -1,4 +1,4 @@
-# Chapitre six — La surface
+# Chapitre dix — La surface
 
 ### 1 — Le geste contre le jour
 

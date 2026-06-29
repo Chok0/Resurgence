@@ -1,4 +1,4 @@
-# Chapitre deux — La Descente
+# Chapitre six — La descente
 
 ### 1 — Le fil
 

@@ -1,4 +1,4 @@
-# Chapitre trois — Les crânes
+# Chapitre sept — Les crânes
 
 ### 1 — Les os
 

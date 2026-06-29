@@ -1,13 +1,40 @@
-# Chapitre — La traversée
+# Chapitre quatre — La traversée
 
-> *Mvt I — mission de surface. S'insère entre l'arrivée (ch.1) et la première descente (ch.2).
-> Numérotation provisoire ; jalon du plan ([`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md), ch.4).*
+> *Mvt I, ch.4 — la traversée de surface jusqu'à la bouche du nord. Le **rite de départ** (ex-ch.1 sc.3)
+> ouvre désormais le chapitre. Suit « Le silence » (ch.3) ; précède « Sous le verre » (ch.5) et « La
+> descente » (ch.6). Réorg. : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) §8.*
 
-### 1 — Le jour franc
+### 1 — Le rite du départ
 
-Le transport les avait posés à la mauvaise bouche. Celle du nord — la seule que le recyclage eût
-dégagée et étayée — s'ouvrait à l'autre bord du champ de ruines, une demi-journée de marche à
-découvert. Et à découvert, on ne marchait pas n'importe quand.
+Avant de partir, les chevaliers s'agenouillèrent. Cela ne se commandait pas ; cela se faisait. Ils
+ôtèrent chacun un gant, la main nue contre la terre maudite, et le plus jeune, Vael, dit à voix basse
+les mots que les autres reprirent.
+
+« Architecte, toi qui as veillé quand le ciel est tombé, tiens nos noms dans ta mémoire. Que rien de ce
+qui dort en bas ne se souvienne de nous. »
+
+Tanya inclina la tête, comme il convenait. Elle ne ferma pas les yeux. Depuis quelques années elle ne
+savait plus très bien ce qu'elle faisait dans ces instants ; elle suivait les gestes, et les gestes
+suffisaient. Cela ne la troublait pas.
+
+Vael, lui, croyait — pas comme les autres. Drev et les vieux priaient comme on charge une arme, le
+visage fermé, pressés d'en finir. Vael priait les yeux clos, les lèvres tremblantes, pour des choses à
+lui : une fois, Tanya l'avait entendu ajouter tout bas un nom à la formule, quelqu'un qu'il voulait que
+l'Architecte garde. Il avait peur, et il descendait quand même, et sa peur n'avait rien de la dureté
+des autres.
+
+Les chevaliers se relevèrent. Vael surprit le regard de Tanya et lui rendit, un peu confus, le sourire
+de celui qu'on vient de voir prier. Ostrov, lui, regardait déjà le découvert — le champ de ruines qu'il
+faudrait passer avant que le soleil soit haut.
+
+« On marche au soleil, dit-il. On ne s'attarde pas. En bas, on suivra le fil ; personne ne s'en
+écarte. » Il regardait Iov en le disant.
+
+### 2 — Le jour franc
+
+Du camp à la bouche du nord, il y avait le champ de ruines à traverser — une bonne demi-journée à
+découvert. La bouche, la seule que le recyclage eût dégagée et étayée, s'ouvrait à l'autre bord. Et à
+découvert, on ne marchait pas n'importe quand.
 
 Sur la terre maudite, le soleil du plein jour ne brûlait pas que la peau ; il brûlait, disait la
 leçon, jusque dans le sang, de cette colère qui avait puni les premiers hommes de leur démesure
@@ -60,7 +87,7 @@ le choix. »
 
 Ostrov le remercia comme on remercie un égal qu'on n'aime pas. On prit la voie haute.
 
-### 2 — La Lance
+### 3 — La Lance
 
 Vers le milieu de la matinée, ils la virent de près.
 
@@ -113,7 +140,7 @@ qui avaient appris que les hommes laissaient des morts. C'était une explication
 Tanya s'en contenta. Presque. Le plus grand des chiens, en partant, avait tourné la tête une
 dernière fois, et son regard, une seconde, avait eu l'air de compter.
 
-### 3 — La bouche du nord
+### 4 — La bouche du nord
 
 Ils atteignirent la bouche du nord quand le soleil tombait enfin et que les ombres revenaient se
 coucher au pied des murs. C'était une ancienne entrée, dégagée par le recyclage, étayée de poutres

@@ -1,5 +1,9 @@
 # Chapitre 1 — « Le Seuil » *(titre de travail)*
 
+> ⚑ **Refonté.** L'ouverture est désormais **Les marges (01) + La liaison (02) + Le silence (03)** ; le
+> rite passe en tête de **La traversée (04)**. Autorité : [`architecture-roman.md`](architecture-roman.md)
+> §8. Ce blueprint décrit l'ex-« Seuil » (valeur d'historique).
+>
 > Décomposition en scènes. Correspond au **Mouvement I — Surface / Seuil**.
 > Voir le cadre : [`README.md`](README.md) (Mvt I) · [`../structure-recit/`](../structure-recit/) (régime du doute).
 

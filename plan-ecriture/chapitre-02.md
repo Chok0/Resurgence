@@ -1,5 +1,7 @@
 # Chapitre 2 — « La Descente » *(titre de travail)*
 
+> ⚑ = **ch.6 « La descente »** dans la numérotation actuelle (réorg. ouverture, [archi §8](architecture-roman.md)).
+>
 > Décomposition en scènes. Correspond au **début du Mouvement II — Descente / Premiers artefacts**.
 > Voir le cadre : [`README.md`](README.md) (Mvt II) · [`../structure-recit/`](../structure-recit/).
 
