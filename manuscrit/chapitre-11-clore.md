@@ -1,4 +1,4 @@
-# Chapitre sept — Clore
+# Chapitre onze — Clore
 
 ### 1 — Le dernier seuil
 

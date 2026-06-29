@@ -1,5 +1,7 @@
 # Chapitre 3 — « Les crânes » *(titre de travail)*
 
+> ⚑ = **ch.7 « Les crânes »** dans la numérotation actuelle (réorg. ouverture, [archi §8](architecture-roman.md)).
+>
 > Décomposition en scènes. **Fin du Mouvement II → amorce du Mouvement III.**
 > Préalable : le ch.2 se referme sur *la récupération* (sc.3) et *le premier rapport
 > intercalé* (sc.4), encore à écrire — voir [`chapitre-02.md`](chapitre-02.md).

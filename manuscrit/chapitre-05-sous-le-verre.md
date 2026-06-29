@@ -1,7 +1,8 @@
-# Chapitre — Sous le verre
+# Chapitre cinq — Sous le verre
 
-> *Mvt I — flashback aux dômes (ancre temporelle inverse). Numérotation provisoire ; jalon du
-> plan ([`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md), ch.5).*
+> *Mvt I, ch.5 — flashback aux dômes (ancre temporelle inverse), déclenché par le froid de la descente.
+> Suit « La traversée » (ch.4) ; précède « La descente » (ch.6). Réorg. :
+> [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) §8.*
 
 ### 1 — L'internat
 

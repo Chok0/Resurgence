@@ -4,7 +4,7 @@ Le texte du roman — la **prose**, par opposition au planning ([`../plan-ecritu
 et au worldbuilding. Premier jet : *la voix se cherche encore.*
 
 ## Organisation
-- Un fichier par chapitre : [`chapitre-01.md`](chapitre-01.md), etc.
+- Un fichier par chapitre, **numéroté dans l'ordre de lecture** : `chapitre-NN-slug.md` (01 → 11).
 - Les scènes sont séparées par des **en-têtes de travail** (`### 1 — …`), simple
   échafaudage : à retirer au montage final.
 - [`canon.md`](canon.md) — **registre de continuité** : tous les faits établis par le texte
@@ -24,24 +24,28 @@ nomenclature décalée de nos objets, éclats verbatim du web mort, pince-sans-r
 clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § signature.
 
 ## Statut
-| Chapitre | Décomposition | Prose |
-|---|---|---|
-| **1 — Le Seuil** | [`../plan-ecriture/chapitre-01.md`](../plan-ecriture/chapitre-01.md) | **complet — 3 scènes** (réorganisé : sc.4 « La bouche » fondue dans « La traversée ») |
-| **1b — La traversée** *(expansion)* | [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) (Mvt I) | **complet — 3 scènes** (1ᵉ jet) · 1ʳᵉ **mission de surface** |
-| **1c — Sous le verre** *(expansion)* | [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) (Mvt I) | **complet — 3 scènes** (1ᵉ jet) · **flashback dômes** (Sanctuaire/Voix/internat) |
-| **2 — La Descente** | [`../plan-ecriture/chapitre-02.md`](../plan-ecriture/chapitre-02.md) | **complet — 4 scènes** (1ᵉ jet) |
-| **3 — Les crânes** | [`../plan-ecriture/chapitre-03.md`](../plan-ecriture/chapitre-03.md) | **complet — 3 scènes** (1ᵉ jet) |
-| **4 — Le Gisement** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
-| **5 — La remontée** | [`../plan-ecriture/tension-de-base.md`](../plan-ecriture/tension-de-base.md) | **complet — 3 scènes** (1ᵉ jet) |
-| **6 — La surface** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt IV | **complet — 3 scènes** (1ᵉ jet) |
-| **7 — Clore** | [`../structure-recit/README.md`](../structure-recit/README.md) § Mvt V (fin sèche) | **complet — 3 scènes** (1ᵉ jet) |
+> **Ordre de lecture = ordre des fichiers (01 → 11).** Réorganisation de l'ouverture (archi §8) : on
+> reste avec Tanya ; les premiers sont **entendus, jamais vus** (la liaison). Les *ex-numéros* du 1ᵉ jet
+> sont indiqués entre parenthèses.
 
-> **Premier jet (ch.1-7) bouclé, puis relecture sévère intégrale → cap roman 100-300 pages.**
-> L'arc complet est posé (Tolkien → Orwell → Alien/doute, fin sèche verrouillée). La relecture
-> (4 relecteurs) a tranché : le cœur est sain, mais c'est une **novella-squelette** à **étendre**
-> en roman. **Plan-maître** : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md)
-> (6 mouvements / ~30 chapitres ; les 7 actuels = **jalons** ; **fin verrouillée**). Expansion en
-> cours — 1ʳᵉ mission de surface écrite (« La traversée »). Dette de continuité corrigée ;
-> leçons de style intégrées (garde-fous 17-26). **Invariants** à ne jamais casser : ville jamais
-> nommée ; aucun monstre montré ; vérités d'auteur tues ; Tanya non fiable. Détail :
-> [`canon.md`](canon.md) § Après la relecture sévère intégrale.
+| # | Chapitre | Prose |
+|---|---|---|
+| **01** | **Les marges** | 1ᵉ jet — arrivée dans la zone, l'équipe, la **liaison** *(refonte de l'ex-« Seuil »)* |
+| **02** | **La liaison** | 1ᵉ jet — les comms, les autres équipes ; **le Gisement trouvé, entendu** |
+| **03** | **Le silence** | 1ᵉ jet — la dernière émission, « défaillance d'antenne », l'affectation |
+| **04** | **La traversée** | 1ᵉ jet — **rite de départ** + traversée de surface *(ex-1b)* |
+| **05** | **Sous le verre** | 1ᵉ jet — flashback aux dômes *(ex-1c)* |
+| **06** | **La descente** | 1ᵉ jet — 1ʳᵉ descente, les Salles de l'Oubli *(ex-2)* |
+| **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
+| **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
+| **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
+| **10** | **La surface** | 1ᵉ jet — le retour, le rapport recodé *(ex-6)* |
+| **11** | **Clore** | 1ᵉ jet — la fin sèche **(verrouillée)** *(ex-7)* |
+
+> **Ouverture refondue (ch.01-03 écrits) + numérotation organisée.** Le 1ᵉ jet (7 ch.) est désormais une
+> série de **jalons** (06-11 + La traversée / Sous le verre) au sein d'une architecture plus large
+> (**plan-maître** : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) —
+> 6 mouvements ; **fin verrouillée**). L'arc complet est posé (Tolkien → Orwell → Alien/doute). Dette de
+> continuité corrigée ; garde-fous de style 17-26 intégrés. **Invariants** : ville jamais nommée ; aucun
+> monstre montré ; vérités d'auteur tues ; Tanya non fiable ; **les premiers entendus, jamais vus**.
+> Détail : [`canon.md`](canon.md).

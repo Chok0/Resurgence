@@ -20,9 +20,16 @@
 Le découpage en chapitres se construit **par-dessus** les mouvements, à mesure qu'on écrit.
 Chaque chapitre a sa propre décomposition en scènes, prête à rédiger :
 
-- [`chapitre-01.md`](chapitre-01.md) — **« Le Seuil »** (Mvt I) · surface saharienne → seuil de la descente.
-- [`chapitre-02.md`](chapitre-02.md) — **« La Descente »** (Mvt II, début) · galeries → les Salles de l'Oubli (Backrooms).
-- [`chapitre-03.md`](chapitre-03.md) — **« Les crânes »** (fin Mvt II) · l'ossuaire (indice catacombes) → la voix d'ailleurs → le camp.
+> ⚑ Ces décompositions datent du 1ᵉ jet. **L'ouverture a été refondue** (voir
+> [`architecture-roman.md`](architecture-roman.md) §8) : autorité actuelle pour le Mvt I. Correspondance
+> avec les fichiers du manuscrit indiquée ci-dessous.
+
+- [`chapitre-01.md`](chapitre-01.md) — **« Le Seuil »** *(refonté)* · l'ouverture est désormais **Les
+  marges (01) + La liaison (02) + Le silence (03)** ; le rite passe en tête de **La traversée (04)**.
+- [`chapitre-02.md`](chapitre-02.md) — **« La Descente »** · = **ch.6** du manuscrit · galeries → les
+  Salles de l'Oubli (Backrooms).
+- [`chapitre-03.md`](chapitre-03.md) — **« Les crânes »** · = **ch.7** du manuscrit · l'ossuaire → la
+  voix d'ailleurs → le camp.
 
 ---
 
