@@ -74,6 +74,11 @@ transcendance / posts de l'ancêtre) sont **payées à blanc** (jamais vues avan
 > ~28-32 chapitres de 2 500-3 500 mots → ~80 000-95 000 mots (≈ 280-320 p.). Resserrable à ~22-24 ch.
 > (~60 000 mots ≈ 200 p.). Les **7 chapitres actuels sont réinsérés comme jalons** (indiqués *= ch.N*).
 
+> **⚑ Ouverture restructurée (2026-06-29) — voir [§8](#8-restructuration-de-louverture--le-prologue-des-premiers-validé-2026-06-29).**
+> Le roman ouvre désormais sur un **prologue des Premiers** (4 ch. courts, PM-1→PM-4) qui *dramatise*
+> l'équipe de tête et son silence ; l'actuel **ch.1 (jalon, ligne 1 ci-dessous) devient une charnière**
+> reframée. La table ci-dessous décrit l'**arc-Tanya intact** — à lire **après** le prologue.
+
 | Mvt | Ch. | Fonction | Lieu | Worldbuilding / corpus | Courbe |
 |---|---|---|---|---|---|
 | **I — Seuil** | 1 | Arrivée, image-fournaise *(=ch.1 sc.1)* | Surface | la ville abandonnée ; rappel de mission | Tolkien · Ph.1 |
@@ -174,3 +179,51 @@ cadence (26), accès post-silence (29), dernier bruit (30).
 > Erreur à éviter : **« gonfler » les 7 chapitres existants.** Il faut les **réinsérer comme jalons** d'une
 > architecture 3× plus large — la descente actuelle (4 ch.) devient *un cycle parmi quatre* — et la fin
 > reste, mot pour mot, le dernier bruit qui monte du noir qu'on vient de clore.
+
+---
+
+## 8. Restructuration de l'ouverture — le prologue des Premiers *(validé 2026-06-29)*
+
+**Problème résolu.** L'ouverture actuelle **raconte** le cœur du dread — l'équipe de tête qui a trouvé le
+Gisement, l'a signalé, puis s'est tue (ch.1 sc.1, en exposition). C'est le « tout tell » diagnostiqué
+(§1) **et** le dispositif jamais déployé : les **prédécesseurs muets** à la *Alien* (§1, manque n°6 — seule
+l'équipe morte existe, jamais incarnée).
+
+**Décision.** Ouvrir le roman sur un **prologue qui dramatise les premiers** — « **Les Premiers** »,
+**4 chapitres courts** (PM-1 à PM-4), **focale sur l'équipe de tête**, *surface-led* (leur arc épouse celui
+de Tanya : surface → descente → fond), qui **fait vivre** le silence au lieu de le résumer. Puis l'actuel
+**ch.1 (Tanya) reframé en charnière** : le lecteur, qui vient d'enterrer les premiers, entre dans la mission
+en **portant déjà le silence** ; ch.1 **perd son bloc d'exposition** (devenu doublon — garde-fou 18) et
+**rebranche sur l'arc intact** (→ La traversée → Sous le verre → ch.2…).
+
+**Structure du prologue** (4 ch. courts, ~1 000-1 800 mots — amplitude resserrée, cf. §2.7) :
+
+| Ch. | Titre | Fonction | Sème |
+|---|---|---|---|
+| **PM-1** | *La descente des premiers* | Arrivée surface (miroir ch.1), traversée, la bouche du nord, premiers pas sous terre. **Les établir vivants, compétents, humains** (sinon leur perte ne coûte rien). | leurs **croix de craie**, les dosimètres, le froid qui monte |
+| **PM-2** | *Le Gisement* | Descente profonde, les Salles, la chambre de données trouvée ; **le signal triomphal à Polaris** (« régime, profondeur, tonnage »). Leur **apogée** — pour que la chute fasse mal. | le **« froid de machine »** ; le **caisson daté** (veille du silence) |
+| **PM-3** | **« Le silence »** *(rédigé — jalon)* | L'isolement au fond, le malaise, l'équipe qui **se défait**, la **dernière transmission sur l'heure juste** — puis **fondu au noir AVANT toute cause**. | *vite* ; « on n'est pas seuls » ; **triple doute** |
+| **PM-4** | *Défaillance d'antenne* | Court, **clinique, froid**. Le silence **tel que Polaris l'enregistre** : une ligne au bas d'un ordre, « on ne redescend pas une mission pour six hommes », la décision d'**envoyer l'équipe suivante** (Tanya). | **extrait de ch.1 sc.1** le bloc bureaucratique |
+
+**Discipline du doute (PM-3 — impératif).** Le prologue **n'explique jamais** le silence (invariants :
+aucun monstre montré ; vérités d'auteur tues). On **montre** sans conclure : symptômes physiques
+(dosimètres, insomnie, nausée — qui *miment* la paranoïa) ; **fracture** humaine (défiance, on dort à
+l'écart) ; **peur cultuelle** (« ceux qui se souviennent » ; un son au bord de la lampe, **rationalisable**).
+Et l'on **coupe avant** tout coup, toute mort, toute cause. La vérité d'auteur (ils s'entretuent) reste
+**tue**. Conforme à l'état trouvé en ch.4 : **4 des 6** retrouvés, **dispersés** (« comme s'ils s'étaient
+fuis »), *vite* puis *on n'est pas seuls* sur la roche, **cause indéterminée** ; **deux jamais retrouvés** →
+le fondu au noir le préserve. **Pas de cadence structurée** dans le prologue (réservée à ses résidus
+calibrés, ch.5/7 — garde-fou 21) : le son du prologue reste un bruit qu'on explique à moitié.
+
+**Phase / voix.** Le prologue est **Phase 1** (le lecteur *croit* le monde) avec la **première teinte** de
+dread — **pas** d'horreur *Alien* pleine, **pas** de démystification de Polaris : le dread porte sur **le
+fond** (ce qui est arrivé en bas), jamais sur le mensonge du régime (réservé à la Phase 2). **Voix
+intouchée** (3ᵉ pers., indirect libre, passé) ; seule la **focale** change, et le prologue est **mis à
+part** (cadre « Les Premiers »), ce qui protège la focale-Tanya de tout le reste du livre.
+
+**Nouvel ordre de lecture (cible) :**
+PM-1 → PM-2 → PM-3 → PM-4 → **ch.1 (charnière)** → La traversée → Sous le verre → ch.2 → … *(arc intact)*.
+
+**Statut.** *PM-3 rédigé* (jalon, comme La traversée / Sous le verre) ; **ch.1 reframé** (compression du
+bloc d'exposition, dread re-pointé sur le prologue). **À venir** : PM-1, PM-2, PM-4 ; **excision complète**
+du résidu d'exposition de ch.1 une fois le prologue achevé ; recâblage de l'ordre de lecture.
