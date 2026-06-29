@@ -20,10 +20,10 @@ Ils partirent scellés, dans le gris d'avant l'aube, et le gris ne dura pas. Le 
 sol d'un coup, sans matin, comme d'une fournaise qu'on ouvre ; en une heure la lumière passa de
 l'ocre au blanc, et le blanc écrasait les ombres, effaçait les reliefs, faisait de chaque rue un
 four pâle. Tanya marchait la nuque ployée, le souffle court dans le masque, la sueur courant sous
-la combinaison sans qu'elle pût l'essuyer. La fournaise n'était pas une image. C'était un poids
-sur les épaules et un goût de plastique chaud au fond de la gorge.
+la combinaison sans qu'elle pût l'essuyer. La fournaise était un poids sur les épaules, un goût de plastique chaud au
+fond de la gorge.
 
-Et tout autour, la ville tenait debout. Pas des moignons, pas un champ de gravats : des rues. Des
+Et tout autour, la ville tenait debout : des rues. Des
 maisons basses aux fenêtres vides, des pans de mur percés de portes qui battaient au vent chaud,
 des charpentes de fer rougies mais droites. Le sable s'était amassé contre les seuils, montait à
 mi-porte par endroits, ondulait au milieu des chaussées en longues vagues immobiles. Le peuple
@@ -88,9 +88,8 @@ dedans baignait dans une fausse fraîcheur de couleurs qui n'avait pas de nom da
 Polaris. Tanya s'était écartée de dix pas avant de s'en apercevoir.
 
 Elle savait à peu près ce que c'était : un de ces lieux d'abondance où le peuple d'avant venait
-prendre, échanger, se montrer. Elle en avait remonté des images. Mais une image n'était pas la
-chose, et la chose était là — et la couleur, surtout, la couleur que cent ans n'avaient pas
-mangée, lui fit dans la poitrine quelque chose qu'elle aurait dû noter et qu'elle ne nota pas.
+prendre, échanger, se montrer. Elle en avait remonté des images. La chose, elle, était là — et la couleur, surtout, la
+couleur que cent ans n'avaient pas mangée, lui fit dans la poitrine quelque chose qu'elle aurait dû noter et qu'elle ne nota pas.
 
 « Tanya. » La voix d'Ostrov, sèche, dans l'écouteur. « Le cadran. »
 

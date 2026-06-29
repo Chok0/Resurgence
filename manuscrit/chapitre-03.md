@@ -12,7 +12,7 @@ avec un soin terrible : les longs en fagots, et de loin en loin, à hauteur d'ho
 crânes. Des milliers, en frises régulières, tournés vers le couloir. Quelqu'un, très
 anciennement, avait bâti avec ses morts.
 
-Ce n'était pas la catastrophe : ces os-là étaient secs depuis des siècles avant la guerre,
+Ces os étaient anciens : secs depuis des siècles avant la guerre,
 rangés par des mains que l'ancien monde lui-même avait oubliées. Une ville sous la ville, et
 sous elle ses morts.
 

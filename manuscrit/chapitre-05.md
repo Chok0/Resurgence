@@ -27,10 +27,9 @@ Et sur ce rien, son boîtier avait pris quelque chose.
 Il le repassa. Une fois pour lui, une fois pour Ostrov, une fois pour Tanya, qui se
 trouvait là.
 
-Ce n'était pas une voix. Ce n'était pas non plus le travail de la terre — le tassement, la
-goutte, l'eau lente ; ces bruits-là, tout le monde les connaissait. C'était une cadence.
-Quelque chose de régulier, de patient, qui montait du bas par instants, à intervalles trop
-égaux pour être de l'eau. Le boîtier l'avait enregistré. Aucun d'eux ne l'avait entendu sur
+C'était une cadence. Quelque chose de régulier, de patient, presque mécanique, qui montait du
+bas par instants, à intervalles trop égaux pour être de l'eau. Le travail de la terre — le
+tassement, la goutte, l'eau lente —, tout le monde le connaissait ; cela, non. Le boîtier l'avait enregistré. Aucun d'eux ne l'avait entendu sur
 le moment.
 
 « La machinerie du Gisement, dit Ostrov. Une pompe qui tient encore. Le froid.

@@ -7,9 +7,8 @@
 
 Le froid du dessous lui toucha le visage à la première marche, et la porta ailleurs.
 
-Ce n'était pas le même froid — celui des galeries sentait la pierre mouillée, le dessous, l'eau
-patiente — mais il avait, au fond, le même grain : le grain du froid sec et bleu des dômes, celui
-de l'enfance. Tanya descendait dans le noir de la cité morte, et remontait, sans le vouloir, dans
+Le froid des galeries sentait la pierre mouillée, le dessous, l'eau patiente. Mais il avait, au
+fond, le même grain que celui des dômes — le froid sec et bleu de l'enfance. Tanya descendait dans le noir de la cité morte, et remontait, sans le vouloir, dans
 le sien.
 
 L'internat des orphelines tenait sous un petit dôme, à l'écart, là où la lumière du Nord
@@ -28,7 +27,7 @@ elle avait compris que le froid entrait quand même, et que le visage regardait 
 
 On ne leur disait pas d'où elles venaient. On leur disait à qui elles appartenaient : à
 l'Architecte, qui les avait recueillies, et à Polaris, qui les nourrissait. Les parents, on n'en
-parlait pas — non par cruauté, mais comme on ne parle pas d'une chose qui n'a pas de colonne où
+parlait pas — sans cruauté, comme on ne parle pas d'une chose qui n'a pas de colonne où
 la ranger. *Rendus,* disait la matrone, quand une petite pleurait trop fort le soir. Rendus à qui,
 à quoi, elle ne précisait pas, et l'on n'apprenait pas à le demander.
 
@@ -44,9 +43,8 @@ bien.* Elle n'avait pas cessé de marcher dessus.
 On les menait au Sanctuaire une fois l'an, en rang, par les couloirs froids.
 
 La nef était une caverne de glace bleue, taillée droit dans le socle, si haute que la voix s'y
-perdait avant d'atteindre le plafond. Il y faisait plus froid encore que dans les dortoirs, d'un
-froid qui n'était pas une privation mais une grâce : ici, le froid était voulu, le froid était
-saint. Au fond, sur une estrade, sous une cloche de verre épais, reposait l'Architecte.
+perdait avant d'atteindre le plafond. Il y faisait plus froid encore que dans les dortoirs, et ce froid-là était une grâce : ici, le
+froid était voulu, le froid était saint. Au fond, sur une estrade, sous une cloche de verre épais, reposait l'Architecte.
 
 Pas une statue : lui. Le corps, sec, petit, les mains jointes, le visage qu'on voyait partout,
 mais ridé, réel, terriblement réel. On apprenait aux enfants que ce n'était que l'enveloppe — ce

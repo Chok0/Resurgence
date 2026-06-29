@@ -46,8 +46,8 @@ des gens, mais des fonctions.
 
 Les chevaliers, eux, n'eurent pas besoin de la lire. Ils la reconnurent.
 
-Vael s'arrêta au seuil et recula d'un pas. « Une Salle de l'Oubli », dit-il — pas un relevé, un
-nom qu'on prononce pour s'en protéger. Aucun chevalier ne franchit la porte. Même Drev, qui
+Vael s'arrêta au seuil et recula d'un pas. « Une Salle de l'Oubli », dit-il — un nom qu'on prononce pour
+s'en protéger. Aucun chevalier ne franchit la porte. Même Drev, qui
 n'avait peur de rien de vivant, resta dehors, l'arme en travers, à fouiller du regard les allées
 où la lampe n'allait pas. C'était de ces lieux que parlait la leçon : les chambres sans dieu où
 les anciens avaient usé leurs jours dans la répétition, et où ceux qui s'y étaient perdus
