@@ -81,7 +81,7 @@ transcendance / posts de l'ancêtre) sont **payées à blanc** (jamais vues avan
 
 | Mvt | Ch. | Fonction | Lieu | Worldbuilding / corpus | Courbe |
 |---|---|---|---|---|---|
-| **I — Seuil** | 1 | Arrivée, image-fournaise *(=ch.1 sc.1)* | Surface | la ville abandonnée ; rappel de mission | Tolkien · Ph.1 |
+| **I — Seuil** *(⊘ refondu → §8)* | 1 | Arrivée, image-fournaise *(=ch.1 sc.1)* | Surface | la ville abandonnée ; rappel de mission | Tolkien · Ph.1 |
 | | 2 | L'équipe, le clivage de caste ; **semer le chevalier-fouineur** *(=ch.1 sc.2)* | Camp | combinaisons, étoile, l'arme ; 1er micro-signal du fouineur | Tolkien · Ph.1 |
 | | 3 | Le rituel, le culte vécu, la peur du dessous *(=ch.1 sc.3)* | Seuil | bestiaire (« ceux qui se souviennent »), formule, rite | Tolkien · Ph.1 |
 | | 4 | **NOUVEAU — la surface comme théâtre** : course au soleil, recyclage à l'œuvre, un charognard, la Lance approchée | **Surface, plein jour** | recyclage, charognards, châtiment solaire ; **vaporwave repéré** | Tolkien + 1ʳᵉ teinte SF · Ph.1 |
@@ -230,9 +230,10 @@ machine**, la **fracture**, les **marques** (*vite*, *on n'est pas seuls*) ne so
 0 = dernière émission**. Défiance et délai courent ; **affectation ~jour 8-10** ; **arrivée bouche nord =
 jour 11** (ancre « onze jours ») → rapport **jour 14-15** → Gisement **~jour 20**. *(N'altère aucun jalon.)*
 
-**Statut.** *Plan réorganisé + renommé.* Prose à écrire **après validation** : ch.1-3 (la zone / la liaison
-/ le silence). Ancien ch.1 **rétabli à la base** en attendant sa réécriture en « Les marges » ; rite à
-déplacer en tête de « La traversée ».
+**Statut.** *Réalisé.* ch.01-03 écrits (la zone / la liaison / le silence) ; rite déplacé en tête de
+« La traversée » (04) ; numérotation 01→11 en place. **Relecture sévère passée** (4 relecteurs) →
+seconde passe de corrections en cours. **Ouvert** (cf. relecture) : déplacer éventuellement « Sous le
+verre » avant « La traversée » (le flashback freine la 1ʳᵉ descente).
 
 **À trancher (mineur).** **Une seule bouche** (les premiers et Tanya descendent par la même — cohérent ch.2,
 les croix de craie suivies) : confirmé par défaut. *Noms des premiers* : connus **à la voix seule**, aucun

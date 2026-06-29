@@ -84,7 +84,7 @@ le sol — à voir, dans une coupe de terre, les couches empilées du temps, et 
 qu'elle tenait. *Un Pompéi,* disait-il d'une ruine bien conservée, et quand on lui demandait ce
 qu'était un Pompéi, il répondait : « Une chose à laquelle le temps s'est arrêté d'un coup. Vous en
 verrez. » Il employait des mots qu'on ne trouvait pas dans les recueils, et il les employait sans
-y prendre garde, ce qui était sa façon à lui de marcher sur son caillou.
+y prendre garde — sans paraître savoir qu'ils étaient interdits, ou sans vouloir le savoir.
 
 Un jour, devant une carte des marges du sud, il avait posé le doigt sur la grande métropole
 ensevelie, celle où l'on envoyait les meilleurs, et il avait dit, sans la regarder, elle : « C'est
@@ -92,13 +92,11 @@ de là que tu viens. De ce vieux pays. Pas de la ville, peut-être ; mais d'ici,
 se voit à ton ossature. » Il avait dit cela comme on dit une chose sans importance, et il était
 passé à la couche suivante.
 
-Tanya avait gardé ce caillou-là avec l'autre. *De nulle part de bien,* avait dit la matrone. *Du
-sang d'ici,* disait le maître. Les deux phrases parlaient du même endroit, et elles ne disaient pas
-la même chose. L'un des deux mentait, ou bien tous les deux ; et la seule façon de savoir, c'était
-de descendre voir.
+*De nulle part de bien,* avait dit la matrone ; *du sang d'ici,* disait le maître. Les deux parlaient
+du même endroit, et ne disaient pas la même chose. L'un des deux mentait, ou bien tous les deux ; et la
+seule façon de savoir, c'était de descendre voir.
 
 Le froid lui quitta le visage. Elle était en bas, sur le fil, dans le noir de la cité, et le noir
-sentait de nouveau la pierre mouillée. Au-dessus, très loin, il y avait les dômes, le verre, le
-visage qui regardait ailleurs. En dessous, sous ses pieds, il y avait ce dont elle était faite, et
-qu'on lui avait appris à mépriser. Elle reprit la descente. Elle n'était pas venue pour elle ;
-elle se le dit, et continua vers ce dont elle était faite.
+sentait de nouveau la pierre mouillée. Au-dessus, très loin, il y avait les dômes, le verre, le visage
+tourné vers ce qu'il était seul à voir. En dessous, sous ses pieds, il y avait le reste — ce dont elle
+était faite. Elle reprit la descente.

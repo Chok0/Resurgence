@@ -36,12 +36,9 @@ Du camp à la bouche du nord, il y avait le champ de ruines à traverser — une
 découvert. La bouche, la seule que le recyclage eût dégagée et étayée, s'ouvrait à l'autre bord. Et à
 découvert, on ne marchait pas n'importe quand.
 
-Sur la terre maudite, le soleil du plein jour ne brûlait pas que la peau ; il brûlait, disait la
-leçon, jusque dans le sang, de cette colère qui avait puni les premiers hommes de leur démesure
-et qui n'avait jamais désarmé. On traversait aux marges du jour. Chaque combinaison portait au
-poignet un petit cadran où une aiguille montait, lente, le long d'une échelle dont le dernier
-tiers était peint en rouge : tant qu'on restait sous le rouge, on rentrait. Ostrov régla le
-départ sur les cadrans, pas sur le ciel.
+On traversait aux marges du jour ; chaque combinaison portait au poignet son cadran à l'aiguille lente,
+et tant qu'on restait sous le rouge, on rentrait. Ostrov régla le départ sur les cadrans, pas sur le
+ciel.
 
 Ils partirent scellés, dans le gris d'avant l'aube, et le gris ne dura pas. Le soleil sortit du
 sol d'un coup, sans matin, comme d'une fournaise qu'on ouvre ; en une heure la lumière passa de
