@@ -7,8 +7,8 @@ que la flèche, répétée de loin en loin, toujours vers le bas, toujours trac�
 les premiers n'avaient plus marqué leur chemin pour le retrouver. Ils avaient marqué pour
 qu'on les suive.
 
-Au bout, le fil butait sur une porte. Pas une porte de bureau : une masse de métal lisse,
-épaisse comme un mur, scellée dans la pierre, et debout encore. Les premiers l'avaient forcée
+Au bout, le fil butait sur une masse de métal lisse,
+épaisse comme un mur, scellée dans la pierre — et debout encore. Les premiers l'avaient forcée
 — le métal était ouvert sur un coin, plié vers l'intérieur — et le froid qui sortait de la
 brèche n'était pas celui des galeries. Il était sec, égal, travaillé. Un froid de machine,
 qui n'aurait pas dû tenir un siècle, et qui tenait.
@@ -36,9 +36,8 @@ dû. Elle commençait à s'habituer à ne pas devoir.
 
 Ce que les premiers lisaient à la fin n'était pas un trésor. C'était une dispute.
 
-Des gens, par milliers, dans les derniers mois du monde, qui s'écrivaient. Pas des damnés
-perdus dans le vide, pas les bêtes de l'enseignement : des gens qui voyaient venir la fin et
-se disputaient sur la manière de l'empêcher. Ils savaient. Ils avaient nommé les responsables,
+Des gens, par milliers, dans les derniers mois du monde, qui s'écrivaient. Des gens qui
+voyaient venir la fin et se disputaient sur la manière de l'empêcher. Ils savaient. Ils avaient nommé les responsables,
 les vrais, avec des chiffres et des noms ; ils avaient proposé, organisé, supplié. Dans le
 fil, quelqu'un revenait sans cesse, calme, têtu, dire la même chose — *il est encore temps si
 on s'y met ensemble.* Il l'avait écrit jusqu'au bout. Son dernier message portait la date de
