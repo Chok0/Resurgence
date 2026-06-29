@@ -75,7 +75,7 @@ leçon. En bas vivaient ceux qui n'avaient pas su mourir — les anciens perdus 
 leurs jours sans l'Architecte, qui erraient encore là où la lampe ne portait pas. On ne les
 craignait pas pour leurs mains. On les craignait parce qu'ils écoutaient un nom : si le bas
 retenait le vôtre, il montait vous le rendre. C'était cela qu'on conjurait au seuil, la main
-nue sur la terre — *que rien de ce qui dort en bas ne se souvienne de nous.*
+nue sur la terre : que rien, là-dessous, n'apprît jamais le sien.
 
 Tanya avait rangé cette peur depuis longtemps, dans la colonne des choses qu'on raconte aux
 enfants pour qu'ils ne lâchent pas le fil. Elle n'y croyait pas. Mais elle avait vu des
@@ -110,11 +110,13 @@ n'expliquait pas, et Tanya, assise près de lui, se surprit à se demander qui, 
 articulait si proprement de l'autre côté du bruit. Puis ça repartait en grésil, et c'était de
 nouveau quelqu'un.
 
-« Ceux-là », dit Iov, en calant un curseur sur une fréquence basse. C'était l'équipe de tête —
-celle qu'on avait poussée devant, par la grande bouche du nord, plus profond que personne. Elle
-émettait toutes les six heures, à l'heure juste : régime, profondeur, tonnage. Ce soir la voix
-était bonne, presque gaie ; ils descendaient vite, ils trouvaient. « Ils approchent de quelque
-chose, dit Iov. Ils ne le disent pas encore. Mais ils ont ralenti les relevés, et depuis deux
+« Ceux-là », dit Iov, en calant un curseur sur une fréquence basse. C'était l'équipe de tête — celle
+qu'on avait poussée devant, par la grande bouche du nord, plus profond que personne. Leur chef relevait
+lui-même, toutes les six heures à l'heure juste : la profondeur, le tonnage, deux nombres. Et, depuis le
+temps qu'ils se parlaient d'un trou à l'autre sans s'être jamais vus, il finissait toujours, pour Iov,
+sur le même salut — « tiens le fil » —, comme un signaleur en reconnaît un autre par-dessus le noir.
+Ce soir la voix était bonne, presque gaie ; ils descendaient vite, ils trouvaient. « Ils approchent de
+quelque chose, dit Iov. Ils ne le disent pas encore. Mais ils ont ralenti les relevés, et depuis deux
 jours ils tiennent leur canal fermé entre les heures. On ne ferme pas un canal pour rien. »
 
 « On le ferme pour ne pas se faire voler une trouvaille, dit Ostrov, qui passait. C'est de

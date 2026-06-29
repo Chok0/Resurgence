@@ -25,11 +25,9 @@ d'avant, celle des disques, *…cette station… est fermée… définitivement�
 appel ni signe, et se tut. Iov fit le tour des équipes : chacune répondit, présente. Ce n'était aucune.
 
 « Un relais qui rejoue, dit Ostrov. Ça garde, ces vieilles bornes ; ça relâche un bout d'hier quand le
-froid les prend. » C'était une explication, et elle tenait : la terre était pleine de machines qui
-n'auraient pas dû marcher encore et qui marchaient. Iov la nota tout de même — l'heure, et les mots —
-parce que les mots étaient dans la langue des morts, et qu'aucune borne de Polaris n'avait jamais su
-cette langue-là. Toute la nuit, Tanya l'entendit dans sa tête, cette voix posée qui fermait une porte
-derrière des gens partis depuis un siècle et demi, et qui le disait encore, à personne.
+froid les prend. » La terre était pleine de vieilles bornes qui n'auraient pas dû parler encore et qui
+parlaient. Iov la nota tout de même — l'heure, et les mots — parce qu'ils étaient dans la langue des
+morts, et qu'aucune borne de Polaris n'avait jamais su cette langue-là.
 
 ### 2 — Ce qu'ils trouvèrent
 
@@ -42,6 +40,11 @@ une porte que le froid avait soudée. Derrière, une salle haute, des colonnes e
 colonnes — la voix cherchait son compte et n'en trouvait pas — plus de monde mort qu'on n'en avait
 jamais remonté. Pas des os : de la mémoire. Un siècle gardé au froid, intact, qui n'attendait que des
 mains pour reparler.
+
+Le chef des premiers, ce soir-là, oublia un moment ses nombres. Il riait presque dans le micro ; il dit
+à Iov de tenir une oreille de leur côté, qu'ils remonteraient de quoi faire pâlir les recueils des
+dômes ; et il signa comme toujours — « tiens le fil » —, mais gai, cette fois, comme on le lance à un
+homme qu'on est sûr de revoir.
 
 Tanya, près du poste, avait cessé de respirer. Toute sa vie elle avait recollé des éclats — une image
 par-ci, trois mots par-là, le reste perdu au noir. Et il y avait là, à un jour de marche et des jours
@@ -73,13 +76,10 @@ se reprend, il est en retard d'un battement sur lui-même. Eux, plus. Depuis tro
 juste à la seconde, et la seconde d'après pareille, et celle d'après. » Il chercha ses mots. « Comme si
 ce n'était plus une main qui appuyait. »
 
-« Ou comme s'ils avaient laissé la machine émettre seule, dit Tanya, pour avoir la paix et garder leur
-prix. » C'était une explication ; elle tenait ; Iov la prit sans la croire. On pouvait tout expliquer,
-ce soir-là : la voix morte par une vieille borne, le canal fermé par la prudence, la régularité par la
-fatigue d'hommes qui dormaient enfin. Chaque chose tenait, séparément. C'était de les tenir toutes
-ensemble qui devenait difficile.
+« Ou ils ont laissé l'appareil relever seul, dit Tanya, pour dormir enfin et garder le reste pour eux. »
+Iov ne dit ni oui ni non. Mais il avait remarqué autre chose, qu'il ne dit pas tout de suite : depuis
+deux jours, le chef ne signait plus. Les nombres tombaient, justes, à la seconde ; et après les nombres,
+là où il y avait toujours eu « tiens le fil », il n'y avait plus que le grésil.
 
-Au-dessus du camp, le mât dressait ses antennes contre les étoiles. Par le fil, à la seconde juste,
-montait d'un jour sous la terre la preuve que les premiers vivaient encore : deux nombres, et rien
-d'autre. Iov les nota, à la seconde. Puis il resta devant le poste, l'écouteur sur l'oreille, à guetter
-dans le signal le souffle d'homme qui n'y était plus.
+Au-dessus du camp, le mât dressait ses antennes contre les étoiles. Un homme fatigué oublie un salut,
+se dit Tanya ; un homme. Iov, lui, nota l'heure, et l'absence avec.

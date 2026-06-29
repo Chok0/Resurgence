@@ -40,17 +40,26 @@ Ni la suivante. Iov ne quitta pas le poste ; il relançait l'appel vers le bas, 
 ne répondait pas. À la troisième heure vide, il cessa d'appeler et se mit à réécouter.
 
 Il avait tout gardé. Il remit le dernier relevé — celui d'avant le trou qui ne s'était pas refermé — et
-le fit écouter à Ostrov, à Tanya. C'était la voix éteinte des derniers jours, ou ce qui en restait :
-régime, profondeur, tonnage. État des hommes — un temps — conforme. À l'heure juste, pas un mot de
-moins, pas un de trop. Puis la coupure nette ; et à la place de l'émission d'après, le grésil égal du
-fil ouvert sur rien.
+le fit écouter à Ostrov, à Tanya. Profondeur, tonnage. État des hommes — un temps — conforme. Pas un mot
+de moins, pas un de trop, et pas un mot de plus : voilà des jours qu'après les chiffres il n'y avait
+plus ni salut ni « tiens le fil », rien que la coupure nette ; et à la place de l'émission suivante, le
+grésil égal du fil ouvert sur rien.
 
-« Conforme, répéta Iov. Ils disent conforme, et à l'heure suivante ils ne disent plus rien. Les gens ne
-s'arrêtent pas à l'heure juste, Ostrov. Une machine, oui. »
+« Le dernier mot vivant qu'ils m'ont donné, c'était il y a une semaine, dit Iov. Depuis, des chiffres,
+et le salut en moins. Les gens ne s'arrêtent pas à l'heure juste, Ostrov. Ce qui s'est arrêté à l'heure
+juste, à la fin, ce n'était peut-être plus tout à fait eux. »
 
 Ostrov fit remonter le silence aux dômes, comme il le devait. La réponse vint le lendemain, plate :
 défaillance d'antenne en profondeur ; cause probable, le froid sur un relais trop enfoncé ; l'équipe de
 tête priée de rétablir la liaison dès que possible. Comme si l'on pouvait prier un silence de répondre.
+
+Au camp, chacun habilla le silence à sa façon. Ostrov tenait pour la panne — ou, un soir qu'il avait
+parlé plus bas que d'ordinaire, pour pire : « Un prix comme le leur, les dômes ne le laissent pas
+traîner sur un fil ouvert. On les a peut-être fait taire d'en haut. » Il ne le répéta pas. Vael, lui, ne
+parlait pas de relais ; le soir, il redisait la formule du seuil, celle qui demande aux profondeurs
+d'oublier votre nom — car la leçon enseignait qu'elles gardaient ceux qui descendaient trop, et ne
+rendaient pas ce qu'elles avaient pris. Iov, qui ne priait pas et ne croyait pas plus les dômes que les
+contes, réécoutait ses bandes.
 
 Sur le fil, ce soir-là, les autres équipes furent d'abord trop bavardes, puis trop muettes. Ceux de
 l'est demandèrent deux fois si tout le monde était là. La petite équipe du sud, qui disait toujours oui
@@ -63,6 +72,13 @@ Le silence tint. Trois jours, puis cinq. Personne, en haut, ne parla de secours 
 les ordres. On ne redescendait pas une mission pour six hommes — on la redescendait pour le Gisement.
 Et le Gisement, lui, ne courait nulle part : il attendait au froid, comme il attendait depuis un
 siècle.
+
+Tanya n'attendit pas l'ordre pour le vouloir. Le sixième jour, le septième, elle alla trouver Ostrov
+sous la tente de liaison et lui dit ce qu'on ne disait pas tout haut : que l'équipe lourde mettrait des
+semaines, que le froid ne tiendrait pas le Gisement indéfiniment, qu'eux étaient là, à un jour de
+marche, et qu'on pouvait le faire savoir aux dômes. Ostrov la laissa finir. « Tu veux descendre, dit-il.
+Pas les chercher. Descendre. » Elle ne répondit pas, ce qui était répondre, et il le vit. Il fit remonter
+le soir même que son équipe se tenait prête ; il ne dit pas que c'était elle qui l'avait poussé.
 
 Puis, le dixième jour de silence, l'ordre descendit des dômes, et il ne parlait pas des six. Il parlait
 du site. L'équipe lourde n'était pas prête ; on ne pouvait laisser un tel gisement sans personne, ni son
@@ -82,5 +98,5 @@ descendue seule s'il l'avait fallu.
 
 On replia le camp à demi, on chargea les traîneaux, on régla les cadrans sur le départ et non sur le
 ciel. Au nord, par-delà les ruines, le silence attendait au bout d'un fil qu'il faudrait descendre pour
-savoir. Iov emporta ses enregistrements : il avait, des premiers, tout ce qui restait — deux nombres,
-une voix qui disait conforme, et l'heure juste où elle s'était tue.
+savoir. Iov emporta ses enregistrements. C'était tout ce qui restait des premiers : des chiffres, un
+dernier conforme, et la place, après, où un homme avait dit chaque jour de tenir le fil.

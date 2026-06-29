@@ -302,10 +302,10 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     de « La traversée », puis ch.2) ; la réminiscence du Sanctuaire (ancien ch.1 sc.3) **déplacée** dans
     « Sous le verre » ; le rite devient le **rite de départ**, Ostrov enchaînant sur « On marche au soleil ».
     **Ordre de lecture : ch.1 → La traversée → Sous le verre → ch.2.**
-    *(Ordre **cible** après réorganisation de l'ouverture — archi-roman §8, Tanya-focale, premiers
-    entendus jamais vus : **« Les marges » → « La liaison » → « Le silence »** (3 ch. à écrire) → La
-    traversée (rite en tête) → Sous le verre → La descente (ancien ch.2) → … Ancien ch.1 **rétabli à la
-    base** en attendant sa réécriture en « Les marges ».)*
+    *(Ordre de lecture actuel — archi-roman §8, Tanya-focale, premiers entendus jamais vus : **01 Les
+    marges → 02 La liaison → 03 Le silence → 04 La traversée (rite en tête) → 05 Sous le verre → 06 La
+    descente → … → 11 Clore**. ch.01-03 écrits ; relecture sévère passée. Ouvert : « Sous le verre »
+    pourrait passer avant « La traversée ».)*
   - **Écrit ✓ — « Sous le verre »** (`chapitre-05-sous-le-verre.md`, ch.5) :
     **flashback aux dômes** (ancre temporelle inverse, déclenché par le froid de la descente). Déploie le
     **culte vécu** (Sanctuaire, momie, **la Voix au travail**, l'Interprète, le doute IA ambiant) et
