@@ -121,38 +121,39 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; dérangeant sans être fiable ; Ostrov le fait taire ; **enregistre la cadence** (ch.5) puis **disparaît** entre deux camps, fil intact — sort indéterminé | **ch.1** → disparu **ch.5** | [fiche](../personnages/equipe/iov.md) |
 | **Drev** | chevalier, plus vieux et **dur** (foil de Vael) | prie « comme on charge une arme » ; « on descend peut-être les ramasser » | ch.1 | — |
 
-## Le prologue — Les Premiers *(équipe de tête ; focale hors-Tanya, mise à part)*
-> ⚑ Dramatise ce que ch.1 ne faisait que **résumer** (les prédécesseurs muets). **Aucune cause de leur
-> silence n'est montrée** (fondu au noir) ; vérité d'auteur (ils s'entretuent dans la paranoïa) **tue**.
-> Établi par **PM-3 « Le silence »** ; à compléter par PM-1/PM-2/PM-4. Cadre :
+## L'ouverture — la zone et la liaison *(les premiers : entendus, jamais vus)*
+> ⚑ Modèle validé (brief auteur). On **ne quitte jamais Tanya** ; les premiers existent **par la liaison
+> seule**. Remplace une 1ʳᵉ approche (prologue POV de l'équipe morte) **écartée**. **Aucune cause du
+> silence n'est jamais montrée** ; vérité d'auteur (paranoïa, entretués) **tue**. Cadre :
 > [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) §8.
 
-- **L'équipe : six.** Nommés (PM-3) : **Karr** (chef ; émet lui-même les rapports à Polaris — « c'était au
-  chef de parler ») ; **Lioud** (lectrice/scientifique — lit les colonnes, *shadow* de Tanya) ; **Strel**
-  (le plus jeune des **deux** chevaliers ; dévot, c'est en lui qu'habite la peur cultuelle — « tu
-  l'entends ») ; **Voss** (le pragmatique ; rationalise « c'est l'air » ; prend la garde l'arme aux
-  genoux). Deux non nommés. *(Cohérence ch.4 : on en retrouve **4 sur 6**, dispersés ; **2 jamais
-  retrouvés** — le fondu au noir de PM-3 le préserve. À l'instant de la coupe, « il en manquait un ».)*
-- **Le Gisement, ouvert par eux** (leur jour 16) : « une salle haute, des colonnes en rang » ; signalé à
-  Polaris ; **ordre reçu : « tenez le site, relevez, attendez l'équipe lourde »** (le piège — l'obéissance
-  qui les fixe au fond ; rime avec Ostrov, qui « répond de tout sans décider »).
-- **Le « froid de machine » rationalisé en amont.** PM-3 sème le froid qui « ne mourait pas » (graine de
-  refissuration, cf. ch.4) **et** sa lecture mundane : un éclat verbatim — consigne d'arrêt du site
-  retrouvée sur disque, *« arrêt du site. maintenir au froid. ne pas rétablir l'éclairage. conservation
-  prioritaire. »* — une main morte avait réglé le froid et le noir pour garder la mémoire. Soupape
-  rationnelle posée ; le surnaturel reste **non montré**.
-- **Leurs marques** (continuité ch.2/ch.4) : sur une colonne du Gisement, à la craie — **« vite »** (craie
-  cassée net) puis, ajouté d'une autre main, **« on n'est pas seuls »** — accusations croisées sur *qui*
-  l'a écrit (nul ne l'avoue : fracture **ou** autre — doute tenu). Mêmes mots retrouvés *sur la roche* en
-  ch.4. *(La flèche « vite » de l'ossuaire — tension-de-base — est une marque antérieure, sur le chemin.)*
-- **Triple doute (jamais tranché)** : l'**air**/le froid (symptômes physiques : tête prise, gencives
-  molles, insomnie — miment la paranoïa) · la **fracture** humaine (garde montée « contre rien », on dort
-  à l'écart, on se surveille « l'un l'autre, pas le noir ») · **ceux qui se souviennent** (la peur cultuelle
-  de Strel ; un son « à la limite de ce que la lampe portait », rationalisable : eau, pierre qui travaille).
-  **Pas de cadence structurée** (réservée aux résidus ch.5/7).
-- **La dernière émission** (fin PM-3) : « régime, profondeur, tonnage… état des hommes : **conforme** »,
-  donnée « à l'heure juste, pas un de moins, pas un de trop », puis coupée — **exactement** ce qu'Iov
-  décrit en ch.1 (« et un matin, plus rien… les machines s'arrêtent à l'heure juste, pas les gens »).
+- **La zone (marges sud).** Plusieurs équipes fouillent un secteur inexploré de la cité morte — étendre la
+  colonisation, récupérer **matériau et data**. L'équipe de Tanya est l'une d'elles. Worldbuild déployé
+  *par les échanges* : la **grande guerre**, le territoire **abandonné depuis 100+ ans**, les trouvailles,
+  la peur des monstres de la terre maudite.
+- **La liaison = liant + moteur de dread.** Comms régulières entre équipes et avec Polaris (relais des
+  dômes), **parfois brouillées, cryptiques, glitchées au point de douter qu'un humain soit au bout,
+  parfois muettes**. Métier d'Iov. **Triple doute porté par le glitch** : panne/distance (rationnel) ·
+  **filtrage de Polaris** (Orwell, tu) · « autre chose » (IA/Voix, créature). Arme dès l'ouverture la
+  défiance qui portera le recodage en propagande + le trou des métadonnées. *(Étend la « liaison » déjà au
+  canon : « lointaines, déformées, invérifiables ».)*
+- **Les premiers — entendus, jamais vus.** Une autre équipe, **descendue par la même bouche** (nord),
+  signale puis **ouvre le Gisement** : échanges riches à la liaison (l'apogée — *jamais une scène, jamais
+  un visage*). Connus **à la voix seule** ; **aucun nom incarné** (à doser : un indicatif, une voix de
+  chef).
+- **Le silence.** Un jour, leurs comms se dégradent puis **cessent**. **Dernière émission** (ce qu'Iov
+  rejoue, ch. « Le silence ») : « régime, profondeur, tonnage… **état des hommes : conforme** », « à
+  l'heure juste, pas un de moins, pas un de trop », puis plus rien — « les machines s'arrêtent à l'heure
+  juste, pas les gens ». Ligne officielle : **« défaillance d'antenne ».** Le silence tient → Polaris
+  **ordonne d'aller voir** → **on affecte l'équipe de Tanya** (« on ne redescend pas pour six hommes —
+  pour le Gisement »).
+- **L'aftermath, découvert (jamais pré-montré).** Tout ce que l'ex-prologue *montrait* devient une
+  **trouvaille** de l'équipe de Tanya, plus bas : les **croix de craie**, le **caisson daté de la veille du
+  silence** (descente) ; le **froid de machine** qui « n'aurait pas dû tenir » + une consigne d'arrêt
+  retrouvée (*« maintenir au froid. ne pas rétablir l'éclairage. conservation prioritaire. »*) ; les
+  **marques** *vite* et *on n'est pas seuls* + les **4 corps sur 6**, dispersés, cause indéterminée
+  (Gisement). **2 jamais retrouvés.** Le doute reste **total** : on ne les a **jamais vus vivants en
+  scène**.
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
@@ -250,13 +251,11 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   (ch.4-5) alors que des jours passent → contradiction. **Calendrier retenu** : silence = **onze jours**
   à la surface (ch.1) ; **~quinze-seize jours** au rapport (ch.2 sc.4) ; **~vingt jours** au Gisement
   (ch.4) et à la remontée (ch.5). Le compteur **doit monter à chaque jalon**. *(Fix appliqué : ch.2/4/5.)*
-  - **Extension au prologue (Les Premiers).** L'équipe de tête émet **toutes les six heures pendant
-    ~trois semaines** (descente + Gisement, ouvert à *leur* jour 16) ; la **dernière transmission =
-    jour 0** du silence (fin de PM-3). Tanya arrive **jour 11** (ch.1), rapporte **jour 14-15** (ch.2
-    sc.4), atteint le Gisement **~jour 20** (ch.4). Le prologue se déroule **avant** le jour 0 ; PM-4
-    couvre les premiers jours de silence jusqu'à l'envoi de l'équipe de Tanya. *(N'altère aucun jalon
-    existant. La dernière émission de PM-3 — « régime, profondeur, tonnage… état des hommes : conforme »,*
-    *« pas un de moins, pas un de trop » — est exactement celle qu'Iov rejoue en ch.1.)*
+  - **Extension à l'ouverture (la zone / la liaison).** L'équipe de Tanya est dans la zone **pendant**
+    l'activité des premiers : ceux-ci descendent (même bouche), **ouvrent le Gisement** (entendu à la
+    liaison), **émettent ~trois semaines, toutes les 6 h**, puis **jour 0 = dernière émission**. La
+    défiance et le délai courent ; **affectation ~jour 8-10** ; **arrivée à la bouche nord = jour 11**
+    (ancre « onze jours ») → rapport **jour 14-15** → Gisement **~jour 20**. *(N'altère aucun jalon.)*
 - **Bugs de dette corrigés (descente des corrections de canon dans la prose)** : (1) **ch.1 sc.1** — le
   paragraphe « tout tell » du métier coupé (montré au ch.2). (2) **horloge** ré-étalonnée. (3) **ch.3** —
   l'omission du campement **reframée** : désabusement + préservation, *non* « C'était elle » (Tanya petite
@@ -282,9 +281,10 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     de « La traversée », puis ch.2) ; la réminiscence du Sanctuaire (ancien ch.1 sc.3) **déplacée** dans
     « Sous le verre » ; le rite devient le **rite de départ**, Ostrov enchaînant sur « On marche au soleil ».
     **Ordre de lecture : ch.1 → La traversée → Sous le verre → ch.2.**
-    *(Ordre **cible** après restructuration de l'ouverture — archi-roman §8 : **prologue PM-1→PM-4** →
-    ch.1 charnière → La traversée → Sous le verre → ch.2. À ce jour, seul **PM-3 « Le silence »** est
-    écrit ; ch.1 reframé en charnière. PM-1/PM-2/PM-4 à écrire.)*
+    *(Ordre **cible** après réorganisation de l'ouverture — archi-roman §8, Tanya-focale, premiers
+    entendus jamais vus : **« Les marges » → « La liaison » → « Le silence »** (3 ch. à écrire) → La
+    traversée (rite en tête) → Sous le verre → La descente (ancien ch.2) → … Ancien ch.1 **rétabli à la
+    base** en attendant sa réécriture en « Les marges ».)*
   - **Écrit ✓ — « Sous le verre »** (`chapitre-01c-sous-le-verre.md`, jalon Mvt I / blueprint ch.5) :
     **flashback aux dômes** (ancre temporelle inverse, déclenché par le froid de la descente). Déploie le
     **culte vécu** (Sanctuaire, momie, **la Voix au travail**, l'Interprète, le doute IA ambiant) et
