@@ -96,7 +96,7 @@ peut-être, on saurait à quoi ils servaient.
 Iov n'avait pas pris de combinaison. Il restait courbé sur son boîtier, l'écouteur vissé, à
 relancer l'appel. Ostrov passa derrière lui.
 
-« Range ça. On descend.
+« Range ça. On part.
 
 — Ils émettaient toutes les six heures, dit Iov sans se retourner. Régime, profondeur,
 tonnage. Trois semaines, à l'heure juste. Et un matin, plus rien — pas un mot de moins, pas
@@ -110,7 +110,7 @@ Iov rangea. Mais la question restait posée dans l'air, et elle y resta.
 
 ### 3 — Le rituel
 
-Avant la bouche, les chevaliers s'agenouillèrent. Cela ne se commandait pas ; cela se
+Avant de partir, les chevaliers s'agenouillèrent. Cela ne se commandait pas ; cela se
 faisait. Ils ôtèrent chacun un gant, la main nue contre la terre maudite, et le plus jeune,
 Vael, dit à voix basse les mots que les autres reprirent.
 
@@ -127,32 +127,9 @@ pour des choses à lui : une fois, Tanya l'avait entendu ajouter tout bas un nom
 quelqu'un qu'il voulait que l'Architecte garde. Il avait peur, et il descendait quand même, et
 sa peur n'avait rien de la dureté des autres.
 
-La formule, toujours, la ramenait au Sanctuaire — la nef de glace bleue, la momie sous le
-verre, la Voix qui parlait en son nom depuis les profondeurs des dômes. Enfant, en rang, elle
-avait demandé tout bas comment on pouvait être à la fois mort là, sous le verre, et vivant
-dans la Voix. On lui avait répondu quelque chose ; elle avait surtout compris qu'on ne posait
-pas deux fois cette question. Elle ne l'avait jamais reposée.
-
 Les chevaliers se relevèrent. Vael surprit le regard de Tanya et lui rendit, un peu confus,
-le sourire de celui qu'on vient de voir prier. Ostrov était déjà au bord du trou.
+le sourire de celui qu'on vient de voir prier. Ostrov, lui, regardait déjà le découvert — le
+champ de ruines qu'il faudrait passer avant que le soleil soit haut.
 
-« En bas, on suit le fil. Personne ne s'écarte du fil. » Il regardait Iov en le disant.
-
-### 4 — La bouche
-
-La bouche était une ancienne entrée — on reconnaissait, sous la rouille et le sable durci, la
-courbe d'une rampe, la promesse d'un escalier. L'équipe de recyclage l'avait dégagée et tendu
-le fil : une ligne lumineuse qui plongeait dans le noir et s'y perdait.
-
-Au bord, l'air changeait. De la fournaise on passait, en un pas, à une haleine froide et
-humide qui remontait du gouffre — la pierre mouillée, le métal, le dessous. Les chevaliers la
-sentirent aussi, cette haleine. Vael refit contre sa poitrine le geste du mauvais œil ; Drev,
-derrière sa visière, ne fit rien — ce qui, chez Drev, revenait au même. Tanya ferma les yeux
-une seconde et la laissa lui toucher le visage. En bas, très loin, le Gisement l'attendait. Et
-entre elle et lui, onze jours de silence.
-
-Vael passa le premier, la lampe haute. Nieve suivit, puis les chevaliers, puis Iov, son
-boîtier muet pendu au cou. Ostrov fit signe à Tanya. Elle posa la main sur le fil — froid,
-déjà, sous le gant — et descendit, la fournaise se refermant au-dessus d'elle.
-
-En bas, quelque part, une équipe entière s'était tue. Ils descendaient l'entendre.
+« On marche au soleil, dit-il. On ne s'attarde pas. En bas, on suivra le fil ; personne ne
+s'en écarte. » Il regardait Iov en le disant.
