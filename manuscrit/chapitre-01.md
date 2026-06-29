@@ -1,12 +1,5 @@
 # Chapitre premier — Le Seuil
 
-> *Charnière post-prologue : se lit après « Les Premiers » (PM-1→PM-4). Le lecteur entre dans la mission
-> de Tanya en **portant déjà le silence** ; le bloc d'exposition d'origine (les premiers, le Gisement)
-> est désormais **dramatisé dans le prologue** → ici **compressé**. Excision complète du résidu quand
-> PM-1/2/4 seront écrits (le ¶ bureaucratique part en PM-4). Iov sc.2 (« régime, profondeur, tonnage…
-> pas un mot de moins ») est conservé tel quel : c'est la **résonance** de la dernière émission de PM-3.
-> Cadre : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) §8.*
-
 ### 1 — L'arrivée
 
 La porte du transport coulissa et la chaleur tomba sur eux d'un bloc, avec une odeur de
@@ -26,9 +19,9 @@ servi.
 
 Ils n'étaient pas venus pour la ville. Ils étaient venus pour ce qui dormait dessous.
 
-Six autres les avaient précédés là — à des jours sous la pierre, jusqu'au Gisement —, et depuis
-onze jours il n'en remontait plus rien. La même bouche, au bord du champ de ruines, attendait de
-les avaler à leur tour.
+À des jours de descente, là-dessous, une autre équipe avait trouvé le Gisement : une salle
+de mémoire intacte, des téraoctets, plus de monde mort qu'on n'en avait jamais remonté. Les
+premiers l'avaient signalée. Puis ils s'étaient tus. Onze jours, maintenant.
 
 Personne ne disait le mot de secours ; il n'était pas dans les ordres. On ne redescendait pas
 une mission pour six hommes — on la redescendait pour le Gisement. Tant qu'en haut on parlait

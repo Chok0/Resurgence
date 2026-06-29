@@ -74,10 +74,10 @@ transcendance / posts de l'ancêtre) sont **payées à blanc** (jamais vues avan
 > ~28-32 chapitres de 2 500-3 500 mots → ~80 000-95 000 mots (≈ 280-320 p.). Resserrable à ~22-24 ch.
 > (~60 000 mots ≈ 200 p.). Les **7 chapitres actuels sont réinsérés comme jalons** (indiqués *= ch.N*).
 
-> **⚑ Ouverture restructurée (2026-06-29) — voir [§8](#8-restructuration-de-louverture--le-prologue-des-premiers-validé-2026-06-29).**
-> Le roman ouvre désormais sur un **prologue des Premiers** (4 ch. courts, PM-1→PM-4) qui *dramatise*
-> l'équipe de tête et son silence ; l'actuel **ch.1 (jalon, ligne 1 ci-dessous) devient une charnière**
-> reframée. La table ci-dessous décrit l'**arc-Tanya intact** — à lire **après** le prologue.
+> **⚑ Ouverture réorganisée (2026-06-29) — voir §8 (autorité pour le Mvt I).**
+> On **ne quitte jamais la focale de Tanya** ; les premiers sont **entendus, jamais vus** (par la
+> **liaison**). Le Mvt I de la table ci-dessous (lignes 1-5) est **renommé/refondu** par §8 ; la table
+> reste autorité pour **Mvt II→VI**.
 
 | Mvt | Ch. | Fonction | Lieu | Worldbuilding / corpus | Courbe |
 |---|---|---|---|---|---|
@@ -182,48 +182,58 @@ cadence (26), accès post-silence (29), dernier bruit (30).
 
 ---
 
-## 8. Restructuration de l'ouverture — le prologue des Premiers *(validé 2026-06-29)*
+## 8. Restructuration de l'ouverture — la zone et la liaison *(validé 2026-06-29, rév.)*
 
-**Problème résolu.** L'ouverture actuelle **raconte** le cœur du dread — l'équipe de tête qui a trouvé le
-Gisement, l'a signalé, puis s'est tue (ch.1 sc.1, en exposition). C'est le « tout tell » diagnostiqué
-(§1) **et** le dispositif jamais déployé : les **prédécesseurs muets** à la *Alien* (§1, manque n°6 — seule
-l'équipe morte existe, jamais incarnée).
+> *Remplace une 1ʳᵉ approche (prologue POV de l'équipe morte) **écartée** : on **ne quitte jamais la focale
+> de Tanya** ; les premiers sont **entendus, jamais vus** (par la liaison).*
 
-**Décision.** Ouvrir le roman sur un **prologue qui dramatise les premiers** — « **Les Premiers** »,
-**4 chapitres courts** (PM-1 à PM-4), **focale sur l'équipe de tête**, *surface-led* (leur arc épouse celui
-de Tanya : surface → descente → fond), qui **fait vivre** le silence au lieu de le résumer. Puis l'actuel
-**ch.1 (Tanya) reframé en charnière** : le lecteur, qui vient d'enterrer les premiers, entre dans la mission
-en **portant déjà le silence** ; ch.1 **perd son bloc d'exposition** (devenu doublon — garde-fou 18) et
-**rebranche sur l'arc intact** (→ La traversée → Sous le verre → ch.2…).
+**Le modèle (brief auteur).** L'ouverture **reste avec Tanya** et son équipe, arrivées dans un secteur
+encore inexploré des **marges sud** — plusieurs équipes fouillent la zone (étendre la colonisation,
+récupérer matériau **et data**). Le liant et le moteur de dread : **la liaison** — comms régulières entre
+équipes et avec Polaris, **parfois brouillées, cryptiques, glitchées au point de douter qu'un humain soit
+au bout, parfois muettes**. Le worldbuild se déploie *par les échanges* (la grande guerre ; le territoire
+abandonné depuis 100+ ans ; les trouvailles ; la peur des monstres de la terre maudite). **Une autre
+équipe — « les premiers » — trouve le Gisement** : échanges riches, entendus à la liaison ; puis **un jour,
+plus rien**. Le silence tient ; on finit par **ordonner d'aller voir sur place — et c'est l'équipe de Tanya
+qu'on affecte.** L'arc embraye alors sur l'intact (La traversée → descente → …).
 
-**Structure du prologue** (4 ch. courts, ~1 000-1 800 mots — amplitude resserrée, cf. §2.7) :
+**Pourquoi ça vaut mieux que le prologue POV.** (1) **Focale unique préservée** (la non-fiabilité de Tanya
+reste le seul accès — invariant). (2) **Doute mieux tenu** : on ne voit *jamais* les premiers → ce qui les
+a pris reste *total* (on ne peut même pas certifier qu'un humain était au bout, à la fin). (3) **Déploie le
+dispositif manquant n°6** (autres équipes vivantes, comms invérifiables, *symétrie avec la Voix*) **dès
+l'ouverture** (l'archi le réservait au ch.9). (4) **Le glitch des comms = moteur de doute triple** :
+panne/distance (rationnel) · **filtrage de Polaris** (Orwell, tu) · « autre chose » (IA/créature) — il
+**arme dès la page 1** la défiance qui portera le recodage en propagande et le trou des métadonnées.
 
-| Ch. | Titre | Fonction | Sème |
+**Nouveau Mouvement I** *(Tanya-focale ; les premiers entendus, jamais vus ; renommé)* :
+
+| Ch. | Titre | Fonction | Worldbuild / liaison |
 |---|---|---|---|
-| **PM-1** | *La descente des premiers* | Arrivée surface (miroir ch.1), traversée, la bouche du nord, premiers pas sous terre. **Les établir vivants, compétents, humains** (sinon leur perte ne coûte rien). | leurs **croix de craie**, les dosimètres, le froid qui monte |
-| **PM-2** | *Le Gisement* | Descente profonde, les Salles, la chambre de données trouvée ; **le signal triomphal à Polaris** (« régime, profondeur, tonnage »). Leur **apogée** — pour que la chute fasse mal. | le **« froid de machine »** ; le **caisson daté** (veille du silence) |
-| **PM-3** | **« Le silence »** *(rédigé — jalon)* | L'isolement au fond, le malaise, l'équipe qui **se défait**, la **dernière transmission sur l'heure juste** — puis **fondu au noir AVANT toute cause**. | *vite* ; « on n'est pas seuls » ; **triple doute** |
-| **PM-4** | *Défaillance d'antenne* | Court, **clinique, froid**. Le silence **tel que Polaris l'enregistre** : une ligne au bas d'un ordre, « on ne redescend pas une mission pour six hommes », la décision d'**envoyer l'équipe suivante** (Tanya). | **extrait de ch.1 sc.1** le bloc bureaucratique |
+| 1 | **« Les marges »** | Arrivée dans la zone (image-fournaise **réemployée — sans le cadre Gisement/silence**). L'équipe, le clivage de caste, la peur de la terre maudite + « ceux qui se souviennent ». *(⊃ ancien ch.1 sc.1-2)* | la cité morte ; **grande guerre, 100+ ans d'abandon** ; **1ʳᵉ liaison** (Iov ; check-ins ; 1ᵉʳ glitch) |
+| 2 | **« La liaison »** | La zone vit *par les comms* : autres équipes, trouvailles, échanges. Glitch/cryptique/muet — **« est-ce un humain ? »**. **Les premiers (même bouche) trouvent le Gisement — entendu, l'apogée.** *(NOUVEAU)* | dispositif « autres équipes » ; **Gisement annoncé à la liaison** (jamais vu) |
+| 3 | **« Le silence »** | Les comms des premiers se dégradent puis **cessent**. Iov écoute. **La dernière émission** (clockwork, glitchée — *contenu migré de l'ex-PM-3, en comm enregistrée*). « Défaillance d'antenne ». **On affecte l'équipe de Tanya** (« on ne redescend pas pour six hommes — pour le Gisement »). *(reframé Tanya-focale ; ⊃ ancien ch.1 beat Iov + bloc bureaucratique)* | silence ; comms des autres aussi incertaines ; l'ordre d'aller voir |
+| 4 | **« La traversée »** | *(existant)* Le **rite de départ** (ancien ch.1 sc.3) **ouvre** ; puis la traversée de surface jusqu'à la bouche nord. | recyclage, la Lance, vaporwave, les chiens (soupape bête) |
+| 5 | **« Sous le verre »** | *(existant)* Flashback aux dômes (déclenché par le froid de la descente). | culte vécu ; arc intime de Tanya |
+| 6 | **« La descente »** | *(existant, ancien ch.2)* La descente ; **les traces des premiers** (croix de craie, caisson daté de la veille du silence) ; les Salles de l'Oubli ; la photo ; le rapport. | Backrooms ; archéo-num ; cran 2 |
 
-**Discipline du doute (PM-3 — impératif).** Le prologue **n'explique jamais** le silence (invariants :
-aucun monstre montré ; vérités d'auteur tues). On **montre** sans conclure : symptômes physiques
-(dosimètres, insomnie, nausée — qui *miment* la paranoïa) ; **fracture** humaine (défiance, on dort à
-l'écart) ; **peur cultuelle** (« ceux qui se souviennent » ; un son au bord de la lampe, **rationalisable**).
-Et l'on **coupe avant** tout coup, toute mort, toute cause. La vérité d'auteur (ils s'entretuent) reste
-**tue**. Conforme à l'état trouvé en ch.4 : **4 des 6** retrouvés, **dispersés** (« comme s'ils s'étaient
-fuis »), *vite* puis *on n'est pas seuls* sur la roche, **cause indéterminée** ; **deux jamais retrouvés** →
-le fondu au noir le préserve. **Pas de cadence structurée** dans le prologue (réservée à ses résidus
-calibrés, ch.5/7 — garde-fou 21) : le son du prologue reste un bruit qu'on explique à moitié.
+*(La suite — Mvt II→VI — inchangée ; renumérotée à partir d'ici. Le §3 reste autorité pour Mvt II+.)*
 
-**Phase / voix.** Le prologue est **Phase 1** (le lecteur *croit* le monde) avec la **première teinte** de
-dread — **pas** d'horreur *Alien* pleine, **pas** de démystification de Polaris : le dread porte sur **le
-fond** (ce qui est arrivé en bas), jamais sur le mensonge du régime (réservé à la Phase 2). **Voix
-intouchée** (3ᵉ pers., indirect libre, passé) ; seule la **focale** change, et le prologue est **mis à
-part** (cadre « Les Premiers »), ce qui protège la focale-Tanya de tout le reste du livre.
+**Ce qui migre de l'ex-PM-3 (écarté).** Le **contenu** survit, pas le POV : la **dernière émission** des
+premiers (« régime, profondeur, tonnage… **état des hommes : conforme** », « pas un de moins, pas un de
+trop ») devient une **comm enregistrée** au ch.3 « Le silence » (et reste ce qu'Iov rejoue) ; le **froid de
+machine**, la **fracture**, les **marques** (*vite*, *on n'est pas seuls*) ne sont plus *montrés* mais
+**découverts** par l'équipe de Tanya plus bas (descente, puis Gisement) — *aftermath*, jamais la scène.
+*Fichier ex-PM-3 retiré (récupérable en historique git).*
 
-**Nouvel ordre de lecture (cible) :**
-PM-1 → PM-2 → PM-3 → PM-4 → **ch.1 (charnière)** → La traversée → Sous le verre → ch.2 → … *(arc intact)*.
+**Horloge.** L'équipe de Tanya est dans la zone **pendant** l'activité des premiers : ceux-ci descendent
+(même bouche), **ouvrent le Gisement** (entendu), **émettent ~trois semaines toutes les 6 h**, puis **jour
+0 = dernière émission**. Défiance et délai courent ; **affectation ~jour 8-10** ; **arrivée bouche nord =
+jour 11** (ancre « onze jours ») → rapport **jour 14-15** → Gisement **~jour 20**. *(N'altère aucun jalon.)*
 
-**Statut.** *PM-3 rédigé* (jalon, comme La traversée / Sous le verre) ; **ch.1 reframé** (compression du
-bloc d'exposition, dread re-pointé sur le prologue). **À venir** : PM-1, PM-2, PM-4 ; **excision complète**
-du résidu d'exposition de ch.1 une fois le prologue achevé ; recâblage de l'ordre de lecture.
+**Statut.** *Plan réorganisé + renommé.* Prose à écrire **après validation** : ch.1-3 (la zone / la liaison
+/ le silence). Ancien ch.1 **rétabli à la base** en attendant sa réécriture en « Les marges » ; rite à
+déplacer en tête de « La traversée ».
+
+**À trancher (mineur).** **Une seule bouche** (les premiers et Tanya descendent par la même — cohérent ch.2,
+les croix de craie suivies) : confirmé par défaut. *Noms des premiers* : connus **à la voix seule**, aucun
+incarné en scène (un indicatif, une voix de chef — à doser).
