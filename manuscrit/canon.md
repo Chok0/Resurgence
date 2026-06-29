@@ -131,7 +131,11 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **La liaison** *(ch.3)* : comms intermittentes avec d'autres équipes, via les relais de Polaris (montée aux dômes, redescente) — lointaines, déformées, **invérifiables** (« on ne voit jamais au bout »).
 - **La bouche nord** : point de descente du chantier (ancienne entrée de métro).
 - **Le fil** : ligne-guide lumineuse de la descente. Protocole : « personne ne s'écarte du fil ».
-- **Les équipes de recyclage** : dégagent et préparent les accès ; marquent **les poches** (zones repérées) sur le plan d'Ostrov.
+- **Les équipes de recyclage / les racleurs** : dégagent et préparent les accès ; marquent **les poches** (zones repérées) sur le plan d'Ostrov. *Incarnées (« La traversée ») : le **troisième visage de Polaris** — ni chevaliers ni savants —, combinaisons grises rapiécées **sans étoile au cœur**, treuil à chenilles, traîneaux à patins de tôle ; vivent des semaines sur la surface ; **pragmatiques et irréligieux** (leur chef « nommait une bête une bête », sans le mauvais œil). Imagerie Mad Max.*
+- **Le cadran de poignet (dosimètre)** *(« La traversée »)* : chaque combinaison en porte un ; l'aiguille monte vers un **tiers peint en rouge** ; on ne traverse la surface qu'**aux marges du jour** (le soleil de midi « brûle jusque dans le sang » — l'irradiation **folklorisée en colère** du châtiment). Tech présente + cadre cultuel. Crée la **contrainte de temps** des missions de surface.
+- **Les chiens** *(« La traversée » — la bête, soupape rationnelle)* : meute de charognards (« ont appris que les hommes laissent des morts ») — **menace physique réelle** *et* **dread** (les chevaliers projettent ; le plus grand chien, en partant, « avait eu l'air de compter »). C'est la **soupape « bête »** du régime du doute, désormais posée pour tout le livre (cf. garde-fou 26). *Aucun monstre montré.*
+- **La halle de verre teinté** *(« La traversée » — vaporwave amorcé)* : façade de galerie marchande aux carreaux de couleur intacts (« une fausse fraîcheur de couleurs qui n'avait pas de nom dans la langue de Polaris »). **Corpus vaporwave** vu de l'extérieur. C'est vers elle que **Tanya quitte le rang** (son premier acte visible — appétit du passé, pas rébellion ; coûte du temps-soleil, lui vaut le rappel sec d'Ostrov, et Drev le note).
+- **La Lance, approchée** *(« La traversée »)* : la tour de fer vue de près (montagne de fer ajouré, ployée mais droite ; le vent en tire **une note grave**). **Reconnaissance toujours différée** : Tanya seule en connaît « un nom… qu'elle ne dit pas » (effet Lutèce). Lecture cultuelle : les anciens l'ont dressée « pour se croire plus hauts que le ciel ».
 - **Combinaisons** : chevaliers = lourdes, renforcées ; scientifiques = souples, à instruments. Étanchéité vitale (ciel hostile).
 - **Silhouette des chevaliers** *(ch.1 sc.2, concret)* : combinaison **plus haute d'une tête**, **plaques sombres** aux épaules et avant-bras, **heaume à visière étroite** (« une fente sans regard » une fois baissée) ; **l'étoile de Polaris** gravée sur la poitrine, **usée au pouce** (touchée avant les seuils) ; **l'arme** = un **long fût noir à crosse**, porté en travers du dos, qu'« on ne montre pas de trop près aux scientifiques » (tech estrangée — ni « fusil » ni magie). Visière baissée = l'homme « s'efface », une **carapace** frappée d'une étoile. *Drev la rabat (se ferme) ; Vael garde la sienne levée le plus longtemps possible (reste un visage).* → garde-fou 15 (incarnation concrète).
 - **La vraie mission = contrôle de la mémoire** *(⚑ corrige toute lecture « archéologie »)* : le régime envoie des équipes pour **(1) faire disparaître les données compromettantes** (preuves que démocratie + vraie science ont existé, et que les monstres sont inventés) et **(2) récolter au passage l'utile** — science, armement, et les **creepypastas** (qui « ressemblent aux récits de l'Architecte » → renforcent la propagande + **effraient** les équipes). **Annexe** : recyclage. **But** : recoloniser les marges sud.
@@ -226,6 +230,13 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   fouineur** (bunker ≠ Gisement) → **tresser l'arc intime + le niveau 3**. Personnages à incarner : le
   **chevalier-fouineur** (7ᵉ, distinct de Drev), **Iov** (fil continu + tête-à-tête), **Nieve** (2-3 scènes
   pleines), une voix d'**autre équipe**.
+  - **Écrit ✓ — « La traversée »** (`chapitre-01b-la-traversee.md`, jalon Mvt I / blueprint ch.4) : 1ʳᵉ
+    mission de surface. Ouvre le **théâtre de surface** (recyclage incarné, la Lance approchée, le
+    dosimètre/contrainte de temps), amorce le **vaporwave** (la halle de verre), pose la **soupape « bête »**
+    (les chiens), fait **agir Tanya à découvert** (elle quitte le rang pour la halle). **Couture à
+    réconcilier au renumérotage** : cette mission mène à la bouche nord → elle **supersède ch.1 sc.4 (« La
+    bouche »)** ; le rite (ch.1 sc.3) et la légende (ch.1 sc.2) se tiennent au camp d'arrivée *avant* la
+    traversée.
 - **Réussites à PRÉSERVER** (ne pas casser en densifiant) : le « petit dieu » + pince-sans-rire ; l'éclat
   verbatim pur (à raréfier) ; l'incarnation des chevaliers (ch.1 sc.2) ; la **fin sèche-sur-acte du ch.4** ;
   la friction Ostrov/Drev (ch.6) ; la **clôture-doute du ch.7** (terminus, intacte). Détail :
