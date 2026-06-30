@@ -472,6 +472,33 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     italique = artefacts textuels à l'écran (relevé/journal/note) ; *« ils »* **dé-italicisé** (g24) ;
     **aucun monstre** ; doute (le souffle) tenu. ✓
 
+- **Réalisé ✓ — « Les signaux »** (`chapitre-07f-les-signaux.md` ; **ch.16 cible**). **Ph.3 — la menace
+  militaire, et elle est DANS l'équipe.** Établi au texte :
+  - **Signaux militaires faibles** : Iov capte, depuis le réduit, des **salves chiffrées** sur une bande
+    « qu'il n'avait jamais eu le droit d'écouter » — **proche, sous la terre**, et **qui répond** (≠ borne
+    morte, ≠ cadence). « Une langue, faite pour n'être entendue que de qui la parlait. » **Reframe-clé** : on
+    craignait *bêtes et morts* — « nul n'avait songé qu'il pût cacher des **hommes** ».
+  - **Deux des sept servent ailleurs** : **Drev** s'attarde aux haltes, parle dans son boîtier — *« une
+    liaison ne monte pas à mille pieds sous terre… c'était vers quelqu'un d'aussi bas que lui »* ; les armes
+    du réduit, les chiffres « donnés à qui viendrait les chercher » (fil **militaire**). **Sorn — palier 3
+    (nature indéniable)** : il ne se cache plus, n'essaie même pas de dire « des bornes » : *« Ce n'est pas
+    pour vous, ni contre vous. Ce sont d'autres ordres, une autre part de la mission… **Trois missions, la
+    même équipe. On ne vous a pas menti ; on ne vous a pas tout dit, et ce n'est pas la même faute. »*** (Tanya
+    lit / Drev sert le haut / **Sorn répond de ce qui remonte et de ce qui ne remonte pas**). **Doute tenu** :
+    agendas **incarnés, jamais confessés en complot** ; aucun ordre énoncé ; le huis clos se retourne (l'ennemi
+    marche dans le rang).
+  - **Ostrov & le repli** : prévenu des **salves seules** (pas de Sorn/Drev nommés), il « sent qu'on touche à
+    plus gros que lui » et **décide de remonter** (« on ne descend pas sept là-dedans avec, dans le rang, des
+    gens dont on ne sait pas pour qui ils comptent ») → motive le **3ᵉ retour (17)**. **Tanya ment vers le
+    bas aussi** : elle accepte de signer le faux prétexte d'Ostrov (« on attend l'équipe lourde ») — *« le
+    premier mensonge qu'elle aidait Ostrov à monter, et non Polaris »* ; elle ment « dans tous les sens », ne
+    lui reste de vrai que ce qu'elle garde contre l'étoile, « qui n'existe pour personne ».
+  - **⚑ Note de structure** : l'**ordre déformé *ramener→clore*** est **déplacé au 17** (3ᵉ retour, en
+    liaison — cohérence : ici on est sous la liaison). 16 **sème** la menace ; 17 la **documente**.
+  - **Garde-fous** : ~1180 mots (densifié) ; « comme » ×3 ; chiasme ×2 (distinction des sons ; « pas vers le
+    haut/vers le bas ») ; **pas d'éclat forcé** (chapitre de menace vive, nul document lu) ; **aucun monstre**
+    (la menace = des hommes) ; doute tenu. ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.

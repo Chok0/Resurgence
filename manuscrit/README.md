@@ -45,6 +45,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **07c** | **Le premier bruit** | **densification** — l'est se tait ; tête-à-tête Iov ; le premier bruit (1ʳᵉ teinte Alien) *(→ ch.13 cible)* |
 | **07d** | **Le réduit** | **densification** — le bunker militaire ; « une voix qui ne meurt pas » (refissuration) ; les armes *(→ ch.14 cible)* |
 | **07e** | **La main absente** | **densification** — le trou vu en direct (le tri dans l'unité même) ; méta central *(→ ch.15 cible)* |
+| **07f** | **Les signaux** | **densification** — la menace dans le rang (2 des 7 servent ailleurs ; Sorn p.3) ; repli *(→ ch.16 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
