@@ -234,8 +234,12 @@ jour 11** (ancre « onze jours ») → rapport **jour 14-15** → Gisement **~jo
 « La traversée » (04) ; numérotation 01→11 en place. **Relecture sévère passée** (4 relecteurs) →
 seconde passe de corrections faite. **Décidé** : « Sous le verre » **reste** après « La traversée » — le
 cliffhanger de la première marche (fin ch.04) doit tenir le lecteur à travers le flashback jusqu'au
-retour à l'action (ch.06). **Chantier ouvert** : passe d'**expansion immersive** (volume + scène posée,
-cf. note auteur) — la vraie reconstruction « novella → roman » (§1-2).
+retour à l'action (ch.06). **Expansion immersive** (volume + scène posée, cf. note auteur — la vraie
+reconstruction « novella → roman », §1-2) : **Phase 1 déployée** — ch.01-06, le mouvement monde-cru
+(Tolkien), jusqu'à la bascule des Salles de l'Oubli ; ~10 000 mots, amplitude variée. **À venir** :
+ch.07-11 (Phase 2-4, Orwell → *Alien*), puis la **densification des péripéties** (spirale 30-ch, §3).
+**⚑ À trancher** : « un Pompéi » (ch.05, maître d'études) viole le garde-fou 14 (aucun nom de notre
+Histoire) — garder le maître en transgresseur licencié, ou rebaptiser dans le lexique de Polaris.
 
 **À trancher (mineur).** **Une seule bouche** (les premiers et Tanya descendent par la même — cohérent ch.2,
 les croix de craie suivies) : confirmé par défaut. *Noms des premiers* : connus **à la voix seule**, aucun
