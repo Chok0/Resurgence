@@ -232,8 +232,10 @@ jour 11** (ancre « onze jours ») → rapport **jour 14-15** → Gisement **~jo
 
 **Statut.** *Réalisé.* ch.01-03 écrits (la zone / la liaison / le silence) ; rite déplacé en tête de
 « La traversée » (04) ; numérotation 01→11 en place. **Relecture sévère passée** (4 relecteurs) →
-seconde passe de corrections en cours. **Ouvert** (cf. relecture) : déplacer éventuellement « Sous le
-verre » avant « La traversée » (le flashback freine la 1ʳᵉ descente).
+seconde passe de corrections faite. **Décidé** : « Sous le verre » **reste** après « La traversée » — le
+cliffhanger de la première marche (fin ch.04) doit tenir le lecteur à travers le flashback jusqu'au
+retour à l'action (ch.06). **Chantier ouvert** : passe d'**expansion immersive** (volume + scène posée,
+cf. note auteur) — la vraie reconstruction « novella → roman » (§1-2).
 
 **À trancher (mineur).** **Une seule bouche** (les premiers et Tanya descendent par la même — cohérent ch.2,
 les croix de craie suivies) : confirmé par défaut. *Noms des premiers* : connus **à la voix seule**, aucun
