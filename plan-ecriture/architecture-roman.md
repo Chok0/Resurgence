@@ -235,11 +235,14 @@ jour 11** (ancre « onze jours ») → rapport **jour 14-15** → Gisement **~jo
 seconde passe de corrections faite. **Décidé** : « Sous le verre » **reste** après « La traversée » — le
 cliffhanger de la première marche (fin ch.04) doit tenir le lecteur à travers le flashback jusqu'au
 retour à l'action (ch.06). **Expansion immersive** (volume + scène posée, cf. note auteur — la vraie
-reconstruction « novella → roman », §1-2) : **Phase 1 déployée** — ch.01-06, le mouvement monde-cru
-(Tolkien), jusqu'à la bascule des Salles de l'Oubli ; ~10 000 mots, amplitude variée. **À venir** :
-ch.07-11 (Phase 2-4, Orwell → *Alien*), puis la **densification des péripéties** (spirale 30-ch, §3).
-**⚑ À trancher** : « un Pompéi » (ch.05, maître d'études) viole le garde-fou 14 (aucun nom de notre
-Histoire) — garder le maître en transgresseur licencié, ou rebaptiser dans le lexique de Polaris.
+reconstruction « novella → roman », §1-2) : **colonne vertébrale déployée — ch.01-11 en mode rapproché.**
+Le registre migre avec la courbe (Tolkien ch.1-6 → Orwell ch.7-8/10 → *Alien* ch.9/11) ; **ch.11 non
+dilaté** (terminus verrouillé — sa nudité est sa force). **À venir** : la **densification des péripéties**
+(spirale 30-ch, §3 — la vraie largeur), puis une **passe de dégraissage** sur les jalons dilatés.
+**⚑ À trancher (canon vs garde-fous)** : « un Pompéi » (ch.05, garde-fou 14, noms de notre Histoire) ;
+« personne ne l'avait faite, elle s'était faite » (ch.10, garde-fou 19, vérité d'auteur assénée) ;
+refrains-talismans encore un peu au-dessus de 2 dans les jalons (« il est encore temps », « l'unité contre
+le cœur »).
 
 **À trancher (mineur).** **Une seule bouche** (les premiers et Tanya descendent par la même — cohérent ch.2,
 les croix de craie suivies) : confirmé par défaut. *Noms des premiers* : connus **à la voix seule**, aucun

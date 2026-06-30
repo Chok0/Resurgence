@@ -98,8 +98,8 @@ C'était la première fois qu'il désobéissait, et personne ne le releva. Drev 
 Nieve rangeait les caissons sans un mot, le visage fermé de celle qui avait dit qu'on ne descend pas là
 où les autres se taisent, et qui n'avait pas envie d'avoir eu raison.
 
-Tanya ne bougea pas. Devant elle, sur l'écran des premiers, la dispute des morts attendait encore qu'on
-s'y mette ensemble ; derrière elle, on repliait la mission. On allait laisser le Gisement dans son froid
+Tanya ne bougea pas. Devant elle, sur l'écran des premiers, le fil des morts attendait encore qu'on s'y
+mette ensemble ; derrière elle, on repliait la mission. On allait laisser le Gisement dans son froid
 de machine, avec ses quatre gardiens et ses deux absents, et remonter les mains vides. Toute cette
 mémoire. Puis elle pensa autre chose, qu'elle ne mit pas en mots, et qui ressemblait à une décision.
 

@@ -1,5 +1,12 @@
 # Chapitre onze — Clore
 
+> *Mvt VI, ch.11 — **CLORE**, le terminus **VERROUILLÉ**. On soude le site sur ses morts (la formule du
+> seuil retournée) ; Tanya nettoie son rapport — qui ressemble à s'y méprendre à la propagande des dômes —
+> et **garde tout en privé** (l'unité à la place du cœur) ; dernier signal militaire (caisson sans compte) ;
+> **LE DERNIER BRUIT** (la cadence, trois lectures refusées : machine / morts / elle). **Non dilaté — sa
+> nudité EST sa force** (archi §6 ; « converge sans diluer »). Doute scellé, jamais montré, jamais infirmé.
+> Réorg. : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) §8.*
+
 ### 1 — Le dernier seuil
 
 « Clore », disait l'ordre. Personne, aux dômes, n'avait écrit comment on clôt un Gisement :
