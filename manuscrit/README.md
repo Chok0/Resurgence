@@ -47,6 +47,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **07e** | **La main absente** | **densification** — le trou vu en direct (le tri dans l'unité même) ; méta central *(→ ch.15 cible)* |
 | **07f** | **Les signaux** | **densification** — la menace dans le rang (2 des 7 servent ailleurs ; Sorn p.3) ; repli *(→ ch.16 cible)* |
 | **07g** | **La prophétie** | **densification** — 3ᵉ retour ; le réduit recodé en glorification (Orwell triomphe) ; le plongeon *(→ ch.17 cible)* |
+| **07h** | **Le nom** | **densification** — flashback : la dénonciation fondatrice ; racine de la compulsion-copiste *(→ ch.18 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
@@ -67,4 +68,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 > [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) **§9**. Fichiers neufs
 > en noms d'insertion (`06b`, …) ; **renumérotation propre 01→22** une fois complet. Écrit : **06b Le premier
 > retour**, **06c La halle de verre**, **06d L'archive**, **06e L'ordre**. *(Bloc descente-2 — l'arc des
-> corpus : vaporwave → SCP → kafka — complet.)* **07b Ceux qui savaient** (2ᵉ retour ; threads).
+> corpus : vaporwave → SCP → kafka — complet.)* **07b–07h** (Ceux qui savaient · Le premier bruit · Le réduit ·
+> La main absente · Les signaux · La prophétie · Le nom). **✅ Les 11 chapitres-événements neufs (ordre
+> d'écriture 07→18) sont écrits.** Reste : **threader les ancres (Les crânes 11 ; Gisement/remontée/surface/
+> clore 19-22) + renumérotation propre 01→22** (passe finale).

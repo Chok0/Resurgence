@@ -535,6 +535,37 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   > verbatim mort → guillemets pour le contemporain) — **trancher en global** avec l'auteur et passer
   > anciens+neufs d'un coup (touche ch.2/ch.10 : *ramener/clore*, *expurgé*).
 
+- **Réalisé ✓ — « Le nom »** (`chapitre-07h-le-nom.md` ; **ch.18 cible** ; planning « La dénonciation »).
+  **Arc intime ; flashback aux dômes 2** (après « Sous le verre »/05), déclenché par la descente-pour-clore.
+  Établi au texte :
+  - **Cadre présent → bascule** : on descend **clore** (souder la chambre des voix sur ses morts, signer
+    qu'on n'a rien trouvé) → « enterrer de la mémoire et signer qu'on ne l'avait pas fait » réveille un geste
+    ancien. *« Elle avait enterré quelqu'un sous un mot, et signé qu'elle n'y était pour rien. »*
+  - **L'ancienne** *(l'« ancêtre » ; continuité 05 « du sang d'ici »)* : une **vieille qui lavait les sols**
+    à l'internat, qui parlait aux petites le soir (mots hors recueil, noms de lieux hors cartes, chansons qui
+    ne louaient personne) ; **elle reconnaît en Tanya « le visage de là-bas, du vieux pays, du sang d'ici »**,
+    lui dit qu'elle vient d'un lieu **qui a un nom, un peuple, des morts à elle**, et qu'il faut **« garder
+    cela par-devers soi comme une braise, sans souffler dessus »**. *« La première fois qu'on disait à Tanya
+    qu'elle venait de quelque part »* → **racine de la quête généalogique**.
+  - **La dénonciation fondatrice** : un **Interprète** la prend en gré (la petite qui lit mieux, qu'on
+    formera) ; salle tiède, attention rien que pour elle ; un jour il demande **qui, au dortoir, dit des
+    choses du temps d'avant** — *« Et Tanya donna le nom. »* La vieille **rendue** ; **avec elle, l'origine de
+    Tanya**. ⚑ **Ambiguïté d'intention INTACTE (vérité d'auteur E)** : voulu la perdre / se sauver / revenir
+    dans la salle tiède / répondre juste — *« ni si, à neuf ans, ces choses se distinguent »* ; le soupçon
+    **« d'avoir été volontaire »** (≠ instrument) est ce qui la tient éveillée.
+  - **⚑ Racine de la compulsion-copiste (payoff de l'arc dissonance)** : au bas du dernier palier — *« on ne
+    rend pas une vieille qu'on a livrée… mais on peut, le restant de ses jours, ne plus livrer personne ;
+    remonter ce qu'on enterre au lieu d'enterrer ce qu'on remonte ; tenir la braise sans souffler dessus »*.
+    **Pas un projet : une DETTE** (« plus vieux ») → éclaire le « sans plan » du canon. **Miroir du présent** :
+    enfant, elle fut ce que Sorn est (l'instrument doux de la machine).
+  - **Clôture** : entrée dans la Source *« portant sous l'étoile la vieille qui lavait les sols, jusque dans
+    la chambre où l'attendaient un million de voix qu'on lui avait, cette fois, donné l'ordre de taire »*
+    (raccord direct au Gisement, 19).
+  - **Garde-fous** : ~1120 mots ; **temps PASSÉ tenu** (présent gnomique réservé aux vérités générales,
+    cohérent ch.05) ; « comme » ×4 ; **refrain « l'unité contre l'étoile » VARIÉ** — ⚑ **chantier global** :
+    ce talisman **sur-employé dans la densification** (06b/06c/07b/07e/07f…) → **dégraisser ≤2 en passe
+    finale** (avec l'instance ×6 des ancres, g21) ; **aucun monstre** ; nommage tenu. ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
