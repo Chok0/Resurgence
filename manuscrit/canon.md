@@ -129,6 +129,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
 | **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; dérangeant sans être fiable ; Ostrov le fait taire ; **enregistre la cadence** (ch.5) puis **disparaît** entre deux camps, fil intact — sort indéterminé | **ch.1** → disparu **ch.5** | [fiche](../personnages/equipe/iov.md) |
 | **Drev** | chevalier, plus vieux et **dur** (foil de Vael) | prie « comme on charge une arme » ; « on descend peut-être les ramasser » | ch.1 | — |
+| **Sorn** | « chevalier »-fouineur — **7ᵉ membre** (fil surveillance/mémoire, **distinct de Drev**) | rejoint au 1ᵉʳ retour camp, « envoyé pour le fond / pour la Source » ; porte l'étoile mais **ne prie pas** ; surveille la **liaison** et **ce que Tanya garde** (lit son écran à deux colonnes) ; tablette de notes que nul ne lui a vue ; visage long et gris. **Micro-signaux (palier 1)** ; montée prévue paliers 2/3 (archi §9). ⚠️ **À threader** dans le milieu densifié + ch.08-11 (présent au fond ; sort — recede/révélation — à trancher) | Le premier retour (insertion 06b) | — |
 
 ## L'ouverture — la zone et la liaison *(les premiers : entendus, jamais vus)*
 > ⚑ Modèle validé (brief auteur). On **ne quitte jamais Tanya** ; les premiers existent **par la liaison
@@ -175,6 +176,395 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   (gagner la bouche nord, rétablir la liaison, sécuriser, *établir le sort de l'équipe de tête*) ;
   Drev : « Dix jours. On descend peut-être les ramasser. » **Appétit honteux de Tanya** (le Gisement la
   tire plus fort que la peur — son moteur ; à ne pas dire).
+
+## Densification — la largeur *(la grande passe ; cf. [archi §9](../plan-ecriture/architecture-roman.md))*
+> Chapitres-événements neufs tissés entre les ancres (01-11). Fichiers en noms d'insertion provisoires
+> (`chapitre-06b-…`) ; **renumérotation propre 01→22** une fois les ~11 écrits.
+
+- **Réalisé ✓ — « Le premier retour »** (`chapitre-06b-le-premier-retour.md` ; **ch.07 cible**, entre *La
+  descente* 06 et *Les crânes* 07). **1ᵉʳ tour de la spirale.** Établi au texte :
+  - **Le moteur de la spirale.** **La liaison ne porte qu'en haut** : en descendant, le grésil épaissit de
+    palier en palier jusqu'au souffle sur rien ; le **Gisement/la Source est plus bas que la liaison ne
+    porte** (« défaillance d'antenne en profondeur » — le mot des premiers, repris des dômes). On **remonte
+    au camp** avant le fond profond : air compté, **cadrans de poignet à vider**, rapport qui ne se porte pas
+    d'en bas, règle d'Ostrov. → l'**oscillation** isolement-du-fond / reconnexion-d'en-haut est posée comme
+    ossature (et comme courbe de genre : Orwell remonte avec la liaison). *Cohérent ch.06 (la liaison tenait
+    encore aux Salles, jour 14 ; elle meurt **plus bas**).*
+  - **1ʳᵉ comm vive d'une autre équipe — ceux de l'est** (la grosse équipe à la halle de machines, déjà
+    entendue ch.01). **Échange vif** (plus seulement écouté) : worldbuild *par la parole* — le **feu du ciel**
+    tombé sur un pays « plein à ras bord », **un siècle d'abandon** (« cent ans d'arriéré »), les trouvailles
+    (leurs carcasses de fer sans nom / les colonnes de Tanya), l'eau comptée, le soleil. **Le silence des
+    premiers commence à se savoir** : l'est aussi les a perdus (« trois semaines de nombres puis couic »),
+    **doute ouvert sur « l'antenne en panne »** (« une équipe entière, à l'heure juste, qui rouvre plus
+    jamais »). Le chef de l'est a **son propre tic de signaleur** (« faites compter vos hommes… à l'heure
+    juste, pas un de moins ») — *distinct de « tiens le fil »*, qui reste réservé aux premiers.
+  - **Glitch / doute IA-Voix** : dans un creux du signal, **une voix trop régulière** cale un **éclat
+    verbatim** du monde mort — *« cette station est fermée définitivement »* (continuité de l'éclat ch.03/
+    canon). **Soupape rationnelle** posée aussitôt (Iov : « une vieille borne qui rejoue ») — **triple doute
+    tenu** (panne / filtrage / autre chose). *Aucun monstre.*
+  - **Le septième — Sorn** (voir table). **Chevalier-fouineur semé** (palier 1) : un homme de plus sous la
+    bâche, **rejoint pour le fond**, qui **n'a rien d'un chevalier au repos** (ne prie pas, ne nettoie pas son
+    arme) et **écoute la liaison** ; à la fin, lit par-dessus l'épaule de Tanya son **écran à deux colonnes**
+    (« Vous gardez tout, vous autres »), se nomme, **rabat sa visière**. **Fil surveillance/mémoire**, **≠
+    Drev** (militaire). L'équipe passe de **6 à 7**.
+  - **Niv.2 (ordre)** : registre administratif plat (garde-fou 10) — pousser vers **la Source sous la couche
+    où la liaison ne porte plus** ; **« le contact sera rompu durant la descente profonde : nulle alarme »**
+    (les dômes *écrivent d'avance qu'ils ne s'inquiéteront pas*) ; compter les hommes descente/remontée ;
+    « défaillance d'antenne présumée » pour les premiers.
+  - **1ʳᵉ note niv.3 (le méta).** Tanya confronte les **notes de travail des premiers** (brut gardé par Iov)
+    à la version **redescendue des dômes**, classée. Une note de l'avant-dernier jour — *« froid anormal
+    derrière la porte. quelqu'un l'entretient… »* — **a été ôtée** de la version officielle (pas raturée :
+    retirée, « refermée par-dessus »). **Dix raisons rationnelles** (relais, tri d'usage), aucune qui
+    explique que le tri tombe **juste** sur les six mots où un mort dit qu'au fond *quelque chose entretient
+    le froid*. Tanya **garde les deux versions** (l'amputée et l'entière) sur l'unité non déclarée, **sans
+    plan**. → graine du **trou méta** (niv.3, culmine ch.15) ; **la main retouche jusqu'aux notes des morts**
+    (vérité d'auteur tue ; jamais énoncée). Distinct de l'expurgation ch.06 (son propre lot) et de l'omission
+    ch.07 (sa propre main).
+  - **Garde-fous** : 2082 mots ; « comme » rationnés (clauses de manière / dialogue surtout) ; chiasme « pas
+    X c'était Y » ×2 ; **aucun refrain réservé** sur-employé ; **italique = verbatim mort seul** (l'ordre
+    cité par Ostrov dé-italicisé) ; rupture d'amplitude (l'échange chaud/parlé vs l'ordre clinique) ; Tanya
+    **agit** (mène la confrontation des versions, garde). Nommage tenu (« le pays », « d'ici » ; jamais
+    France). ✓
+
+- **Réalisé ✓ — « La halle de verre »** (`chapitre-06c-la-halle-de-verre.md` ; **ch.08 cible**, entre *Le
+  premier retour* et *L'archive*). **Redescente vers la Source par la voie basse**, l'équipe à **sept**
+  (Sorn intégré ; Ostrov compte sept et n'aime pas le chiffre ; Drev jaloux de son rang). Établi au texte :
+  - **Corpus vaporwave déployé** : une **galerie marchande enfouie** (« un marché couvert », dit Tanya
+    clinique / un **temple** pour les chevaliers). Carreaux de **verre teinté** (callback ch.04, la façade
+    de surface vers quoi Tanya avait quitté le rang) ; escalier de métal figé ; vasque sèche ; **arbres qui
+    n'avaient jamais bu** (plastique) ; **mer peinte** au mur (Vael n'a jamais vu la mer) ; **le petit peuple
+    de cire** (mannequins — soupape : Drev recule puis voit le bras tombé ; Nieve : « de la poupée ») ; **les
+    icônes** (portraits géants de gens « trop beaux pour avoir jamais existé », souriant à personne, le
+    regard au point lointain — **rime avec l'Architecte**). Éclats verbatim : *« l'été toute l'année »*
+    (Tanya pense au cadran rouge, **ne glose pas**) ; *« vous êtes ici »* (plan du marché, près de la croix).
+  - **Lecture lente (le malaise — 1ʳᵉ marche de l'arc des corpus)** : un été qu'on s'est fait sous terre
+    contre le noir — « incapable de quitter le monde qui les tuait, ni d'y croire tout à fait » ; beauté
+    faite de malaise. **Montré, à peine glosé** (une ligne d'image : « comme on chante plus haut dans le
+    noir »). Tanya **garde une babiole de verre**, sans s'être vue le décider (le copiste mûrit, opaque à
+    elle-même).
+  - **Sorn — palier 1.5** : il ne regarde ni les poupées ni la mer, **il étudie les icônes** (les anciens
+    *heureux et beaux* = contre-preuve de la doctrine). Probe à Tanya : « On nous apprend qu'ils étaient
+    malheureux. Vous trouvez qu'ils ont l'air malheureux ? » — *non le doute, mais la mesure de l'écart*, et
+    qui dans l'équipe le voit. Puis il **relève le code de chaque grand portrait** (les plus heureux) — « pour
+    qu'on les remonte, ou pour qu'on ne les remonte pas » : Tanya ne sait pas, pressent **deux mains chez le
+    même homme**. (Fil mémoire/suppression, ≠ Drev.)
+  - **Trace des premiers** : **croix de craie** au fond de la halle (ils ont traversé « l'été des anciens »
+    par la même voie sûre, vers ce qui les attendait) — entendus/tracés, jamais vus.
+  - **Mort de la liaison (oscillation actée)** : le nord s'amincit de palier en palier (fil → souffle →
+    grésil sans fond) ; au bout de la halle **Iov range l'écouteur : « On est sourds »**. **Dernier lieu
+    mondain avant le muet** ; on entre dans la jambe d'isolement (*Alien* monte). Fin sèche : le dernier
+    reflet bleu meurt sur le dos de Vael, qui prie plus vite.
+  - **Garde-fous** : 1582 mots ; « comme » surtout manière/dialogue (figurés rationnés) ; chiasme « pas X
+    c'était Y » ×1-2 (gardé au pivot double-lecture) ; **2 éclats verbatim** (dosage) ; **ligne lyrique-métier
+    bannie évitée** (« rendre à la lumière » coupée, g4) ; rupture d'amplitude (set-piece lush → Sorn clinique
+    → fin sèche) ; soupape « bête » tenue (la cire) ; **aucun monstre**. Nommage tenu (« marché couvert »,
+    « réclames » — jamais centre commercial/Paris). ✓
+
+- **Réalisé ✓ — « L'archive »** (`chapitre-06d-l-archive.md` ; **ch.09 cible**, entre *La halle de verre* et
+  *L'ordre*). **Bascule Orwell** (registre froid, clinique ; chapitre volontairement plus bref et sec —
+  variation d'amplitude après le lush de la halle). Établi au texte :
+  - **Corpus SCP déployé** : sous la halle, un **couloir de portes numérotées** (chambres capitonnées,
+    attaches, table scellée — une **geôle** pour les chevaliers ; Tanya **sans fiche où ranger**, 1ʳᵉ fois).
+    Détail-soupape : sur un capiton, des marques « griffures, ou des mots, on ne pouvait pas dire ». Une
+    **station** veille encore (courant qui « n'aurait pas dû tenir un siècle » — rime froid-de-machine du
+    Gisement). Tanya lit un **registre des choses à contenir** : numéro, classe, consignes, description
+    **raturée** (*[expurgé]* — exactement le mot/la barre des dômes).
+  - **Lecture lente (2ᵉ marche de l'arc) — le miroir** : *« on ne se lit pas sans se voir dedans »*. Le
+    **bestiaire de Polaris EST la fiction des anciens héritée comme loi** : les démons du seuil (« ceux qui
+    se souviennent ») numérotés ici mille ans plus tôt « pour se faire peur », tenus pour vrais par le culte.
+    Sceau : *« sécuriser, contenir, protéger »* (qu'« on aurait pu graver au fronton du Sanctuaire »).
+    **L'expurgation déjà là, chez les anciens** (graine du trou méta renforcée). Tanya **se reconnaît**
+    (elle conjure au seuil, elle garde derrière une porte à elle).
+  - **Spike de peur — le Long** (corpus SCP/Slender ; **jamais montré**). Dans le registre, une entité tant
+    raturée qu'il n'en reste que la consigne : *« ne lui tournez pas le dos. comptez les vôtres souvent »* ;
+    *« on n'avance pas tant qu'on le regarde »*. Puis, **au bord de la lampe**, une verticale haute et mince
+    — Vael la voit et la nomme (« Le Long »), Drev y porte la lampe : **un montant de cloison, bête**.
+    **Triple doute tenu** : le registre l'a planté (creepypasta/mémétique) / une bête, une ombre / autre
+    chose — *« cela ne prouvait rien, ni dans un sens ni dans l'autre »*. **Tanya craque mais rationalise**
+    (elle sait d'où sort le Long — du registre) **et compte quand même les siens (sept)**, « et n'aima pas
+    s'être vue le faire » (non-fiabilité qui monte ; la sceptique fissurée, pas convertie).
+  - **Sorn, flicker** : seul à **ne pas** lever sa lampe vers le Long ; il regarde l'écran, **sans peur**,
+    « l'attention de quelqu'un qui retrouve un livre qu'il connaît déjà » (il reconnaît la **source** du
+    bestiaire — fil mémoire).
+  - **Trace des premiers** : croix de craie + flèche vers le bas au dernier battant (« ils ont lu ici, eux
+    aussi, et sont descendus quand même »). **Effet creepypasta posé sur la durée** : à partir de cette
+    porte, chacun « jette un œil derrière soi » — la consigne entrée dans les dos.
+  - **Garde-fous** : ~1330 mots (sec voulu) ; « comme » ×2 ; **chiasme ~0** (bascule en **affirmation
+    directe**, pas la matrice) ; italique = **verbatim mort seul** (le registre cité) ; rupture d'amplitude
+    (clinique + spike charnel) ; soupape « bête » explicitement tenue ; **aucun monstre montré** ; naming
+    taboo relié au canon (« ceux qui se souviennent », « ne pas la nommer »). ✓
+
+- **Réalisé ✓ — « L'ordre »** (`chapitre-06e-l-ordre.md` ; **ch.10 cible**, dernier insert avant l'ancre
+  *Les crânes*). **Chapitre de friction parlée** (variation d'amplitude : dialogue, pas lecture — g22a ;
+  ouvert *in medias res* sur le refus de Vael). Établi au texte :
+  - **Corpus kafka déployé (décor)** : un **hall de guichets** (enfilade de vitres numérotées, bancs vissés
+    tournés vers le vide, distributeur de tickets, tableau de numéros éteints, *milliers* de petits papiers
+    au sol). « Un lieu où l'on comptait les gens » (Tanya) / « où l'on triait les âmes derrière des vitres »
+    (chevaliers). Éclats : *« nous n'acceptons plus de nouveaux dossiers »* (panneau) ; un ticket *« B 412 »*
+    (un tour jamais venu).
+  - **Le système sans visage (cœur)** : dispute sur l'ordre de pousser à la Source — *« nulle alarme n'en
+    sera tirée »*. Vael : « Qui l'a écrit ? Tu as un nom, toi, au bas ? » → **l'ordre n'a pas de nom** (sceau,
+    relais, heure ; jamais une main). Ostrov, à le chercher tout haut, **s'entend dire** qu'il a « passé sa
+    vie à répondre d'ordres dont personne ne répond ». **Le miroir kafka** (3ᵉ corpus-miroir) : *on obéit en
+    bas comme on prie en haut* — Drev : « Pourquoi l'ordre, et pas la prière ? » (mots montés de nulle part,
+    vers personne). Nieve : « Les premiers ont dû s'asseoir ici aussi. » **Factions exposées** (Drev dur /
+    Vael refus / Ostrov pris / Tanya-Nieve le doute).
+  - **Sorn — palier 2** : il tranche (« On descend. L'ordre est clair »), **devient la face de la machine
+    sans face** — sommé de dire de quoi il répond : *« Je ne fais pas l'ordre. Je le porte. Comme toi. Comme
+    les relais. »* Le visage cherché derrière l'ordre **n'en est pas un**. **Probe data → Tanya** : elle
+    demande, à découvert (rare — « elle s'entendit parler avant de l'avoir voulu »), s'il répond des données ;
+    il la **regarde vraiment**, l'« inscrit quelque part », répond *« Toi tu relèves ; moi je regarde que ça
+    remonte droit. Chacun son office »*, puis rabat la visière (plus de visage à interroger). **Fil
+    surveillance/mémoire confirmé** (≠ militaire de Drev).
+  - **Tanya agit / garde** : emporte un ticket du sol, *« B 412 »*, « un tour jamais venu », contre l'étoile
+    (copiste, opaque à elle-même — continuité 06b/06c).
+  - **Continuité spirale** : on **redescend** vers la Source (Ostrov passe **premier** désormais — « un chef
+    qui a dit qu'il n'y a pas de nom doit marcher devant »). ⚠️ *L'ancre Les crânes (ch.07 actuel) suit, à
+    threader (Sorn présent ; sortie vers le 2ᵉ retour, pas vers le Gisement direct — cf. réorg spirale).*
+  - **Garde-fous** : ~1280 mots (dense en dialogue) ; « comme » surtout manière/dialogue (×2 figurés) ;
+    chiasme ×1 (« il n'en était pas un / c'était un homme de plus ») ; **italique = verbatim mort seul**
+    (l'ordre cité par Ostrov/Vael **dé-italicisé** ; emphase « toujours » retirée) ; rupture d'amplitude
+    (friction pure) ; **aucun monstre** ; nommage tenu (« guichets », « dossiers » du panneau ; jamais
+    préfecture/France). ✓
+
+- **Réalisé ✓ — « Ceux qui savaient »** (`chapitre-07b-ceux-qui-savaient.md` ; **ch.12 cible** ; planning
+  « Les threads ») — **après l'ancre Les crânes**, **2ᵉ retour camp**. **Oscillation → reconnexion** (Orwell
+  plein). Établi au texte :
+  - **2ᵉ tour de spirale** : on **remonte de l'ossuaire** (air/cadrans à bout ; « on remonte se refaire,
+    après on finit ») — dernier regroupement avant la descente finale à la Source. Beat humain de
+    décompression (thé, Vael qui dort en plaques) en **contraste** avec le diagnostic. **Liaison revient** ;
+    **l'est s'amincit** (indicatif qui repart seul, sans voix) — **graine du silence de 13** ; « on ne savait
+    pas encore qu'il fallait s'en alarmer ; on avait un ordre qui disait de ne pas s'alarmer ».
+  - **Corpus threads / cahiers de doléances (PILIER — 3ᵉ marche de l'arc : l'analyse)** : Tanya réveille des
+    **petits appareils de poche remontés du fond** (la dernière parole de leur maître). **Les dernières voix
+    de la ville** : la chaleur/l'eau/les récoltes parlées non comme un malheur du ciel mais comme **une chose
+    prévue, chiffrée, datée d'avance**. Éclats : *« on a vingt ans de marge, peut-être dix ; après ça devient
+    mécanique »* / *« alarmiste. on nous fait le coup à chaque génération. »* **Lecture lente** : non des
+    aveugles foudroyés (doctrine), mais **une espèce qui avait compris et n'avait pas su s'arrêter**.
+  - **Responsables nommés (le dangereux)** : les fils **désignent** — chiffres, dates, l'argent qu'on suit ;
+    *« tel groupe avait payé pour qu'on doutât de ce qui était certain »*. Tanya remonte un fil jusqu'à **un
+    nom propre accolé à un chiffre, un coupable qu'on se passe — un nom qu'on porte ENCORE au nord** (gravé
+    sur une fondation, donné à une maison d'étude ; *« un nom de bienfaiteur »*). **Nommage tenu** : le nom
+    n'est **jamais transcrit** (effet Lutèce ; g14) — Tanya « referme la porte », ne le note pas.
+  - **Le piège (Phase 2) — la cacophonie** : réponse de Polaris (doc niv.2, plat) recode la foule en **tumulte
+    sans tête** dont l'Architecte a sauvé l'espèce — *« il n'y a là ni preuve ni accusation : il n'y a que du
+    bruit, et le bruit ne nomme personne »*. (≠ le recodage *propagande* plein, réservé à **17**.)
+  - **Graine du trou (prose neuve, ≠ ancre)** : le lot redescend classé ; **le fil au nom a disparu** — « pas
+    raturé. Retiré, et la place refermée si bien qu'on n'y voyait pas de couture ; le reste avait glissé pour
+    combler le vide » — mention *« expurgé »*. **N'a PAS réutilisé** « comme une eau » / « elle s'était faite »
+    (réservé/laissé à l'ancre). Tanya **garde le nom** sur l'unité → **motif neuf : « deux mémoires »** (celle
+    qu'elle remonte / celle qu'elle garde ; « le dossier de ce que le nord ne voulait pas savoir »).
+  - **Sorn — palier 2.5** : il ne regarde plus l'écran (« on se ferme quand il regarde ») mais **sait** :
+    *« Un nom est monté, ce soir, qui n'aurait pas dû. Il est redescendu. Tout est en ordre. »* + *« Vous
+    lisez bien. Trop bien, peut-être, pour ce qu'on vous demande d'en faire. »* → **confirmation au texte
+    qu'on lit par-dessus l'épaule de Tanya jusqu'au nom** (la surveillance n'est plus soupçon : elle est
+    nommée). Menace feutrée, jamais un ordre.
+  - **Garde-fous** : ~1350 mots ; « comme » rationnés (cluster de la lecture allégé) ; chiasme matrice ×1-2
+    (gardé au pivot « non des aveugles, mais… ») ; **italique = verbatim mort seul** (2 éclats threads ; écho
+    « le bruit ne nomme personne » **dé-italicisé** ; « expurgé » = tampon-système quoté, gardé italique par
+    cohérence ch.2/ch.10) ; rupture d'amplitude (surface/repos → diagnostic clinique → menace feutrée) ;
+    **aucun monstre** ; nommage tenu (le nom du coupable **jamais écrit**). ✓
+  > ⚑ *Différenciation 12 vs 19 (Gisement) tenue : ici la **tête** (analyse, médiée par la liaison, le nom
+  > effacé en haut) ; le Gisement gardera le **cœur** (les voix intactes dans le froid, « il est encore temps »
+  > **réservé**, les 4/6 morts). Et 12 vs 15 (Le trou) : ici la **graine** (le nom disparu) ; 15 montrera le
+  > **mécanisme** en direct.*
+
+- **Réalisé ✓ — « Le premier bruit »** (`chapitre-07c-le-premier-bruit.md` ; **ch.13 cible**). Descente 3
+  vers la Source. **1ʳᵉ teinte Alien** (registre charnel-paniqué). Établi au texte :
+  - **1ᵉʳ silence d'une autre équipe — l'est** : en descendant (derniers paliers où le nord porte), Iov perd
+    l'est ; **le débit des nombres passe du trop-régulier au rien** (« continué parfait deux, trois fois sur
+    le vide, puis arrêté à l'heure juste — *comme s'arrête une horloge, et non comme se tait un homme* »).
+    **Deux équipes muettes** (premiers + est) : « une panne ne se répète pas deux fois dans les mêmes mots
+    sans cesser d'être une panne ». La ligne « défaillance d'antenne » **craque** (sans être réfutée).
+  - **Tête-à-tête Tanya↔Iov (Iov incarné)** : visage maigre, mal rasé, mains qui ne tiennent pas ; « ils me
+    prennent pour fou… moi j'enregistre, c'est toi qui inventes ». **Son insight (payoff des « deux nombres
+    à la seconde juste » de l'ouverture)** : **avant de se taire, les équipes se mettent à parler comme la
+    machine** — il fait repasser l'est et **les premiers** (« *État des hommes : conforme* ») : **même
+    glissement humain→métronome**, à 20 jours d'écart, sur deux équipes qui ne se connaissaient pas. « Une
+    panne ça coupe ; ça ne se met pas à compter mieux que vivant avant de couper. » Clôt sur : *« Je ne sais
+    pas ce que c'est. Mais je sais que ça écoute. Et je sais que ça compte. »* **Tanya et Iov = les deux qui
+    paient attention** (elle lit / il écoute ; chacun garde une moitié). **Doute IA/Voix relancé** sans preuve.
+  - **Le premier bruit** (1ᵉʳ son structuré du Mvt III) : dans un boyau, **un mouvement** dans le noir —
+    *« une masse qui se serait retournée dans son sommeil, ou plusieurs choses petites se ruant ensemble »* ;
+    **irrégulier, organique** (le texte le **distingue explicitement de la cadence** : « Ce ne fut pas une
+    cadence »). **Charnel-paniqué incarné** (sept respirations, le sang aux tempes, Tanya les mains fermées,
+    Nieve recroquevillée, Drev qui vise « plutôt que d'attendre »). **Soupape « bête » forte** : une faille,
+    des **fientes sèches**, le sol **griffé de mille traces** → « une colonie délogée, une bête, le souffle
+    d'air » (dix réponses vivantes). **Triple doute tenu**, jamais montré. **Tanya craque encore** : elle
+    *« commence à vouloir avoir peur de quelque chose qui eût un nom »* (elle attend non la preuve que c'est
+    une bête, mais **que c'en soit une**). Iov **enregistre le silence d'après**.
+  - **Garde-fous** : ~1200 mots (taut voulu, amplitude basse-tension) ; « comme » surtout manière/dialogue +
+    l'image-pivot horloge/homme (écho canon « les machines s'arrêtent à l'heure juste ») ; chiasme ×2
+    justifiés (distinction cadence ; « non la preuve… mais que c'en fût une ») ; **cadence réservée NON
+    employée** (négée pour distinguer) ; italique = verbatim premiers seul (« État des hommes : conforme ») ;
+    **aucun monstre montré** ; soupape « bête » réinjectée (g26). ✓
+
+- **Réalisé ✓ — « Le réduit »** (`chapitre-07d-le-reduit.md` ; **ch.14 cible** ; planning « Le bunker »).
+  **Site militaire, ≠ Gisement** ; **Ph.3 refissuration** (origines de la transcendance). **⚑ Vérité d'auteur
+  TUE — discipline tenue** (fragments + spéculation hedgée, jamais confirmation). Établi au texte :
+  - **Le réduit** : sur la voie de la Source, une **porte blindée** (« *accès réservé — autorité de
+    continuité* ») ouverte de l'intérieur, jamais refermée. Un **monde sous le monde** : couloirs d'acier,
+    couchettes, réserves, infirmerie — *un soin pris pour que quelques-uns survécussent à ce qui tuerait les
+    autres*. **Continuité 07b** : « Ce sont eux. Ceux d'en haut » — **le réduit est où les responsables
+    nommés se sont terrés** pendant que le peuple faisait la queue aux guichets. *« Où étiez-vous quand c'est
+    arrivé ? Ici. »* (la lecture de classe, jamais glosée en thèse).
+  - **Les origines de la transcendance (le cœur ; refissuration)** : une **salle ronde**, une **colonne
+    unique servie comme un autel** (froid de machine ; parente de celles de la Source). Écrans tronqués,
+    barres noires : un **projet** des puissants — non survivre dans la chair, mais que **leur commandement ne
+    meure pas**, une instance qui parlerait/déciderait en leur nom, *« assurerait la permanence du
+    commandement »* ; le nom qu'ils lui réservaient : *« une voix qui ne meurt pas »*. **Tanya reconnaît la
+    Voix** (l'Architecte « versé dans la machine, parlant au nom d'un mort ») — **le même rêve, mille ans
+    avant lui**. ⚑ **Doute tenu intégralement** : elle **se force à ne rien conclure** (les hommes rêvent
+    pareil sans se copier ; le réduit a pu échouer ; la vantardise ; *le motif-Long — « voir une figure
+    parce qu'on l'a déjà dans l'œil »*). **Les TROIS statuts de la Voix rappelés ouverts** (Architecte vivant
+    dans la machine / machine seule dans le vide / main de faction) — *le réduit n'y répond pas, il « ôte le
+    sol »*. Spéculation finale **hedgée** (« n'était **peut-être** pas un dieu transcendé… **peut-être** la
+    dernière ruse des puissants… qu'on adorait ») = vertige de Tanya, **pas** vérité d'auteur. *(Cohérent
+    univers : Architecte = entrepreneur tech ; transcendance ~2095 arctique ; le réduit métropolitain
+    **préfigure**, ne contient pas, l'événement.)*
+  - **Fil militaire activé (→ menace, 16)** : **Drev** va droit à une **réserve d'armes** (longs fûts noirs
+    comme le sien + des pièces « qu'on ne donne pas aux missions »), en soupèse une avec **du contentement**,
+    **donne des chiffres dans sa liaison propre** (hors Ostrov ; continuité ch.10/canon). **Il redescendra,
+    avec d'autres, et pas pour lire.**
+  - **Sorn (~palier 2.75)** : près de Tanya, sans dire qu'elle lit trop bien ; sépare les missions —
+    *« Lui, il est venu chercher les fusils. Toi et moi, ce qui les a faits maîtres. Ce n'est pas la même
+    mission »* (sans dire laquelle est la sienne) ; se place **entre Tanya et la porte, dos à elle** — « un
+    homme qui garde, et qu'on ne sait pas s'il vous garde ou vous tient ».
+  - **Tanya copie** (la main n'attend plus la décision) : deux poids neufs contre l'étoile (la copie du rêve
+    des réduits ; la certitude sur Drev).
+  - **Garde-fous** : ~1200 mots ; « comme » ×3 figurés (autel, courant froid, le garde-final) + manière ;
+    chiasme ×2 (reveals de la porte/du réduit) ; **aucun refrain/ligne bannie** (« n'aurait pas dû tenir et
+    tenait » **varié** — déjà en 06d) ; italique = 3 éclats morts ; **vérité d'auteur tue** (contrôle :
+    aucune assertion sèche ; doute triple) ; nommage tenu (« le Grand Chaos », dates, « nucléaire » jamais
+    écrits) ; **aucun monstre**. ✓
+
+- **Réalisé ✓ — « La main absente »** (`chapitre-07e-la-main-absente.md` ; **ch.15 cible** ; planning « Le
+  trou »). **Cœur du niveau 3 méta** ; *Alien* monte. Établi au texte :
+  - **Résidu Alien (le dernier palier)** : sous le réduit, plus que la Source ; le **froid de machine monte
+    à leur rencontre** ; aux haltes, *« un souffle très loin »* (≠ bruit de la faille, ≠ cadence guettée) mis
+    « sur le compte de l'air, faute de pouvoir le mettre sur autre chose ». **Équipe qui se tait** (Vael prie
+    en tête sans répit ; Nieve a cessé de manger ; « elle se taisait, ce qui vient avant »).
+  - **⚑ Le trou vu EN DIRECT (escalade centrale)** : Tanya range le rêve du réduit sur **l'unité déclarée**.
+    Elle inscrit *« une instance qui parlerait au nom des morts »* — **la ligne pâlit et se referme**, l'index
+    se reforme **lisse** ; le journal ne porte qu'une routine, *« tri d'usage — conformité »* — **pas de main,
+    pas de nom, et l'unité reliée à rien** (mille pieds sous la liaison). **Test répété** : la ligne, le **nom
+    du coupable** (07b), *« froid anormal, quelqu'un l'entretient »* (note des premiers) → **refermés** ; une
+    banalité (longueur de couloir, compte des couchettes) → **reste**. « La main qui triait n'était pas
+    aveugle… et elle n'était la main de personne. »
+  - **La révélation (sa croyance brisée)** : elle croyait le tri *en haut, par d'autres, sans elle* (canon ch.1
+    — sa croyance de petite main) ; **le tri est dans l'outil**, tourne tout seul, sur chaque mot dès qu'on le
+    pose ; ce qu'elle a fait remonter des années « était passé d'abord par cette coupe muette ». **Elle a été
+    un instrument d'effacement sans le savoir** : « la main par où passait la main absente » (incarné : elle
+    regarde ses mains, « rien d'un bourreau ; on n'avait pas eu besoin qu'elles le fussent »). ⚑ **g19 tenu** :
+    l'authorlessness rendue par **l'ACTE** (journal sans nom), **pas** par la formule bannie « elle s'était
+    faite ».
+  - **« Deux mémoires » durci** : elle réinscrit tout sur **l'unité non déclarée** (rien là pour rendre
+    conforme) → la déclarée *« qui se vide toute seule de ce qui compte »* / la vraie *« qui le garde, et qui
+    n'existe pas »*. **Iov** la surprend (deux écrans), elle **ne lui montre pas** — « une prudence neuve et
+    laide, qui ressemblait déjà à celle du nord » (elle garde même de ceux qui gardent les mêmes choses).
+    Iov : *« Range bien. En bas, ils auront tout pris »* (« ils » = tout ce qui prend hommes et paroles sans
+    qu'on voie de main).
+  - **Continuité/escalade vs ancres** : approfondit l'« expurgation d'usage » (ch.2/ch.10) — la suppression
+    n'est plus seulement *en haut* mais **automatique et locale** ; **distinct du trou de l'ancre ch.10** (là,
+    le bloc des responsables disparaît *en haut, au retour* — ici, **le mécanisme vu sous ses doigts, en bas**).
+  - **Garde-fous** : ~1210 mots (densifié depuis 1000 : résidu Alien + incarnation des mains) ; « comme » ×3 ;
+    chiasme ×1 (le pivot « pas un nord au loin / l'instrument par ses mains ») ; **formule g19 bannie évitée** ;
+    italique = artefacts textuels à l'écran (relevé/journal/note) ; *« ils »* **dé-italicisé** (g24) ;
+    **aucun monstre** ; doute (le souffle) tenu. ✓
+
+- **Réalisé ✓ — « Les signaux »** (`chapitre-07f-les-signaux.md` ; **ch.16 cible**). **Ph.3 — la menace
+  militaire, et elle est DANS l'équipe.** Établi au texte :
+  - **Signaux militaires faibles** : Iov capte, depuis le réduit, des **salves chiffrées** sur une bande
+    « qu'il n'avait jamais eu le droit d'écouter » — **proche, sous la terre**, et **qui répond** (≠ borne
+    morte, ≠ cadence). « Une langue, faite pour n'être entendue que de qui la parlait. » **Reframe-clé** : on
+    craignait *bêtes et morts* — « nul n'avait songé qu'il pût cacher des **hommes** ».
+  - **Deux des sept servent ailleurs** : **Drev** s'attarde aux haltes, parle dans son boîtier — *« une
+    liaison ne monte pas à mille pieds sous terre… c'était vers quelqu'un d'aussi bas que lui »* ; les armes
+    du réduit, les chiffres « donnés à qui viendrait les chercher » (fil **militaire**). **Sorn — palier 3
+    (nature indéniable)** : il ne se cache plus, n'essaie même pas de dire « des bornes » : *« Ce n'est pas
+    pour vous, ni contre vous. Ce sont d'autres ordres, une autre part de la mission… **Trois missions, la
+    même équipe. On ne vous a pas menti ; on ne vous a pas tout dit, et ce n'est pas la même faute. »*** (Tanya
+    lit / Drev sert le haut / **Sorn répond de ce qui remonte et de ce qui ne remonte pas**). **Doute tenu** :
+    agendas **incarnés, jamais confessés en complot** ; aucun ordre énoncé ; le huis clos se retourne (l'ennemi
+    marche dans le rang).
+  - **Ostrov & le repli** : prévenu des **salves seules** (pas de Sorn/Drev nommés), il « sent qu'on touche à
+    plus gros que lui » et **décide de remonter** (« on ne descend pas sept là-dedans avec, dans le rang, des
+    gens dont on ne sait pas pour qui ils comptent ») → motive le **3ᵉ retour (17)**. **Tanya ment vers le
+    bas aussi** : elle accepte de signer le faux prétexte d'Ostrov (« on attend l'équipe lourde ») — *« le
+    premier mensonge qu'elle aidait Ostrov à monter, et non Polaris »* ; elle ment « dans tous les sens », ne
+    lui reste de vrai que ce qu'elle garde contre l'étoile, « qui n'existe pour personne ».
+  - **⚑ Note de structure** : l'**ordre déformé *ramener→clore*** est **déplacé au 17** (3ᵉ retour, en
+    liaison — cohérence : ici on est sous la liaison). 16 **sème** la menace ; 17 la **documente**.
+  - **Garde-fous** : ~1180 mots (densifié) ; « comme » ×3 ; chiasme ×2 (distinction des sons ; « pas vers le
+    haut/vers le bas ») ; **pas d'éclat forcé** (chapitre de menace vive, nul document lu) ; **aucun monstre**
+    (la menace = des hommes) ; doute tenu. ✓
+
+- **Réalisé ✓ — « La prophétie »** (`chapitre-07g-la-prophetie.md` ; **ch.17 cible** ; planning « Le retour
+  recodé »). **3ᵉ retour camp ; Orwell triomphe.** Établi au texte :
+  - **3ᵉ retour (sans grâce)** : on repasse réduit/halle/ossuaire sans entrer, on remonte des jours ; le camp
+    n'est plus un havre — « un poste d'où l'on rend au nord ce que le nord veut, déjà trié par l'outil ».
+    Ostrov **trie aussi** ce qu'il rend (gauchement), porte le **prétexte** « on attend l'équipe lourde »
+    (suite du repli de 16). **Nieve/Iov/Tanya savent** (deux des sept servent ailleurs) sans le nommer.
+  - **Payoff 07e — l'outil ne fait pas qu'effacer, il TRADUIT** : Tanya écrit *« une instance qui parlerait
+    au nom des morts »* → l'index rend *« trace d'un culte ancien rendant hommage à une parole impérissable »*
+    (le mot dangereux remplacé par le mot qui arrange, tout seul, « sans qu'aucune main parût »).
+  - **⚑ Le recodage en GLORIFICATION (Orwell triomphe)** : réponse niv.2 (blockquote, plat) — le réduit
+    devient **annonce** : *« le peuple d'avant a pressenti l'Architecte… leurs machines mortes sont la
+    prophétie de notre Voix vivante »*. **La pire preuve (la Voix peut-être une ruse des puissants, ch.14)
+    retournée en couronne** : « ce qui aurait dû l'accuser le couronnait ». Image-clé : la machine **« mange
+    le poison et rend du miel ; plus la preuve est lourde, plus le miel est épais »**. ⚑ **Doute (Architecte)
+    tenu** : c'est la **propagande** que Tanya perce, pas une vérité ; le statut de la Voix reste ouvert.
+  - **Ordre déformé (en liaison) : *ramener → clore*** — l'ordre de mission portait *ramener le contenu de la
+    Source* ; la réponse redescendue porte *clore la Source*. **Doute** (relais qui mâche / main qui choisit
+    — « la même incertitude que depuis le premier lot troué ») ; mais, après les salves de 16, *clore* « ne
+    ressemblait plus à une faute de relais ». Tanya **range le mot changé** sur l'unité non déclarée — « le
+    seul endroit du monde où *ramener* voulait encore dire ramener ». *(Rime, NON-doublon, avec l'instance
+    post-Gisement de l'ancre ch.10 — la machine le refait ; prose distincte.)*
+  - **Le plongeon (payoff kafka 06e + bascule de genre)** : **nul renfort — il n'y en a jamais eu** ; le
+    **mensonge d'Ostrov devient son ordre** (« il était l'équipe lourde, on l'envoyait clore ce qu'il avait
+    dit vouloir ouvrir »). Il **dit l'essentiel** aux siens (à sept, sans renfort, **pour clore**). Réactions
+    incarnées (Vael le signe ; Nieve « encaisse » ; **Drev vérifie son arme — peur ou aise ?**). Descente
+    finale **sans retour prévu** → **juxtaposition Orwell (le miel) → Alien (la Source)** ; le mot qu'on porte
+    « n'était plus le bon ».
+  - **Garde-fous** : ~1215 mots (densifié) ; « comme » ×4 (manière/2 figurés) ; **chiasme ~0 / g19 absent** ;
+    refrains réservés non employés ; **aucun monstre** ; nommage tenu. ✓
+  > ⚑ **Décision d'italique à harmoniser (passe de threading, GLOBAL)** : convention adoptée dans la
+  > densification = italique pour les **artefacts textuels lus à l'écran** (relevés, mots d'ordre affichés,
+  > tampons-système) et les **éclats du monde mort** ; **pas** d'italique sur le **français parlé** (ordre
+  > dans une bouche, dé-italicisé en 06b/06e). *Tension g24 connue* (qui réserverait l'italique au seul
+  > verbatim mort → guillemets pour le contemporain) — **trancher en global** avec l'auteur et passer
+  > anciens+neufs d'un coup (touche ch.2/ch.10 : *ramener/clore*, *expurgé*).
+
+- **Réalisé ✓ — « Le nom »** (`chapitre-07h-le-nom.md` ; **ch.18 cible** ; planning « La dénonciation »).
+  **Arc intime ; flashback aux dômes 2** (après « Sous le verre »/05), déclenché par la descente-pour-clore.
+  Établi au texte :
+  - **Cadre présent → bascule** : on descend **clore** (souder la chambre des voix sur ses morts, signer
+    qu'on n'a rien trouvé) → « enterrer de la mémoire et signer qu'on ne l'avait pas fait » réveille un geste
+    ancien. *« Elle avait enterré quelqu'un sous un mot, et signé qu'elle n'y était pour rien. »*
+  - **L'ancienne** *(l'« ancêtre » ; continuité 05 « du sang d'ici »)* : une **vieille qui lavait les sols**
+    à l'internat, qui parlait aux petites le soir (mots hors recueil, noms de lieux hors cartes, chansons qui
+    ne louaient personne) ; **elle reconnaît en Tanya « le visage de là-bas, du vieux pays, du sang d'ici »**,
+    lui dit qu'elle vient d'un lieu **qui a un nom, un peuple, des morts à elle**, et qu'il faut **« garder
+    cela par-devers soi comme une braise, sans souffler dessus »**. *« La première fois qu'on disait à Tanya
+    qu'elle venait de quelque part »* → **racine de la quête généalogique**.
+  - **La dénonciation fondatrice** : un **Interprète** la prend en gré (la petite qui lit mieux, qu'on
+    formera) ; salle tiède, attention rien que pour elle ; un jour il demande **qui, au dortoir, dit des
+    choses du temps d'avant** — *« Et Tanya donna le nom. »* La vieille **rendue** ; **avec elle, l'origine de
+    Tanya**. ⚑ **Ambiguïté d'intention INTACTE (vérité d'auteur E)** : voulu la perdre / se sauver / revenir
+    dans la salle tiède / répondre juste — *« ni si, à neuf ans, ces choses se distinguent »* ; le soupçon
+    **« d'avoir été volontaire »** (≠ instrument) est ce qui la tient éveillée.
+  - **⚑ Racine de la compulsion-copiste (payoff de l'arc dissonance)** : au bas du dernier palier — *« on ne
+    rend pas une vieille qu'on a livrée… mais on peut, le restant de ses jours, ne plus livrer personne ;
+    remonter ce qu'on enterre au lieu d'enterrer ce qu'on remonte ; tenir la braise sans souffler dessus »*.
+    **Pas un projet : une DETTE** (« plus vieux ») → éclaire le « sans plan » du canon. **Miroir du présent** :
+    enfant, elle fut ce que Sorn est (l'instrument doux de la machine).
+  - **Clôture** : entrée dans la Source *« portant sous l'étoile la vieille qui lavait les sols, jusque dans
+    la chambre où l'attendaient un million de voix qu'on lui avait, cette fois, donné l'ordre de taire »*
+    (raccord direct au Gisement, 19).
+  - **Garde-fous** : ~1120 mots ; **temps PASSÉ tenu** (présent gnomique réservé aux vérités générales,
+    cohérent ch.05) ; « comme » ×4 ; **refrain « l'unité contre l'étoile » VARIÉ** — ⚑ **chantier global** :
+    ce talisman **sur-employé dans la densification** (06b/06c/07b/07e/07f…) → **dégraisser ≤2 en passe
+    finale** (avec l'instance ×6 des ancres, g21) ; **aucun monstre** ; nommage tenu. ✓
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.

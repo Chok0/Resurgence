@@ -36,6 +36,18 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **04** | **La traversée** | 1ᵉ jet — **rite de départ** + traversée de surface *(ex-1b)* |
 | **05** | **Sous le verre** | 1ᵉ jet — flashback aux dômes *(ex-1c)* |
 | **06** | **La descente** | 1ᵉ jet — 1ʳᵉ descente, les Salles de l'Oubli *(ex-2)* |
+| **06b** | **Le premier retour** | **densification** — 1ᵉʳ tour de spirale ; comm vive (ceux de l'est) ; niv.3 méta ; Sorn semé *(→ ch.07 cible)* |
+| **06c** | **La halle de verre** | **densification** — redescente vaporwave ; mort de la liaison ; Sorn p.1.5 *(→ ch.08 cible)* |
+| **06d** | **L'archive** | **densification** — SCP, le registre-miroir ; bascule Orwell ; le Long *(→ ch.09 cible)* |
+| **06e** | **L'ordre** | **densification** — kafka, le hall de guichets ; l'ordre sans nom ; Sorn p.2 *(→ ch.10 cible)* |
+| *(07)* | *(Les crânes — ancre)* | *l'ossuaire ; à threader vers le 2ᵉ retour (pass finale)* |
+| **07b** | **Ceux qui savaient** | **densification** — threads ; 2ᵉ retour camp ; le diagnostic + le nom expurgé *(→ ch.12 cible)* |
+| **07c** | **Le premier bruit** | **densification** — l'est se tait ; tête-à-tête Iov ; le premier bruit (1ʳᵉ teinte Alien) *(→ ch.13 cible)* |
+| **07d** | **Le réduit** | **densification** — le bunker militaire ; « une voix qui ne meurt pas » (refissuration) ; les armes *(→ ch.14 cible)* |
+| **07e** | **La main absente** | **densification** — le trou vu en direct (le tri dans l'unité même) ; méta central *(→ ch.15 cible)* |
+| **07f** | **Les signaux** | **densification** — la menace dans le rang (2 des 7 servent ailleurs ; Sorn p.3) ; repli *(→ ch.16 cible)* |
+| **07g** | **La prophétie** | **densification** — 3ᵉ retour ; le réduit recodé en glorification (Orwell triomphe) ; le plongeon *(→ ch.17 cible)* |
+| **07h** | **Le nom** | **densification** — flashback : la dénonciation fondatrice ; racine de la compulsion-copiste *(→ ch.18 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
@@ -49,3 +61,14 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 > continuité corrigée ; garde-fous de style 17-26 intégrés. **Invariants** : ville jamais nommée ; aucun
 > monstre montré ; vérités d'auteur tues ; Tanya non fiable ; **les premiers entendus, jamais vus**.
 > Détail : [`canon.md`](canon.md).
+
+> **En cours — la grande passe (densification de la largeur).** La colonne vertébrale (01-11) sert
+> d'**ancres** ; ~11 chapitres-événements neufs s'y tissent pour la spirale, l'arc des corpus, le bunker, le
+> fouineur (Sorn), les autres équipes, l'arc intime — cible **~22 ch.** Carte et ordre d'écriture (07→18) :
+> [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) **§9**. Fichiers neufs
+> en noms d'insertion (`06b`, …) ; **renumérotation propre 01→22** une fois complet. Écrit : **06b Le premier
+> retour**, **06c La halle de verre**, **06d L'archive**, **06e L'ordre**. *(Bloc descente-2 — l'arc des
+> corpus : vaporwave → SCP → kafka — complet.)* **07b–07h** (Ceux qui savaient · Le premier bruit · Le réduit ·
+> La main absente · Les signaux · La prophétie · Le nom). **✅ Les 11 chapitres-événements neufs (ordre
+> d'écriture 07→18) sont écrits.** Reste : **threader les ancres (Les crânes 11 ; Gisement/remontée/surface/
+> clore 19-22) + renumérotation propre 01→22** (passe finale).

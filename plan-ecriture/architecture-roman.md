@@ -234,8 +234,61 @@ jour 11** (ancre « onze jours ») → rapport **jour 14-15** → Gisement **~jo
 « La traversée » (04) ; numérotation 01→11 en place. **Relecture sévère passée** (4 relecteurs) →
 seconde passe de corrections faite. **Décidé** : « Sous le verre » **reste** après « La traversée » — le
 cliffhanger de la première marche (fin ch.04) doit tenir le lecteur à travers le flashback jusqu'au
-retour à l'action (ch.06). **Chantier ouvert** : passe d'**expansion immersive** (volume + scène posée,
-cf. note auteur) — la vraie reconstruction « novella → roman » (§1-2).
+retour à l'action (ch.06). **Expansion immersive** (volume + scène posée, cf. note auteur — la vraie
+reconstruction « novella → roman », §1-2) : **colonne vertébrale déployée — ch.01-11 en mode rapproché.**
+Le registre migre avec la courbe (Tolkien ch.1-6 → Orwell ch.7-8/10 → *Alien* ch.9/11) ; **ch.11 non
+dilaté** (terminus verrouillé — sa nudité est sa force). **À venir** : la **densification des péripéties**
+(spirale 30-ch, §3 — la vraie largeur), puis une **passe de dégraissage** sur les jalons dilatés.
+**⚑ À trancher (canon vs garde-fous)** : « un Pompéi » (ch.05, garde-fou 14, noms de notre Histoire) ;
+« personne ne l'avait faite, elle s'était faite » (ch.10, garde-fou 19, vérité d'auteur assénée) ;
+refrains-talismans encore un peu au-dessus de 2 dans les jalons (« il est encore temps », « l'unité contre
+le cœur »).
+
+---
+
+## 9. Carte de la densification — la grande passe *(la largeur ; 2026-06-30)*
+
+> *Le squelette immersif (ch.01-11) est déployé. La densification y tisse les **péripéties** du §3 : la
+> spirale, l'arc des corpus, le bunker, le fouineur, les autres équipes, l'arc intime. Cible **~22 ch.**
+> (les 11 actuels = **ancres** ; ~11 chapitres-événements neufs). Renumérotation propre une fois complet.*
+
+**⚑ Le moteur de la spirale (adapté au nouveau modèle).** **La liaison ne porte qu'en surface** (cf. « la
+défaillance d'antenne en profondeur » : le fond coupe les comms). Les **retours au camp de surface sont
+donc motivés** — c'est là, et là seulement, qu'on retrouve les ordres, le niveau 2/3 et **les autres
+équipes**. La spirale = **osciller entre l'isolement du fond (dread, *Alien*) et la reconnexion d'en haut
+(Orwell : ordres recodés, propagande, trou méta)**. Chaque descente s'enfonce ; chaque remontée resserre
+le piège. L'urgence (« vite ») tient la tension ; la logistique (air, dosimètre, ordres) force les
+remontées.
+
+**Ordre de lecture cible** *(~22 ch. ; ✎ = neuf à écrire · ⚓ = ancre déployée) :*
+
+| # | Chapitre | Fonction | Corpus / dispositif | Courbe |
+|---|---|---|---|---|
+| 01-05 | ⚓ Les marges · La liaison · Le silence · La traversée · Sous le verre | l'ouverture (comms) | — | Tolkien |
+| 06 | ⚓ La descente | 1ʳᵉ descente, les Salles, 1ʳᵉ copie | Backrooms | Ph.1→2 |
+| 07 | ✓ **Le premier retour** | 1er retour camp (la spirale s'enclenche) ; **1ʳᵉ comm vive d'une autre équipe** ; niv.2 + **1ʳᵉ note niv.3** ; **fouineur semé** *(Sorn, 7ᵉ)* — `chapitre-06b` | autres équipes ; méta | Ph.2 |
+| 08 | ✓ **La halle de verre** | redescente, voie basse : la galerie marchande ; mort de la liaison ; Sorn p.1.5 — `chapitre-06c` | **vaporwave** | Ph.2 |
+| 09 | ✓ **L'archive** | « ne se lit pas sans se voir dedans » ; le Long au bord de la lampe ; Sorn flicker — `chapitre-06d` | **SCP** | bascule Orwell |
+| 10 | ✓ **L'ordre** | hall de guichets ; l'ordre sans nom (friction parlée) ; **Sorn palier 2** (la face de la machine sans face) — `chapitre-06e` | factions, kafka | Orwell monte |
+| 11 | ⚓ Les crânes | l'ossuaire ; cran 3 | catacombes | virage gothique |
+| 12 | ✓ **Ceux qui savaient** | 2e retour camp ; le diagnostic lucide ; **un nom encore porté au nord** → expurgé (graine trou) ; Sorn p.2.5 — `chapitre-07b` | **threads** | Orwell plein *(piège)* |
+| 13 | ✓ **Le premier bruit** | l'est se tait (2 équipes muettes) ; tête-à-tête Iov (le glissement humain→machine) ; le premier bruit (soupape bête) — `chapitre-07c` | mystère ; bête | 1ʳᵉ teinte *Alien* |
+| 14 | ✓ **Le réduit** | bunker de continuité (≠ Gisement ; où les responsables se sont terrés) ; « une voix qui ne meurt pas » → doute IA à son comble (3 statuts) ; Drev/les armes — `chapitre-07d` | data militaire | Ph.3 refissuration |
+| 15 | ✓ **La main absente** | le trou vu EN DIRECT, dans l'unité même (tri local, automatique, sans main) ; Tanya = instrument d'effacement sans le savoir — `chapitre-07e` | méta central · résidu | *Alien* monte |
+| 16 | ✓ **Les signaux** | salves militaires dans le muet → **2 des 7 servent ailleurs** (Drev/armes, **Sorn p.3**) ; la menace est dans le rang ; repli décidé — `chapitre-07f` *(ordre déformé ramener→clore déplacé en 17)* | menace militaire | Ph.3 |
+| 17 | ✓ **La prophétie** | 3e retour camp ; le réduit **recodé en glorification** (la pire preuve → couronne) ; ordre déformé *ramener→clore* ; nul renfort (le plongeon) — `chapitre-07g` | niv.2 propagande | Orwell triomphe |
+| 18 | ✓ **Le nom** | flashback dômes 2 : la dénonciation fondatrice (Tanya livre **l'ancienne**, « du sang d'ici ») ; **racine de la compulsion-copiste** (une dette, pas un projet) — `chapitre-07h` | arc intime | Ph.3 |
+| 19 | ⚓ Le Gisement | climax : porte, froid de machine, lecture, 4/6, cran 4 | Wikipedia, threads | *Alien* sommet · Ph.4 |
+| 20-22 | ⚓ La remontée · La surface · Clore | remontée/cadence/Iov ; recodage ; **fin verrouillée** | résidus | non-repos · terminus |
+
+**Personnages à incarner (§4).** Le **chevalier-fouineur** : 7ᵉ membre, **distinct de Drev** (mission
+cachée ; micro-signaux dès le premier retour, montant par paliers 2/3) — à introduire en douceur dans la
+densification, l'équipe passant de 6 à 7. **Iov** : fil continu jusqu'à sa disparition (ch.20). **Nieve**
+: 2-3 scènes pleines. **Une voix d'autre équipe** : récurrente (dès ch.07), puis qui se tait (ch.13).
+
+**Ordre d'écriture :** dans l'ordre de lecture (07 → 18), pour tenir la montée de la courbe et la
+non-fiabilité croissante de Tanya. Fichiers neufs en noms d'insertion provisoires (`chapitre-06b-…`),
+**renumérotation propre 01→22 une fois les 11 écrits.**
 
 **À trancher (mineur).** **Une seule bouche** (les premiers et Tanya descendent par la même — cohérent ch.2,
 les croix de craie suivies) : confirmé par défaut. *Noms des premiers* : connus **à la voix seule**, aucun
