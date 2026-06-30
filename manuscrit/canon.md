@@ -294,6 +294,39 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     (clinique + spike charnel) ; soupape « bête » explicitement tenue ; **aucun monstre montré** ; naming
     taboo relié au canon (« ceux qui se souviennent », « ne pas la nommer »). ✓
 
+- **Réalisé ✓ — « L'ordre »** (`chapitre-06e-l-ordre.md` ; **ch.10 cible**, dernier insert avant l'ancre
+  *Les crânes*). **Chapitre de friction parlée** (variation d'amplitude : dialogue, pas lecture — g22a ;
+  ouvert *in medias res* sur le refus de Vael). Établi au texte :
+  - **Corpus kafka déployé (décor)** : un **hall de guichets** (enfilade de vitres numérotées, bancs vissés
+    tournés vers le vide, distributeur de tickets, tableau de numéros éteints, *milliers* de petits papiers
+    au sol). « Un lieu où l'on comptait les gens » (Tanya) / « où l'on triait les âmes derrière des vitres »
+    (chevaliers). Éclats : *« nous n'acceptons plus de nouveaux dossiers »* (panneau) ; un ticket *« B 412 »*
+    (un tour jamais venu).
+  - **Le système sans visage (cœur)** : dispute sur l'ordre de pousser à la Source — *« nulle alarme n'en
+    sera tirée »*. Vael : « Qui l'a écrit ? Tu as un nom, toi, au bas ? » → **l'ordre n'a pas de nom** (sceau,
+    relais, heure ; jamais une main). Ostrov, à le chercher tout haut, **s'entend dire** qu'il a « passé sa
+    vie à répondre d'ordres dont personne ne répond ». **Le miroir kafka** (3ᵉ corpus-miroir) : *on obéit en
+    bas comme on prie en haut* — Drev : « Pourquoi l'ordre, et pas la prière ? » (mots montés de nulle part,
+    vers personne). Nieve : « Les premiers ont dû s'asseoir ici aussi. » **Factions exposées** (Drev dur /
+    Vael refus / Ostrov pris / Tanya-Nieve le doute).
+  - **Sorn — palier 2** : il tranche (« On descend. L'ordre est clair »), **devient la face de la machine
+    sans face** — sommé de dire de quoi il répond : *« Je ne fais pas l'ordre. Je le porte. Comme toi. Comme
+    les relais. »* Le visage cherché derrière l'ordre **n'en est pas un**. **Probe data → Tanya** : elle
+    demande, à découvert (rare — « elle s'entendit parler avant de l'avoir voulu »), s'il répond des données ;
+    il la **regarde vraiment**, l'« inscrit quelque part », répond *« Toi tu relèves ; moi je regarde que ça
+    remonte droit. Chacun son office »*, puis rabat la visière (plus de visage à interroger). **Fil
+    surveillance/mémoire confirmé** (≠ militaire de Drev).
+  - **Tanya agit / garde** : emporte un ticket du sol, *« B 412 »*, « un tour jamais venu », contre l'étoile
+    (copiste, opaque à elle-même — continuité 06b/06c).
+  - **Continuité spirale** : on **redescend** vers la Source (Ostrov passe **premier** désormais — « un chef
+    qui a dit qu'il n'y a pas de nom doit marcher devant »). ⚠️ *L'ancre Les crânes (ch.07 actuel) suit, à
+    threader (Sorn présent ; sortie vers le 2ᵉ retour, pas vers le Gisement direct — cf. réorg spirale).*
+  - **Garde-fous** : ~1280 mots (dense en dialogue) ; « comme » surtout manière/dialogue (×2 figurés) ;
+    chiasme ×1 (« il n'en était pas un / c'était un homme de plus ») ; **italique = verbatim mort seul**
+    (l'ordre cité par Ostrov/Vael **dé-italicisé** ; emphase « toujours » retirée) ; rupture d'amplitude
+    (friction pure) ; **aucun monstre** ; nommage tenu (« guichets », « dossiers » du panneau ; jamais
+    préfecture/France). ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
