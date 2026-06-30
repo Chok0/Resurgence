@@ -273,7 +273,7 @@ remontées.
 | 11 | ⚓ Les crânes | l'ossuaire ; cran 3 | catacombes | virage gothique |
 | 12 | ✓ **Ceux qui savaient** | 2e retour camp ; le diagnostic lucide ; **un nom encore porté au nord** → expurgé (graine trou) ; Sorn p.2.5 — `chapitre-07b` | **threads** | Orwell plein *(piège)* |
 | 13 | ✓ **Le premier bruit** | l'est se tait (2 équipes muettes) ; tête-à-tête Iov (le glissement humain→machine) ; le premier bruit (soupape bête) — `chapitre-07c` | mystère ; bête | 1ʳᵉ teinte *Alien* |
-| 14 | ✎ **Le bunker** | site militaire (**≠ Gisement**) ; doc origines de la transcendance | data militaire | Ph.3 refissuration |
+| 14 | ✓ **Le réduit** | bunker de continuité (≠ Gisement ; où les responsables se sont terrés) ; « une voix qui ne meurt pas » → doute IA à son comble (3 statuts) ; Drev/les armes — `chapitre-07d` | data militaire | Ph.3 refissuration |
 | 15 | ✎ **Le trou** | le trou des métadonnées vu en direct (niv.3) ; suppression mécanique | méta central · résidu | *Alien* monte |
 | 16 | ✎ **Les signaux** | signaux militaires faibles ; **fouineur palier 3** ; ordre déformé (*ramener→clore*) | menace militaire | Ph.3 |
 | 17 | ✎ **Le retour recodé** | 3e retour camp ; **1er rapport recodé en propagande** | niv.2 propagande | Orwell triomphe |

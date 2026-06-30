@@ -399,6 +399,45 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     employée** (négée pour distinguer) ; italique = verbatim premiers seul (« État des hommes : conforme ») ;
     **aucun monstre montré** ; soupape « bête » réinjectée (g26). ✓
 
+- **Réalisé ✓ — « Le réduit »** (`chapitre-07d-le-reduit.md` ; **ch.14 cible** ; planning « Le bunker »).
+  **Site militaire, ≠ Gisement** ; **Ph.3 refissuration** (origines de la transcendance). **⚑ Vérité d'auteur
+  TUE — discipline tenue** (fragments + spéculation hedgée, jamais confirmation). Établi au texte :
+  - **Le réduit** : sur la voie de la Source, une **porte blindée** (« *accès réservé — autorité de
+    continuité* ») ouverte de l'intérieur, jamais refermée. Un **monde sous le monde** : couloirs d'acier,
+    couchettes, réserves, infirmerie — *un soin pris pour que quelques-uns survécussent à ce qui tuerait les
+    autres*. **Continuité 07b** : « Ce sont eux. Ceux d'en haut » — **le réduit est où les responsables
+    nommés se sont terrés** pendant que le peuple faisait la queue aux guichets. *« Où étiez-vous quand c'est
+    arrivé ? Ici. »* (la lecture de classe, jamais glosée en thèse).
+  - **Les origines de la transcendance (le cœur ; refissuration)** : une **salle ronde**, une **colonne
+    unique servie comme un autel** (froid de machine ; parente de celles de la Source). Écrans tronqués,
+    barres noires : un **projet** des puissants — non survivre dans la chair, mais que **leur commandement ne
+    meure pas**, une instance qui parlerait/déciderait en leur nom, *« assurerait la permanence du
+    commandement »* ; le nom qu'ils lui réservaient : *« une voix qui ne meurt pas »*. **Tanya reconnaît la
+    Voix** (l'Architecte « versé dans la machine, parlant au nom d'un mort ») — **le même rêve, mille ans
+    avant lui**. ⚑ **Doute tenu intégralement** : elle **se force à ne rien conclure** (les hommes rêvent
+    pareil sans se copier ; le réduit a pu échouer ; la vantardise ; *le motif-Long — « voir une figure
+    parce qu'on l'a déjà dans l'œil »*). **Les TROIS statuts de la Voix rappelés ouverts** (Architecte vivant
+    dans la machine / machine seule dans le vide / main de faction) — *le réduit n'y répond pas, il « ôte le
+    sol »*. Spéculation finale **hedgée** (« n'était **peut-être** pas un dieu transcendé… **peut-être** la
+    dernière ruse des puissants… qu'on adorait ») = vertige de Tanya, **pas** vérité d'auteur. *(Cohérent
+    univers : Architecte = entrepreneur tech ; transcendance ~2095 arctique ; le réduit métropolitain
+    **préfigure**, ne contient pas, l'événement.)*
+  - **Fil militaire activé (→ menace, 16)** : **Drev** va droit à une **réserve d'armes** (longs fûts noirs
+    comme le sien + des pièces « qu'on ne donne pas aux missions »), en soupèse une avec **du contentement**,
+    **donne des chiffres dans sa liaison propre** (hors Ostrov ; continuité ch.10/canon). **Il redescendra,
+    avec d'autres, et pas pour lire.**
+  - **Sorn (~palier 2.75)** : près de Tanya, sans dire qu'elle lit trop bien ; sépare les missions —
+    *« Lui, il est venu chercher les fusils. Toi et moi, ce qui les a faits maîtres. Ce n'est pas la même
+    mission »* (sans dire laquelle est la sienne) ; se place **entre Tanya et la porte, dos à elle** — « un
+    homme qui garde, et qu'on ne sait pas s'il vous garde ou vous tient ».
+  - **Tanya copie** (la main n'attend plus la décision) : deux poids neufs contre l'étoile (la copie du rêve
+    des réduits ; la certitude sur Drev).
+  - **Garde-fous** : ~1200 mots ; « comme » ×3 figurés (autel, courant froid, le garde-final) + manière ;
+    chiasme ×2 (reveals de la porte/du réduit) ; **aucun refrain/ligne bannie** (« n'aurait pas dû tenir et
+    tenait » **varié** — déjà en 06d) ; italique = 3 éclats morts ; **vérité d'auteur tue** (contrôle :
+    aucune assertion sèche ; doute triple) ; nommage tenu (« le Grand Chaos », dates, « nucléaire » jamais
+    écrits) ; **aucun monstre**. ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
