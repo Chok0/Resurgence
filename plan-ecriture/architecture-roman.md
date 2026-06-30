@@ -276,7 +276,7 @@ remontées.
 | 14 | ✓ **Le réduit** | bunker de continuité (≠ Gisement ; où les responsables se sont terrés) ; « une voix qui ne meurt pas » → doute IA à son comble (3 statuts) ; Drev/les armes — `chapitre-07d` | data militaire | Ph.3 refissuration |
 | 15 | ✓ **La main absente** | le trou vu EN DIRECT, dans l'unité même (tri local, automatique, sans main) ; Tanya = instrument d'effacement sans le savoir — `chapitre-07e` | méta central · résidu | *Alien* monte |
 | 16 | ✓ **Les signaux** | salves militaires dans le muet → **2 des 7 servent ailleurs** (Drev/armes, **Sorn p.3**) ; la menace est dans le rang ; repli décidé — `chapitre-07f` *(ordre déformé ramener→clore déplacé en 17)* | menace militaire | Ph.3 |
-| 17 | ✎ **Le retour recodé** | 3e retour camp ; **1er rapport recodé en propagande** | niv.2 propagande | Orwell triomphe |
+| 17 | ✓ **La prophétie** | 3e retour camp ; le réduit **recodé en glorification** (la pire preuve → couronne) ; ordre déformé *ramener→clore* ; nul renfort (le plongeon) — `chapitre-07g` | niv.2 propagande | Orwell triomphe |
 | 18 | ✎ **La dénonciation** | flashback dômes 2 : la **dénonciation fondatrice** + l'ancêtre | arc intime | Ph.3 |
 | 19 | ⚓ Le Gisement | climax : porte, froid de machine, lecture, 4/6, cran 4 | Wikipedia, threads | *Alien* sommet · Ph.4 |
 | 20-22 | ⚓ La remontée · La surface · Clore | remontée/cadence/Iov ; recodage ; **fin verrouillée** | résidus | non-repos · terminus |

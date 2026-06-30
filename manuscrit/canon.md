@@ -499,6 +499,42 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     haut/vers le bas ») ; **pas d'éclat forcé** (chapitre de menace vive, nul document lu) ; **aucun monstre**
     (la menace = des hommes) ; doute tenu. ✓
 
+- **Réalisé ✓ — « La prophétie »** (`chapitre-07g-la-prophetie.md` ; **ch.17 cible** ; planning « Le retour
+  recodé »). **3ᵉ retour camp ; Orwell triomphe.** Établi au texte :
+  - **3ᵉ retour (sans grâce)** : on repasse réduit/halle/ossuaire sans entrer, on remonte des jours ; le camp
+    n'est plus un havre — « un poste d'où l'on rend au nord ce que le nord veut, déjà trié par l'outil ».
+    Ostrov **trie aussi** ce qu'il rend (gauchement), porte le **prétexte** « on attend l'équipe lourde »
+    (suite du repli de 16). **Nieve/Iov/Tanya savent** (deux des sept servent ailleurs) sans le nommer.
+  - **Payoff 07e — l'outil ne fait pas qu'effacer, il TRADUIT** : Tanya écrit *« une instance qui parlerait
+    au nom des morts »* → l'index rend *« trace d'un culte ancien rendant hommage à une parole impérissable »*
+    (le mot dangereux remplacé par le mot qui arrange, tout seul, « sans qu'aucune main parût »).
+  - **⚑ Le recodage en GLORIFICATION (Orwell triomphe)** : réponse niv.2 (blockquote, plat) — le réduit
+    devient **annonce** : *« le peuple d'avant a pressenti l'Architecte… leurs machines mortes sont la
+    prophétie de notre Voix vivante »*. **La pire preuve (la Voix peut-être une ruse des puissants, ch.14)
+    retournée en couronne** : « ce qui aurait dû l'accuser le couronnait ». Image-clé : la machine **« mange
+    le poison et rend du miel ; plus la preuve est lourde, plus le miel est épais »**. ⚑ **Doute (Architecte)
+    tenu** : c'est la **propagande** que Tanya perce, pas une vérité ; le statut de la Voix reste ouvert.
+  - **Ordre déformé (en liaison) : *ramener → clore*** — l'ordre de mission portait *ramener le contenu de la
+    Source* ; la réponse redescendue porte *clore la Source*. **Doute** (relais qui mâche / main qui choisit
+    — « la même incertitude que depuis le premier lot troué ») ; mais, après les salves de 16, *clore* « ne
+    ressemblait plus à une faute de relais ». Tanya **range le mot changé** sur l'unité non déclarée — « le
+    seul endroit du monde où *ramener* voulait encore dire ramener ». *(Rime, NON-doublon, avec l'instance
+    post-Gisement de l'ancre ch.10 — la machine le refait ; prose distincte.)*
+  - **Le plongeon (payoff kafka 06e + bascule de genre)** : **nul renfort — il n'y en a jamais eu** ; le
+    **mensonge d'Ostrov devient son ordre** (« il était l'équipe lourde, on l'envoyait clore ce qu'il avait
+    dit vouloir ouvrir »). Il **dit l'essentiel** aux siens (à sept, sans renfort, **pour clore**). Réactions
+    incarnées (Vael le signe ; Nieve « encaisse » ; **Drev vérifie son arme — peur ou aise ?**). Descente
+    finale **sans retour prévu** → **juxtaposition Orwell (le miel) → Alien (la Source)** ; le mot qu'on porte
+    « n'était plus le bon ».
+  - **Garde-fous** : ~1215 mots (densifié) ; « comme » ×4 (manière/2 figurés) ; **chiasme ~0 / g19 absent** ;
+    refrains réservés non employés ; **aucun monstre** ; nommage tenu. ✓
+  > ⚑ **Décision d'italique à harmoniser (passe de threading, GLOBAL)** : convention adoptée dans la
+  > densification = italique pour les **artefacts textuels lus à l'écran** (relevés, mots d'ordre affichés,
+  > tampons-système) et les **éclats du monde mort** ; **pas** d'italique sur le **français parlé** (ordre
+  > dans une bouche, dé-italicisé en 06b/06e). *Tension g24 connue* (qui réserverait l'italique au seul
+  > verbatim mort → guillemets pour le contemporain) — **trancher en global** avec l'auteur et passer
+  > anciens+neufs d'un coup (touche ch.2/ch.10 : *ramener/clore*, *expurgé*).
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.

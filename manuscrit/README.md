@@ -46,6 +46,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **07d** | **Le réduit** | **densification** — le bunker militaire ; « une voix qui ne meurt pas » (refissuration) ; les armes *(→ ch.14 cible)* |
 | **07e** | **La main absente** | **densification** — le trou vu en direct (le tri dans l'unité même) ; méta central *(→ ch.15 cible)* |
 | **07f** | **Les signaux** | **densification** — la menace dans le rang (2 des 7 servent ailleurs ; Sorn p.3) ; repli *(→ ch.16 cible)* |
+| **07g** | **La prophétie** | **densification** — 3ᵉ retour ; le réduit recodé en glorification (Orwell triomphe) ; le plongeon *(→ ch.17 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
