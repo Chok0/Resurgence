@@ -260,6 +260,40 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     → fin sèche) ; soupape « bête » tenue (la cire) ; **aucun monstre**. Nommage tenu (« marché couvert »,
     « réclames » — jamais centre commercial/Paris). ✓
 
+- **Réalisé ✓ — « L'archive »** (`chapitre-06d-l-archive.md` ; **ch.09 cible**, entre *La halle de verre* et
+  *L'ordre*). **Bascule Orwell** (registre froid, clinique ; chapitre volontairement plus bref et sec —
+  variation d'amplitude après le lush de la halle). Établi au texte :
+  - **Corpus SCP déployé** : sous la halle, un **couloir de portes numérotées** (chambres capitonnées,
+    attaches, table scellée — une **geôle** pour les chevaliers ; Tanya **sans fiche où ranger**, 1ʳᵉ fois).
+    Détail-soupape : sur un capiton, des marques « griffures, ou des mots, on ne pouvait pas dire ». Une
+    **station** veille encore (courant qui « n'aurait pas dû tenir un siècle » — rime froid-de-machine du
+    Gisement). Tanya lit un **registre des choses à contenir** : numéro, classe, consignes, description
+    **raturée** (*[expurgé]* — exactement le mot/la barre des dômes).
+  - **Lecture lente (2ᵉ marche de l'arc) — le miroir** : *« on ne se lit pas sans se voir dedans »*. Le
+    **bestiaire de Polaris EST la fiction des anciens héritée comme loi** : les démons du seuil (« ceux qui
+    se souviennent ») numérotés ici mille ans plus tôt « pour se faire peur », tenus pour vrais par le culte.
+    Sceau : *« sécuriser, contenir, protéger »* (qu'« on aurait pu graver au fronton du Sanctuaire »).
+    **L'expurgation déjà là, chez les anciens** (graine du trou méta renforcée). Tanya **se reconnaît**
+    (elle conjure au seuil, elle garde derrière une porte à elle).
+  - **Spike de peur — le Long** (corpus SCP/Slender ; **jamais montré**). Dans le registre, une entité tant
+    raturée qu'il n'en reste que la consigne : *« ne lui tournez pas le dos. comptez les vôtres souvent »* ;
+    *« on n'avance pas tant qu'on le regarde »*. Puis, **au bord de la lampe**, une verticale haute et mince
+    — Vael la voit et la nomme (« Le Long »), Drev y porte la lampe : **un montant de cloison, bête**.
+    **Triple doute tenu** : le registre l'a planté (creepypasta/mémétique) / une bête, une ombre / autre
+    chose — *« cela ne prouvait rien, ni dans un sens ni dans l'autre »*. **Tanya craque mais rationalise**
+    (elle sait d'où sort le Long — du registre) **et compte quand même les siens (sept)**, « et n'aima pas
+    s'être vue le faire » (non-fiabilité qui monte ; la sceptique fissurée, pas convertie).
+  - **Sorn, flicker** : seul à **ne pas** lever sa lampe vers le Long ; il regarde l'écran, **sans peur**,
+    « l'attention de quelqu'un qui retrouve un livre qu'il connaît déjà » (il reconnaît la **source** du
+    bestiaire — fil mémoire).
+  - **Trace des premiers** : croix de craie + flèche vers le bas au dernier battant (« ils ont lu ici, eux
+    aussi, et sont descendus quand même »). **Effet creepypasta posé sur la durée** : à partir de cette
+    porte, chacun « jette un œil derrière soi » — la consigne entrée dans les dos.
+  - **Garde-fous** : ~1330 mots (sec voulu) ; « comme » ×2 ; **chiasme ~0** (bascule en **affirmation
+    directe**, pas la matrice) ; italique = **verbatim mort seul** (le registre cité) ; rupture d'amplitude
+    (clinique + spike charnel) ; soupape « bête » explicitement tenue ; **aucun monstre montré** ; naming
+    taboo relié au canon (« ceux qui se souviennent », « ne pas la nommer »). ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.

@@ -268,7 +268,7 @@ remontées.
 | 06 | ⚓ La descente | 1ʳᵉ descente, les Salles, 1ʳᵉ copie | Backrooms | Ph.1→2 |
 | 07 | ✓ **Le premier retour** | 1er retour camp (la spirale s'enclenche) ; **1ʳᵉ comm vive d'une autre équipe** ; niv.2 + **1ʳᵉ note niv.3** ; **fouineur semé** *(Sorn, 7ᵉ)* — `chapitre-06b` | autres équipes ; méta | Ph.2 |
 | 08 | ✓ **La halle de verre** | redescente, voie basse : la galerie marchande ; mort de la liaison ; Sorn p.1.5 — `chapitre-06c` | **vaporwave** | Ph.2 |
-| 09 | ✎ **L'archive** | « ne se lit pas sans se voir dedans » ; le Long au bord de la lampe | **SCP** | bascule Orwell |
+| 09 | ✓ **L'archive** | « ne se lit pas sans se voir dedans » ; le Long au bord de la lampe ; Sorn flicker — `chapitre-06d` | **SCP** | bascule Orwell |
 | 10 | ✎ **L'ordre** | 1er ordre kafkaïen (le système sans visage) ; friction ; **fouineur palier 2** | factions, kafka | Orwell monte |
 | 11 | ⚓ Les crânes | l'ossuaire ; cran 3 | catacombes | virage gothique |
 | 12 | ✎ **Les threads** | le diagnostic lucide ; 2e retour camp ; responsables nommés | **threads** | Orwell plein *(piège)* |
