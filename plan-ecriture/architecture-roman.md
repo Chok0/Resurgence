@@ -244,6 +244,52 @@ dilaté** (terminus verrouillé — sa nudité est sa force). **À venir** : la 
 refrains-talismans encore un peu au-dessus de 2 dans les jalons (« il est encore temps », « l'unité contre
 le cœur »).
 
+---
+
+## 9. Carte de la densification — la grande passe *(la largeur ; 2026-06-30)*
+
+> *Le squelette immersif (ch.01-11) est déployé. La densification y tisse les **péripéties** du §3 : la
+> spirale, l'arc des corpus, le bunker, le fouineur, les autres équipes, l'arc intime. Cible **~22 ch.**
+> (les 11 actuels = **ancres** ; ~11 chapitres-événements neufs). Renumérotation propre une fois complet.*
+
+**⚑ Le moteur de la spirale (adapté au nouveau modèle).** **La liaison ne porte qu'en surface** (cf. « la
+défaillance d'antenne en profondeur » : le fond coupe les comms). Les **retours au camp de surface sont
+donc motivés** — c'est là, et là seulement, qu'on retrouve les ordres, le niveau 2/3 et **les autres
+équipes**. La spirale = **osciller entre l'isolement du fond (dread, *Alien*) et la reconnexion d'en haut
+(Orwell : ordres recodés, propagande, trou méta)**. Chaque descente s'enfonce ; chaque remontée resserre
+le piège. L'urgence (« vite ») tient la tension ; la logistique (air, dosimètre, ordres) force les
+remontées.
+
+**Ordre de lecture cible** *(~22 ch. ; ✎ = neuf à écrire · ⚓ = ancre déployée) :*
+
+| # | Chapitre | Fonction | Corpus / dispositif | Courbe |
+|---|---|---|---|---|
+| 01-05 | ⚓ Les marges · La liaison · Le silence · La traversée · Sous le verre | l'ouverture (comms) | — | Tolkien |
+| 06 | ⚓ La descente | 1ʳᵉ descente, les Salles, 1ʳᵉ copie | Backrooms | Ph.1→2 |
+| 07 | ✎ **Le premier retour** | 1er retour camp (la spirale s'enclenche) ; **1ʳᵉ comm vive d'une autre équipe** ; niv.2 + **1ʳᵉ note niv.3** ; **semer le fouineur** | autres équipes ; méta | Ph.2 |
+| 08 | ✎ **La halle de verre** | redescente, autre voie : la galerie marchande | **vaporwave** | Ph.2 |
+| 09 | ✎ **L'archive** | « ne se lit pas sans se voir dedans » ; le Long au bord de la lampe | **SCP** | bascule Orwell |
+| 10 | ✎ **L'ordre** | 1er ordre kafkaïen (le système sans visage) ; friction ; **fouineur palier 2** | factions, kafka | Orwell monte |
+| 11 | ⚓ Les crânes | l'ossuaire ; cran 3 | catacombes | virage gothique |
+| 12 | ✎ **Les threads** | le diagnostic lucide ; 2e retour camp ; responsables nommés | **threads** | Orwell plein *(piège)* |
+| 13 | ✎ **Le premier bruit** | 1er silence d'une autre équipe ; **le premier bruit** (soupape bête) ; Tanya↔Iov | mystère F ; bête | 1ʳᵉ teinte *Alien* |
+| 14 | ✎ **Le bunker** | site militaire (**≠ Gisement**) ; doc origines de la transcendance | data militaire | Ph.3 refissuration |
+| 15 | ✎ **Le trou** | le trou des métadonnées vu en direct (niv.3) ; suppression mécanique | méta central · résidu | *Alien* monte |
+| 16 | ✎ **Les signaux** | signaux militaires faibles ; **fouineur palier 3** ; ordre déformé (*ramener→clore*) | menace militaire | Ph.3 |
+| 17 | ✎ **Le retour recodé** | 3e retour camp ; **1er rapport recodé en propagande** | niv.2 propagande | Orwell triomphe |
+| 18 | ✎ **La dénonciation** | flashback dômes 2 : la **dénonciation fondatrice** + l'ancêtre | arc intime | Ph.3 |
+| 19 | ⚓ Le Gisement | climax : porte, froid de machine, lecture, 4/6, cran 4 | Wikipedia, threads | *Alien* sommet · Ph.4 |
+| 20-22 | ⚓ La remontée · La surface · Clore | remontée/cadence/Iov ; recodage ; **fin verrouillée** | résidus | non-repos · terminus |
+
+**Personnages à incarner (§4).** Le **chevalier-fouineur** : 7ᵉ membre, **distinct de Drev** (mission
+cachée ; micro-signaux dès le premier retour, montant par paliers 2/3) — à introduire en douceur dans la
+densification, l'équipe passant de 6 à 7. **Iov** : fil continu jusqu'à sa disparition (ch.20). **Nieve**
+: 2-3 scènes pleines. **Une voix d'autre équipe** : récurrente (dès ch.07), puis qui se tait (ch.13).
+
+**Ordre d'écriture :** dans l'ordre de lecture (07 → 18), pour tenir la montée de la courbe et la
+non-fiabilité croissante de Tanya. Fichiers neufs en noms d'insertion provisoires (`chapitre-06b-…`),
+**renumérotation propre 01→22 une fois les 11 écrits.**
+
 **À trancher (mineur).** **Une seule bouche** (les premiers et Tanya descendent par la même — cohérent ch.2,
 les croix de craie suivies) : confirmé par défaut. *Noms des premiers* : connus **à la voix seule**, aucun
 incarné en scène (un indicatif, une voix de chef — à doser).
