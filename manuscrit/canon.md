@@ -369,6 +369,36 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   > **réservé**, les 4/6 morts). Et 12 vs 15 (Le trou) : ici la **graine** (le nom disparu) ; 15 montrera le
   > **mécanisme** en direct.*
 
+- **Réalisé ✓ — « Le premier bruit »** (`chapitre-07c-le-premier-bruit.md` ; **ch.13 cible**). Descente 3
+  vers la Source. **1ʳᵉ teinte Alien** (registre charnel-paniqué). Établi au texte :
+  - **1ᵉʳ silence d'une autre équipe — l'est** : en descendant (derniers paliers où le nord porte), Iov perd
+    l'est ; **le débit des nombres passe du trop-régulier au rien** (« continué parfait deux, trois fois sur
+    le vide, puis arrêté à l'heure juste — *comme s'arrête une horloge, et non comme se tait un homme* »).
+    **Deux équipes muettes** (premiers + est) : « une panne ne se répète pas deux fois dans les mêmes mots
+    sans cesser d'être une panne ». La ligne « défaillance d'antenne » **craque** (sans être réfutée).
+  - **Tête-à-tête Tanya↔Iov (Iov incarné)** : visage maigre, mal rasé, mains qui ne tiennent pas ; « ils me
+    prennent pour fou… moi j'enregistre, c'est toi qui inventes ». **Son insight (payoff des « deux nombres
+    à la seconde juste » de l'ouverture)** : **avant de se taire, les équipes se mettent à parler comme la
+    machine** — il fait repasser l'est et **les premiers** (« *État des hommes : conforme* ») : **même
+    glissement humain→métronome**, à 20 jours d'écart, sur deux équipes qui ne se connaissaient pas. « Une
+    panne ça coupe ; ça ne se met pas à compter mieux que vivant avant de couper. » Clôt sur : *« Je ne sais
+    pas ce que c'est. Mais je sais que ça écoute. Et je sais que ça compte. »* **Tanya et Iov = les deux qui
+    paient attention** (elle lit / il écoute ; chacun garde une moitié). **Doute IA/Voix relancé** sans preuve.
+  - **Le premier bruit** (1ᵉʳ son structuré du Mvt III) : dans un boyau, **un mouvement** dans le noir —
+    *« une masse qui se serait retournée dans son sommeil, ou plusieurs choses petites se ruant ensemble »* ;
+    **irrégulier, organique** (le texte le **distingue explicitement de la cadence** : « Ce ne fut pas une
+    cadence »). **Charnel-paniqué incarné** (sept respirations, le sang aux tempes, Tanya les mains fermées,
+    Nieve recroquevillée, Drev qui vise « plutôt que d'attendre »). **Soupape « bête » forte** : une faille,
+    des **fientes sèches**, le sol **griffé de mille traces** → « une colonie délogée, une bête, le souffle
+    d'air » (dix réponses vivantes). **Triple doute tenu**, jamais montré. **Tanya craque encore** : elle
+    *« commence à vouloir avoir peur de quelque chose qui eût un nom »* (elle attend non la preuve que c'est
+    une bête, mais **que c'en soit une**). Iov **enregistre le silence d'après**.
+  - **Garde-fous** : ~1200 mots (taut voulu, amplitude basse-tension) ; « comme » surtout manière/dialogue +
+    l'image-pivot horloge/homme (écho canon « les machines s'arrêtent à l'heure juste ») ; chiasme ×2
+    justifiés (distinction cadence ; « non la preuve… mais que c'en fût une ») ; **cadence réservée NON
+    employée** (négée pour distinguer) ; italique = verbatim premiers seul (« État des hommes : conforme ») ;
+    **aucun monstre montré** ; soupape « bête » réinjectée (g26). ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.

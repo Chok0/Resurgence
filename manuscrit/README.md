@@ -42,6 +42,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **06e** | **L'ordre** | **densification** — kafka, le hall de guichets ; l'ordre sans nom ; Sorn p.2 *(→ ch.10 cible)* |
 | *(07)* | *(Les crânes — ancre)* | *l'ossuaire ; à threader vers le 2ᵉ retour (pass finale)* |
 | **07b** | **Ceux qui savaient** | **densification** — threads ; 2ᵉ retour camp ; le diagnostic + le nom expurgé *(→ ch.12 cible)* |
+| **07c** | **Le premier bruit** | **densification** — l'est se tait ; tête-à-tête Iov ; le premier bruit (1ʳᵉ teinte Alien) *(→ ch.13 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
