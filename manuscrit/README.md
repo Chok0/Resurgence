@@ -40,6 +40,8 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **06c** | **La halle de verre** | **densification** — redescente vaporwave ; mort de la liaison ; Sorn p.1.5 *(→ ch.08 cible)* |
 | **06d** | **L'archive** | **densification** — SCP, le registre-miroir ; bascule Orwell ; le Long *(→ ch.09 cible)* |
 | **06e** | **L'ordre** | **densification** — kafka, le hall de guichets ; l'ordre sans nom ; Sorn p.2 *(→ ch.10 cible)* |
+| *(07)* | *(Les crânes — ancre)* | *l'ossuaire ; à threader vers le 2ᵉ retour (pass finale)* |
+| **07b** | **Ceux qui savaient** | **densification** — threads ; 2ᵉ retour camp ; le diagnostic + le nom expurgé *(→ ch.12 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
@@ -60,4 +62,4 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 > [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) **§9**. Fichiers neufs
 > en noms d'insertion (`06b`, …) ; **renumérotation propre 01→22** une fois complet. Écrit : **06b Le premier
 > retour**, **06c La halle de verre**, **06d L'archive**, **06e L'ordre**. *(Bloc descente-2 — l'arc des
-> corpus : vaporwave → SCP → kafka — complet.)*
+> corpus : vaporwave → SCP → kafka — complet.)* **07b Ceux qui savaient** (2ᵉ retour ; threads).

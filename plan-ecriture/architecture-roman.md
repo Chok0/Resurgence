@@ -271,7 +271,7 @@ remontées.
 | 09 | ✓ **L'archive** | « ne se lit pas sans se voir dedans » ; le Long au bord de la lampe ; Sorn flicker — `chapitre-06d` | **SCP** | bascule Orwell |
 | 10 | ✓ **L'ordre** | hall de guichets ; l'ordre sans nom (friction parlée) ; **Sorn palier 2** (la face de la machine sans face) — `chapitre-06e` | factions, kafka | Orwell monte |
 | 11 | ⚓ Les crânes | l'ossuaire ; cran 3 | catacombes | virage gothique |
-| 12 | ✎ **Les threads** | le diagnostic lucide ; 2e retour camp ; responsables nommés | **threads** | Orwell plein *(piège)* |
+| 12 | ✓ **Ceux qui savaient** | 2e retour camp ; le diagnostic lucide ; **un nom encore porté au nord** → expurgé (graine trou) ; Sorn p.2.5 — `chapitre-07b` | **threads** | Orwell plein *(piège)* |
 | 13 | ✎ **Le premier bruit** | 1er silence d'une autre équipe ; **le premier bruit** (soupape bête) ; Tanya↔Iov | mystère F ; bête | 1ʳᵉ teinte *Alien* |
 | 14 | ✎ **Le bunker** | site militaire (**≠ Gisement**) ; doc origines de la transcendance | data militaire | Ph.3 refissuration |
 | 15 | ✎ **Le trou** | le trou des métadonnées vu en direct (niv.3) ; suppression mécanique | méta central · résidu | *Alien* monte |

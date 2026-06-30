@@ -327,6 +327,48 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     (friction pure) ; **aucun monstre** ; nommage tenu (« guichets », « dossiers » du panneau ; jamais
     préfecture/France). ✓
 
+- **Réalisé ✓ — « Ceux qui savaient »** (`chapitre-07b-ceux-qui-savaient.md` ; **ch.12 cible** ; planning
+  « Les threads ») — **après l'ancre Les crânes**, **2ᵉ retour camp**. **Oscillation → reconnexion** (Orwell
+  plein). Établi au texte :
+  - **2ᵉ tour de spirale** : on **remonte de l'ossuaire** (air/cadrans à bout ; « on remonte se refaire,
+    après on finit ») — dernier regroupement avant la descente finale à la Source. Beat humain de
+    décompression (thé, Vael qui dort en plaques) en **contraste** avec le diagnostic. **Liaison revient** ;
+    **l'est s'amincit** (indicatif qui repart seul, sans voix) — **graine du silence de 13** ; « on ne savait
+    pas encore qu'il fallait s'en alarmer ; on avait un ordre qui disait de ne pas s'alarmer ».
+  - **Corpus threads / cahiers de doléances (PILIER — 3ᵉ marche de l'arc : l'analyse)** : Tanya réveille des
+    **petits appareils de poche remontés du fond** (la dernière parole de leur maître). **Les dernières voix
+    de la ville** : la chaleur/l'eau/les récoltes parlées non comme un malheur du ciel mais comme **une chose
+    prévue, chiffrée, datée d'avance**. Éclats : *« on a vingt ans de marge, peut-être dix ; après ça devient
+    mécanique »* / *« alarmiste. on nous fait le coup à chaque génération. »* **Lecture lente** : non des
+    aveugles foudroyés (doctrine), mais **une espèce qui avait compris et n'avait pas su s'arrêter**.
+  - **Responsables nommés (le dangereux)** : les fils **désignent** — chiffres, dates, l'argent qu'on suit ;
+    *« tel groupe avait payé pour qu'on doutât de ce qui était certain »*. Tanya remonte un fil jusqu'à **un
+    nom propre accolé à un chiffre, un coupable qu'on se passe — un nom qu'on porte ENCORE au nord** (gravé
+    sur une fondation, donné à une maison d'étude ; *« un nom de bienfaiteur »*). **Nommage tenu** : le nom
+    n'est **jamais transcrit** (effet Lutèce ; g14) — Tanya « referme la porte », ne le note pas.
+  - **Le piège (Phase 2) — la cacophonie** : réponse de Polaris (doc niv.2, plat) recode la foule en **tumulte
+    sans tête** dont l'Architecte a sauvé l'espèce — *« il n'y a là ni preuve ni accusation : il n'y a que du
+    bruit, et le bruit ne nomme personne »*. (≠ le recodage *propagande* plein, réservé à **17**.)
+  - **Graine du trou (prose neuve, ≠ ancre)** : le lot redescend classé ; **le fil au nom a disparu** — « pas
+    raturé. Retiré, et la place refermée si bien qu'on n'y voyait pas de couture ; le reste avait glissé pour
+    combler le vide » — mention *« expurgé »*. **N'a PAS réutilisé** « comme une eau » / « elle s'était faite »
+    (réservé/laissé à l'ancre). Tanya **garde le nom** sur l'unité → **motif neuf : « deux mémoires »** (celle
+    qu'elle remonte / celle qu'elle garde ; « le dossier de ce que le nord ne voulait pas savoir »).
+  - **Sorn — palier 2.5** : il ne regarde plus l'écran (« on se ferme quand il regarde ») mais **sait** :
+    *« Un nom est monté, ce soir, qui n'aurait pas dû. Il est redescendu. Tout est en ordre. »* + *« Vous
+    lisez bien. Trop bien, peut-être, pour ce qu'on vous demande d'en faire. »* → **confirmation au texte
+    qu'on lit par-dessus l'épaule de Tanya jusqu'au nom** (la surveillance n'est plus soupçon : elle est
+    nommée). Menace feutrée, jamais un ordre.
+  - **Garde-fous** : ~1350 mots ; « comme » rationnés (cluster de la lecture allégé) ; chiasme matrice ×1-2
+    (gardé au pivot « non des aveugles, mais… ») ; **italique = verbatim mort seul** (2 éclats threads ; écho
+    « le bruit ne nomme personne » **dé-italicisé** ; « expurgé » = tampon-système quoté, gardé italique par
+    cohérence ch.2/ch.10) ; rupture d'amplitude (surface/repos → diagnostic clinique → menace feutrée) ;
+    **aucun monstre** ; nommage tenu (le nom du coupable **jamais écrit**). ✓
+  > ⚑ *Différenciation 12 vs 19 (Gisement) tenue : ici la **tête** (analyse, médiée par la liaison, le nom
+  > effacé en haut) ; le Gisement gardera le **cœur** (les voix intactes dans le froid, « il est encore temps »
+  > **réservé**, les 4/6 morts). Et 12 vs 15 (Le trou) : ici la **graine** (le nom disparu) ; 15 montrera le
+  > **mécanisme** en direct.*
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
