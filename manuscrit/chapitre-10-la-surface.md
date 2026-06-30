@@ -1,11 +1,21 @@
 # Chapitre dix — La surface
 
+> *Mvt VI, ch.10 — le retour (miroir inversé du Seuil : la surface en vraie « terre maudite ») ; **le
+> rapport recodé en propagande** (« damnés lucides ») + **le trou dans les métadonnées** ; le résidu de
+> refissuration (accès daté APRÈS le silence) ; la menace militaire en signaux faibles ; la dénonciation
+> fondatrice. **Phase 2 triomphe (le piège) + Phase 3 (un résidu).** **Passe immersive (touche légère —
+> beats Orwell verrouillés intacts).** Réorg. : [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) §8.*
+
 ### 1 — Le geste contre le jour
 
-La fournaise les reprit à la bouche nord, en plein jour, et le jour, là-haut, ne pardonnait
-rien. Le ciel pesait, blanc, sans un nuage où poser l'œil. Chaque chevalier, le pied sur la
-terre cuite, fit le bref geste contre le mauvais œil — le geste de la descente, rendu à
-l'envers. On ne savait plus très bien, à présent, de quel côté se tenait la terre maudite.
+La fournaise les reprit à la bouche nord, en plein jour, et le jour, là-haut, ne pardonnait rien. Ils
+sortirent du noir dans la lumière comme d'une eau profonde dont on remonte trop vite : le froid du
+dessous encore pris dans les os, et déjà la chaleur blanche par-dessus, qui frappait des yeux habitués au
+seul faisceau et les forçait à se clore. En bas, ils avaient fui une chose qu'ils n'avaient pas vue ; ils
+remontaient vers le soleil qui brûlait de la colère des anciens — et c'était là, désormais, qu'il fallait
+respirer. Le ciel pesait, blanc, sans un nuage où poser l'œil. Chaque chevalier, le pied sur la terre
+cuite, fit le bref geste contre le mauvais œil — le geste de la descente, rendu à l'envers. On ne savait
+plus très bien, à présent, de quel côté se tenait la terre maudite.
 
 Le camp tenait à la lisière de l'ombre, sous ses bâches étayées, dans l'air qu'on pouvait
 encore boire une heure sans masque. Au-delà s'ouvrait l'étendue sans bord : les ruches de
