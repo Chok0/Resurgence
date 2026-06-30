@@ -129,6 +129,7 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 | **Vael** | chevalier, le plus jeune | dévot sincère ; mène la prière ; descend le premier ; sa peur dans les galeries | ch.1 sc.3 | [fiche](../personnages/equipe/vael.md) |
 | **Iov** | technicien du signal — *le paranoïaque* | écoute le silence des premiers ; dérangeant sans être fiable ; Ostrov le fait taire ; **enregistre la cadence** (ch.5) puis **disparaît** entre deux camps, fil intact — sort indéterminé | **ch.1** → disparu **ch.5** | [fiche](../personnages/equipe/iov.md) |
 | **Drev** | chevalier, plus vieux et **dur** (foil de Vael) | prie « comme on charge une arme » ; « on descend peut-être les ramasser » | ch.1 | — |
+| **Sorn** | « chevalier »-fouineur — **7ᵉ membre** (fil surveillance/mémoire, **distinct de Drev**) | rejoint au 1ᵉʳ retour camp, « envoyé pour le fond / pour la Source » ; porte l'étoile mais **ne prie pas** ; surveille la **liaison** et **ce que Tanya garde** (lit son écran à deux colonnes) ; tablette de notes que nul ne lui a vue ; visage long et gris. **Micro-signaux (palier 1)** ; montée prévue paliers 2/3 (archi §9). ⚠️ **À threader** dans le milieu densifié + ch.08-11 (présent au fond ; sort — recede/révélation — à trancher) | Le premier retour (insertion 06b) | — |
 
 ## L'ouverture — la zone et la liaison *(les premiers : entendus, jamais vus)*
 > ⚑ Modèle validé (brief auteur). On **ne quitte jamais Tanya** ; les premiers existent **par la liaison
@@ -175,6 +176,55 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
   (gagner la bouche nord, rétablir la liaison, sécuriser, *établir le sort de l'équipe de tête*) ;
   Drev : « Dix jours. On descend peut-être les ramasser. » **Appétit honteux de Tanya** (le Gisement la
   tire plus fort que la peur — son moteur ; à ne pas dire).
+
+## Densification — la largeur *(la grande passe ; cf. [archi §9](../plan-ecriture/architecture-roman.md))*
+> Chapitres-événements neufs tissés entre les ancres (01-11). Fichiers en noms d'insertion provisoires
+> (`chapitre-06b-…`) ; **renumérotation propre 01→22** une fois les ~11 écrits.
+
+- **Réalisé ✓ — « Le premier retour »** (`chapitre-06b-le-premier-retour.md` ; **ch.07 cible**, entre *La
+  descente* 06 et *Les crânes* 07). **1ᵉʳ tour de la spirale.** Établi au texte :
+  - **Le moteur de la spirale.** **La liaison ne porte qu'en haut** : en descendant, le grésil épaissit de
+    palier en palier jusqu'au souffle sur rien ; le **Gisement/la Source est plus bas que la liaison ne
+    porte** (« défaillance d'antenne en profondeur » — le mot des premiers, repris des dômes). On **remonte
+    au camp** avant le fond profond : air compté, **cadrans de poignet à vider**, rapport qui ne se porte pas
+    d'en bas, règle d'Ostrov. → l'**oscillation** isolement-du-fond / reconnexion-d'en-haut est posée comme
+    ossature (et comme courbe de genre : Orwell remonte avec la liaison). *Cohérent ch.06 (la liaison tenait
+    encore aux Salles, jour 14 ; elle meurt **plus bas**).*
+  - **1ʳᵉ comm vive d'une autre équipe — ceux de l'est** (la grosse équipe à la halle de machines, déjà
+    entendue ch.01). **Échange vif** (plus seulement écouté) : worldbuild *par la parole* — le **feu du ciel**
+    tombé sur un pays « plein à ras bord », **un siècle d'abandon** (« cent ans d'arriéré »), les trouvailles
+    (leurs carcasses de fer sans nom / les colonnes de Tanya), l'eau comptée, le soleil. **Le silence des
+    premiers commence à se savoir** : l'est aussi les a perdus (« trois semaines de nombres puis couic »),
+    **doute ouvert sur « l'antenne en panne »** (« une équipe entière, à l'heure juste, qui rouvre plus
+    jamais »). Le chef de l'est a **son propre tic de signaleur** (« faites compter vos hommes… à l'heure
+    juste, pas un de moins ») — *distinct de « tiens le fil »*, qui reste réservé aux premiers.
+  - **Glitch / doute IA-Voix** : dans un creux du signal, **une voix trop régulière** cale un **éclat
+    verbatim** du monde mort — *« cette station est fermée définitivement »* (continuité de l'éclat ch.03/
+    canon). **Soupape rationnelle** posée aussitôt (Iov : « une vieille borne qui rejoue ») — **triple doute
+    tenu** (panne / filtrage / autre chose). *Aucun monstre.*
+  - **Le septième — Sorn** (voir table). **Chevalier-fouineur semé** (palier 1) : un homme de plus sous la
+    bâche, **rejoint pour le fond**, qui **n'a rien d'un chevalier au repos** (ne prie pas, ne nettoie pas son
+    arme) et **écoute la liaison** ; à la fin, lit par-dessus l'épaule de Tanya son **écran à deux colonnes**
+    (« Vous gardez tout, vous autres »), se nomme, **rabat sa visière**. **Fil surveillance/mémoire**, **≠
+    Drev** (militaire). L'équipe passe de **6 à 7**.
+  - **Niv.2 (ordre)** : registre administratif plat (garde-fou 10) — pousser vers **la Source sous la couche
+    où la liaison ne porte plus** ; **« le contact sera rompu durant la descente profonde : nulle alarme »**
+    (les dômes *écrivent d'avance qu'ils ne s'inquiéteront pas*) ; compter les hommes descente/remontée ;
+    « défaillance d'antenne présumée » pour les premiers.
+  - **1ʳᵉ note niv.3 (le méta).** Tanya confronte les **notes de travail des premiers** (brut gardé par Iov)
+    à la version **redescendue des dômes**, classée. Une note de l'avant-dernier jour — *« froid anormal
+    derrière la porte. quelqu'un l'entretient… »* — **a été ôtée** de la version officielle (pas raturée :
+    retirée, « refermée par-dessus »). **Dix raisons rationnelles** (relais, tri d'usage), aucune qui
+    explique que le tri tombe **juste** sur les six mots où un mort dit qu'au fond *quelque chose entretient
+    le froid*. Tanya **garde les deux versions** (l'amputée et l'entière) sur l'unité non déclarée, **sans
+    plan**. → graine du **trou méta** (niv.3, culmine ch.15) ; **la main retouche jusqu'aux notes des morts**
+    (vérité d'auteur tue ; jamais énoncée). Distinct de l'expurgation ch.06 (son propre lot) et de l'omission
+    ch.07 (sa propre main).
+  - **Garde-fous** : 2082 mots ; « comme » rationnés (clauses de manière / dialogue surtout) ; chiasme « pas
+    X c'était Y » ×2 ; **aucun refrain réservé** sur-employé ; **italique = verbatim mort seul** (l'ordre
+    cité par Ostrov dé-italicisé) ; rupture d'amplitude (l'échange chaud/parlé vs l'ordre clinique) ; Tanya
+    **agit** (mène la confrontation des versions, garde). Nommage tenu (« le pays », « d'ici » ; jamais
+    France). ✓
 
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
