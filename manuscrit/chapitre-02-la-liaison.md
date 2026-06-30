@@ -12,7 +12,14 @@ l'aiguille basse, quand le soleil n'avait pas encore son plein venin ; on ouvrai
 relevait, on prélevait ce qui se laissait prélever sans tomber en poussière ; et quand l'aiguille
 approchait du rouge, on rentrait, on buvait l'eau tiède qui sentait le bidon, on attendait que le jour
 baisse. Tanya travaillait vite et propre — c'était la seule chose qu'elle sût faire sans se poser de
-question. Le reste de la journée tenait dans l'attente du soir.
+question. Ce jour-là, elle avait passé la matinée dans une maison basse dont le toit avait tenu : trois
+pièces, un escalier mangé, et au fond, sous une couche de sable fin comme de la cendre, une table encore
+mise. Pas mise — laissée. Des assiettes empilées qu'on n'avait pas desservies, un verre couché, et dans
+un tiroir gonflé d'une humidité ancienne, des papiers soudés en bloc que cent ans de froid n'avaient pas
+tout à fait mangés. Elle les data au toucher — à l'épaisseur, à la couleur de la tranche — et les glissa
+dans un sachet scellé sans les ouvrir : un bloc pareil, on ne l'ouvrait pas sur place, on le perdait.
+Elle nota la maison, la pièce, la place exacte de la table laissée. Le reste de la journée tenait dans
+l'attente du soir.
 
 Car le soir, on écoutait. Sous le mât, Iov ouvrait le poste, et le secteur entrait dans la tente. Tanya
 avait pris l'habitude de s'asseoir près de lui, sur le caisson retourné, et d'écouter sans rien dire les
@@ -60,6 +67,13 @@ en rang qui montaient se perdre où la lampe ne portait plus. Et dans les colonn
 chercha son compte et ne le trouva pas : plus de monde mort qu'on n'en avait jamais remonté. Pas des os.
 De la mémoire. Un siècle entier, gardé au froid, intact, qui n'attendait que des mains pour reparler.
 
+Dans la tente, personne ne bougeait plus. Nieve s'était arrêtée, une gamelle à la main ; les deux
+chevaliers, qui jouaient aux osselets dans un coin, avaient suspendu leur partie, et le plus vieux, sans
+s'en apercevoir, avait porté le pouce à l'étoile de sa poitrine. Même Ostrov écoutait sans bouger, avec
+le pli de bouche qu'il prenait quand un chiffre l'inquiétait. La voix du chef remplissait la toile,
+hachée, lointaine, débordante, et chacun y mesurait autre chose : un lieu, un tonnage, une peur, une
+faim.
+
 Tanya, près du poste, avait cessé de respirer. Elle voyait la salle sans la voir ; elle l'avait vue cent
 fois en plus petit — un disque sauvé, une image recollée, trois mots au dos d'une photographie. Mais un
 siècle debout, qui avait gardé sa voix tout entière... Toute sa vie elle avait ramassé des éclats dans le
@@ -89,8 +103,11 @@ dit non, compta son eau. La voix morte ne revint pas. Et à mesure que les nuits
 penser — tous, sauf Iov, qui ne cessait jamais de rien.
 
 Il y avait, dans les deux nombres des premiers, quelque chose qui le tenait éveillé et qu'il fut long à
-nommer. Un soir que les autres dormaient et que le poste ne donnait plus que le souffle du fil, il le dit
-à Tanya, à elle seule, à mi-voix.
+nommer. Un soir que les autres dormaient — on entendait Nieve respirer lourd au fond de la tente, et
+dehors le vent passer sur les haubans du mât —, il resta au poste après l'heure. Le froid s'était glissé
+sous la toile ; il avait jeté une couverture sur ses épaules sans lâcher l'écouteur. Tanya ne dormait pas
+davantage ; elle vint s'asseoir près de lui dans le noir. Il lui dit alors, à elle seule, à mi-voix, ce
+qu'il avait fini par nommer.
 
 « Leurs relevés arrivent trop justes.
 
