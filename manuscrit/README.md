@@ -37,6 +37,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **05** | **Sous le verre** | 1ᵉ jet — flashback aux dômes *(ex-1c)* |
 | **06** | **La descente** | 1ᵉ jet — 1ʳᵉ descente, les Salles de l'Oubli *(ex-2)* |
 | **06b** | **Le premier retour** | **densification** — 1ᵉʳ tour de spirale ; comm vive (ceux de l'est) ; niv.3 méta ; Sorn semé *(→ ch.07 cible)* |
+| **06c** | **La halle de verre** | **densification** — redescente vaporwave ; mort de la liaison ; Sorn p.1.5 *(→ ch.08 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |
@@ -56,4 +57,4 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 > fouineur (Sorn), les autres équipes, l'arc intime — cible **~22 ch.** Carte et ordre d'écriture (07→18) :
 > [`../plan-ecriture/architecture-roman.md`](../plan-ecriture/architecture-roman.md) **§9**. Fichiers neufs
 > en noms d'insertion (`06b`, …) ; **renumérotation propre 01→22** une fois complet. Écrit : **06b Le premier
-> retour**.
+> retour**, **06c La halle de verre**.

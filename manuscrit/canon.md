@@ -226,6 +226,40 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     **agit** (mène la confrontation des versions, garde). Nommage tenu (« le pays », « d'ici » ; jamais
     France). ✓
 
+- **Réalisé ✓ — « La halle de verre »** (`chapitre-06c-la-halle-de-verre.md` ; **ch.08 cible**, entre *Le
+  premier retour* et *L'archive*). **Redescente vers la Source par la voie basse**, l'équipe à **sept**
+  (Sorn intégré ; Ostrov compte sept et n'aime pas le chiffre ; Drev jaloux de son rang). Établi au texte :
+  - **Corpus vaporwave déployé** : une **galerie marchande enfouie** (« un marché couvert », dit Tanya
+    clinique / un **temple** pour les chevaliers). Carreaux de **verre teinté** (callback ch.04, la façade
+    de surface vers quoi Tanya avait quitté le rang) ; escalier de métal figé ; vasque sèche ; **arbres qui
+    n'avaient jamais bu** (plastique) ; **mer peinte** au mur (Vael n'a jamais vu la mer) ; **le petit peuple
+    de cire** (mannequins — soupape : Drev recule puis voit le bras tombé ; Nieve : « de la poupée ») ; **les
+    icônes** (portraits géants de gens « trop beaux pour avoir jamais existé », souriant à personne, le
+    regard au point lointain — **rime avec l'Architecte**). Éclats verbatim : *« l'été toute l'année »*
+    (Tanya pense au cadran rouge, **ne glose pas**) ; *« vous êtes ici »* (plan du marché, près de la croix).
+  - **Lecture lente (le malaise — 1ʳᵉ marche de l'arc des corpus)** : un été qu'on s'est fait sous terre
+    contre le noir — « incapable de quitter le monde qui les tuait, ni d'y croire tout à fait » ; beauté
+    faite de malaise. **Montré, à peine glosé** (une ligne d'image : « comme on chante plus haut dans le
+    noir »). Tanya **garde une babiole de verre**, sans s'être vue le décider (le copiste mûrit, opaque à
+    elle-même).
+  - **Sorn — palier 1.5** : il ne regarde ni les poupées ni la mer, **il étudie les icônes** (les anciens
+    *heureux et beaux* = contre-preuve de la doctrine). Probe à Tanya : « On nous apprend qu'ils étaient
+    malheureux. Vous trouvez qu'ils ont l'air malheureux ? » — *non le doute, mais la mesure de l'écart*, et
+    qui dans l'équipe le voit. Puis il **relève le code de chaque grand portrait** (les plus heureux) — « pour
+    qu'on les remonte, ou pour qu'on ne les remonte pas » : Tanya ne sait pas, pressent **deux mains chez le
+    même homme**. (Fil mémoire/suppression, ≠ Drev.)
+  - **Trace des premiers** : **croix de craie** au fond de la halle (ils ont traversé « l'été des anciens »
+    par la même voie sûre, vers ce qui les attendait) — entendus/tracés, jamais vus.
+  - **Mort de la liaison (oscillation actée)** : le nord s'amincit de palier en palier (fil → souffle →
+    grésil sans fond) ; au bout de la halle **Iov range l'écouteur : « On est sourds »**. **Dernier lieu
+    mondain avant le muet** ; on entre dans la jambe d'isolement (*Alien* monte). Fin sèche : le dernier
+    reflet bleu meurt sur le dos de Vael, qui prie plus vite.
+  - **Garde-fous** : 1582 mots ; « comme » surtout manière/dialogue (figurés rationnés) ; chiasme « pas X
+    c'était Y » ×1-2 (gardé au pivot double-lecture) ; **2 éclats verbatim** (dosage) ; **ligne lyrique-métier
+    bannie évitée** (« rendre à la lumière » coupée, g4) ; rupture d'amplitude (set-piece lush → Sorn clinique
+    → fin sèche) ; soupape « bête » tenue (la cire) ; **aucun monstre**. Nommage tenu (« marché couvert »,
+    « réclames » — jamais centre commercial/Paris). ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
