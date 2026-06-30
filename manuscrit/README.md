@@ -44,6 +44,7 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 | **07b** | **Ceux qui savaient** | **densification** — threads ; 2ᵉ retour camp ; le diagnostic + le nom expurgé *(→ ch.12 cible)* |
 | **07c** | **Le premier bruit** | **densification** — l'est se tait ; tête-à-tête Iov ; le premier bruit (1ʳᵉ teinte Alien) *(→ ch.13 cible)* |
 | **07d** | **Le réduit** | **densification** — le bunker militaire ; « une voix qui ne meurt pas » (refissuration) ; les armes *(→ ch.14 cible)* |
+| **07e** | **La main absente** | **densification** — le trou vu en direct (le tri dans l'unité même) ; méta central *(→ ch.15 cible)* |
 | **07** | **Les crânes** | 1ᵉ jet — l'ossuaire *(ex-3)* |
 | **08** | **Le Gisement** | 1ᵉ jet — climax de la descente *(ex-4)* |
 | **09** | **La remontée** | 1ᵉ jet — le repli, la disparition d'Iov *(ex-5)* |

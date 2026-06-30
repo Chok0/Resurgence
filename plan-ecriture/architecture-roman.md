@@ -274,7 +274,7 @@ remontées.
 | 12 | ✓ **Ceux qui savaient** | 2e retour camp ; le diagnostic lucide ; **un nom encore porté au nord** → expurgé (graine trou) ; Sorn p.2.5 — `chapitre-07b` | **threads** | Orwell plein *(piège)* |
 | 13 | ✓ **Le premier bruit** | l'est se tait (2 équipes muettes) ; tête-à-tête Iov (le glissement humain→machine) ; le premier bruit (soupape bête) — `chapitre-07c` | mystère ; bête | 1ʳᵉ teinte *Alien* |
 | 14 | ✓ **Le réduit** | bunker de continuité (≠ Gisement ; où les responsables se sont terrés) ; « une voix qui ne meurt pas » → doute IA à son comble (3 statuts) ; Drev/les armes — `chapitre-07d` | data militaire | Ph.3 refissuration |
-| 15 | ✎ **Le trou** | le trou des métadonnées vu en direct (niv.3) ; suppression mécanique | méta central · résidu | *Alien* monte |
+| 15 | ✓ **La main absente** | le trou vu EN DIRECT, dans l'unité même (tri local, automatique, sans main) ; Tanya = instrument d'effacement sans le savoir — `chapitre-07e` | méta central · résidu | *Alien* monte |
 | 16 | ✎ **Les signaux** | signaux militaires faibles ; **fouineur palier 3** ; ordre déformé (*ramener→clore*) | menace militaire | Ph.3 |
 | 17 | ✎ **Le retour recodé** | 3e retour camp ; **1er rapport recodé en propagande** | niv.2 propagande | Orwell triomphe |
 | 18 | ✎ **La dénonciation** | flashback dômes 2 : la **dénonciation fondatrice** + l'ancêtre | arc intime | Ph.3 |

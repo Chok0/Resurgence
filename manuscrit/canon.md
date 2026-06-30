@@ -438,6 +438,40 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
     aucune assertion sèche ; doute triple) ; nommage tenu (« le Grand Chaos », dates, « nucléaire » jamais
     écrits) ; **aucun monstre**. ✓
 
+- **Réalisé ✓ — « La main absente »** (`chapitre-07e-la-main-absente.md` ; **ch.15 cible** ; planning « Le
+  trou »). **Cœur du niveau 3 méta** ; *Alien* monte. Établi au texte :
+  - **Résidu Alien (le dernier palier)** : sous le réduit, plus que la Source ; le **froid de machine monte
+    à leur rencontre** ; aux haltes, *« un souffle très loin »* (≠ bruit de la faille, ≠ cadence guettée) mis
+    « sur le compte de l'air, faute de pouvoir le mettre sur autre chose ». **Équipe qui se tait** (Vael prie
+    en tête sans répit ; Nieve a cessé de manger ; « elle se taisait, ce qui vient avant »).
+  - **⚑ Le trou vu EN DIRECT (escalade centrale)** : Tanya range le rêve du réduit sur **l'unité déclarée**.
+    Elle inscrit *« une instance qui parlerait au nom des morts »* — **la ligne pâlit et se referme**, l'index
+    se reforme **lisse** ; le journal ne porte qu'une routine, *« tri d'usage — conformité »* — **pas de main,
+    pas de nom, et l'unité reliée à rien** (mille pieds sous la liaison). **Test répété** : la ligne, le **nom
+    du coupable** (07b), *« froid anormal, quelqu'un l'entretient »* (note des premiers) → **refermés** ; une
+    banalité (longueur de couloir, compte des couchettes) → **reste**. « La main qui triait n'était pas
+    aveugle… et elle n'était la main de personne. »
+  - **La révélation (sa croyance brisée)** : elle croyait le tri *en haut, par d'autres, sans elle* (canon ch.1
+    — sa croyance de petite main) ; **le tri est dans l'outil**, tourne tout seul, sur chaque mot dès qu'on le
+    pose ; ce qu'elle a fait remonter des années « était passé d'abord par cette coupe muette ». **Elle a été
+    un instrument d'effacement sans le savoir** : « la main par où passait la main absente » (incarné : elle
+    regarde ses mains, « rien d'un bourreau ; on n'avait pas eu besoin qu'elles le fussent »). ⚑ **g19 tenu** :
+    l'authorlessness rendue par **l'ACTE** (journal sans nom), **pas** par la formule bannie « elle s'était
+    faite ».
+  - **« Deux mémoires » durci** : elle réinscrit tout sur **l'unité non déclarée** (rien là pour rendre
+    conforme) → la déclarée *« qui se vide toute seule de ce qui compte »* / la vraie *« qui le garde, et qui
+    n'existe pas »*. **Iov** la surprend (deux écrans), elle **ne lui montre pas** — « une prudence neuve et
+    laide, qui ressemblait déjà à celle du nord » (elle garde même de ceux qui gardent les mêmes choses).
+    Iov : *« Range bien. En bas, ils auront tout pris »* (« ils » = tout ce qui prend hommes et paroles sans
+    qu'on voie de main).
+  - **Continuité/escalade vs ancres** : approfondit l'« expurgation d'usage » (ch.2/ch.10) — la suppression
+    n'est plus seulement *en haut* mais **automatique et locale** ; **distinct du trou de l'ancre ch.10** (là,
+    le bloc des responsables disparaît *en haut, au retour* — ici, **le mécanisme vu sous ses doigts, en bas**).
+  - **Garde-fous** : ~1210 mots (densifié depuis 1000 : résidu Alien + incarnation des mains) ; « comme » ×3 ;
+    chiasme ×1 (le pivot « pas un nord au loin / l'instrument par ses mains ») ; **formule g19 bannie évitée** ;
+    italique = artefacts textuels à l'écran (relevé/journal/note) ; *« ils »* **dé-italicisé** (g24) ;
+    **aucun monstre** ; doute (le souffle) tenu. ✓
+
 ## Monde — termes & faits posés
 - **L'étoile de Polaris** : emblème du régime, frappé sur le cœur des combinaisons.
 - **Les dômes** : habitat de Polaris (arctique). Lieu de l'internat des orphelines.
