@@ -44,8 +44,8 @@ Ils partirent scellés, dans le gris d'avant l'aube, et le gris ne dura pas. Le 
 sol d'un coup, sans matin, comme d'une fournaise qu'on ouvre ; en une heure la lumière passa de
 l'ocre au blanc, et le blanc écrasait les ombres, effaçait les reliefs, faisait de chaque rue un
 four pâle. Tanya marchait la nuque ployée, le souffle court dans le masque, la sueur courant sous
-la combinaison sans qu'elle pût l'essuyer. La fournaise était un poids sur les épaules, un goût de plastique chaud au
-fond de la gorge.
+la combinaison sans qu'elle pût l'essuyer. La fournaise pesait sur la nuque et les reins, et laissait au
+fond de la gorge un goût de plastique chaud.
 
 Et tout autour, la ville tenait debout : des rues. Des
 maisons basses aux fenêtres vides, des pans de mur percés de portes qui battaient au vent chaud,
@@ -96,7 +96,7 @@ des cordes d'un instrument trop grand pour des mains. À son pied, le sol était
 tombées, énormes, qu'il fallait contourner.
 
 Les chevaliers firent le mauvais œil en entrant dans son ombre. Vael leva la tête et ne la baissa
-pas tout de suite. Personne, à Polaris, ne savait plus à quoi elle avait servi — personne, sauf
+pas tout de suite. Nul, à Polaris, ne savait plus ce qu'elle avait porté — nul, sauf
 peut-être les plus lettrés, qui en gardaient un nom dans de vieux recueils ; un nom que Tanya
 connaissait, et qu'elle ne dit pas. Ce qu'on en disait dans les équipes, c'est qu'elle marquait
 le cœur de la cité, et que les anciens l'avaient dressée pour se croire plus hauts que le ciel —
