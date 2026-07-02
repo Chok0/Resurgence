@@ -49,7 +49,7 @@ avait pas demandée et qu'elle ne donnerait à personne.
 
 ### 3 — Le transport
 
-Le transport vint au matin. On chargea. Les caissons à verser montèrent les premiers, comptés,
+Le transport vint au matin. On chargea. Les caissons à verser montèrent d'abord, comptés,
 signés ; celui que les chevaliers avaient mis à part monta aussi, sans compte ni signature, et
 nul ne le releva. Drev le suivit des yeux jusqu'à ce qu'il fût sanglé. Ce fut tout.
 
@@ -65,7 +65,7 @@ ou son propre sang dans ses oreilles, à elle qui n'avait pas dormi depuis l'oss
 montait, et cela ne disait rien, et il n'y avait plus personne à qui le faire repasser.
 
 Elle ne se retourna pas vers les autres pour savoir s'ils l'entendaient. Elle ne voulait pas
-apprendre qu'ils ne l'entendaient pas. Elle resta là, l'unité contre l'étoile, entre le noir
+apprendre qu'ils ne l'entendaient pas. Elle resta là, l'unité contre elle, entre le noir
 clos qui gardait ses morts et la lumière du nord qui attendait sa parole, et elle écouta —
 sans pouvoir dire, sans plus vouloir dire, si c'était une machine, ou les morts, ou elle.
 

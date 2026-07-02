@@ -9,7 +9,7 @@
 ### 1 — Le fil à l'envers
 
 On remonta plus vite qu'on n'était descendu, et pourtant chaque pas coûtait davantage. On suivait le fil
-à l'envers, les flèches des premiers dans le dos maintenant, pointées non plus vers où l'on allait, mais
+à l'envers, les flèches des premiers dans le dos maintenant, pointées
 vers ce qu'on fuyait. Personne ne parlait — ni du Gisement laissé dans son froid, ni des quatre, ni des
 deux qu'on n'avait pas trouvés. On marchait, et l'on écoutait : non plus le bas qui ne répondait pas,
 mais le noir tout autour, qui ne disait rien non plus, et dont le silence avait changé de poids. Il était
@@ -29,7 +29,7 @@ demander — combien d'entre eux remonteraient.
 ### 2 — Ce qu'Iov entendit
 
 Iov s'arrêta le premier. Il avait gardé son écouteur, par manie, branché sur rien — le bas s'était tu
-depuis vingt jours, et le relais de Polaris ne portait pas si profond. Sur rien. Et sur ce rien, son
+depuis près d'un mois, et le relais de Polaris ne portait pas si profond. Sur rien. Et sur ce rien, son
 boîtier avait pris quelque chose.
 
 Il le repassa. Une fois pour lui, le visage fermé ; une fois pour Ostrov ; une fois pour Tanya, qui se
@@ -44,10 +44,13 @@ Gisement. Ils étaient passés à côté sans rien percevoir ; la machine, elle,
 
 « La machinerie du Gisement, dit Ostrov. Une pompe qui tient encore. Le froid, la pression.
 
-— À cette distance ? dit Iov. On est à un jour de marche au-dessus. Et ça ne tient pas, ça monte. »
+— À cette distance ? dit Iov. On est à un jour de marche au-dessus. Et ça ne tient pas, ça monte. » Il
+baissa la voix. « Et ce n'est pas la bande des salves. Les salves se répondent. Ça, ça ne parle à
+personne. »
 
 Tanya écouta une quatrième fois, seule, l'écouteur pressé sur une oreille, les yeux fermés. La cadence
 était là, faible, têtue, régulière. Elle pouvait être cent choses : une pompe, un écho dans les conduits,
+une bête au pas égal dans un puits, des hommes plus bas qu'eux,
 le défaut du boîtier d'un homme qui voyait des mains partout. Elle pouvait n'être rien. Elle rendit
 l'écouteur.
 
@@ -68,10 +71,10 @@ chercher qui espère ne pas trouver. Vael cherchait en priant, ce qui n'aide pas
 arrêter avant qu'un autre ne s'égarât à son tour.
 
 Tanya pensa à la cadence qu'Iov avait été seul à prendre au sérieux. Elle pensa à Drev, qui ne cherchait
-pas. Elle compta, elle aussi : les deux du Gisement, et Iov maintenant — trois qu'on ne ramènerait pas ;
+pas, et aux ordres que d'autres, dans le rang, servaient sans les dire. Elle compta, elle aussi : les deux du Gisement, et Iov maintenant — trois qu'on ne ramènerait pas ;
 et nul n'aurait su dire si ce qui les prenait, un par un, montait du bas, ou venait d'eux-mêmes.
 
 On remonta les derniers paliers en silence. Tout en haut, loin, une tache de jour cru finit par percer le
 noir — la surface, la fournaise, Polaris, et le rapport qu'il faudrait écrire. Tanya monta vers la lumière
 avec la dispute des morts contre sa poitrine, et laissa derrière elle, dans le noir qu'on ne rouvrirait
-plus, le Gisement et ses gardiens, la cadence patiente, et tout ce qu'on n'avait pas su.
+plus, le Gisement et ses gardiens, et la cadence patiente.

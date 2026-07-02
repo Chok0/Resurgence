@@ -14,21 +14,20 @@ dessous encore pris dans les os, et déjà la chaleur blanche par-dessus, qui fr
 seul faisceau et les forçait à se clore. En bas, ils avaient fui une chose qu'ils n'avaient pas vue ; ils
 remontaient vers le soleil qui brûlait de la colère des anciens — et c'était là, désormais, qu'il fallait
 respirer. Le ciel pesait, blanc, sans un nuage où poser l'œil. Chaque chevalier, le pied sur la terre
-cuite, fit le bref geste contre le mauvais œil — le geste de la descente, rendu à l'envers. On ne savait
+cuite, fit le bref geste contre le mauvais œil. On ne savait
 plus très bien, à présent, de quel côté se tenait la terre maudite.
 
 Le camp tenait à la lisière de l'ombre, sous ses bâches étayées, dans l'air qu'on pouvait
 encore boire une heure sans masque. Au-delà s'ouvrait l'étendue sans bord : les ruches de
 pierre du peuple d'avant, debout et vidées jusqu'au tremblé de l'horizon — et seulement par
-plaques, là où le sol avait cédé, la steppe brûlée qui mordait. Plantée au milieu, loin, la grande forme de fer que les équipes
-de recyclage appelaient la Lance, restée droite dans la chaleur quand tout le reste s'était
+plaques, là où le sol avait cédé, la steppe brûlée qui mordait. Plantée au milieu, loin, la Lance,
+restée droite dans la chaleur quand tout le reste s'était
 affaissé autour d'elle. Plus loin encore, sous une autre lumière qu'on ne reverrait pas avant
 des semaines, il y avait les dômes. On les portait en tête comme une adresse.
 
 Ils tombèrent les casques. L'air sentait la pierre chaude et le plastique des bâches. Nieve
-s'assit sans un mot, sa ration toujours dans sa poche, et regarda ses mains. Vael remercia
-l'Architecte à voix basse, longuement, pour la lumière rendue — la même lumière qui, en bas,
-eût été une grâce, et qui n'était ici qu'un châtiment de plus. Drev ne remercia personne. Il
+s'assit sans un mot, sa ration toujours dans sa poche. Vael remercia
+l'Architecte à voix basse, longuement, pour la lumière rendue. Drev ne remercia personne. Il
 avait déjà sorti son propre boîtier de liaison et s'était mis à l'écart, le dos tourné, à
 parler bas dans son masque.
 
@@ -64,8 +63,7 @@ son unité et celle des premiers, et mit le Gisement en forme pour Polaris.
 
 C'est en datant les blocs qu'elle vit la chose.
 
-La dernière lecture des premiers — la dispute des morts, le fil où l'on s'obstinait qu'il
-était encore temps — portait une marque d'accès. Toute donnée en portait une : la dernière
+La dernière lecture des premiers portait une marque d'accès. Toute donnée en portait une : la dernière
 main qui l'avait réveillée. Celle-ci était datée de trois jours après le dernier mot des
 premiers à Polaris. Trois jours après leur silence, quelqu'un, en bas, avait rouvert ce
 fichier et l'avait lu.
@@ -103,29 +101,27 @@ Puis elle ouvrit l'index de ce qui était monté et de ce qui redescendait class
 chercha le bloc où les morts avaient nommé les responsables — les vrais, ceux qu'ils tenaient
 pour cause de la fin, avec leurs chiffres et leurs noms. Le bloc n'y était plus. Pas raturé,
 pas marqué interdit : retiré, et l'index refermé par-dessus comme une eau, sans une ride, sans
-une main au bas pour dire qui. *Expurgation d'usage,* portait la seule ligne. C'était la
-procédure. Personne ne l'avait faite ; elle s'était faite.
+une main au bas pour dire qui. « Expurgation d'usage », portait la seule ligne. C'était la
+procédure.
 
 ### 3 — Le double
 
 Cette nuit-là, Tanya ne dormit pas — elle n'avait plus guère dormi depuis l'ossuaire — et
-elle vit ce qu'on voit quand on ne dort pas. Elle vit que Drev gardait sa propre liaison, qui
+elle vit ce qu'on voit quand on ne dort pas. Elle vit que Drev ne se cachait même plus de sa
+liaison à lui, qui
 montait sans passer par Ostrov et redescendait pour lui seul. Elle vit qu'un des caissons
 scellés des premiers n'était pas dans le compte de ce qu'on verserait : les chevaliers
 l'avaient mis à part, et nul ne l'avait relevé. Elle vit que l'ordre de repli, redescendu visé,
-ne disait pas tout à fait ce qu'Ostrov avait demandé — un mot avait bougé, un seul, de
-*ramener* à *clore* — et qu'on ne pouvait dire si c'étaient les relais ou une main.
+portait encore le mot qu'on avait mis à la place de celui d'Ostrov — « clore » pour
+« ramener » — et, cette fois non plus, on ne pouvait dire si c'étaient les relais ou une main.
 
 Elle n'en conclut rien. On ne pouvait rien conclure : la fatigue des liaisons, la poisse des
 relais, un caisson oublié dans la hâte, tout cela existait. Mais elle pensa à Iov, qui n'était
 plus là, et à Drev qui n'avait pas cherché, et elle rangea la pensée avec les autres choses
 qu'elle ne portait sur aucun relevé.
 
-Une fois déjà, elle avait donné un nom à Polaris. C'était loin, aux dômes, avant les
-missions ; elle était jeune, elle avait dit ce qu'elle avait vu — ou ce qu'elle avait cru
-voir, ou ce qu'on lui avait fait dire, elle ne savait plus, et le ne-plus-savoir était devenu
-la forme même du souvenir. Quelqu'un était tombé pour ce nom. Elle s'était répété, des années,
-qu'elle n'avait pas su ce qu'elle faisait. Elle n'avait jamais réussi à se le dire tout à fait.
+Elle pensa à la vieille qui lavait les sols, et au nom qu'elle avait donné une fois, et qu'on
+ne rendait pas.
 
 Maintenant, elle ne donnait plus tout à fait comme avant. Mais ce qu'elle retenait, elle ne
 savait pas encore qu'en faire, ni si elle oserait le garder jusqu'au bout. Sous la bâche, dans
@@ -134,6 +130,5 @@ campement, et depuis le Gisement tout ce que le rapport propre laisserait en bas
 n'était pas encore posée. Demain, elle le serait.
 
 Demain, le transport viendrait. Il faudrait remettre le rapport — signé, propre — et
-redescendre une dernière fois clore le site ; *clore,* disait l'ordre, à présent. Au nord, sous
-l'autre lumière, on attendait sa parole. Elle l'avait déjà, sa parole. Elle ne savait pas encore
-lequel des deux mondes elle allait trahir.
+redescendre une dernière fois clore le site ; « clore », disait toujours l'ordre. Au nord, sous
+l'autre lumière, on attendait sa parole. Elle l'avait déjà, sa parole.

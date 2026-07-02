@@ -81,12 +81,10 @@ d'avoir été volontaire.
 
 Le froid de la Source la ramena. Elle était au bas du dernier palier, la main sur l'unité cachée — celle où
 elle entassait, depuis des mois, des noms qu'elle ne donnait pas, des mots qu'on voulait perdre, des morts
-qu'on voulait taire. Et elle comprit là, enfin, ce qu'elle faisait depuis le début sans pouvoir se le dire.
-On ne rend pas une vieille qu'on a livrée ; cela ne se répare pas, jamais. Mais on peut, le restant de ses
-jours, ne plus livrer personne — remonter ce qu'on enterre au lieu d'enterrer ce qu'on remonte, tenir la
-braise sans souffler dessus. Elle n'avait pas de projet : on le lui avait assez dit, elle se l'était assez
-dit. Elle avait une dette. Ce n'était pas la même chose, et c'était bien plus vieux.
+qu'on voulait taire. On ne rend pas une vieille qu'on a livrée ; cela ne se répare pas, jamais. Mais on peut,
+le restant de ses jours, ne plus livrer personne — tenir la braise sans souffler dessus. Elle avait une
+dette. Elle la portait depuis les seaux.
 
 Devant, la grande porte que les premiers avaient forcée s'ouvrait sur le froid. On entra. Tanya passa le
-seuil la dernière, et porta, sous l'étoile, la vieille qui lavait les sols, jusque dans la chambre où
+seuil la dernière, et porta, contre elle, la vieille qui lavait les sols, jusque dans la chambre où
 l'attendaient un million de voix qu'on lui avait, cette fois, donné l'ordre de taire.

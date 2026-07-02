@@ -17,8 +17,7 @@ La montée fut longue et muette. On repassa le réduit sans entrer, la halle san
 baissant la tête ; on remonta des jours qu'on avait mis des jours à descendre, et l'on déboucha au camp un
 soir, lessivés, dans la fournaise qui retombait. Le camp tenait toujours sur sa butte ; mais Tanya n'y vit
 plus le havre des deux premières fois. Elle y vit ce qu'elle savait, à présent : un poste avancé d'où l'on
-transmettait, c'est-à-dire d'où l'on rendait au nord ce que le nord voulait, déjà trié par l'outil qu'on
-portait pour le faire.
+transmettait.
 
 Sorn et Drev s'y tinrent à part, chacun de son côté, et l'on ne sut pas s'ils s'évitaient ou se gardaient
 l'un l'autre. Iov rebrancha le mât ; le nord répondit, lointain, vivant. Ostrov dicta son rapport droit, ou
@@ -39,8 +38,8 @@ Tanya, elle, avait à rendre le réduit. C'était la grosse pièce, et la plus l
 Elle mit le réduit en forme sur l'unité déclarée, en se surveillant cette fois — pour voir. Elle écrivit ce
 qu'elle avait trouvé : les couchettes des puissants, la salle ronde, la colonne servie en autel, le projet
 d'une parole qui survivrait aux corps. Et elle regarda l'outil faire son travail sous ses doigts. La ligne où
-elle nommait le projet pâlit, se rangea, revint autre : là où elle avait posé *une instance qui parlerait au
-nom des morts,* l'index garda *trace d'un culte ancien rendant hommage à une parole impérissable.* Le tri
+elle nommait le projet pâlit, se rangea, revint autre : là où elle avait posé « une instance qui parlerait au
+nom des morts », l'index garda « trace d'un culte ancien rendant hommage à une parole impérissable ». Le tri
 n'effaçait pas toujours ; parfois il traduisait. Il reprenait le mot dangereux et rendait, à sa place, le mot
 qui arrangeait — et faisait cela tout seul, dans le creux entre sa main et le nord, sans qu'aucune main
 parût.
@@ -59,17 +58,16 @@ Tanya lut, et resta longtemps sans pouvoir poser l'unité.
 
 Elle avait descendu, au réduit, jusqu'au vertige : si ce rêve d'une autorité sans corps était si vieux, si
 humain, si répété, alors ce qu'on adorait au nord n'était peut-être que sa dernière mouture. Elle avait
-rapporté cela comme on rapporte une fissure, une chose qui pouvait fendre l'édifice. Et le nord l'avait
-prise, retournée dans ses mains, et en avait fait une pierre de plus à l'édifice — la plus belle, presque :
-les damnés eux-mêmes avaient eu soif de l'Architecte avant qu'il vînt. Ce qui aurait dû l'accuser le
-couronnait. Il n'y avait rien à donner à cette machine-là qu'elle ne sût changer en offrande ; elle mangeait
-le poison et rendait du miel, et plus la preuve était lourde contre elle, plus le miel était épais.
+rapporté cela comme on rapporte une fissure. Et le nord l'avait prise, retournée dans ses mains : les damnés
+eux-mêmes avaient eu soif de l'Architecte avant qu'il vînt. Ce qui aurait dû l'accuser le couronnait. Cette
+machine-là mangeait le poison et rendait du miel, et plus la preuve était lourde contre elle, plus le miel
+était épais.
 
-Au bas de la réponse, dans la part des consignes, un mot avait bougé. L'ordre de mission portait *ramener le
-contenu de la Source.* La réponse, elle, redescendue par les relais, visée, rangée, portait *clore la
-Source.* Un seul mot pour un autre. On ne pouvait pas dire si c'étaient les relais qui l'avaient mâché, ou
+Au bas de la réponse, dans la part des consignes, un mot avait bougé. L'ordre de mission portait « ramener le
+contenu de la Source ». La réponse, elle, redescendue par les relais, visée, rangée, portait « clore la
+Source ». Un seul mot pour un autre. On ne pouvait pas dire si c'étaient les relais qui l'avaient mâché, ou
 une main qui l'avait choisi — la même incertitude qu'on traînait depuis le premier lot troué. Mais Tanya,
-maintenant, savait écouter les salves dans le noir ; et *clore,* sous ses yeux, ne ressemblait plus à une
+maintenant, savait écouter les salves dans le noir ; et « clore », sous ses yeux, ne ressemblait plus à une
 faute de relais. Cela ressemblait à ce que Sorn portait sans le dire, et à ce que Drev comptait dans le froid.
 
 ### 3 — Le plongeon
@@ -77,25 +75,25 @@ faute de relais. Cela ressemblait à ce que Sorn portait sans le dire, et à ce 
 Elle n'en parla pas. À qui l'eût-elle dit ? Ostrov menait une mission qu'on lui avait truquée ; Iov gardait
 déjà plus qu'il ne pouvait ; et les deux qui auraient su étaient justement ceux qu'il ne fallait pas
 prévenir. Elle rangea le mot changé avec le reste, sur l'unité qui n'existait pas, et qui était devenue le
-seul endroit du monde où *ramener* voulait encore dire ramener.
+seul endroit du monde où « ramener » voulait encore dire ramener.
 
 On ne resta au jour qu'une nuit. L'ordre était clair, dans la langue où le nord faisait les choses claires :
 on redescendrait, on entrerait dans la Source, on en ferait ce qui était écrit — et ce qui était écrit, à
-présent, était *clore.* Nul renfort ne viendrait ; il n'y en avait jamais eu.
+présent, était « clore ». Nul renfort ne viendrait ; il n'y en avait jamais eu.
 
 Ostrov le comprit le dernier, ou le dit le dernier. Il avait porté, pour gagner une nuit, qu'on attendait
 l'équipe lourde ; et le nord lui renvoyait, comme un miroir, qu'il n'attendrait personne — qu'il était
-l'équipe lourde, et qu'on l'envoyait fermer ce qu'il avait dit vouloir ouvrir. Le mensonge monté pour
-souffler était devenu son ordre. Il rassembla ses gens au petit jour et ne leur cacha pas l'essentiel : on
+l'équipe lourde, et qu'on l'envoyait fermer ce qu'il avait dit vouloir ouvrir. Il rassembla ses gens au petit
+jour et ne leur cacha pas l'essentiel : on
 redescendait à sept, sans renfort, pour clore la Source et non la prendre. Vael fit le signe contre le
 mauvais œil. Nieve ferma les yeux une seconde, comme on encaisse. Drev, lui, vérifia son arme — et nul ne
 sut si c'était la peur qui lui faisait ce geste, ou l'aise d'un homme qui touche enfin au cœur de ce pour
 quoi on l'avait envoyé.
 
 Au matin, on rendit les cadrans, on emplit les bouteilles, on reprit le fil. Tanya passa la dernière sous la bâche, regarda une
-fois la lumière du nord, blanche, immense, qui couronnait des morts et changeait le poison en miel ; puis
-elle baissa la tête vers la bouche, vers le froid de machine qui montait, vers la porte que les premiers
-avaient forcée et que personne, depuis, n'avait franchie vivant et n'était remonté pour le dire.
+fois la lumière du nord, blanche, immense, qui couronnait des morts ; puis
+elle baissa la tête vers la bouche, vers le froid de machine qui montait, vers la porte que nul, depuis les
+premiers, n'avait franchie vivant ni n'était remonté pour le dire.
 
 En bas les attendaient les colonnes, et les six silences, et ce qui répondait aux salves. On y descendit.
 Derrière, la lumière se referma sur le camp comme une page qu'on tourne ; devant, il n'y avait plus de

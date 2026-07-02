@@ -44,19 +44,18 @@ Cette fois, ni les fêtes des Salles ni les réclames de la halle : des fils. De
 qui s'étaient écrites les unes aux autres, dans les dernières années, par-dessus toute la ville et tout le
 pays. Des gens sans nom qui se répondaient, se reprenaient, se moquaient, comptaient.
 Tanya en avait déjà croisé l'écho ; jamais cette masse. On y parlait de la chaleur qui montait, des récoltes
-qui tournaient, de l'eau ; et l'on n'en parlait pas comme d'un malheur tombé du ciel, mais d'une chose
-**prévue**, chiffrée, datée d'avance. Quelqu'un avait écrit, des années avant la cendre :
+qui tournaient, de l'eau ; et l'on en parlait comme d'une chose prévue, chiffrée, datée d'avance. Quelqu'un avait écrit, des années avant la cendre :
 *on a vingt ans de marge, peut-être dix ; après, ça devient mécanique, ça ne se rattrape plus.* Et
 quelqu'un, dessous, avait répondu : *alarmiste. on nous fait le coup à chaque génération.*
 
 Ils avaient su. C'était cela qui montait du petit appareil, et qui glaçait Tanya plus que le froid du fond :
-non des aveugles surpris par la colère du ciel, mais des gens qui avaient vu la chose venir de loin, l'avaient
-mesurée, nommée, et s'étaient déchirés sur les moyens de l'empêcher pendant qu'elle approchait. Le culte
+des gens qui avaient vu la chose venir de loin, l'avaient mesurée, nommée, et s'étaient déchirés sur les
+moyens de l'empêcher pendant qu'elle approchait. Le culte
 enseignait une espèce ivre de sa démesure, foudroyée sans comprendre. Le petit appareil disait autre chose :
 une espèce qui avait compris, et qui n'avait pas pu, ou pas voulu, ou pas su s'arrêter à temps.
 
 Et il y avait pire, pour qui lisait jusqu'au bout. Les fils ne se contentaient pas de prévoir ; ils
-**désignaient**. Avec des chiffres, des dates, des preuves rangées comme des pièces. Untel avait su, et menti ;
+désignaient. Avec des chiffres, des dates, des preuves rangées comme des pièces. Untel avait su, et menti ;
 tel groupe avait payé, des années, pour qu'on doutât de ce qui était certain ; on pouvait suivre l'argent,
 le nommer, le dater. Tanya remonta un de ces fils, patiemment, et tomba sur un nom — un nom propre, accolé à
 un chiffre, revenant de message en message comme un coupable qu'on se passe. Elle le connaissait. Pas
@@ -80,15 +79,15 @@ monde.
 > cacophonie, dont l'Architecte a sauvé les hommes en leur rendant une parole unique. Il n'y a là ni preuve
 > ni accusation : il n'y a que du bruit, et le bruit ne nomme personne.*
 
-Le bruit ne nomme personne. Tanya rouvrit le lot tel qu'il redescendait, classé. Les fils y étaient
+Tanya rouvrit le lot tel qu'il redescendait, classé. Les fils y étaient
 encore — la chaleur, l'eau, les récoltes, la dispute. Mais quand elle chercha le fil qu'elle avait suivi
 jusqu'au nom — le coupable qu'on se passait, le nom qu'on portait encore au nord —, il n'y était plus. Pas
 raturé. Retiré, et la place refermée si bien qu'on n'y voyait pas de couture ; le reste avait glissé pour
 combler le vide, et rien ne disait qu'il eût manqué quelque chose, sinon qu'elle, elle se souvenait de l'y
-avoir mis. Une seule ligne, en marge, portait la mention d'usage : *expurgé.*
+avoir mis. Une seule ligne, en marge, portait la mention d'usage : « expurgé ».
 
 Elle ne refit pas monter le fil. Elle ouvrit son unité, et y rangea le nom avec le reste de ce qu'elle ne
-remontait plus — la cadence à venir, le campement, la photo, la note des premiers, le ticket du hall. Elle
+remontait plus — le campement, la photo, la note des premiers, le ticket du hall. Elle
 commençait à tenir, par-devers elle, un autre dossier que celui du nord : le dossier de ce que le nord ne
 voulait pas savoir.
 
@@ -105,9 +104,8 @@ ne l'étonnât plus.
 « Un nom est monté, ce soir, qui n'aurait pas dû, reprit-il, du même ton dont on parle du temps qu'il fera.
 Il est redescendu. Tout est en ordre. » Il se leva, épousseta ses plaques. « Vous lisez bien, vous. Trop
 bien, peut-être, pour ce qu'on vous demande d'en faire. » Et il s'en alla rejoindre les chevaliers, laissant
-Tanya avec son dossier à elle, le désert qui brûlait, et la certitude, neuve et froide, qu'on avait lu
-par-dessus son épaule jusqu'au nom — et qu'on savait, au nord, exactement lequel.
+Tanya avec son dossier à elle et le désert qui brûlait.
 
 Demain, on redescendrait une dernière fois, vers la Source et vers les six qui s'y étaient tus. Tanya
 referma l'unité sur le nom qu'on avait effacé, et la rendit à la place du cœur. Elle n'avait toujours pas de
-projet. Elle avait seulement, désormais, deux mémoires : celle qu'elle remontait, et celle qu'elle gardait.
+projet.
