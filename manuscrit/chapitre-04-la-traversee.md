@@ -47,23 +47,19 @@ four pâle. Tanya marchait la nuque ployée, le souffle court dans le masque, la
 la combinaison sans qu'elle pût l'essuyer. La fournaise pesait sur la nuque et les reins, et laissait au
 fond de la gorge un goût de plastique chaud.
 
-Et tout autour, la ville tenait debout : des rues. Des
-maisons basses aux fenêtres vides, des pans de mur percés de portes qui battaient au vent chaud,
-des charpentes de fer rougies mais droites. Le sable s'était amassé contre les seuils, montait à
-mi-porte par endroits, ondulait au milieu des chaussées en longues vagues immobiles. Le peuple
-d'avant était parti sans rien fermer, et le vent faisait, de porte en porte, le bruit d'une
-maison qu'on visite et qui n'en finit pas.
+Et tout autour, la ville tenait debout, mais le blanc en faisait une autre ville que celle de
+l'arrivée. Plus d'ombres, plus de creux : des faces nues, chauffées à blanc, des portes réduites
+à des trous noirs, des charpentes de fer rougies mais droites. Le sable des chaussées renvoyait
+le jour, et rien n'y bougeait que la chaleur elle-même, debout sur les rues.
 
-Tanya lisait les rues. Ici un quartier de petites gens, les maisons collées, basses ; plus loin,
-quelque chose de plus haut, de mieux bâti, qui s'était mieux défendu contre le siècle. Elle ne le
-dit pas. Elle le rangea dans la part d'elle qui rangeait toujours, et pressa le pas avec les
-autres.
+Tanya lisait les rues en marchant, par habitude, et n'en dit rien : le cadran au poignet ne
+laissait pas le temps des couches.
 
 Au croisement de deux grandes voies, le recyclage travaillait. Ils étaient une douzaine, en
 combinaisons grises rapiécées, plus légères que celles des chevaliers, sans étoile au cœur. Ils
 avaient ouvert le flanc d'un long bâtiment et en tiraient le métal — poutres, câbles, plaques —
 qu'ils chargeaient sur des traîneaux bas à patins de tôle. Une machine grondait au milieu d'eux,
-un treuil monté sur chenilles, crachant droit dans l'air sans vent une fumée noire. Ils ne
+un treuil monté sur chenilles, crachant sa fumée noire dans le blanc du ciel. Ils ne
 ressemblaient ni aux chevaliers ni aux savants : le troisième visage de Polaris, celui qu'on ne
 montrait pas sous les dômes — des gens qui raclaient la terre maudite pour ce qu'elle rendait, et
 qui y vivaient des semaines, le visage cuit, l'œil de ceux qui dorment peu.
@@ -95,7 +91,7 @@ ployé d'un côté, mais tenait. Le vent passait au travers avec un son grave et
 des cordes d'un instrument trop grand pour des mains. À son pied, le sol était jonché de plaques
 tombées, énormes, qu'il fallait contourner.
 
-Les chevaliers firent le mauvais œil en entrant dans son ombre. Vael leva la tête et ne la baissa
+Les chevaliers firent le geste contre le mauvais œil en entrant dans son ombre. Vael leva la tête et ne la baissa
 pas tout de suite. Nul, à Polaris, ne savait plus ce qu'elle avait porté — nul, sauf
 peut-être les plus lettrés, qui en gardaient un nom dans de vieux recueils ; un nom que Tanya
 connaissait, et qu'elle ne dit pas. Ce qu'on en disait dans les équipes, c'est qu'elle marquait
@@ -113,7 +109,7 @@ Polaris. Tanya s'était écartée de dix pas avant de s'en apercevoir.
 
 Elle savait à peu près ce que c'était : un de ces lieux d'abondance où le peuple d'avant venait
 prendre, échanger, se montrer. Elle en avait remonté des images. La chose, elle, était là — et la couleur, surtout, la
-couleur que cent ans n'avaient pas mangée, lui fit dans la poitrine quelque chose qu'elle aurait dû noter et qu'elle ne nota pas.
+couleur que cent ans n'avaient pas mangée.
 
 « Tanya. » La voix d'Ostrov, sèche, dans l'écouteur. « Le cadran. »
 

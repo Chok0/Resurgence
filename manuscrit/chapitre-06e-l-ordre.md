@@ -17,14 +17,14 @@ toujours le premier, fit que personne ne répondit tout de suite. Il avait plant
 vers le haut, et il se tenait dans cette lumière de bas en haut qui creuse les visages, la visière levée,
 les mâchoires serrées.
 
-Autour d'eux, le boyau s'était ouvert une fois de plus, et sur une fois de plus on s'était arrêtés sans
+Autour d'eux, le boyau s'était ouvert une fois de plus, et une fois de plus on s'était arrêtés sans
 joie. C'était, cette fois, un grand hall bas de plafond, qui n'en finissait pas sur les côtés. Le long d'un
 mur courait une enfilade de guichets — des dizaines, tous pareils, une vitre, une tablette, un numéro au-
 dessus — et devant les guichets, des files de bancs vissés au sol, tournés tous dans le même sens, vers les
 vitres, comme une assemblée qui attendrait encore son tour. Au mur, un grand tableau noir où s'étaient
 éteints des chiffres ; au sol, des bouts de papier numérotés, par milliers, que le pas soulevait et
-reposait. Un panneau pendait de travers au-dessus du premier guichet, et dessus, dans la vieille langue,
-presque encore la leur : *nous n'acceptons plus de nouveaux dossiers.*
+reposait. Un panneau pendait de travers au-dessus du premier guichet, et dessus, dans la vieille
+langue : *nous n'acceptons plus de nouveaux dossiers.*
 
 « C'est un lieu où l'on comptait les gens, dit Tanya, à mi-voix, pour elle plus que pour les autres. On
 venait là se faire inscrire. Autoriser. » Elle ramassa un des petits papiers : un numéro, *B 412*, une
@@ -73,8 +73,7 @@ Un silence. Drev, qui jusque-là s'était tenu à l'écart, l'arme au bras, crac
 rapporte, on remonte. Le reste, c'est de la prière de scientifique. » Il toisa Vael. « Toi le premier, tu
 récites la formule au seuil sans demander qui l'a écrite, celle-là. Pourquoi l'ordre, et pas la prière ? »
 
-Et c'était juste, et cela fit mal, parce que c'était la même chose : on obéissait en bas comme on priait en
-haut, à des mots montés de nulle part, vers personne, et qui revenaient. Nieve, assise sur un des bancs
+Et c'était juste, et cela fit mal. Nieve, assise sur un des bancs
 vissés, n'avait rien dit ; elle ramassait les petits numéros au sol et les laissait retomber, un à un. Elle
 dit, sans lever la tête :
 
@@ -99,11 +98,9 @@ Sorn ne se troubla pas. Il avait ce calme des gens qui n'ont pas à se défendre
 ce qu'on attaque.
 
 « Pour le fond, dit-il. Comme c'est écrit. » Une pause. « Je ne fais pas l'ordre, Ostrov. Je le porte. Comme
-toi. Comme les relais. » Il laissa cela se poser, et c'était pire que tout ce qu'on avait dit : car ils
-avaient cherché, toute l'heure, le visage derrière l'ordre, et le voilà qui se tenait devant eux, et il
-n'en était pas un. C'était un homme de plus qui portait, et qui passait à l'homme suivant. La machine sans
-visage avait, pour une fois, mis quelqu'un dans le hall ; et ce quelqu'un haussait les épaules et disait :
-ce ne sont pas mes ordres.
+toi. Comme les relais. » Il laissa cela se poser, et c'était pire que tout ce qu'on avait dit : la machine
+sans visage avait, pour une fois, mis quelqu'un dans le hall ; et ce quelqu'un haussait les épaules et
+disait : ce ne sont pas mes ordres.
 
 Tanya, alors, parla — elle s'entendit parler avant de l'avoir voulu, ce qui ne lui arrivait pas.
 
@@ -118,5 +115,4 @@ On descendit. On laissa derrière soi le hall des guichets, ses bancs tournés v
 tours qui n'étaient pas venus, et le panneau de travers qui refusait encore les dossiers. Ostrov passa le
 premier, maintenant, parce qu'un chef qui a dit tout haut qu'il n'y a pas de nom doit bien marcher devant.
 Vael reprit sa lampe et le suivit, sans un mot, la formule aux lèvres ; et Tanya, en passant le seuil,
-emporta sans savoir pourquoi un des petits numéros du sol, *B 412,* et le glissa avec le reste — un tour
-qui n'était jamais venu, gardé par-devers elle, contre l'étoile.
+emporta un des petits numéros du sol, *B 412,* et le glissa avec le reste.

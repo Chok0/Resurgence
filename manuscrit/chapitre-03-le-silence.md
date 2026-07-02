@@ -28,9 +28,9 @@ mains pour s'y réchauffer ; et Tanya remarqua qu'elle ne plaisantait plus tout 
 qu'aux premières nuits.
 
 Elle se tenait entre les deux, comme souvent. Elle savait ce que faisait Nieve : tenir le camp debout
-était son métier autant que les disques. Elle savait aussi qu'Iov n'avait pas tort — ce n'était plus une
-voix, c'étaient des nombres, et un nombre ne prouve pas la main qui l'envoie. Mais ce à quoi elle
-pensait, le soir, sous la couverture, et dont elle avait un peu honte, c'était la porte soudée et ce
+était son métier autant que les disques. Elle savait aussi qu'Iov n'avait pas tort — ce n'étaient plus que des
+nombres, et un nombre ne prouve pas la main qui l'envoie. Mais ce à quoi elle
+pensait, le soir, sous la couverture, c'était la porte soudée et ce
 qu'il y avait derrière, qui l'attendait peut-être, elle, si l'équipe lourde tardait encore.
 
 Le huitième jour après la trouvaille, un relevé manqua. Une fois : l'heure juste passa, vide. Tout le
@@ -53,8 +53,8 @@ réécouter.
 Il avait tout gardé. Il remit le dernier relevé — celui d'avant le trou qui ne s'était pas refermé — et
 le fit écouter, l'écouteur passant de main en main dans le silence de la tente. La voix éteinte des
 derniers jours, ou ce qui en restait : profondeur, tonnage. État des hommes — un temps, un creux où
-quelqu'un, peut-être, cherchait un mot — conforme. Pas un mot de moins, pas un de trop, et pas un mot de
-plus : voilà des jours, déjà, qu'après les chiffres il n'y avait plus ni salut ni « tiens le fil », rien
+quelqu'un, peut-être, cherchait un mot — conforme. Pas un mot de moins, pas un de
+trop : voilà des jours, déjà, qu'après les chiffres il n'y avait plus ni salut ni « tiens le fil », rien
 que la coupure nette. Et à la place de l'émission suivante, le grésil égal du fil ouvert sur rien.
 
 « Le dernier mot vivant qu'ils m'ont donné, dit Iov en retirant l'écouteur, c'était il y a une semaine.
@@ -64,7 +64,7 @@ s'est arrêté à l'heure juste, à la fin, ce n'était peut-être plus tout à 
 Ostrov fit remonter le silence aux dômes, comme il le devait, et la réponse vint le lendemain. Plate,
 dans la voix sans grain des relais : défaillance d'antenne en profondeur ; cause probable, le froid sur
 un relais trop enfoncé ; l'équipe de tête priée de rétablir la liaison dès que possible. On la lut deux
-fois. Comme si l'on pouvait prier un silence de répondre.
+fois.
 
 Au camp, chacun habilla le silence à sa façon, et l'on apprit, ces soirs-là, ce que chacun portait.
 Ostrov tenait pour la panne ; mais un soir qu'il avait parlé plus bas que d'ordinaire, le thé refroidi
@@ -85,7 +85,7 @@ bien celle qu'il croyait.
 ### 3 — On vous affecte
 
 Le silence tint. Trois jours, puis cinq. Personne, en haut, ne parla de secours ; ce n'était pas dans
-les ordres. On ne redescendait pas une mission pour six hommes — on la redescendait pour le Gisement.
+les ordres. Une mission ne redescendait que pour le Gisement.
 Et le Gisement, lui, ne courait nulle part : il attendait au froid, comme il attendait depuis un siècle.
 
 Tanya n'attendit pas l'ordre pour le vouloir. Le sixième jour, le septième, elle alla trouver Ostrov sous

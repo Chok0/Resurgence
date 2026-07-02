@@ -153,7 +153,9 @@ pas seulement pour la règle. Cinq exigences :
     (« Ils descendirent longtemps. », « C'étaient des os. »).
 14. **Aucun nom de NOTRE Histoire dans la bouche des personnages.** Ni « Pompéi », ni
     « nécromancie » : ils ont oublié jusqu'au nom de leur ville. Tout passe par *leur* lexique
-    (cf. nommage + technoféodal).
+    (cf. nommage + technoféodal). *Exception actée (unique) : le **maître d'études** (ch.5),
+    lettré qui « employait des mots interdits » — diégétiquement motivé et consigné au
+    [`canon.md`](canon.md) § maître d'études. Aucun autre personnage n'y a droit.*
 15. **Incarnation concrète — donner un corps et des choses, pas que de l'intériorité**
     *(leçon de relecture : « je ne sais pas à quoi ressemble un chevalier »)*. Le premier jet
     pèche par **abstraction** : beaucoup de perception et d'atmosphère, peu de **matière

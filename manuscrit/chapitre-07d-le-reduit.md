@@ -13,26 +13,24 @@
 
 La voie vers la Source passait devant une autre porte, et celle-là n'était pas de l'ancien monde ordinaire.
 
-On l'aperçut au détour d'un palier : non plus une cloison, non plus un battant de geôle, mais une masse de
+On l'aperçut au détour d'un palier : une masse de
 métal cintrée dans le roc, épaisse de deux paumes, montée sur des gonds gros comme la cuisse, et faite pour
 tenir contre une colère qui n'avait rien d'humain. Au-dessus, des lettres en relief, mangées mais lisibles,
 dans la vieille langue : *accès réservé — autorité de continuité.* La porte était entrebâillée — non forcée :
 ouverte de l'intérieur, un jour, par ceux qui étaient dedans, et jamais refermée.
 
-Derrière, ce n'était pas une salle : c'était un monde sous le monde. Un réduit creusé pour durer, taillé
+Derrière s'ouvrait un monde sous le monde. Un réduit creusé pour durer, taillé
 plus profond et plus net que tout ce qu'on avait traversé. De longs couloirs d'acier ; des chambres
 étroites à couchettes superposées, faites pour loger des hommes des mois sans revoir le jour ; des réserves,
 encore pleines par endroits de boîtes scellées ; une salle d'eau, une infirmerie, tout un soin pris pour que
 quelques-uns survécussent à ce qui tuerait les autres. Les chevaliers s'y mouvaient avec une déférence
-qu'ils n'avaient pas eue ailleurs : ici, on sentait qu'on avait été chez les puissants.
+qu'ils n'avaient pas eue ailleurs.
 
 « Ce sont eux, dit Tanya, à voix basse. Ceux d'en haut. » Elle pensait aux fils, au camp, au nom qu'on
 portait encore au nord ; à ces gens qui avaient su la fin venir, l'avaient chiffrée, datée — et qui s'étaient
 creusé ceci, pendant qu'au-dessus le peuple faisait la queue aux guichets et comptait ses bâtons par cinq.
 Ils avaient diagnostiqué le mal, désigné les coupables, et les coupables, eux, n'avaient pas attendu : ils
-étaient descendus se mettre à l'abri du ciel qu'ils avaient laissé tomber. Le réduit n'était pas une énigme.
-C'était une réponse à la question que posaient les morts d'en haut : où étiez-vous, quand c'est arrivé ?
-Ici. Vous étiez ici.
+étaient descendus se mettre à l'abri du ciel qu'ils avaient laissé tomber.
 
 ### 2 — Une voix qui ne meurt pas
 
@@ -54,19 +52,13 @@ courant froid : *une voix qui ne meurt pas.*
 Elle resta longtemps devant l'écran. Elle connaissait une voix qui ne mourait pas. Tout Polaris la connaissait :
 celle de l'Architecte, qui s'était versé dans la machine et parlait, depuis, au nom d'un mort. On le lui avait
 appris enfant, sous le verre bleu ; elle avait posé là-dessus, une fois, la seule question qu'on ne pose pas.
-Et voilà qu'ici, mille ans avant l'Architecte, dans le réduit des coupables, des hommes avaient déjà rêvé
-exactement cela — une autorité sans corps, une parole qui survit à la bouche, un commandement qui ne meurt
-pas. Le même rêve. Le même outil.
 
 Elle se força à ne rien conclure, parce qu'il n'y avait rien à conclure. Mille choses pouvaient l'expliquer.
 Les hommes se ressemblent dans la peur de mourir, et rêvent les mêmes rêves à mille ans d'écart sans s'être
 copiés. Le réduit avait peut-être échoué là où l'Architecte avait réussi ; ou bien ce qu'elle lisait était
 faux, une vantardise de puissants à l'agonie ; ou bien elle faisait, sur trois bribes, le même travail que
-sur le Long — voir une figure parce qu'on l'a déjà dans l'œil. Le doute, là encore, restait entier, et
-posait, sans les trancher, ses trois questions à la fois : la Voix du nord était-elle l'Architecte vivant
-dans la machine, ou la machine seule qui parlait dans le vide, ou une main de faction qui la faisait
-parler ? Le réduit n'y répondait pas. Il faisait seulement, sous Tanya, ce que le registre des choses à
-contenir avait fait : il ôtait le sol. Si ce rêve-là était si vieux, si humain, si répété — alors ce qui
+sur le Long — voir une figure parce qu'on l'a déjà dans l'œil. Le réduit ne tranchait rien. Il faisait
+seulement, sous Tanya, ce que le registre des choses à contenir avait fait : il ôtait le sol. Si ce rêve-là était si vieux, si humain, si répété — alors ce qui
 veillait au nord, sous le verre, n'était peut-être pas un dieu transcendé. C'était peut-être la dernière
 ruse des puissants, montée d'un réduit comme celui-ci, et qu'on adorait.
 
@@ -95,5 +87,5 @@ visière, et alla se placer, sans qu'on le lui demandât, entre Tanya et la port
 
 On ne s'attarda pas. La Source attendait, plus bas, avec ses colonnes par milliers et ses six silences ;
 le réduit n'était qu'une halte sur le chemin, un mot de plus dans une phrase qu'on n'achevait pas. Mais en
-le quittant, Tanya emporta deux poids nouveaux contre l'étoile : la copie de ce qu'on rêvait dans les
-réduits, et la certitude que Drev, lui, redescendrait, avec d'autres, et pas pour lire.
+le quittant, Tanya emporta la copie de ce qu'on rêvait dans les réduits, et la certitude que Drev, lui,
+redescendrait — pas pour lire.

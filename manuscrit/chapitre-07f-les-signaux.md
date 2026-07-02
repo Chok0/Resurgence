@@ -17,12 +17,11 @@ qu'il espérât le nord, on était trop bas, mais parce qu'un homme qui écoute 
 main sur la molette, le visage tendu de celui qui n'est pas sûr d'avoir entendu. Puis il fit signe à Tanya
 d'approcher, et lui tendit l'écouteur.
 
-Ce n'était pas le grésil mort des vieilles bornes. Ce n'était pas une cadence non plus. C'étaient des
-salves — brèves, sèches, espacées, montant et retombant, le souffle d'un échange chiffré entre deux postes
-qui se parlaient sans mots, en signes. Cela ne portait sur aucune bande qu'on donnât aux missions ; Iov les
-connaissait toutes, il les avait dans l'oreille depuis quinze ans. Celle-ci, basse, étroite, il ne l'avait
-jamais eu le droit d'écouter. Et elle était proche. Pas le nord à mille lieues : proche, sous la terre, à
-portée — quelqu'un qui parlait, ici, dans le muet où l'on était censés être seuls.
+Des salves — brèves, sèches, espacées, montant et retombant, le souffle d'un échange chiffré entre deux
+postes qui se parlaient sans mots, en signes. Cela ne portait sur aucune bande qu'on donnât aux missions ;
+Iov les connaissait toutes, il les avait dans l'oreille depuis quinze ans. Celle-ci, basse, étroite, il
+n'avait jamais eu le droit de l'écouter. Et elle était proche — sous la terre, à
+portée : quelqu'un qui parlait, ici, dans le muet où l'on était censés être seuls.
 
 « Depuis quand ? » souffla Tanya.
 
@@ -45,8 +44,8 @@ Drev fermait la marche, comme toujours. Mais depuis le réduit il la fermait aut
 haltes, prenait du retard, et il fallait l'attendre ; et quand on l'attendait, il avait son boîtier en main,
 le dos tourné, et sa bouche bougeait. On avait mis cela, des jours durant, sur le compte de sa manie — sa
 liaison à lui, qui montait sans passer par Ostrov, on la lui connaissait. Mais une liaison ne monte pas, à
-mille pieds sous terre. Elle ne monte nulle part. Si le boîtier de Drev parlait encore, ici, ce n'était pas
-vers le haut : c'était vers quelqu'un d'aussi bas que lui. Et Tanya pensa aux armes du réduit, aux râteliers
+mille pieds sous terre. Elle ne monte nulle part. Si le boîtier de Drev parlait encore, ici, c'était vers
+quelqu'un d'aussi bas que lui. Et Tanya pensa aux armes du réduit, aux râteliers
 qu'il avait comptés à voix basse, à ce contentement sur son visage ; et elle comprit que les chiffres qu'il
 donnait, il les donnait à qui viendrait les chercher.
 
@@ -62,10 +61,7 @@ qu'elle voyait une chose qu'elle n'aurait pas dû. Il regardait l'écouteur dans
 sur son visage long il n'y avait ni surprise ni gêne. Il n'essaya même pas de dire que c'étaient des bornes.
 
 « Ce n'est pas pour vous, dit-il simplement. Ni contre vous. Ce sont d'autres ordres, pour une autre part de
-la mission. Vous n'avez pas à les porter. » Il le dit comme on rassure un enfant d'une dispute d'adultes — et
-c'était cela, le palier qu'il venait de franchir : il ne se cachait plus. Il avait laissé tomber le chevalier
-de plus qu'on colle à une équipe, et sous le masque il y avait, depuis le début, ceci — un homme qui savait
-quelles bandes existaient, qui n'en était pas étonné, et qui veillait à ce que Tanya sût qu'il savait.
+la mission. Vous n'avez pas à les porter. » Il le dit comme on rassure un enfant d'une dispute d'adultes.
 
 « Quelle autre part ? » dit-elle.
 
@@ -97,8 +93,8 @@ qui ils comptent. » Il regarda Tanya. « Tu signeras ça ?
 — Je signerai ça », dit-elle. C'était faux — ils étaient à la porte, ils n'attendaient personne — et c'était
 le premier mensonge qu'elle aidait Ostrov à monter, et non Polaris ; et elle s'aperçut, en le disant, qu'elle
 mentait maintenant dans tous les sens, vers le haut et vers le bas, et qu'il ne lui restait de vrai que ce
-qu'elle gardait contre l'étoile, et qui n'existait pour personne.
+qu'elle gardait sous la combinaison, et qui n'existait pour personne.
 
 On plia le camp. On reprit le fil à l'envers, vers le jour, vers la liaison, vers le nord qui attendait une
-parole — en laissant derrière, à un jour de marche, la grande porte que les premiers avaient forcée, et,
+parole — en laissant derrière, à un jour de marche, la grande porte, et,
 plus bas qu'elle, ce qui répondait dans le noir aux signaux qu'on ne devait pas entendre.

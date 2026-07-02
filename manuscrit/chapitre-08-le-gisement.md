@@ -8,22 +8,17 @@
 
 ### 1 — La porte
 
-Ils descendirent encore deux jours, en suivant le mot. Les croix avaient cessé ; il ne restait que la
-flèche, répétée de loin en loin, toujours vers le bas, toujours tracée vite. Et à mesure qu'on
-s'enfonçait, Tanya comprit une chose qui la glaça autrement que le froid : vers la fin, les premiers
-n'avaient plus marqué leur chemin pour le retrouver. Une équipe qui balise pour rentrer espace ses
+On était dedans, et le froid de la Source les avait pris — sec, égal, travaillé, un froid qui ne montait
+pas de la terre : une chose, quelque part, l'entretenait, et n'aurait pas dû tenir un siècle, et tenait.
+En passant la brèche, là où le métal bâillait sur un coin, plié vers l'intérieur à coups d'outil
+patients, Tanya avait posé la main au bord du pli et l'avait retirée aussitôt : ça mordait, là-dedans,
+d'une morsure qui n'avait rien de naturel.
+
+Sur le dernier bout de la descente, les croix avaient cessé ; il n'était resté que la flèche, répétée de
+loin en loin, toujours vers le bas, toujours tracée vite. Une équipe qui balise pour rentrer espace ses
 signes, les pose aux carrefours. Eux en avaient couvert la ligne droite, serré, presque à chaque pas —
 non pour se retrouver eux-mêmes, mais pour qu'on les suive. Pour que quelqu'un, derrière, vienne. Vite.
-
-Au bout, le fil butait sur une masse de métal lisse, épaisse comme un mur, scellée dans la pierre, et
-debout encore après un siècle. Les premiers l'avaient forcée — le métal bâillait sur un coin, plié vers
-l'intérieur à coups d'outil patients —, et le froid qui sortait de la brèche n'était pas celui des
-galeries. Celui-là était sec, égal, travaillé ; un froid qui ne montait pas de la terre, mais qu'une
-chose, quelque part, entretenait. Un froid de machine, qui n'aurait pas dû tenir un siècle, et qui
-tenait. Tanya posa la main au bord de la brèche et la retira aussitôt : ça mordait, là-dedans, d'une
-morsure qui n'avait rien de naturel.
-
-Elle passa par l'ouverture et leva sa lampe.
+Tanya y pensait encore quand elle leva sa lampe.
 
 C'étaient des colonnes. Des rangées de colonnes noires, hautes, serrées, qui s'enfonçaient plus loin que
 le faisceau — des centaines, des milliers, alignées dans le froid sec, chacune piquée de petites lumières
@@ -34,10 +29,10 @@ plus qu'on n'en remonterait peut-être jamais : une voix entière, des millions 
 dans le froid pendant qu'au-dessus le ciel brûlait le monde qui les avait écrites. Elle resta sur le
 seuil, la buée de son souffle accrochée au masque, et pour une fois ne sut pas quoi noter.
 
-Les premiers étaient là — pas eux, leurs traces. Des lampes posées au sol, dont deux ou trois brûlaient
+Des premiers, il restait des traces. Des lampes posées au sol, dont deux ou trois brûlaient
 encore leur dernière réserve, faisant des ronds jaunes immobiles sur le givre. Une station de lecture
 montée à la hâte au pied d'une colonne, ses câbles tirés droit. Et des caissons de prélèvement — pleins,
-scellés, étiquetés de la main soignée des gens du métier, et **abandonnés** là, en tas contre la roche.
+scellés, étiquetés de la main soignée des gens du métier, et abandonnés là, en tas contre la roche.
 Ils avaient trouvé. Ils avaient prélevé, classé, commencé à remonter leur butin. Et ils l'avaient laissé.
 On ne laisse pas un butin pareil ; pas sans une raison de partir, et de partir sans rien.
 
@@ -61,11 +56,10 @@ cesse, calme, têtu, à dire la même chose : *il est encore temps si on s'y met
 dernier message portait une date — et la date était celle de la couche de cendre, celle qu'on retrouvait
 là-haut, à la même profondeur, dans toutes les fouilles du sud.
 
-Tanya lut, et lut, et ne s'arrêta pas. C'était cela que Polaris avait envoyé chercher dans le froid. Et
-c'était cela, exactement, que Polaris ne lirait jamais en clair : on le remonterait, on le coterait, et
-les Interprètes en tireraient une preuve de plus de la cacophonie dont l'Architecte avait sauvé l'espèce
-— la démonstration que les anciens, livrés à leurs mille voix, n'avaient su que se disputer pendant que le
-ciel leur tombait dessus. Elle pensa à son relevé amputé, à la photo dans son unité, au campement qu'elle
+Tanya lut, et lut, et ne s'arrêta pas. C'était cela qui dormait dans le froid — et c'était cela qu'on les
+envoyait clore. Elle savait ce que le nord en ferait si jamais cela montait ; elle le lui avait vu faire
+deux fois déjà — la foule versée au dossier de la cacophonie, le rêve du réduit retourné en prophétie.
+Elle pensa à son relevé amputé, à la photo dans son unité, au campement qu'elle
 n'avait pas fait monter. Sans l'avoir décidé, elle avait commencé à prendre un parti ; et le parti
 qu'elle prenait, elle le voyait maintenant, était celui des morts.
 
@@ -79,22 +73,22 @@ Ce qui les avait tués, on ne pouvait pas le dire. Pas de blessure qu'on sût li
 sang versé par une main — ou le froid avait tout pris, scellé net comme il scellait le reste. Ils
 n'étaient pas tombés ensemble. Ils gisaient aux quatre coins de la dernière salle, loin les uns des
 autres, chacun seul, le visage contre la roche ou tourné vers elle, comme s'ils s'étaient fuis avant de
-tomber. Leur station n'avait plus rien émis depuis vingt jours. Et sur la roche, au-dessus du dernier,
-une main avait recommencé à tracer le mot de l'ossuaire — *vite* — puis, en dessous, plus bas, plus
-tremblé, écrit dans le noir peut-être, ou par une main qui ne tenait plus, trois autres : *on n'est pas
-seuls.*
+tomber. Leur station n'avait plus rien émis depuis près d'un mois. Et sur la roche, au-dessus du dernier,
+une main avait recommencé à tracer le mot de l'ossuaire — « vite » — puis, en dessous, plus bas, plus
+tremblé, écrit dans le noir peut-être, ou par une main qui ne tenait plus, trois autres : « on n'est pas
+seuls. »
 
 Personne ne parla. Iov, qui depuis la bouche nord appelait le bas sans relâche, ôta enfin son écouteur,
 lentement, comme on se découvre.
 
 « Ils répondaient pas, dit-il, parce qu'ils écoutaient. »
 
-Ostrov regarda les colonnes, les quatre morts, les deux places vides. Les ordres étaient de sécuriser le
-Gisement et de tout remonter ; il les avait dans la poche, à plat contre la poitrine. Il ne les dit pas.
+Ostrov regarda les colonnes, les quatre morts, les deux places vides. L'ordre était de clore la Source
+sur tout ce qu'elle tenait ; il l'avait dans la poche, à plat contre la poitrine. Il ne le dit pas.
 
 « On remballe. On remonte. »
 
-C'était la première fois qu'il désobéissait, et personne ne le releva. Drev rappelait déjà les lampes ;
+Il désobéissait, et personne ne le releva. Drev rappelait déjà les lampes ;
 Nieve rangeait les caissons sans un mot, le visage fermé de celle qui avait dit qu'on ne descend pas là
 où les autres se taisent, et qui n'avait pas envie d'avoir eu raison.
 

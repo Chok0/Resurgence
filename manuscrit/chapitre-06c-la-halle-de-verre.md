@@ -44,22 +44,22 @@ Ils descendirent quelques degrés et la halle se donna tout entière à la lampe
 la fouillait. C'était une nef plus longue qu'aucune galerie qu'ils eussent percée, à deux étages, ouverte au
 milieu sur le vide, et le long des deux bords couraient les échoppes — des dizaines, vitre après vitre,
 chacune une petite bouche noire bordée d'un nom en lettres mortes. Au centre, là où les anciens avaient dû se
-presser, un escalier de métal s'était figé en pleine pente, large, à marches grossières, comme une rivière
+presser, un escalier de métal, large, à marches grossières, comme une rivière
 qu'on aurait arrêtée en train de couler. Plus loin, une vasque sèche ; autour d'elle, plantés dans des bacs,
 de grands arbres pâles aux feuilles raides qui n'avaient jamais bu, et qui tenaient debout, intacts, parce
 qu'ils n'avaient jamais été vivants. Sur toute une cloison, quelqu'un avait peint une mer — une eau bleue,
 une plage, un soleil bas et doux — devant quoi Vael s'arrêta net, car il n'avait jamais vu la mer, et celle-là
 souriait.
 
-« C'est un marché, dit Tanya. Un marché couvert. On venait là échanger. » Elle le dit pour Ostrov, qui notait,
-et c'était vrai, et ce n'était pas ce que voyaient les chevaliers. Eux voyaient un temple. Vael, la visière
+« C'est un marché, dit Tanya. Un marché couvert. On venait là échanger. » Elle le dit pour Ostrov, qui
+notait. Eux voyaient un temple. Vael, la visière
 levée, murmurait déjà sa formule devant les vitrines, parce que dans les vitrines il y avait du monde.
 
 Un petit peuple s'y tenait debout, immobile, dans des poses de gens qui ne tomberaient jamais. Des corps lisses,
 sans visage ou presque, vêtus d'étoffes qui pendaient encore sur eux comme on les avait posées, une main levée
 ici, une hanche jetée là, tournés vers la galerie vide où nul n'entrerait plus. Drev en éclaira
 un de près, recula d'un demi-pas, l'arme montée — puis vit le bras tombé à terre à côté, et la cire dessous,
-et il jura tout bas. « De la poupée, dit Nieve, qui ne riait plus depuis longtemps mais le dit presque. Ils
+et il jura tout bas. « De la poupée, dit Nieve. Ils
 habillaient des poupées grandeur d'homme pour vendre des habits. » Personne ne trouva ça drôle, et personne
 ne baissa tout de suite son arme.
 
@@ -68,18 +68,13 @@ gens trop beaux pour avoir jamais existé — des peaux sans défaut, des dents 
 un point au-dessus de la galerie, le même point lointain que visait l'Architecte dans les institutions du
 nord. Ils souriaient. Ils n'avaient pas cessé de sourire pendant qu'au-dessus le ciel se chargeait, et ils
 souriaient encore, écaillés, mangés d'humidité par plaques, à un peuple qui n'était plus là. Sur l'un des
-panneaux, en travers d'une plage peinte, couraient trois mots dans la vieille langue, presque encore la
-leur : *l'été toute l'année.* Tanya les lut, et pensa au cadran rouge à son poignet, au soleil qui brûlait
+panneaux, en travers d'une plage peinte, couraient trois mots dans la vieille
+langue : *l'été toute l'année.* Tanya les lut, et pensa au cadran rouge à son poignet, au soleil qui brûlait
 jusque dans le sang là-haut, et ne dit rien à personne de ce que ça lui fit.
 
-Car c'était cela, le plus étrange, et elle s'y attarda plus qu'elle n'aurait dû : ils s'étaient fait, ici,
-sous la terre, un été qui ne finissait pas. Des lumières qui ne s'éteignaient pas, une mer peinte, une
-fraîcheur fausse, et à chaque mur un visage heureux. On ne bâtit pas tout cela par hasard. On le bâtit comme
-on chante plus haut dans le noir — pour couvrir quelque chose. Ils n'avaient pas su quitter le monde qui les
-tuait, ni y croire tout à fait ; alors ils s'en étaient peint un autre, plus doux, et l'avaient habité en
-attendant. Tanya ne mit pas cela en mots. Elle ramassa, au pied d'une vitrine, un petit objet de verre lisse
-et froid — une babiole, rien, un de ces riens que les anciens s'offraient —, et le glissa dans sa poche, sans
-s'être vue le décider. Elle ne se reprenait même plus.
+Ils s'étaient fait, ici, sous la terre, un été qui ne finissait pas. Tanya ramassa, au pied d'une vitrine,
+un petit objet de verre lisse et froid — une babiole, rien, un de ces riens que les anciens s'offraient —,
+et le glissa dans sa poche.
 
 ### 3 — Ce qui ne remonte pas
 
@@ -118,7 +113,7 @@ l'écouteur, l'enroula, le rangea.
 « Voilà, dit-il. On est sourds. » Il ne le dit pas comme une plainte ; il le dit comme on annonce une heure.
 
 Derrière eux, la halle gardait sa fausse fraîcheur, ses arbres qui n'avaient jamais bu, son peuple de cire et
-ses visages heureux dans la couleur du verre. Devant, le boyau descendait, droit, sans couleur, vers le froid
-des choses qui se conservent et vers la Source que les premiers avaient ouverte. On y entra l'un derrière
+ses visages heureux dans la couleur du verre. Devant, le boyau descendait, droit, sans couleur, vers le
+froid du fond et vers la Source que les premiers avaient ouverte. On y entra l'un derrière
 l'autre, et le dernier reflet bleu mourut sur le dos de la combinaison de Vael, qui priait tout bas, plus vite
 maintenant qu'on ne voyait plus la mer.

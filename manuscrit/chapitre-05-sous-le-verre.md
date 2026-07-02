@@ -20,7 +20,7 @@ chauffait les ateliers et les salles de leçon ; on ne chauffait pas les dortoir
 corps qui a un peu froid, disait-on, apprend à se tenir.
 
 Elles dormaient en rangs, les petites, sous une couverture chacune, et au bout de la salle, sur
-le mur, le visage de l'Architecte veillait. Ce n'était pas une image méchante. C'était un homme
+le mur, le visage de l'Architecte veillait. C'était un homme
 âgé, au regard doux et lointain, qui semblait voir quelque chose au-dessus de vos têtes ; on le
 retrouvait partout, à l'atelier, au réfectoire, à la porte, toujours le même, toujours
 au-dessus. Petite, Tanya avait cru que c'était lui qui empêchait le froid d'entrer. Plus grande,
@@ -29,15 +29,15 @@ elle avait compris que le froid entrait quand même, et que le visage regardait 
 On ne leur disait pas d'où elles venaient. On leur disait à qui elles appartenaient : à
 l'Architecte, qui les avait recueillies, et à Polaris, qui les nourrissait. Les parents, on n'en
 parlait pas — sans cruauté, comme on ne parle pas d'une chose qui n'a pas de colonne où
-la ranger. *Rendus,* disait la matrone, quand une petite pleurait trop fort le soir. Rendus à qui,
+la ranger. « Rendus », disait la matrone, quand une petite pleurait trop fort le soir. Rendus à qui,
 à quoi, elle ne précisait pas, et l'on n'apprenait pas à le demander.
 
 Tanya, elle, l'avait demandé. Pas tout de suite ; vers six ou sept ans, l'âge où l'on s'aperçoit
 que les autres ont, quelque part, quelqu'un. Elle avait demandé à la matrone d'où elle venait,
 elle, avant. La matrone l'avait regardée un long moment, sans colère, et avait répondu : « De
 nulle part de bien. Estime-toi heureuse qu'on t'en ait sortie. » Puis elle l'avait renvoyée au
-rang. Tanya avait gardé la phrase comme on garde un caillou dans sa chaussure : *de nulle part de
-bien.* Elle n'avait pas cessé de marcher dessus.
+rang. Tanya avait gardé la phrase comme on garde un caillou dans sa chaussure : de nulle part de
+bien. Elle n'avait pas cessé de marcher dessus.
 
 ### 2 — La nef
 
@@ -65,14 +65,10 @@ qu'il est mort — comment il peut être vivant dans la Voix en même temps ? »
 
 La maîtresse ne se fâcha pas. Ce fut pire. Elle s'accroupit, mit son visage à la hauteur de celui
 de Tanya, et la regarda avec une douceur attentive, comme on regarde un enfant qui a un peu de
-fièvre. « On ne demande pas cela », dit-elle. Pas *la réponse est ceci.* Pas *tu comprendras plus
-tard.* On ne demande pas cela. Et dans le silence qui suivit, Tanya avait senti, pour la première
-fois, qu'une question pouvait être une faute — que certaines portes, on ne devait pas même les
-voir, et que de les avoir vues vous marquait.
+fièvre. « On ne demande pas cela », dit-elle. Et dans le silence qui suivit, Tanya avait senti, pour
+la première fois, qu'une question pouvait être une faute.
 
-Elle ne reposa jamais la question tout haut. Mais elle ne cessa pas, non plus, de la tenir. C'était
-peut-être cela, déjà, son métier qui commençait : garder par-devers soi ce qu'on n'avait pas le
-droit de remonter.
+Elle ne reposa jamais la question tout haut. Mais elle ne cessa pas, non plus, de la tenir.
 
 ### 3 — D'ici
 
@@ -92,7 +88,7 @@ de là que tu viens. De ce vieux pays. Pas de la ville, peut-être ; mais d'ici,
 se voit à ton ossature. » Il avait dit cela comme on dit une chose sans importance, et il était
 passé à la couche suivante.
 
-*De nulle part de bien,* avait dit la matrone ; *du sang d'ici,* disait le maître. Les deux parlaient
+« De nulle part de bien », avait dit la matrone ; « du sang d'ici », disait le maître. Les deux parlaient
 du même endroit, et ne disaient pas la même chose. L'un des deux mentait, ou bien tous les deux ; et la
 seule façon de savoir, c'était de descendre voir.
 

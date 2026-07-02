@@ -70,5 +70,9 @@ clin d'œil. Détail et dosage : [`regles-ecriture.md`](regles-ecriture.md) § s
 > retour**, **06c La halle de verre**, **06d L'archive**, **06e L'ordre**. *(Bloc descente-2 — l'arc des
 > corpus : vaporwave → SCP → kafka — complet.)* **07b–07h** (Ceux qui savaient · Le premier bruit · Le réduit ·
 > La main absente · Les signaux · La prophétie · Le nom). **✅ Les 11 chapitres-événements neufs (ordre
-> d'écriture 07→18) sont écrits.** Reste : **threader les ancres (Les crânes 11 ; Gisement/remontée/surface/
-> clore 19-22) + renumérotation propre 01→22** (passe finale).
+> d'écriture 07→18) sont écrits.** **✅ Relecture intégrale 22 ch. + passe correctrice appliquée** (chiasmes,
+> refrains, italiques, gloses, horloge, coutures mécaniques 07/08/09/10 — détail :
+> [`canon.md`](canon.md) § passe correctrice). Reste : **threading de prose neuve (Sorn dans les ancres,
+> salves en 08, réduit/est au retour — carte :
+> [`../plan-ecriture/threading-ancres.md`](../plan-ecriture/threading-ancres.md)) + renumérotation propre
+> 01→22** (passe finale).

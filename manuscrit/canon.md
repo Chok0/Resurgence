@@ -710,3 +710,45 @@ atompunk, mais dense de traces (archéo). Voir [`../univers/README.md`](../unive
 - **Invariants à ne JAMAIS casser** : ville **jamais nommée** ; **aucun monstre montré** ; vérités d'auteur
   **tues** ; Tanya **non fiable** ; tech présente / Histoire absente ; folklore = propagande ; **la fin
   (ch.7) verrouillée**.
+
+## ⚑ Relecture intégrale 22 ch. — passe correctrice appliquée *(juillet)*
+> 6 relectures parallèles (ouverture · descente · threads ×2 · ancres+threading · continuité vs canon).
+> **Corrections descendues dans la prose** ; le chantier restant est cartographié dans
+> [`../plan-ecriture/threading-ancres.md`](../plan-ecriture/threading-ancres.md).
+
+- **Horloge (récidive du compteur gelé, corrigée)** : 08 et 09 disaient encore « vingt jours » alors que
+  la densification ajoute ~une semaine et plus après 07c (« vingt jours plus tôt », ~j.20). **Fix** :
+  « près d'un mois » en 08/09. **Calendrier étendu retenu** : ossuaire/2ᵉ retour ≈ j.20 → réduit/signaux/3ᵉ
+  retour ≈ j.22-26 → Gisement ≈ j.28-30 → surface/clore ≈ j.32-35.
+- **Coutures d'ancres appliquées** : **07** — le relevé se met *en file pour la remontée* (la liaison ne
+  porte pas en bas, cf. 06b) ; chute réécrite : *demain on remonte souffler* (→ 07b), puis le Gisement.
+  **08** — plus de « deux jours » ni de redécouverte de la porte (franchie en 07h) : ouverture *dedans* ;
+  l'ordre en vigueur est **« clore »** (07g) ; « première fois qu'il désobéissait » retiré (07f l'a
+  devancé) ; la lecture de Tanya renvoie à ce qu'elle a *déjà vu faire* (cacophonie 07b, prophétie 07g).
+  **09** — Iov distingue **cadence ≠ salves** (raccord 07f) ; doute rendu **triple** (pompe / bête / hommes).
+  **10** — les redites converties en **rappels/escalades** : liaison de Drev (« ne se cachait même plus »),
+  *ramener→clore* (« cette fois non plus… »), dénonciation fondatrice réduite à une allusion (07h l'a
+  déployée) ; « Personne ne l'avait faite ; elle s'était faite » (formule bannie g19) **coupé**.
+  **07b** — anachronisme « la cadence à venir » retiré de la liste de l'unité. **07e/10/11** — « plus dormi
+  depuis **l'ossuaire** » harmonisé.
+- **Refrains ramenés au quota (g21)** : « la dispute des morts » **×2** (09 remontée, 11 inventaire final) ;
+  « l'unité contre l'étoile / place du cœur » → **pivot unique** en 11:46 (ailleurs : « sous la
+  combinaison », « contre elle », « la vraie dessous ») ; « la porte que les premiers avaient forcée » **×2**
+  (07e pose, 07h franchissement) ; « presque encore la sienne/leur » ×3 (06 première, 06b borne, 07
+  campement) ; « Sa main l'avait fait avant elle » — occurrence unique (06) ; doublons descriptifs ch.1↔ch.4
+  et ch.2§1↔ch.1§3 résorbés (ch.4 §2 réécrit au blanc de midi).
+- **Style (garde-fous)** : ~35 chiasmes « pas X, c'était Y » cassés (pivots sanctuarisés : 06:136, 06d:47/70,
+  07:24, 07b « Pas l'homme : le nom », 07c « comme s'arrête une horloge », 07d « non forcée : ouverte de
+  l'intérieur », 07e « Elle avait porté l'instrument », 07f « il était là depuis le départ », 07g « Ce qui
+  aurait dû l'accuser le couronnait », 07h « instrument/volontaire », 08 « pas un trésor. C'était une
+  dispute », 10 « justes/coupables ») ; formule bannie « quelque chose qu'elle ne datait/nota pas » **éliminée**
+  (ch.1, ch.4) ; vérités d'auteur coupées (croix décodée 06, peur/couloirs 06, thèse vaporwave 06c, « Vous
+  étiez ici » 07d, « Le même rêve. Le même outil. » 07d, glose du tri 07e, glose du triomphe 07g) ; **gras
+  d'emphase supprimé** (07b, 08) ; **italique re-réservé au monde mort** — les verbatims de Polaris (« vite »,
+  « expurgé », « clore »/« ramener », notes des premiers, index de Tanya, « Défaillance d'antenne »,
+  « État des hommes : conforme ») passés en guillemets ; 2ᵉ définition lyrique du métier coupée (ch.5, g4) ;
+  soupape « bête » réinjectée (rats 06 §2 ; « une bête sur un vieux contact » 06b ; « bête au pas égal » 09).
+- **Décisions actées** : « **Pompéi** » = exception unique du garde-fou 14 (le maître d'études, lettré aux
+  mots interdits — consignée dans regles-ecriture.md) ; « rame » → « file de voitures de fer » (06,
+  étrangement tenu) ; « firent le mauvais œil » → « firent le geste contre » (ch.4, contresens) ;
+  « il ne l'avait jamais eu le droit d'écouter » → corrigé (07f) ; « sur une fois de plus » → corrigé (06e).

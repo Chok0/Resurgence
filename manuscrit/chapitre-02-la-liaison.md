@@ -24,8 +24,7 @@ l'attente du soir.
 Car le soir, on écoutait. Sous le mât, Iov ouvrait le poste, et le secteur entrait dans la tente. Tanya
 avait pris l'habitude de s'asseoir près de lui, sur le caisson retourné, et d'écouter sans rien dire les
 voix qu'elle connaissait à présent — ceux de l'est et leurs jurons, la petite équipe du sud avec ses oui
-et ses non, les racleurs par bouffées. On vivait par le fil ; on ne voyait jamais au bout. Elle aurait
-pourtant su dire, à la seule voix, lequel ce soir-là avait peur et lequel mentait à demi.
+et ses non, les racleurs par bouffées.
 
 La quatrième nuit, ou la cinquième, il vint sur le fil une chose que le fil n'avait pas prévue. Iov
 tournait le curseur, à la pêche entre deux relevés, et le grésil montait et descendait sous ses doigts.
@@ -53,8 +52,7 @@ Les premiers, eux, parlaient de moins en moins, et descendaient de plus en plus.
 enfoncement à deux nombres, toutes les six heures : la profondeur, le tonnage. Chaque relevé les mettait
 plus bas que le précédent, plus bas qu'aucune équipe n'allait d'ordinaire — droit, vite, sûrs de leur
 fil, comme s'ils savaient déjà où ils allaient. Et chaque relevé finissait, pour Iov, sur le même salut
-d'un trou à l'autre : « tiens le fil ». Tanya avait fini par l'attendre, elle aussi, ce mot, sans bien
-savoir pourquoi.
+d'un trou à l'autre : « tiens le fil ».
 
 Puis, un soir, ils parlèrent. La voix monta du fil au milieu du brouhaha des autres équipes, et le
 brouhaha tomba — tout le secteur se tut d'un coup pour l'entendre, comme on se tait dans une salle quand
@@ -76,11 +74,9 @@ faim.
 
 Tanya, près du poste, avait cessé de respirer. Elle voyait la salle sans la voir ; elle l'avait vue cent
 fois en plus petit — un disque sauvé, une image recollée, trois mots au dos d'une photographie. Mais un
-siècle debout, qui avait gardé sa voix tout entière... Toute sa vie elle avait ramassé des éclats dans le
-noir, et on venait de lui dire qu'il existait, à un jour de marche et des jours sous la pierre, un monde
-resté entier. Elle s'entendit envier des hommes qu'elle ne connaissait pas : non les morts de la salle,
-les vivants qui la tenaient — ces six-là qui poseraient les mains les premiers sur ce qu'elle aurait,
-elle, traversé le feu pour toucher.
+siècle debout, qui avait gardé sa voix tout entière... Elle s'entendit envier des hommes qu'elle ne
+connaissait pas — les six vivants qui poseraient les mains les premiers sur ce qu'elle aurait, elle,
+traversé le feu pour toucher.
 
 Le chef, en bas, riait à demi. Il oublia un moment ses nombres ; il dit à Iov de tenir une oreille de
 leur côté, qu'on remonterait de quoi faire pâlir tous les recueils des dômes ; et il signa, « tiens le

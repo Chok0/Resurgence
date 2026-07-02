@@ -11,8 +11,8 @@
 
 ### 1 — Les portes numérotées
 
-Sous la halle, le froid changea de nature. Ce n'était plus l'humidité des galeries, le froid des choses qui
-se conservent ; c'était plus sec, plus dur, et il montait du sol au lieu de tomber des voûtes. On descendait
+Sous la halle, le froid changea de nature : plus sec, plus dur, montant du sol au lieu de tomber des
+voûtes. On descendait
 vers la couche que les premiers avaient appelée la Source, là où nul d'en haut ne portait plus, et l'air,
 à chaque palier, se faisait plus immobile.
 
@@ -46,7 +46,7 @@ On relève d'abord, on touche après ; elle ne releva rien. Elle réveilla l'arc
 
 Ce que l'archive gardait n'était pas de la mémoire de gens, comme aux Salles — pas de visages, pas de fêtes,
 pas de filles du bureau un dernier vendredi. C'était un registre. Page après page, dans une langue plate,
-froide, administrative, presque la sienne, les anciens y avaient consigné des choses à tenir enfermées.
+froide, administrative, les anciens y avaient consigné des choses à tenir enfermées.
 
 Chaque chose portait un numéro — le même genre de numéro qu'aux portes —, une classe, et des consignes.
 Comment la garder. Ce qu'il ne fallait pas faire devant elle. *ne pas la regarder directement. ne pas
@@ -91,18 +91,18 @@ Drev y porta sa lampe — franchement, dessus. Il n'y eut plus qu'un montant de 
 place depuis cent ans. *On n'avance pas tant qu'on le regarde,* disait le registre. Ils regardèrent ; cela
 ne bougea pas. Et cela ne prouvait rien, ni dans un sens ni dans l'autre — une chose qui ne bouge pas quand
 on la fixe est une chose immobile, ou une chose patiente, et l'archive venait justement de leur ôter le
-moyen de savoir laquelle. La soupape était là, pourtant, à portée : les bêtes, les ombres que la lampe fait
-et défait, un homme qui n'a pas dormi. Tanya s'y tint. Elle savait d'où sortait ce Long — du registre, pas
+moyen de savoir laquelle. Il y avait de quoi se rassurer, à portée de main : les bêtes, les ombres que la
+lampe fait et défait, un homme qui n'a pas dormi. Tanya s'y tint. Elle savait d'où sortait ce Long — du registre, pas
 du noir ; on le lui avait planté dans la tête une page plus tôt, et le couloir n'avait fait que le lever. Elle
 le savait. Et le sachant, elle compta tout de même les siens — sept —, et n'aima pas s'être vue le faire.
 
 Sorn, lui, n'avait pas levé sa lampe vers le bout du couloir. Il était resté près de la station, et il
-regardait l'écran par-dessus l'épaule vide de Tanya — le registre des choses à contenir, les numéros, les
-barres noires. Sur son visage long, il n'y avait pas de peur. Il y avait l'attention paisible de quelqu'un
+regardait l'écran par-dessus l'épaule de Tanya — le registre des choses à contenir, les numéros, les
+barres noires. Sur son visage long, il y avait l'attention paisible de quelqu'un
 qui retrouve un livre qu'il connaît déjà, et qui vérifie seulement qu'il est bien le même.
 
 Au dernier battant, avant que le couloir ne rende au boyau et le boyau au froid, il y avait une croix de
 craie, sèche, vite tirée, et sous elle la flèche vers le bas. Les premiers avaient lu ici, eux aussi, et ils
 étaient descendus quand même. On les suivit. Mais à partir de cette porte, et sans que nul l'eût décidé,
-chacun, de loin en loin, jetait un œil derrière soi — non qu'il y eût rien à voir ; parce qu'il y avait
+chacun, de loin en loin, jetait un œil derrière soi, parce qu'il y avait
 maintenant, dans chaque dos, une consigne qui disait de ne pas le tourner.

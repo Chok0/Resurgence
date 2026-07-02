@@ -8,24 +8,22 @@
 ### 1 — Le fil
 
 Les premiers étaient passés par là, et on les suivait à la trace. Des croix de craie sur la pierre, aux
-embranchements, là où le recyclage n'avait rien tracé. Une équipe qui sait où elle va ne marque pas son
-chemin ; une équipe qui a peur de ne pas revenir, si. Iov les photographiait toutes, sans un mot, et son
-silence valait un commentaire.
+embranchements, là où le recyclage n'avait rien tracé. Iov les photographiait toutes, sans un mot.
 
 L'escalier s'enfonçait par paliers dans une nuit qui n'avait pas connu le jour depuis un siècle. On
 descendait à la file, la lampe de Vael devant, le fil se dévidant derrière, et chaque palier mangeait un
 peu plus le souvenir du dehors. Le sable cessa vite. Sous les semelles, le carrelage fendu, puis la boue
 durcie, puis quelque chose de mou qu'il valait mieux ne pas regarder ni nommer. L'air s'épaissit, devint
-immobile, et prit ce froid qui ne venait pas du ciel mais du fond, qui montait à la rencontre des
+immobile, et prit ce froid du fond, qui montait à la rencontre des
 vivants. La fournaise du dessus devint un souvenir, puis une rumeur dans le dos, puis rien.
 
 Tanya connaissait ce froid : celui qui garde les choses. C'était lui qui faisait de ces galeries un
 trésor — cette humidité fraîche et constante qui tenait le monde d'avant comme le verre du Sanctuaire
 tenait l'Architecte. En bas, rien n'avait bougé depuis le dernier jour ; et c'était cela qui serrait le
-ventre — non la peur des contes, mais l'idée que tout était resté là, intact, à attendre qu'on vienne.
+ventre — l'idée que tout était resté là, intact, à attendre qu'on vienne.
 
 Le boyau s'élargit. La lampe trouva un guichet effondré, une rangée de tourniquets mangés de rouille,
-et, plus loin, le long d'un quai, une rame arrêtée pour toujours, les portes ouvertes sur rien,
+et, plus loin, le long d'un quai, une file de voitures de fer arrêtée pour toujours, les portes ouvertes sur rien,
 l'intérieur plein d'un noir que le faisceau n'entamait pas. Tanya reconnut la fonction sans en savoir le
 mot : un lieu de passage, où le peuple d'avant s'était entassé pour aller d'un point à un autre,
 par-dessous, à toute heure. On n'allait plus nulle part, ici. Les chevaliers serrèrent les rangs sans
@@ -50,7 +48,8 @@ Des cloisons à mi-hauteur, grises, découpaient des centaines d'alvéoles ident
 même siège, le même écran mort, répétés jusqu'où la lampe se perdait. Pas une fenêtre. Pas un angle qui
 ne ressemblât à dix autres. On faisait trois pas, et l'on ne savait déjà plus d'où l'on venait — le
 regard glissait sur le pareil, sans rien où s'accrocher. Au sol, une moquette rase que la poussière
-avait grisée ; au plafond, des rangées de tubes éteints qui, autrefois, avaient dû brûler sans nuit ni
+avait grisée, trouée de sentes de rats, leurs crottes en chapelets le long des cloisons ; au plafond,
+des rangées de tubes éteints qui, autrefois, avaient dû brûler sans nuit ni
 jour. Des tasses encore debout sur les tablettes, une croûte sombre au fond. Des plantes réduites à des
 squelettes dans leurs pots. Tanya lut la salle d'un regard : des alvéoles calculées au plus juste pour
 un corps assis, sans porte, sans serrure — on n'avait pas logé là des gens, mais des fonctions.
@@ -59,8 +58,8 @@ Les chevaliers, eux, n'eurent pas besoin de la lire. Ils la reconnurent.
 
 Vael s'arrêta au seuil et recula d'un pas. « Une Salle de l'Oubli », dit-il — un nom qu'on prononce pour
 s'en protéger. Aucun chevalier ne franchit la porte. Même Drev, qui n'avait peur de rien de vivant,
-resta dehors, l'arme en travers, à fouiller du regard les allées où la lampe n'allait pas — non comme un
-homme qui surveille, mais comme un homme qui guette. C'était de ces lieux que parlait la leçon : les
+resta dehors, l'arme en travers, à fouiller du regard les allées où la lampe n'allait pas, en homme
+qui guette. C'était de ces lieux que parlait la leçon : les
 chambres sans dieu où les anciens avaient usé leurs jours dans la répétition, et où ceux qui s'y étaient
 perdus tournaient encore, faute d'avoir jamais su trouver la sortie. On n'y disait pas son nom tout
 haut.
@@ -71,21 +70,19 @@ es allé trop loin. compte les portes. ne réponds pas à celui qui connaît ton
 encre, une autre main : *il n'y a pas de portes.*
 
 Tanya resta devant les mots plus longtemps qu'il n'aurait fallu. Une blague, sûrement ; les anciens en
-faisaient, de ces histoires pour se glacer le sang dans le noir — elle en avait déjà remonté, des bêtes
+faisaient, de ces histoires à se faire des frayeurs dans le noir — elle en avait déjà remonté, des bêtes
 griffonnées et des démons pour rire. Mais Vael, derrière elle, récitait tout bas la formule du seuil ;
 Drev avait reculé encore ; et de les voir reculer, eux, ces hommes qui pesaient deux fois son poids, ça
 lui passa dans le dos quelque chose qu'elle ne se serait pas avoué. À un siècle de distance, les mots de
-la cloison et la leçon des dômes disaient presque la même chose. Nul, à Polaris, n'aurait su dire si
-c'était parce que la chose était vraie — ou parce que la peur, de tout temps, creuse les mêmes couloirs
-et invente les mêmes portes.
+la cloison et la leçon des dômes disaient presque la même chose.
 
 Plus loin, sur une tablette, un petit dieu attendait : une figurine dorée, un animal assis, la patte
 levée dans un salut que cent ans n'avaient pas fait retomber.
 
 « Un dieu », dit Drev depuis le seuil, sans entrer.
 
-Tanya le photographia, releva sa place, le rangea. *Idole domestique.* Le petit animal d'or saluait le
-vide de sa patte, et c'était presque drôle, et personne ne rit.
+Tanya le photographia, releva sa place, le rangea. « Idole domestique. » Le petit animal d'or saluait le
+vide de sa patte. Personne ne rit.
 
 Les premiers étaient passés là sans craindre d'entrer : la poussière était brouillée dans une allée, des
 écrans descellés proprement, par des gens du métier. Sur une tablette, ils avaient laissé un caisson de
@@ -103,7 +100,7 @@ manger les contacts. C'était, de tout son métier, la seule chose que Tanya sav
 Le troisième jour, un disque parla. Sur l'écran de lecture, au milieu d'un fouillis gris qui se défit
 peu à peu, une image se reconstitua, ligne après ligne : des gens serrés autour d'une table, un petit
 gâteau, des bougies qu'on n'allumerait plus, des bouches ouvertes sur un rire ou une chanson qu'aucun
-son ne portait. Au dos, trois mots dans une langue presque encore la sienne — *les filles du bureau,
+son ne portait. Au dos, trois mots dans la langue d'avant — *les filles du bureau,
 dernier vendredi avant.* Avant quoi, le fichier ne disait pas.
 
 Tanya data le fichier, le classa, l'indexa pour Polaris. Et puis, sans y penser, comme on glisse une
@@ -126,13 +123,13 @@ pour le disque suivant, et elle rabattit l'écran, et alla.
 > Passage de l'équipe de tête confirmé sur site. **Équipe de tête : silence maintenu (quinzième jour).**
 > Cause présumée : défaillance d'antenne en profondeur. Progression vers le Gisement conforme aux ordres.
 
-Tanya relut avant l'envoi. Tout y était exact, et elle avait signé chaque relevé. *Défaillance
-d'antenne.* Elle pensa au caisson daté de la veille du silence, et ne dit rien.
+Tanya relut avant l'envoi. Tout y était exact, et elle avait signé chaque relevé. « Défaillance
+d'antenne. » Elle pensa au caisson daté de la veille du silence, et ne dit rien.
 
 Ce jour-là aussi, par la liaison, redescendit des dômes le classement d'un lot qu'elle avait fait monter
 l'avant-veille — visé, validé, rangé dans l'ordre du culte. Elle le parcourut par habitude. Trois pièces
 sur dix n'y étaient plus ; une quatrième portait, sous sa cote à elle, une conclusion qu'elle n'avait pas
-écrite. En marge, la mention d'usage : *expurgé.* Pas faux, pas raturé : autre. Comme si une main,
+écrite. En marge, la mention d'usage : « expurgé ». Pas faux, pas raturé : autre. Comme si une main,
 là-haut, avait relu le monde après elle et l'avait remis droit.
 
 Elle resta dessus un moment. Puis elle se dit ce qu'on se disait — les relais, la distance, le tri qu'il

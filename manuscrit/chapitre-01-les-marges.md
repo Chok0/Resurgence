@@ -15,7 +15,7 @@ immobiles comme des statues qu'on aurait assises et harnachées. Ostrov comptait
 lèvres, qui remuaient sans bruit, une tête après l'autre, à tous les seuils.
 
 Le voyant passa au vert. La porte ne s'ouvrit pas d'un coup — elle se décolla d'abord, dans un soupir de
-joints, et par la fente la chaleur entra. Pas une bouffée : une masse, qui chassa l'air froid des dômes
+joints, et par la fente la chaleur entra : une masse, qui chassa l'air froid des dômes
 au fond du caisson et prit sa place. Elle avait une odeur, de pierre cuite et de métal chaud, quelque
 chose de minéral qui n'était dans aucun relevé. Tanya l'eut au fond de la gorge avant de l'avoir sur la
 peau. Puis le panneau acheva sa course, et le dehors fut là, en grand.
@@ -28,14 +28,14 @@ cote, une promesse de travail. Ici, ça pesait. Ça avait un corps, et le corps 
 Ils descendirent un par un, la rampe étant étroite et les combinaisons larges. Les chevaliers d'abord —
 c'était l'ordre, et nul ne l'avait jamais énoncé : ils posèrent leurs bottes sur la terre maudite avec,
 chacun, le petit geste sec de la main contre la poitrine, à l'endroit de l'étoile. Les scientifiques
-ensuite. Tanya posa le pied et sentit le sol à travers la semelle — non du sable, pas encore, mais une
+ensuite. Tanya posa le pied et sentit le sol à travers la semelle — une
 croûte dure et craquelée qui sonnait creux, comme si dessous il n'y avait jamais que d'autres dessous. La
 sueur lui courait déjà dans le dos, sous la combinaison qu'elle ne pourrait pas ouvrir avant la nuit.
 
 Elle releva les yeux. Et la ville était là.
 
-Elle n'avait pas de bord — c'était la première chose, celle qu'aucun relevé n'avait dite : pas une ruine
-qu'on encercle, mais une étendue de rues mortes qui partait de sous leurs pieds et courait, de toit crevé
+Elle n'avait pas de bord — c'était la première chose, celle qu'aucun relevé n'avait dite : une étendue
+de rues mortes qui partait de sous leurs pieds et courait, de toit crevé
 en toit debout, jusqu'au tremblé de chaleur où la terre et le ciel se rejoignaient. De près, le détail
 revenait : des maisons basses aux fenêtres vides ; des pans de mur percés de portes qui battaient au vent
 chaud sur des pièces où il n'y avait plus rien à fermer ; des ruches de pierre grise, vidées, ouvertes au
@@ -79,7 +79,7 @@ ressortit les combinaisons pour le premier relevé.
 
 Elles sortaient des caissons par rang, et le rang n'était écrit nulle part : d'abord les lourdes, celles
 des chevaliers, frappées de l'étoile au cœur ; puis les souples, celles des savants, hérissées de poches
-et d'instruments. Personne ne l'avait décidé. C'était dans les choses, comme le reste.
+et d'instruments.
 
 Nieve vint fermer le joint d'épaule de Tanya sans le lui demander. Elles s'étaient choisies trois missions
 plus tôt, dans une galerie où tout avait failli mal finir, et depuis elles se fermaient l'une l'autre
@@ -95,8 +95,8 @@ Tanya leva les bras, les laissa retomber. La combinaison tenait, lourde et juste
 sentait le caoutchouc et le désinfectant. De l'autre côté de la tente, par le rabat, les chevaliers
 s'armaient.
 
-C'était un autre monde, à trois pas. Leurs combinaisons n'étaient pas comme les leurs : plus hautes d'une
-tête, doublées de plaques sombres aux épaules et aux avant-bras, le heaume soudé d'une visière étroite qui
+C'était un autre monde, à trois pas. Les combinaisons des chevaliers n'étaient pas comme les leurs : plus
+hautes d'une tête, doublées de plaques sombres aux épaules et aux avant-bras, le heaume soudé d'une visière étroite qui
 ne laissait voir, une fois baissée, qu'une fente sans regard. Sur chaque poitrine, l'étoile de Polaris,
 gravée, usée au pouce à force d'être touchée avant les seuils. Ils portaient l'arme en travers du dos — un
 long fût noir à crosse, qu'on ne montrait pas de trop près aux savants — et la vérifiaient avec le soin
@@ -118,8 +118,7 @@ rien, là-dessous, n'apprît jamais le sien.
 Tanya avait rangé cette peur depuis longtemps, dans la colonne des contes qu'on fait aux enfants pour
 qu'ils ne lâchent pas le fil. Elle n'y croyait pas. Mais elle avait vu des chevaliers — des hommes qui
 pesaient deux fois son poids, le fût noir au dos — refuser une galerie parce que la lampe y avait fait une
-ombre de trop ; et de voir ces hommes-là avoir peur, ça lui faisait dans le ventre quelque chose qu'elle
-ne datait pas.
+ombre de trop.
 
 ### 3 — La liaison
 
